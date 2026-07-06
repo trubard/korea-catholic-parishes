@@ -62,6 +62,21 @@ def split_detail(raw: str) -> dict:
     return {"base": text or None, "detail": None, "legal_dong": legal_dong}
 
 
+# 정규 도로명주소 끝의 '(법정동)' 을 제거하기 위한 패턴
+_TRAIL_PAREN_RE = re.compile(r"\s*\([^)]*\)\s*$")
+
+
+def compose_address(road_address, address_detail, fallback=None):
+    """정규 도로명주소(법정동 괄호 제거) + ', ' + 상세 로 표시용 주소를 만든다.
+
+    지오코딩이 안 된 경우(road_address 없음) fallback(원본 주소)을 그대로 쓴다.
+    """
+    if road_address:
+        base = _TRAIL_PAREN_RE.sub("", road_address).strip()
+        return f"{base}, {address_detail}" if address_detail else base
+    return fallback
+
+
 # ---------------------------------------------------------------- VWorld
 
 

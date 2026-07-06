@@ -59,7 +59,7 @@ churches = requests.get(url).json()["churches"]
 | `region` | string\|null | 지역 |
 | `district` | string\|null | 지구 |
 | `postal_code` | string\|null | 우편번호 |
-| `address` | string\|null | 대표주소(원본) |
+| `address` | string\|null | 표시용 주소 = 정규 도로명주소 + 상세(층·호 등). 지오코딩 미매칭 시 원본 주소 |
 | `phone` | string\|null | 대표 전화번호 |
 | `fax` | string\|null | 팩스번호 |
 | `pastor` | string\|null | 주임신부 |

@@ -278,9 +278,13 @@ def normalize_addresses(session: requests.Session, churches: list[dict]) -> str:
     counts = {"matched": 0, "refined_only": 0, "failed": 0, "skipped": 0,
               "no_address": 0}
     for i, c in enumerate(churches, 1):
-        result = norm.normalize(c.get("address"), client, cache)
+        original = c.get("address")
+        result = norm.normalize(original, client, cache)
         for f in NORM_FIELDS:
             c[f] = result.get(f)
+        # 표시용 address: 정규 도로명주소(법정동 제거) + ', ' + 상세 (실패 시 원본 유지)
+        c["address"] = norm.compose_address(
+            result.get("road_address"), result.get("address_detail"), original)
         counts[result.get("geocode_status", "skipped")] = \
             counts.get(result.get("geocode_status", "skipped"), 0) + 1
         if client and i % 200 == 0:
