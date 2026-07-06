@@ -52,9 +52,7 @@ ENV_PATH = os.path.join(ROOT, ".env")
 
 # 정규화로 각 성당에 추가되는 필드
 NORM_FIELDS = (
-    "road_address", "address_detail", "legal_dong",
-    "sido", "sigungu", "admin_dong", "admin_dong_code", "road_name", "building_no",
-    "lat", "lng", "geocode_status",
+    "road_address", "address_detail", "lat", "lng", "geocode_status",
 )
 
 
@@ -213,7 +211,7 @@ def parse_church(session: requests.Session, item: dict) -> dict:
 
     postal, address = split_address(f.get("대표주소", ""))
     region, district = split_region_district(f.get("지역/지구", ""))
-    pastor_ko, pastor_en = split_pastor(f.get("주임신부", ""))
+    pastor_ko, _pastor_en = split_pastor(f.get("주임신부", ""))
     established_raw = clean_established(f.get("설립일", ""))
 
     return {
@@ -228,8 +226,6 @@ def parse_church(session: requests.Session, item: dict) -> dict:
         "phone": f.get("대표 전화 번호") or None,
         "fax": f.get("팩스번호") or None,
         "pastor": pastor_ko,
-        "pastor_en": pastor_en,
-        "established": established_raw,
         "established_date": to_iso_date(established_raw or ""),
         "patron": f.get("주보") or None,
         "believers": to_int(f.get("신자수", "")),

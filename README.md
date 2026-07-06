@@ -62,9 +62,7 @@ churches = requests.get(url).json()["churches"]
 | `address` | string\|null | 대표주소(원본) |
 | `phone` | string\|null | 대표 전화번호 |
 | `fax` | string\|null | 팩스번호 |
-| `pastor` | string\|null | 주임신부(한글) |
-| `pastor_en` | string\|null | 주임신부(영문) |
-| `established` | string\|null | 설립일(원문, 예 `2005.1.20`) |
+| `pastor` | string\|null | 주임신부 |
 | `established_date` | string\|null | 설립일(ISO, 예 `2005-01-20`) |
 | `patron` | string\|null | 주보 |
 | `believers` | int\|null | 신자수 |
@@ -77,10 +75,6 @@ churches = requests.get(url).json()["churches"]
 |----|------|------|
 | `road_address` | string\|null | 정규 도로명주소 |
 | `address_detail` | string\|null | 층·호·사서함 등 상세 |
-| `sido` / `sigungu` | string\|null | 시도 / 시군구 |
-| `legal_dong` | string\|null | 법정동 |
-| `admin_dong` / `admin_dong_code` | string\|null | 행정동 / 행정동코드 |
-| `road_name` / `building_no` | string\|null | 도로명 / 건물번호 |
 | `lat` / `lng` | float\|null | 위도 / 경도 (WGS84) |
 | `geocode_status` | string | `matched`(좌표 확보) / `refined_only` / `failed` / `skipped` |
 
