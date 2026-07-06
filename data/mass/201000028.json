@@ -1,0 +1,2259 @@
+{
+  "generated_at": "2026-07-06T18:56:42+00:00",
+  "diocese": "제주교구",
+  "diocese_id": "201000028",
+  "count": 31,
+  "masses": [
+    {
+      "parish_name": "주교좌 중앙",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "교중 대성전"
+          },
+          {
+            "time": "11:00",
+            "note": "어린이 자비의 경당"
+          },
+          {
+            "time": "18:00",
+            "note": "청년, 학생"
+          },
+          {
+            "time": "21:00",
+            "note": "자비의 경당"
+          }
+        ],
+        "special": [],
+        "raw": "주교좌 중앙 | 06:30 10:00 | 06:30 19:30 | 06:30 19:30 | 06:30 10:00 | 06:30 19:30 | 06:30 19:30 | 06:30 09:00 11:00 교중 대성전 11:00 어린이 자비의 경당 18:00 청년, 학생 21:00 자비의 경당"
+      },
+      "church_id": "201001473",
+      "match_method": "name_stripped"
+    },
+    {
+      "parish_name": "노형 삼위일체",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "06:30",
+            "note": "첫째 주"
+          },
+          {
+            "time": "16:00",
+            "note": "어린이"
+          },
+          {
+            "time": "19:30",
+            "note": "청소년"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "교중"
+          },
+          {
+            "time": "18:30",
+            "note": "청년"
+          },
+          {
+            "time": "21:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "노형 삼위일체 | 06:30 | 06:30 19:30 | 06:30 19:30 | 06:30 10:00 | 06:30 19:30 | 06:30 첫째 주 16:00 어린이 19:30 청소년 | 06:30 09:00 11:00 교중 18:30 청년 21:00"
+      },
+      "church_id": "201001479",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "서문 추자공소 길찾기",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "11:00",
+              "note": "추자공소"
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            },
+            {
+              "time": "11:00",
+              "note": "추자공소"
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": "추자공소"
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "11:00",
+              "note": "추자공소"
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": "추자공소"
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": "어린이,청소년,장년,가족"
+          },
+          {
+            "time": "11:00",
+            "note": "추자공소"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:30",
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": "교중"
+          },
+          {
+            "time": "19:30",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "추자공소"
+          }
+        ],
+        "special": [],
+        "raw": "서문 추자공소 길찾기 | 06:30 11:00 추자공소 | 19:30 11:00 추자공소 | 19:30 19:00 추자공소 | 10:00 11:00 추자공소 | 19:30 19:00 추자공소 | 18:00 어린이,청소년,장년,가족 11:00 추자공소 | 07:30 10:00 교중 19:30 11:00 추자공소"
+      },
+      "church_id": "201001485",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "신제주",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": "첫째 주"
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "06:30",
+            "note": "첫째 주"
+          },
+          {
+            "time": "16:00",
+            "note": "어린이,가족"
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": "학생"
+          },
+          {
+            "time": "11:00",
+            "note": "교중"
+          },
+          {
+            "time": "18:00",
+            "note": "청년"
+          }
+        ],
+        "special": [],
+        "raw": "신제주 | 06:30 | 10:00 19:30 | 10:00 19:30 | 10:00 19:30 첫째 주 | 10:00 19:30 | 06:30 첫째 주 16:00 어린이,가족 19:30 | 06:30 09:00 학생 11:00 교중 18:00 청년"
+      },
+      "church_id": "201001487",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "연동",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": "첫째 주 제외"
+            },
+            {
+              "time": "19:30",
+              "note": "첫째 주"
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "교중"
+          },
+          {
+            "time": "18:00",
+            "note": "청소년"
+          }
+        ],
+        "special": [],
+        "raw": "연동 | 06:30 | 19:30 | 19:30 | 10:00 첫째 주 제외 19:30 첫째 주 | 19:30 | 19:30 | 09:00 11:00 교중 18:00 청소년"
+      },
+      "church_id": "201001489",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "외도 바다의 별",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": "청소년"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "교중"
+          },
+          {
+            "time": "16:00",
+            "note": "가족"
+          }
+        ],
+        "special": [],
+        "raw": "외도 바다의 별 | 06:30 | 19:30 | 10:00 | 10:00 | 19:30 | 19:00 청소년 | 07:00 10:30 교중 16:00 가족"
+      },
+      "church_id": "201001490",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "하귀",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": "청소년"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:30",
+            "note": "어린이"
+          },
+          {
+            "time": "11:00",
+            "note": "교중"
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하귀 | 06:30 | 19:30 | 19:30 | 10:00 | 19:30 | 19:30 청소년 | 09:30 어린이 11:00 교중 19:30"
+      },
+      "church_id": "201001494",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "광양 착한목자",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "06:30",
+            "note": "첫째 주"
+          },
+          {
+            "time": "15:30",
+            "note": "가족"
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "교중"
+          },
+          {
+            "time": "18:30",
+            "note": "청소년,청년"
+          }
+        ],
+        "special": [],
+        "raw": "광양 착한목자 | 06:30 | 10:00 19:30 | 10:00 19:30 | 10:00 | 10:00 19:30 | 06:30 첫째 주 15:30 가족 19:30 | 06:30 09:00 11:00 교중 18:30 청소년,청년"
+      },
+      "church_id": "201001475",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "김기량",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": "성시간 첫째 주"
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": "어린이"
+          },
+          {
+            "time": "19:30",
+            "note": "중고등부"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "교중"
+          },
+          {
+            "time": "18:00",
+            "note": "청년"
+          }
+        ],
+        "special": [],
+        "raw": "김기량 | 06:30 | 06:30 19:30 | 06:30 19:30 | 06:30 10:00 19:30 성시간 첫째 주 | 06:30 19:30 | 06:30 16:00 어린이 19:30 중고등부 | 06:30 09:00 11:00 교중 18:00 청년"
+      },
+      "church_id": "201007045",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "김녕 성가정",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": "첫째 주"
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "교중"
+          }
+        ],
+        "special": [],
+        "raw": "김녕 성가정 | 06:00 | 19:30 | 19:30 | 10:00 19:30 첫째 주 | 19:30 | 19:30 | 10:30 교중"
+      },
+      "church_id": "201001477",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "동광 성모성심",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": "어린이"
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": "가족"
+          },
+          {
+            "time": "11:00",
+            "note": "교중"
+          },
+          {
+            "time": "18:00",
+            "note": "청년"
+          }
+        ],
+        "special": [],
+        "raw": "동광  성모성심 | 06:30 | 06:30 19:30 | 06:30 19:30 | 06:30 10:00 | 06:30 19:30 | 06:30 16:00 어린이 19:30 | 06:30 09:00 가족 11:00 교중 18:00 청년"
+      },
+      "church_id": "201001480",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "동문",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": "교중,초중고"
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "동문 | 06:30 | 19:30 | 19:30 | 10:00 | 19:30 | 18:00 | 06:30 10:00 교중,초중고 18:00"
+      },
+      "church_id": "201001481",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "세화",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": "성시간 첫째 주"
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": "교중"
+          }
+        ],
+        "special": [],
+        "raw": "세화 | 06:30 | 19:30 | 19:30 | 10:00 | 19:30 성시간 첫째 주 | 19:30 | 09:00 교중"
+      },
+      "church_id": "201008533",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "조천",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": "첫째 주 제외"
+            },
+            {
+              "time": "19:30",
+              "note": "첫째 주"
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "교중"
+          },
+          {
+            "time": "16:00",
+            "note": "청소년"
+          }
+        ],
+        "special": [],
+        "raw": "조천 | 06:30 | 19:30 | 19:30 | 10:00 첫째 주 제외 19:30 첫째 주 | 19:30 | 19:30 | 06:30 10:30 교중 16:00 청소년"
+      },
+      "church_id": "201001491",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "화북",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": "첫째 주 제외"
+            },
+            {
+              "time": "19:30",
+              "note": "첫째 주"
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": "가정,어린이"
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "교중"
+          },
+          {
+            "time": "18:00",
+            "note": "중고등부, 청년"
+          }
+        ],
+        "special": [],
+        "raw": "화북 | 06:30 | 19:30 | 19:30 | 10:00 첫째 주 제외 19:30 첫째 주 | 19:30 | 16:00 가정,어린이 19:30 | 06:30 09:00 11:00 교중 18:00 중고등부, 청년"
+      },
+      "church_id": "201001496",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "고산 그리스도왕 청수공소 길찾기",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": "청수공소"
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:30",
+            "note": "주일학교 1학기 : 신창 2학기 : 고산"
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "교중"
+          },
+          {
+            "time": "08:30",
+            "note": "청수공소"
+          }
+        ],
+        "special": [],
+        "raw": "고산 그리스도왕 청수공소 길찾기 | 06:30 | 19:30 | 06:30 19:30 청수공소 | 06:30 | 19:30 | 16:30 주일학교 1학기 : 신창 2학기 : 고산 19:30 | 10:30 교중 08:30 청수공소"
+      },
+      "church_id": "201001474",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "금악 클라라",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "12:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "12:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": "교육관 첫째 주 제외"
+            }
+          ],
+          "thu": [
+            {
+              "time": "12:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": "첫째 주"
+            }
+          ],
+          "fri": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": "교육관"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "11:00",
+            "note": "교중"
+          }
+        ],
+        "special": [],
+        "raw": "금악 클라라 | 07:00 | 12:00 | 12:00 19:30 교육관 첫째 주 제외 | 12:00 19:30 첫째 주 | 07:00 | 07:00 18:00 교육관 | 11:00 교중"
+      },
+      "church_id": "201001476",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "모슬포",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": "첫째 주 제외"
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:30",
+            "note": "어린이"
+          },
+          {
+            "time": "18:30",
+            "note": "가족특전"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "교중"
+          },
+          {
+            "time": "19:30",
+            "note": "청소년"
+          }
+        ],
+        "special": [],
+        "raw": "모슬포 | 06:30 | 19:30 | 19:30 | 10:30 첫째 주 제외 | 19:30 | 15:30 어린이 18:30 가족특전 | 06:30 11:00 교중 19:30 청소년"
+      },
+      "church_id": "201001482",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "신창 조수공소 길찾기",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:30",
+            "note": "주일학교 1학기 : 신창 2학기 : 고산"
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "교중"
+          },
+          {
+            "time": "08:30",
+            "note": "조수공소"
+          }
+        ],
+        "special": [],
+        "raw": "신창 조수공소 길찾기 | 06:30 | 19:30 | 19:30 | 06:30 | 19:30 | 16:30 주일학교 1학기 : 신창 2학기 : 고산 19:30 | 10:00 교중 08:30 조수공소"
+      },
+      "church_id": "201001488",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "애월 소화데레사",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": "학생"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "교중"
+          }
+        ],
+        "special": [],
+        "raw": "애월 소화데레사 | 06:30 | 19:30 | 19:30 | 10:00 | 19:30 | 18:00 학생 | 10:30 교중"
+      },
+      "church_id": "201006007",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "한림",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": "첫째 주"
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "교중"
+          },
+          {
+            "time": "18:00",
+            "note": "가족미사"
+          }
+        ],
+        "special": [],
+        "raw": "한림 | 06:30 | 19:30 | 19:30 | 10:00 19:30 첫째 주 | 19:30 | 19:30 | 10:00 교중 18:00 가족미사"
+      },
+      "church_id": "201001495",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "화순",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": "어린이,청소년"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "교중"
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "화순 | 06:30 | 19:30 | 19:30 | 10:00 | 19:30 | 17:00 어린이,청소년 | 09:00 11:00 교중 19:30"
+      },
+      "church_id": "201008002",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "남원 자비의 예수",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "교중"
+          },
+          {
+            "time": "18:00",
+            "note": "학생"
+          }
+        ],
+        "special": [],
+        "raw": "남원  자비의 예수 | 06:30 | 19:30 | 19:30 | 10:00 | 19:30 | 19:30 | 10:00 교중 18:00 학생"
+      },
+      "church_id": "201001478",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "새서귀포 성 푸코 강정공소 길찾기",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "11:00",
+              "note": "강정공소 천막미사"
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            },
+            {
+              "time": "11:00",
+              "note": "강정공소 천막미사"
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:00",
+              "note": null
+            },
+            {
+              "time": "11:00",
+              "note": "강정공소 천막미사"
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "11:00",
+              "note": "강정공소 천막미사"
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            },
+            {
+              "time": "11:00",
+              "note": "강정공소 천막미사"
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": "청소년"
+          },
+          {
+            "time": "11:00",
+            "note": "강정공소 천막미사"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "교중"
+          },
+          {
+            "time": "16:00",
+            "note": "가족"
+          },
+          {
+            "time": "10:00",
+            "note": "강정 성프란치스코센터"
+          }
+        ],
+        "special": [],
+        "raw": "새서귀포  성 푸코 강정공소 길찾기 | 06:30 11:00 강정공소 천막미사 | 19:30 11:00 강정공소 천막미사 | 19:00 11:00 강정공소 천막미사 | 10:00 11:00 강정공소 천막미사 | 19:30 11:00 강정공소 천막미사 | 19:30 청소년 11:00 강정공소 천막미사 | 08:00 10:30 교중 16:00 가족 10:00 강정 성프란치스코센터"
+      },
+      "church_id": "201008534",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "서귀복자",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": "첫째 주 제외"
+            },
+            {
+              "time": "19:30",
+              "note": "첫째 주"
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": "청소년, 청년"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "교중"
+          },
+          {
+            "time": "16:00",
+            "note": "어린이, 가족"
+          },
+          {
+            "time": "20:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "서귀복자 | 06:30 | 19:30 | 19:30 | 10:00 첫째 주 제외 19:30 첫째 주 | 19:30 | 06:30 19:30 청소년, 청년 | 06:30 11:00 교중 16:00 어린이, 가족 20:00"
+      },
+      "church_id": "201001483",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "서귀포",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "첫째 주"
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "교중"
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "서귀포 | 06:30 | 19:30 | 19:30 | 10:00 | 19:30 | 10:00 첫째 주 18:00 | 06:30 10:30 교중 19:30"
+      },
+      "church_id": "201001484",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "성산포 예수 성심",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": "첫째 주 제외"
+            },
+            {
+              "time": "19:30",
+              "note": "첫째 주"
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "첫째 주"
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "교중"
+          },
+          {
+            "time": "16:00",
+            "note": "청소년"
+          }
+        ],
+        "special": [],
+        "raw": "성산포 예수 성심 | 06:30 | 19:30 | 19:30 | 10:00 첫째 주 제외 19:30 첫째 주 | 19:30 | 10:00 첫째 주 19:30 | 09:00 11:00 교중 16:00 청소년"
+      },
+      "church_id": "201001486",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "우도(준)",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": "(5-9월"
+          },
+          {
+            "time": "20:00",
+            "note": ")"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "우도(준) |  | 19:00 | 10:00 | 19:00 | 10:00 | 19:00 (5-9월 20:00) | 08:30"
+      },
+      "church_id": "201006015",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "중문",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": "청년"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "교중"
+          },
+          {
+            "time": "17:00",
+            "note": "어린이"
+          }
+        ],
+        "special": [],
+        "raw": "중문 | 10:00 | 19:30 | 19:30 | 10:00 | 19:30 | 19:30 청년 | 06:30 11:00 교중 17:00 어린이"
+      },
+      "church_id": "201001492",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "표선",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": "첫째 주 제외"
+            },
+            {
+              "time": "19:30",
+              "note": "첫째 주"
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "첫째 주"
+          },
+          {
+            "time": "16:00",
+            "note": "가족"
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "교중"
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "표선 | 06:30 | 19:30 | 19:30 | 10:00 첫째 주 제외 19:30 첫째 주 | 19:30 | 10:00 첫째 주 16:00 가족 19:30 | 10:30 교중 19:30"
+      },
+      "church_id": "201001493",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "효돈 위미공소 길찾기",
+      "diocese": "제주교구",
+      "phone": null,
+      "source_url": "https://www.diocesejeju.or.kr/mass_citywest",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": "위미공소"
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": "첫째 주"
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": "청소년"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "교중"
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "효돈 위미공소 길찾기 | 06:30 | 19:30 | 19:30 위미공소 | 10:00 19:30 첫째 주 | 19:30 | 18:00 청소년 | 10:00 교중 19:30"
+      },
+      "church_id": "201001497",
+      "match_method": "name_fuzzy"
+    }
+  ]
+}

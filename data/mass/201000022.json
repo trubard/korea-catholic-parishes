@@ -1,0 +1,7651 @@
+{
+  "generated_at": "2026-07-06T18:56:42+00:00",
+  "diocese": "부산교구",
+  "diocese_id": "201000022",
+  "count": 107,
+  "masses": [
+    {
+      "parish_name": "가야",
+      "diocese": "부산교구",
+      "phone": "051-891-9336",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/38",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "09:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 09:30, 19:30; 수 10:00, 19:30; 목 10:00, 19:30; 금 10:00; 토 10:00, 16:00, 18:00; 주일 06:30, 08:30, 10:30, 18:00"
+      },
+      "church_id": "201001362",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "개금",
+      "diocese": "부산교구",
+      "phone": "051-893-2525",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/39",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:00; 주일 08:30, 10:30, 19:30"
+      },
+      "church_id": "201006917",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "거제동",
+      "diocese": "부산교구",
+      "phone": "051-853-0133",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/49",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00, 19:30; 목 10:00, 19:30; 금 10:00, 19:30; 토 10:00, 18:00; 주일 06:30, 09:00, 11:00, 18:00"
+      },
+      "church_id": "201001363",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "광안",
+      "diocese": "부산교구",
+      "phone": "051-756-3351",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/8",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 10:00, 19:30; 수 10:00, 19:30; 목 10:00, 19:30; 금 10:00, 19:30; 토 10:00, 18:00; 주일 06:30, 08:30, 10:30, 18:00"
+      },
+      "church_id": "201001364",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "괴정",
+      "diocese": "부산교구",
+      "phone": "051-207-3977",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/26",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 07:00; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:00; 주일 07:00, 10:30"
+      },
+      "church_id": "201001365",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "교리",
+      "diocese": "부산교구",
+      "phone": "051-723-0984",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/62",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 17:00; 주일 06:30, 10:30, 19:00"
+      },
+      "church_id": "201001366",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "구봉",
+      "diocese": "부산교구",
+      "phone": "051-468-0403",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/14",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:30; 주일 07:00, 10:30, 19:00"
+      },
+      "church_id": "201001367",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "구포",
+      "diocese": "부산교구",
+      "phone": "051-332-6370",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/74",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 10:00; 금 10:00; 토 10:00, 18:00; 주일 07:00, 10:30, 18:00"
+      },
+      "church_id": "201001368",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "금곡",
+      "diocese": "부산교구",
+      "phone": "051-362-4700",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/75",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "08:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 08:30; 화 19:00; 수 10:00; 목 19:00; 금 10:00; 토 18:30; 주일 06:30, 10:30"
+      },
+      "church_id": "201001369",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "금정",
+      "diocese": "부산교구",
+      "phone": "051-581-4008",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/51",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 10:30, 19:30; 수 10:30, 19:30; 목 10:30, 19:30; 금 10:30, 19:30; 토 10:30, 16:00, 19:00; 주일 06:30, 09:00, 11:00, 19:00"
+      },
+      "church_id": "201001370",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "길천",
+      "diocese": "부산교구",
+      "phone": "051-727-7936",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/64",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 17:00; 주일 10:30"
+      },
+      "church_id": "201001372",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "김해",
+      "diocese": "부산교구",
+      "phone": "055-334-3264",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/88",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:30; 주일 06:30, 09:00, 10:30"
+      },
+      "church_id": "201001373",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "남목",
+      "diocese": "부산교구",
+      "phone": "052-234-2943",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/101",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:00; 수 10:00; 목 19:00; 금 10:00; 토 18:00; 주일 06:30, 10:30, 18:00"
+      },
+      "church_id": "201001375",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "남양산",
+      "diocese": "부산교구",
+      "phone": "055-387-9203",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/81",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 10:00; 화 19:30; 수 10:00, 19:30; 목 10:00, 19:30; 금 10:00, 19:30; 토 10:00, 16:00, 18:30; 주일 08:00, 10:30, 19:00"
+      },
+      "church_id": "201005732",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "남창",
+      "diocese": "부산교구",
+      "phone": "052-238-3880",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/120",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "화 19:00; 수 10:00; 목 19:00; 금 10:00; 토 18:00; 주일 10:30"
+      },
+      "church_id": "201001377",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "남천",
+      "diocese": "부산교구",
+      "phone": "051-623-4528",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/9",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          },
+          {
+            "time": "21:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:00; 화 06:00, 10:30, 19:30; 수 06:00, 10:30, 19:30; 목 06:00, 10:30, 19:30; 금 06:00, 10:30, 19:30; 토 06:00, 16:00, 19:30; 주일 06:00, 09:00, 11:00, 19:00, 21:00"
+      },
+      "church_id": "201001378",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "다대",
+      "diocese": "부산교구",
+      "phone": "051-263-8681",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/27",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 16:00, 19:00; 주일 07:30, 10:30, 19:00"
+      },
+      "church_id": "201001379",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "달맞이",
+      "diocese": "부산교구",
+      "phone": "051-742-4623",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/66",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 10:00; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 19:00; 주일 09:00, 11:00, 19:00"
+      },
+      "church_id": "201001380",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "당감",
+      "diocese": "부산교구",
+      "phone": "051-895-9422",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/40",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 07:00; 화 19:00; 수 10:00; 목 19:00; 금 10:00; 토 18:00; 주일 07:30, 10:30, 17:00"
+      },
+      "church_id": "201001381",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "당리",
+      "diocese": "부산교구",
+      "phone": "051-205-2266",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/28",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 09:00; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:00; 주일 09:00, 11:00"
+      },
+      "church_id": "201007248",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "대연",
+      "diocese": "부산교구",
+      "phone": "051-622-0635",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/1",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 06:30, 19:30; 수 06:30, 10:00, 19:30; 목 06:30, 19:30; 금 06:30, 10:00, 19:30; 토 06:30, 16:00, 19:30; 주일 06:30, 09:00, 11:00, 19:30"
+      },
+      "church_id": "201001382",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "대천",
+      "diocese": "부산교구",
+      "phone": "051-365-3134",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/76",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 07:00; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 19:30; 주일 06:30, 10:30, 18:00"
+      },
+      "church_id": "201001383",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "덕계",
+      "diocese": "부산교구",
+      "phone": "055-388-8551",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/82",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "09:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 09:30; 화 19:30; 수 10:30; 목 19:30; 금 10:30; 토 18:00; 주일 07:30, 10:30, 18:00"
+      },
+      "church_id": "201001384",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "덕천",
+      "diocese": "부산교구",
+      "phone": "051-343-8400",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/77",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 07:00; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:00; 주일 08:00, 10:30"
+      },
+      "church_id": "201007108",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "동대신",
+      "diocese": "부산교구",
+      "phone": "051-242-7572",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/34",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:00; 수 10:00; 목 19:00; 금 10:00; 토 18:00; 주일 06:30, 11:00, 18:00"
+      },
+      "church_id": "201001386",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "동래",
+      "diocese": "부산교구",
+      "phone": "051-555-2295",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/55",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:30",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 10:30, 19:00; 수 10:30, 19:00; 목 10:30, 19:00; 금 06:30, 10:00; 토 10:30, 18:00; 주일 06:30, 08:30, 10:30, 19:00"
+      },
+      "church_id": "201001387",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "동항",
+      "diocese": "부산교구",
+      "phone": "051-632-2043",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/2",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 07:00; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:00; 주일 09:00, 11:00, 18:00"
+      },
+      "church_id": "201001388",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "두왕성베드로",
+      "diocese": "부산교구",
+      "phone": "052-258-9750",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/114",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 19:00; 주일 06:30, 10:30, 19:00"
+      },
+      "church_id": "201003878",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "명지",
+      "diocese": "부산교구",
+      "phone": "051-271-7711",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/24",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 16:00, 19:30; 주일 08:00, 10:30, 19:00"
+      },
+      "church_id": "201001391",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "명지파티마성모",
+      "diocese": "부산교구",
+      "phone": null,
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/25",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 10:00; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 19:00; 주일 06:30, 10:00, 18:00"
+      },
+      "church_id": "201008356",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "모라성요한",
+      "diocese": "부산교구",
+      "phone": "051-316-1009",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/45",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "08:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 08:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:00; 주일 06:30, 10:30"
+      },
+      "church_id": "201001392",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "몰운대",
+      "diocese": "부산교구",
+      "phone": "051-265-5531",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/29",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 19:00; 주일 08:30, 10:30, 19:00"
+      },
+      "church_id": "201001393",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "못골",
+      "diocese": "부산교구",
+      "phone": "051-632-3962",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 07:00; 화 19:00; 수 10:00; 목 19:00; 금 10:00; 토 18:30; 주일 07:00, 11:00, 18:30"
+      },
+      "church_id": "201001394",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "문현",
+      "diocese": "부산교구",
+      "phone": "051-647-5551",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/4",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 16:30, 19:30; 주일 06:30, 10:30, 19:30"
+      },
+      "church_id": "201001396",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "물금",
+      "diocese": "부산교구",
+      "phone": "055-382-8154",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/83",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:00; 주일 10:30"
+      },
+      "church_id": "201001397",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "민락",
+      "diocese": "부산교구",
+      "phone": "051-754-7150",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/11",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 07:00; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 17:00; 주일 07:00, 10:30, 17:00"
+      },
+      "church_id": "201001398",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "밀양",
+      "diocese": "부산교구",
+      "phone": "055-356-4000",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/97",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "09:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 07:00; 화 09:00; 수 10:00; 목 09:00; 금 10:00; 토 09:00; 주일 07:00, 09:00, 10:30"
+      },
+      "church_id": "201001399",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "반송",
+      "diocese": "부산교구",
+      "phone": "051-542-1530",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/61",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 10:00, 18:30; 주일 06:30, 11:00, 18:30"
+      },
+      "church_id": "201001400",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "반여",
+      "diocese": "부산교구",
+      "phone": "051-781-1003",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/67",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:00; 주일 06:30, 10:30, 18:00"
+      },
+      "church_id": "201001401",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "방어진",
+      "diocese": "부산교구",
+      "phone": "052-235-0763",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/102",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 10:00; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:00; 주일 09:00, 11:00, 18:30"
+      },
+      "church_id": "201001402",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "범서",
+      "diocese": "부산교구",
+      "phone": "052-211-6567",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/122",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 10:00; 화 19:30; 수 10:00, 19:30; 목 10:00, 19:30; 금 10:00; 토 10:00, 18:00; 주일 06:30, 08:00, 10:30, 18:30"
+      },
+      "church_id": "201001403",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "범일",
+      "diocese": "부산교구",
+      "phone": "051-646-5364",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/15",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 06:30, 19:00; 수 06:30, 19:00; 목 06:30, 19:00; 금 06:30, 10:00; 토 06:30, 18:00; 주일 06:30, 08:30, 11:00, 19:00"
+      },
+      "church_id": "201001404",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "병영",
+      "diocese": "부산교구",
+      "phone": "052-294-3993",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/110",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 17:30; 주일 06:30, 10:30, 18:00"
+      },
+      "church_id": "201001405",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "복산",
+      "diocese": "부산교구",
+      "phone": "052-297-2042",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/111",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00, 19:30; 목 10:00, 19:30; 금 06:30, 10:00; 토 10:00, 16:00, 18:30; 주일 06:30, 08:30, 10:30, 19:00"
+      },
+      "church_id": "201001406",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "봉래",
+      "diocese": "부산교구",
+      "phone": "051-416-0233",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/18",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "15:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:30; 목 19:30; 금 10:30; 토 06:30, 15:00, 19:00; 주일 06:30, 10:30, 19:00"
+      },
+      "church_id": "201001407",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "부곡",
+      "diocese": "부산교구",
+      "phone": "051-516-2356",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/53",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:00; 주일 06:30, 10:30, 19:30"
+      },
+      "church_id": "201001408",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "북양산",
+      "diocese": "부산교구",
+      "phone": "055-386-6226",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/84",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 09:00; 화 19:30; 수 10:00; 목 10:00; 금 10:00; 토 18:30; 주일 08:00, 10:30"
+      },
+      "church_id": "201007107",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "사상",
+      "diocese": "부산교구",
+      "phone": "051-313-0095",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/46",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:00; 수 10:00; 목 19:00; 금 10:00; 토 18:00; 주일 06:30, 10:30, 18:00"
+      },
+      "church_id": "201001409",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "사이판",
+      "diocese": "부산교구",
+      "phone": null,
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/129",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "수 10:30; 목 19:30; 토 17:00; 주일 10:30"
+      },
+      "church_id": null,
+      "match_method": "unmatched"
+    },
+    {
+      "parish_name": "사직",
+      "diocese": "부산교구",
+      "phone": "051-506-0213",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/56",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 10:00, 19:30; 수 10:00, 19:30; 목 06:30, 10:00; 금 10:00, 19:30; 토 10:00, 16:00, 19:00; 주일 07:00, 09:00, 11:00, 18:00"
+      },
+      "church_id": "201001410",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "사직대건",
+      "diocese": "부산교구",
+      "phone": "051-501-5985",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/57",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 10:00, 19:30; 수 10:00, 19:30; 목 10:00, 19:30; 금 10:00; 토 10:00, 19:00, 19:00; 주일 06:30, 08:30, 11:00, 19:00"
+      },
+      "church_id": "201001411",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "사하",
+      "diocese": "부산교구",
+      "phone": "051-293-7852",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/30",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 10:00, 19:30; 수 10:00, 19:30; 목 10:00; 금 10:00; 토 10:00, 16:00, 19:00; 주일 06:30, 09:00, 11:00, 19:00"
+      },
+      "church_id": "201001412",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "삼계",
+      "diocese": "부산교구",
+      "phone": "055-331-2963",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/89",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 10:00, 19:30; 수 10:00, 19:30; 목 10:00, 19:30; 금 10:00, 19:30; 토 10:00, 16:00, 18:30; 주일 06:30, 08:30, 10:30, 19:30"
+      },
+      "church_id": "201001413",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "삼산",
+      "diocese": "부산교구",
+      "phone": "052-258-5595",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/116",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 17:00; 주일 07:00, 10:30, 19:00"
+      },
+      "church_id": "201001415",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "서대신",
+      "diocese": "부산교구",
+      "phone": "051-253-6993",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/35",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 06:30, 19:00; 수 06:30, 10:00; 목 06:30, 19:00; 금 06:30, 10:00; 토 06:30, 16:00, 19:00; 주일 06:30, 09:00, 11:00, 19:00"
+      },
+      "church_id": "201001416",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "서동",
+      "diocese": "부산교구",
+      "phone": "051-525-3744",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/54",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "07:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:30; 목 07:30; 금 10:30; 토 18:00; 주일 06:30, 10:30, 19:30"
+      },
+      "church_id": "201001417",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "석포",
+      "diocese": "부산교구",
+      "phone": "051-625-2101",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/5",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 10:00; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:00; 주일 07:00, 10:30"
+      },
+      "church_id": "201001419",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "성가정",
+      "diocese": "부산교구",
+      "phone": "051-704-7722",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/68",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 10:00, 19:30; 수 10:00, 19:30; 목 10:00, 19:30; 금 10:00, 19:30; 토 10:00, 16:00, 19:00; 주일 06:30, 09:00, 11:00, 18:00"
+      },
+      "church_id": "201001420",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "성바오로",
+      "diocese": "부산교구",
+      "phone": "052-233-6501",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/103",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:00; 주일 06:30, 10:30, 19:30"
+      },
+      "church_id": "201001421",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "성지",
+      "diocese": "부산교구",
+      "phone": "051-809-1130",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/42",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:00; 주일 10:00, 18:00"
+      },
+      "church_id": "201001422",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "수영",
+      "diocese": "부산교구",
+      "phone": "051-761-4901",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/12",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00, 19:30; 목 10:00, 19:30; 금 10:00, 19:30; 토 10:00, 16:00, 19:00; 주일 06:30, 08:30, 10:30, 19:00"
+      },
+      "church_id": "201001425",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "수정",
+      "diocese": "부산교구",
+      "phone": "051-632-3176",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/16",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 10:30; 화 19:00; 수 10:30; 목 19:00; 금 10:30; 토 18:30; 주일 06:30, 10:30, 18:30"
+      },
+      "church_id": "201001426",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "수정마을",
+      "diocese": "부산교구",
+      "phone": "051-337-9445",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/79",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:00; 주일 06:30, 10:30, 18:30"
+      },
+      "church_id": "201001427",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "신선",
+      "diocese": "부산교구",
+      "phone": "051-418-8301",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/19",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:00; 주일 09:00, 11:00, 19:00"
+      },
+      "church_id": "201001428",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "아미",
+      "diocese": "부산교구",
+      "phone": "051-256-1039",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/31",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:30; 목 19:30; 금 10:30; 토 18:00; 주일 10:30"
+      },
+      "church_id": "201001429",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "안락",
+      "diocese": "부산교구",
+      "phone": "051-526-4210",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/58",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:30",
+              "note": null
+            },
+            {
+              "time": "18:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          },
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 10:30, 18:30; 수 10:30, 19:00; 목 10:30, 19:00; 금 10:30; 토 10:30, 17:00, 18:30; 주일 06:30, 08:30, 10:30, 18:30"
+      },
+      "church_id": "201001430",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "양산",
+      "diocese": "부산교구",
+      "phone": "055-386-2065",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/85",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00, 19:30; 목 10:00, 19:30; 금 10:00, 19:30; 토 10:00, 16:00, 19:00; 주일 06:30, 08:30, 10:30, 17:00"
+      },
+      "church_id": "201001432",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "양정",
+      "diocese": "부산교구",
+      "phone": "051-852-0685",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/43",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 10:00; 금 10:00; 토 09:00, 18:00; 주일 06:30, 10:30, 17:00"
+      },
+      "church_id": "201001433",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "언양",
+      "diocese": "부산교구",
+      "phone": "052-262-5312",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/123",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:30, 19:30; 목 10:30, 19:30; 금 10:30; 토 10:30, 18:00; 주일 06:30, 09:00, 11:00, 18:00"
+      },
+      "church_id": "201001434",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "언양성야고보",
+      "diocese": "부산교구",
+      "phone": "052-263-0303",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/124",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 10:00; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 19:00; 주일 10:30"
+      },
+      "church_id": "201005731",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "엄궁",
+      "diocese": "부산교구",
+      "phone": "051-314-6235",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/47",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:00; 주일 08:00, 10:30"
+      },
+      "church_id": "201001435",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "연산",
+      "diocese": "부산교구",
+      "phone": "051-867-1464",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/50",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 07:00; 화 19:00; 수 10:00, 19:00; 목 10:00, 19:00; 금 10:00, 19:00; 토 18:00; 주일 07:00, 09:00, 11:00, 17:00"
+      },
+      "church_id": "201001436",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "연지",
+      "diocese": "부산교구",
+      "phone": "055-329-9812",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/90",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 07:00; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:00; 주일 09:00, 11:00, 18:00"
+      },
+      "church_id": "201003875",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "염포",
+      "diocese": "부산교구",
+      "phone": "052-287-8818",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/105",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 07:00; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 19:00; 주일 06:30, 11:00"
+      },
+      "church_id": "201001437",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "영주",
+      "diocese": "부산교구",
+      "phone": "051-442-2061",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/22",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "08:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 08:00; 화 19:00; 수 10:00; 목 19:00; 금 10:00; 토 18:30; 주일 08:00, 10:30"
+      },
+      "church_id": "201001438",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "온천",
+      "diocese": "부산교구",
+      "phone": "051-552-0355",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/59",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00, 19:30; 목 10:00, 19:30; 금 10:00, 19:30; 토 10:00, 16:00, 19:00; 주일 06:30, 09:00, 11:00, 17:00, 19:30"
+      },
+      "church_id": "201001441",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "용호",
+      "diocese": "부산교구",
+      "phone": "051-625-3382",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/6",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 10:00, 19:30; 수 10:00, 19:30; 목 10:00, 19:30; 금 06:30, 10:00; 토 16:00, 19:00; 주일 06:30, 09:00, 11:00, 19:30"
+      },
+      "church_id": "201001442",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "우동",
+      "diocese": "부산교구",
+      "phone": "051-747-4711",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/70",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          },
+          {
+            "time": "21:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 06:30, 10:30, 19:30; 수 06:30, 10:30, 19:30; 목 06:30, 10:30, 19:30; 금 06:30, 19:30; 토 06:30, 17:00, 19:00; 주일 06:30, 09:00, 11:00, 19:00, 21:00"
+      },
+      "church_id": "201001443",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "우정",
+      "diocese": "부산교구",
+      "phone": "052-243-4568",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/113",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00, 19:30; 목 10:00, 19:30; 금 10:00, 19:30; 토 10:00, 16:00, 18:00; 주일 06:30, 09:00, 11:00, 19:00"
+      },
+      "church_id": "201001444",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "울만",
+      "diocese": "부산교구",
+      "phone": "051-973-9509",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/87",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ],
+          "tue": [],
+          "wed": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 11:00; 수 11:00; 목 19:00; 금 10:00; 토 19:00; 주일 09:00, 11:00"
+      },
+      "church_id": "201001445",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "웅상",
+      "diocese": "부산교구",
+      "phone": "055-363-2495",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/86",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 07:30; 화 19:30; 수 10:30; 목 19:30; 금 10:30; 토 18:00; 주일 07:30, 10:30, 17:00"
+      },
+      "church_id": "201001446",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "월평",
+      "diocese": "부산교구",
+      "phone": "052-272-2405",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/119",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 10:00; 화 10:00; 수 19:30; 목 10:00; 금 10:00; 토 18:00; 주일 08:00, 11:00, 19:30"
+      },
+      "church_id": "201001447",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "율하",
+      "diocese": "부산교구",
+      "phone": "055-329-6886",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/91",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "16:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:00; 주일 06:30, 10:30, 16:30"
+      },
+      "church_id": "201001448",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "이기대",
+      "diocese": "부산교구",
+      "phone": "051-611-1009",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/7",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 10:00, 19:30; 수 06:30, 10:00; 목 10:00, 19:30; 금 06:30, 10:00; 토 10:00, 16:00, 19:00; 주일 06:30, 09:00, 11:00, 19:00"
+      },
+      "church_id": "201001449",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "인보",
+      "diocese": "부산교구",
+      "phone": "052-263-9004",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/125",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:30; 목 19:30; 금 10:30; 토 19:30; 주일 10:30"
+      },
+      "church_id": "201001450",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "임호",
+      "diocese": "부산교구",
+      "phone": "055-324-8227",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/92",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:00; 수 10:00, 19:00; 목 10:00, 19:00; 금 10:00; 토 10:00, 17:00; 주일 06:30, 10:30, 19:00"
+      },
+      "church_id": "201001451",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "장림",
+      "diocese": "부산교구",
+      "phone": "051-262-8511",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/32",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 07:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:30; 주일 07:30, 10:30"
+      },
+      "church_id": "201001452",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "장산",
+      "diocese": "부산교구",
+      "phone": "051-527-8677",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/72",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 10:00; 화 10:00, 19:30; 수 10:00; 목 10:00, 19:30; 금 10:00; 토 10:00, 18:00; 주일 07:00, 09:00, 11:00, 19:30"
+      },
+      "church_id": "201001453",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "장유",
+      "diocese": "부산교구",
+      "phone": "055-314-3563",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/93",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:00; 주일 06:30, 10:30, 17:00"
+      },
+      "church_id": "201001454",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "장유대청",
+      "diocese": "부산교구",
+      "phone": "055-312-0382",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/94",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 10:00, 17:00; 주일 08:00, 10:30, 18:00"
+      },
+      "church_id": "201001455",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "전포",
+      "diocese": "부산교구",
+      "phone": "051-802-3342",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/44",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:30; 목 19:00; 금 10:30; 토 17:30; 주일 09:00, 11:00, 18:00"
+      },
+      "church_id": "201001456",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "전하",
+      "diocese": "부산교구",
+      "phone": "052-234-9601",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/104",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:30; 주일 06:30, 10:30, 18:00"
+      },
+      "church_id": "201001457",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "정관",
+      "diocese": "부산교구",
+      "phone": "051-727-8868",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/65",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "08:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 08:30; 화 19:30; 수 10:00, 19:30; 목 10:00, 19:30; 금 10:00, 19:30; 토 10:00, 16:00, 19:00; 주일 06:30, 08:30, 10:30, 19:00"
+      },
+      "church_id": "201001458",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "좌동",
+      "diocese": "부산교구",
+      "phone": "051-747-8370",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/71",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 10:00, 19:30; 수 10:00, 19:30; 목 10:00, 19:30; 금 06:30, 10:00; 토 10:00, 16:00, 19:30; 주일 06:30, 09:00, 11:00, 19:30"
+      },
+      "church_id": "201001459",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "주례",
+      "diocese": "부산교구",
+      "phone": "051-324-9551",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/48",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:30; 목 19:30; 금 10:30; 토 18:30; 주일 06:30, 10:30, 18:00"
+      },
+      "church_id": "201001460",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "중앙",
+      "diocese": "부산교구",
+      "phone": "051-246-4284",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/23",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 06:30, 10:00, 19:00; 수 06:30, 10:00, 19:00; 목 06:30, 10:00, 19:00; 금 06:30, 10:00, 19:00; 토 06:30, 18:00; 주일 06:30, 09:00, 11:00, 16:00, 19:00"
+      },
+      "church_id": "201001361",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "천곡",
+      "diocese": "부산교구",
+      "phone": "052-285-1261",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/107",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 10:30; 화 19:30; 수 10:30; 목 19:30; 금 10:30; 토 18:00; 주일 07:00, 10:30, 18:00"
+      },
+      "church_id": "201003876",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "청학",
+      "diocese": "부산교구",
+      "phone": "051-413-1783",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/20",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:00; 수 10:00; 목 19:00; 금 10:00; 토 18:00; 주일 06:30, 11:00"
+      },
+      "church_id": "201001461",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "초량",
+      "diocese": "부산교구",
+      "phone": "051-467-1209",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/17",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:00; 수 10:00; 목 19:00; 금 10:00; 토 18:30; 주일 09:00, 11:00"
+      },
+      "church_id": "201001462",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "태종대",
+      "diocese": "부산교구",
+      "phone": "051-404-1118",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/21",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:00; 주일 09:00, 11:00, 19:00"
+      },
+      "church_id": "201001464",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "토현",
+      "diocese": "부산교구",
+      "phone": "051-758-6690",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/60",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00, 19:30; 목 10:00, 19:30; 금 06:30, 10:00; 토 10:00, 18:00; 주일 06:30, 08:30, 10:30, 18:00"
+      },
+      "church_id": "201001465",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "하단",
+      "diocese": "부산교구",
+      "phone": "051-201-0098",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/33",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "09:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "09:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "09:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "09:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "09:30",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 09:30, 19:30; 수 09:30, 19:30; 목 09:30; 금 09:30, 19:30; 토 09:30, 17:00, 19:30; 주일 06:30, 09:00, 11:00, 17:00"
+      },
+      "church_id": "201001466",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "해운대",
+      "diocese": "부산교구",
+      "phone": "051-746-5881",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/73",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 10:00, 19:30; 수 10:00, 19:30; 목 10:00, 19:30; 금 10:00, 19:30; 토 10:00, 19:30; 주일 06:30, 09:00, 11:00, 19:30"
+      },
+      "church_id": "201001467",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "호계",
+      "diocese": "부산교구",
+      "phone": "052-295-7733",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/108",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 10:30, 19:30; 수 10:30, 19:30; 목 10:30, 19:30; 금 10:30; 토 10:30, 16:00, 18:30; 주일 06:30, 10:30, 18:30"
+      },
+      "church_id": "201001468",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "호치민 한인성당",
+      "diocese": "부산교구",
+      "phone": null,
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/127",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "16:40",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "11:10",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "수 10:00; 목 10:00; 토 16:40, 19:00; 주일 11:10"
+      },
+      "church_id": null,
+      "match_method": "unmatched"
+    },
+    {
+      "parish_name": "화명",
+      "diocese": "부산교구",
+      "phone": "051-341-7770",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/80",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00, 19:30; 목 10:00, 19:30; 금 06:30, 10:00; 토 10:00, 18:00; 주일 06:30, 09:00, 11:00, 19:00"
+      },
+      "church_id": "201001469",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "화봉",
+      "diocese": "부산교구",
+      "phone": "052-289-7750",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/109",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 18:00; 주일 10:00, 18:00"
+      },
+      "church_id": "201001470",
+      "match_method": "phone"
+    }
+  ]
+}

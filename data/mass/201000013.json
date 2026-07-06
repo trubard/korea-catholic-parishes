@@ -1,0 +1,4220 @@
+{
+  "generated_at": "2026-07-06T18:56:42+00:00",
+  "diocese": "춘천교구",
+  "diocese_id": "201000013",
+  "count": 67,
+  "masses": [
+    {
+      "parish_name": "주교좌 죽림동 예수성심",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "11:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "11:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "11:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "11:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          },
+          {
+            "time": "21:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "주교좌 죽림동 예수성심 | 06:00 11:00 | 11:00 19:00 | 06:00 11:00 19:00 | 06:00 11:00 19:00 | 06:00 11:00 19:00 | 06:00 11:00 16:00 18:00 | 07:00 09:00 11:00 18:00 21:00"
+      },
+      "church_id": "201001498",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "소양로 성파트리치오",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "소양로 성파트리치오 | 09:00 | 19:00 | 10:00 | 19:00 | 10:00 | 18:00 | 07:00 10:30 18:00"
+      },
+      "church_id": "201001521",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "운교동 한국순교자",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "운교동 한국순교자 | 07:00 | 19:00 | 10:00 | 19:00 | 10:00 | 10:00 19:00 | 07:00 10:30 19:00"
+      },
+      "church_id": "201001534",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "효자동 사도들의모후",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "효자동 사도들의모후 | 07:00 | 19:00 | 10:30 | 19:00 | 10:30 | 19:00 | 07:00 10:30 18:00"
+      },
+      "church_id": "201001554",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "후평동 착한목자",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "후평동 착한목자 | 06:30 | 19:00 | 10:00 | 19:00 | 10:00 | 16:00 19:00 | 08:00 11:00 19:00"
+      },
+      "church_id": "201001555",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "양구 성바오로",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "양구 성바오로 | 06:00 | 19:00 | 10:00 | 19:00 | 10:00 | 10:00 18:00 | 07:00 10:30"
+      },
+      "church_id": "201001527",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "화천 구세주",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "화천 구세주 |  | 19:00 | 10:00 | 19:00 | 10:00 | 19:00 | 11:00"
+      },
+      "church_id": "201001552",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "우두 성마르티노",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "17:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "우두 성마르티노 | 07:00 | 19:00 | 10:00 | 19:00 | 10:00 | 17:30 | 07:00 10:30 17:30"
+      },
+      "church_id": "201001533",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "샘밭 성베드로사도",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "샘밭 성베드로사도 | 06:30 | 19:30 | 10:00 | 19:30 | 10:00 | 19:30 | 11:00"
+      },
+      "church_id": "201001517",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "해안 성루카",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [],
+          "thu": [],
+          "fri": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "해안 성루카 | 06:00 | 19:00 |  |  | 19:00 | 10:00 | 11:00"
+      },
+      "church_id": "201005871",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "만천 오상의성비오",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "만천 오상의성비오 | 09:00 | 19:00 | 10:00 | 19:00 | 10:00 | 16:00 18:00 | 07:00 11:00 16:00"
+      },
+      "church_id": "201007241",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "애막골 성정하상바오로",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "애막골 성정하상바오로 | 10:00 | 19:30 | 10:00 | 19:30 | 10:00 | 10:00 16:00 19:00 | 08:00 10:30 19:00"
+      },
+      "church_id": "201001526",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "가평 천주의성모",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "가평 천주의성모 | 06:00 | 19:00 | 10:00 | 19:00 | 10:00 | 18:00 | 06:30 10:30 18:00"
+      },
+      "church_id": "201001500",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "강촌 평화의모후",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "강촌 평화의모후 | 06:30 | 19:00 | 10:00 | 19:00 | 10:00 | 19:00 | 10:30"
+      },
+      "church_id": "201001505",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "청평 성라우렌시오",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "청평 성라우렌시오 | 06:30 | 19:00 | 10:00 | 19:00 | 10:00 | 19:00 | 07:00 10:30 17:00"
+      },
+      "church_id": "201001545",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "현리 성김대건안드레아",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "현리 성김대건안드레아 | 06:30 | 19:30 | 10:00 | 19:30 | 10:00 | 16:00 | 06:30 10:30 19:30"
+      },
+      "church_id": "201001550",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "퇴계 성유대철베드로",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "퇴계 성유대철베드로 | 09:00 | 19:30 | 10:00 19:30 | 10:00 19:30 | 10:00 | 10:00 16:00 19:30 | 07:00 09:00 11:00 17:00"
+      },
+      "church_id": "201001548",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "스무숲 아씨시의성프란치스코",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "스무숲 아씨시의성프란치스코 | 06:30 | 19:00 | 10:00 19:00 | 06:30 19:00 | 10:00 | 10:00 19:00 | 07:00 10:00 10:30 19:00"
+      },
+      "church_id": "201001524",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "거두리 성빈첸시오드폴",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "거두리 성빈첸시오드폴 | 06:30 | 19:30 | 10:00 | 19:30 | 10:00 | 19:30 | 08:00 10:30 17:00"
+      },
+      "church_id": "201001506",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "미원 성바오로",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "16:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "16:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "미원 성바오로 | 07:00 | 16:00 | 10:00 | 16:00 | 10:00 | 19:00 | 07:00 11:00"
+      },
+      "church_id": "201001516",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "기린 성가정",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "기린 성가정 | 06:00 | 19:00 | 10:00 | 19:00 | 19:00 | 19:00 | 10:30"
+      },
+      "church_id": "201001509",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "서석 성김대건안드레아",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "08:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "서석 성김대건안드레아 | 08:00 | 19:00 | 10:00 | 19:00 | 10:00 | 10:00 19:00 | 10:30"
+      },
+      "church_id": "201001518",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "성산 갈바리아의성십자가",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "성산 갈바리아의성십자가 | 09:00 | 19:00 | 10:30 | 19:00 | 10:30 | 10:30 19:00 | 11:00"
+      },
+      "church_id": "201001520",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "신남 삼위일체",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "신남 삼위일체 | 07:30 | 19:00 | 10:00 | 19:00 | 10:00 | 10:00 | 10:30"
+      },
+      "church_id": "201001525",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "양덕원 성시몬과성타대오",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "양덕원 성시몬과성타대오 | 07:00 | 19:00 | 10:00 | 19:00 | 10:00 | 10:00 19:00 | 10:30 10:30"
+      },
+      "church_id": "201001528",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "원통 한국순교자",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "원통 한국순교자 | 07:00 | 19:00 | 10:00 | 19:00 | 10:00 | 19:00 | 11:00"
+      },
+      "church_id": "201001536",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "인제 묵주기도의모후",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "인제 묵주기도의모후 | 06:00 | 19:00 | 10:00 | 19:00 | 10:00 | 19:00 | 07:00 10:30 17:00"
+      },
+      "church_id": "201001538",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "홍천 원죄없이잉태되신복되신동정마리아",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "홍천 원죄없이잉태되신복되신동정마리아 | 06:00 | 19:00 | 10:30 | 19:00 | 10:30 | 10:00 19:00 | 08:00 10:30 18:00"
+      },
+      "church_id": "201001551",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "내면 성이시도로",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "내면 성이시도로 | 10:00 | 19:00 | 10:00 | 10:00 | 10:00 | 19:00 | 10:30"
+      },
+      "church_id": "201001511",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "연봉 성티모테오",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "연봉 성티모테오 | 06:00 | 19:30 | 10:30 | 19:30 | 10:30 | 18:00 | 09:00 11:00"
+      },
+      "church_id": "201001530",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "갈말 성조신철가롤로",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "갈말 성조신철가롤로 | 06:00 | 19:00 | 10:00 | 19:00 | 10:00 | 18:00 | 11:00 19:00"
+      },
+      "church_id": "201001503",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "김화 성김대건안드레아",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "김화 성김대건안드레아 | 07:00 | 19:30 | 10:00 | 19:30 | 10:00 | 18:00 | 10:30"
+      },
+      "church_id": "201001510",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "솔모루 그리스도의성체와성혈",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "솔모루 그리스도의성체와성혈 | 06:30 | 19:30 | 10:00 19:30 | 10:00 19:30 | 10:00 19:30 | 10:00 19:30 | 08:00 10:30 17:00 19:30"
+      },
+      "church_id": "201001522",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "운천 그리스도왕",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "운천 그리스도왕 | 10:00 | 19:00 | 10:00 | 19:00 | 10:00 | 19:00 | 11:00"
+      },
+      "church_id": "201001535",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "일동 그리스도왕",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "일동 그리스도왕 | 06:30 | 19:00 | 10:30 | 19:00 | 10:30 | 17:30 | 10:30"
+      },
+      "church_id": "201001539",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "철원 주님공현",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "철원 주님공현 | 07:00 | 19:00 | 10:00 | 19:00 | 10:00 | 16:00 | 10:30 19:00"
+      },
+      "church_id": "201001544",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "포천 성가정",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "포천 성가정 | 06:00 | 19:00 | 10:00 | 19:00 | 10:00 | 10:00 16:00 19:00 | 07:00 11:00 19:00"
+      },
+      "church_id": "201001549",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "이동 성요한사도",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "이동 성요한사도 | 07:00 | 19:00 | 10:00 | 19:00 | 10:00 | 19:00 | 10:30"
+      },
+      "church_id": "201001537",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "가산 성토마스사도",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "가산 성토마스사도 | 06:30 | 19:30 | 06:30 | 19:30 | 10:00 | 17:00 | 10:30"
+      },
+      "church_id": "201001499",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "내촌 성베드로",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "내촌 성베드로 | 10:00 | 19:00 | 10:00 | 19:00 | 10:00 | 19:00 | 10:30"
+      },
+      "church_id": "201001512",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "노암동 죄없는아기순교자들",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "노암동 죄없는아기순교자들 | 06:30 | 19:30 | 10:00 | 19:30 | 10:00 | 18:00 | 07:00 10:30 19:00"
+      },
+      "church_id": "201001513",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "옥계 성삼위",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "옥계 성삼위 | 10:00 | 19:00 | 10:00 | 19:00 | 10:00 | 19:00 | 10:30"
+      },
+      "church_id": "201001531",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "옥천동 예수,마리아,요셉의성가정",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "옥천동 예수,마리아,요셉의성가정 | 07:00 | 19:00 | 10:00 | 19:00 | 10:00 | 17:00 | 07:00 10:30 19:00"
+      },
+      "church_id": "201001532",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "임당동 성골롬바노",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "임당동 성골롬바노 | 07:00 | 19:00 | 10:00 | 19:00 | 10:00 | 10:00 18:00 | 07:00 10:30 19:00"
+      },
+      "church_id": "201001540",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "주문진 루르드의성모",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "15:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "주문진 루르드의성모 | 07:00 | 19:00 | 10:00 | 19:00 | 10:00 | 17:00 | 07:00 10:30 15:00 16:00"
+      },
+      "church_id": "201001542",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "초당 성요셉",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "초당 성요셉 | 06:30 | 19:30 | 10:00 | 19:30 | 10:00 | 10:00 18:00 | 07:00 10:30 19:30"
+      },
+      "church_id": "201001547",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "묵호 바다의 별",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "묵호 바다의 별 | 06:30 | 19:00 | 10:00 | 19:00 | 10:00 | 17:00 | 06:30 10:30 17:00"
+      },
+      "church_id": "201001515",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "대관령 성베네딕토",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "대관령 성베네딕토 | 06:30 | 19:00 | 10:00 | 19:00 | 10:00 | 19:00 | 10:30 17:00"
+      },
+      "church_id": "201001553",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "진부 성직자의모후마리아",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "진부 성직자의모후마리아 | 06:30 | 19:00 | 10:00 | 19:00 | 10:00 | 19:00 | 10:30"
+      },
+      "church_id": "201001543",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "솔올 성요한비안네",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "솔올 성요한비안네 | 10:00 | 19:30 | 06:00 10:00 | 10:00 19:30 | 10:00 19:30 | 10:00 16:00 19:30 | 07:00 09:00 11:00 19:30"
+      },
+      "church_id": "201001523",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "입암 티없이깨끗하신성모성심",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "입암 티없이깨끗하신성모성심 | 09:00 | 19:00 | 10:00 | 19:00 | 10:00 | 19:00 | 07:00 10:30 17:00"
+      },
+      "church_id": "201001541",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "봉평 성루카",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "봉평 성루카 | 07:30 | 19:00 | 10:00 | 19:00 | 10:00 | 19:00 | 07:30 10:30"
+      },
+      "church_id": "201005903",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "교동 영원한도움의성모",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "교동 영원한도움의성모 | 06:30 | 19:30 | 10:00 | 10:00 19:30 | 10:00 | 10:00 17:00 | 07:00 09:00 11:00 17:00"
+      },
+      "church_id": "201001508",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "설악동 삼위일체",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "설악동 삼위일체 | 06:30 | 19:30 | 10:00 | 19:30 | 10:00 | 19:30 | 06:30 10:30"
+      },
+      "church_id": "201001519",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "청호동 바다의별",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "청호동 바다의별 | 10:00 | 19:30 | 10:00 | 19:30 | 10:00 | 10:00 17:00 | 09:00 11:00 19:30"
+      },
+      "church_id": "201001546",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "간성 성녀안나",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "간성 성녀안나 | 06:00 | 19:00 | 10:00 | 19:00 | 10:00 | 19:00 | 07:00 10:30"
+      },
+      "church_id": "201001502",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "거진 승리의모후",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "거진 승리의모후 | 06:30 | 19:30 | 10:00 | 19:30 | 19:30 | 19:30 | 10:30"
+      },
+      "church_id": "201001507",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "양양 아기예수의성녀데레사",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "양양 아기예수의성녀데레사 | 06:30 | 19:30 | 11:00 | 11:00 | 11:00 | 11:00 18:00 | 06:30 11:00 19:30"
+      },
+      "church_id": "201001529",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "대진 성조신철가롤로",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "대진 성조신철가롤로 | 06:30 | 19:00 | 10:00 | 19:00 | 10:00 | 19:00 | 10:30"
+      },
+      "church_id": "201005908",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "물치 가정의모후",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "물치 가정의모후 | 06:30 | 19:00 | 10:00 | 19:00 | 10:00 | 19:00 | 10:00"
+      },
+      "church_id": "201005905",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "동명동 파티마의성모",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "동명동 파티마의성모 | 06:30 | 19:00 | 10:00 | 19:00 | 10:00 | 10:00 16:00 19:00 | 07:00 10:30 19:00"
+      },
+      "church_id": "201001514",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "꽃동네",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "14:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "15:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:20",
+            "note": null
+          },
+          {
+            "time": "09:40",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "꽃동네 | 06:30 | 06:30 14:00 | 06:30 | 06:30 15:00 | 06:30 10:00 | 15:00 19:00 | 08:20 09:40"
+      },
+      "church_id": "201001501",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "말레이시아 성김대건안드레아",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "말레이시아 성김대건안드레아 |  |  | 10:30 | 20:00 | 10:30 | 10:30 | 11:00"
+      },
+      "church_id": null,
+      "match_method": "unmatched"
+    },
+    {
+      "parish_name": "미국 오클랜드 성김대건안드레아",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "07:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "07:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "07:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "미국 오클랜드 성김대건안드레아 |  | 19:30 | 07:30 | 19:30 | 07:30 | 07:30 | 08:00 11:00 16:00"
+      },
+      "church_id": null,
+      "match_method": "unmatched"
+    },
+    {
+      "parish_name": "트라이밸리 미국 성정하상바오로",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "09:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "09:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "09:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "트라이밸리 미국 성정하상바오로 |  | 09:30 | 09:30 | 20:00 |  | 09:30 | 09:00 10:30"
+      },
+      "church_id": null,
+      "match_method": "unmatched"
+    },
+    {
+      "parish_name": "싱가포르 착한목자",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": null
+          },
+          {
+            "time": "17:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "12:45",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "싱가포르 착한목자 |  | 19:30 | 10:00 | 19:30 | 10:00 | 15:00 17:30 | 09:00 12:45"
+      },
+      "church_id": null,
+      "match_method": "unmatched"
+    },
+    {
+      "parish_name": "페낭",
+      "diocese": "춘천교구",
+      "phone": null,
+      "source_url": "http://www.cccatholic.or.kr/parish/missa",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [],
+        "sunday": [],
+        "special": [],
+        "raw": "페낭 |  |  |  |  |  |  |"
+      },
+      "church_id": null,
+      "match_method": "unmatched"
+    }
+  ]
+}
