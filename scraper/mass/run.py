@@ -30,6 +30,7 @@ from dioceses.suwon import SuwonAdapter  # noqa: E402
 from dioceses.cheongju import CheongjuAdapter  # noqa: E402
 from dioceses.daejeon import DaejeonAdapter  # noqa: E402
 from dioceses.daegu import DaeguAdapter  # noqa: E402
+from dioceses.seoul import SeoulAdapter  # noqa: E402
 
 # 등록된 어댑터 (단계적으로 추가)
 ADAPTERS = [
@@ -41,6 +42,7 @@ ADAPTERS = [
     CheongjuAdapter(),
     DaejeonAdapter(),
     DaeguAdapter(),
+    SeoulAdapter(),
 ]
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
