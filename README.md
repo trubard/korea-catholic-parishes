@@ -75,9 +75,49 @@ churches = requests.get(url).json()["churches"]
 > 이 경우에도 원본 `address`는 그대로 제공됩니다.
 > 좌표가 필요한 데이터만 쓰려면 `geocode_status === "matched"` 로 필터링하세요.
 
+## 미사시간 API
+
+각 교구 홈페이지에서 본당 미사시간을 수집하여 별도로 제공합니다. 성당과는 `church_id`
+(= 성당의 `id`)로 연결됩니다.
+
+| 엔드포인트 | 내용 |
+|-----------|------|
+| [`data/mass.json`](https://raw.githubusercontent.com/trubard/korea-catholic-parishes/main/data/mass.json) | 전체 본당 미사시간 |
+| `data/mass/<diocese_id>.json` | 교구별 미사시간 |
+
+미사 레코드:
+
+```json
+{
+  "church_id": "201001479",       // 성당 id (조인 실패 시 null)
+  "parish_name": "노형 삼위일체",
+  "diocese": "제주교구",
+  "source_url": "https://...",
+  "mass": {
+    "weekday": { "mon": [ {"time": "06:30"} ], "tue": [...], ... },
+    "saturday": [ {"time": "19:30", "note": "청소년", "type": ["청소년"]} ],
+    "sunday":   [ {"time": "11:00", "note": "교중", "type": ["교중"]} ],
+    "special": [],
+    "raw": "원문 텍스트"
+  }
+}
+```
+
+각 미사 항목(entry) 필드:
+
+| 키 | 설명 |
+|----|------|
+| `time` | `HH:MM` (24시간제) |
+| `note` | 원문 비고(대상·장소·조건 등 원문 그대로) |
+| `type` | 미사 성격 분류: `교중·새벽·어린이·학생·청소년·청년·가족·특전·성시간` 등 (리스트, 감지 시) |
+| `recurrence` | 주기 조건(감지 시): `weeks`(해당 주차에만, 1=첫째, -1=마지막) / `weeks_exclude`(제외) / `months`·`months_exclude` / `season`(`summer`·`winter`) |
+
+> `type`·`recurrence`는 감지된 경우에만 존재하며, 없으면 매주 정규 미사로 간주합니다.
+> `raw`(원문)는 항상 보존되므로 미분류 정보도 손실되지 않습니다.
+
 ## 업데이트
 
-매일 1회 자동으로 최신 정보를 반영합니다.
+성당 정보는 매일, 미사시간은 매주 자동으로 최신 정보를 반영합니다.
 
 ## 유의사항
 

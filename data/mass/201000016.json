@@ -1,0 +1,8445 @@
+{
+  "generated_at": "2026-07-06T19:23:51+00:00",
+  "diocese": "대전교구",
+  "diocese_id": "201000016",
+  "count": 149,
+  "masses": [
+    {
+      "parish_name": "가수원",
+      "diocese": "대전교구",
+      "phone": "042-542-0663",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 화/19, 수/10, 목/10, 금/19 ▶토요일 - 17 ▶주일 - 10:30"
+      },
+      "church_id": "201000637",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "가양동",
+      "diocese": "대전교구",
+      "phone": "042-636-0251",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": "19"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수/10, 목/19:30, 금/10 ▶토요일 - 16/19 ▶주일 - 8/10:30"
+      },
+      "church_id": "201000638",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "가오동",
+      "diocese": "대전교구",
+      "phone": "042-285-9517",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/10, 화/19:30, 수/10, 목/19:30, 금/10 ▶토요일 - 19 ▶주일 - 10/19"
+      },
+      "church_id": "201003881",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "갈마동",
+      "diocese": "대전교구",
+      "phone": "042-537-4500",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "18"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/9, 화/19:30, 수/10:30, 목/19:30, 금/10:30, ▶토요일 - 19:30 ▶주일 - 8/10:30/18"
+      },
+      "church_id": "201000639",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "갈매못순교성지",
+      "diocese": "대전교구",
+      "phone": "041-932-1311",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "11:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "11:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "11:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "11:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "11:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": "(본당 미사)"
+          },
+          {
+            "time": "11:30",
+            "note": "(순례객 미사)"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 화/11:30, 수/11:30, 목/11:30, 금/11:30, ▶토요일 - 11:30 ▶주일 - 8(본당 미사)/11:30(순례객 미사)"
+      },
+      "church_id": "201000640",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "강경",
+      "diocese": "대전교구",
+      "phone": "041-745-1298",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/7, 화/19:30(동.19), 수/11:00, 목/11:00, 금/11:00/19:30(동19), 토/첫째주,셋째주11:00(구순오의 집 미사) ▶토요일 19:30(동.19), * 동절기 11월~2월 ▶주일 - 7/10:30,"
+      },
+      "church_id": "201000641",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "계룡",
+      "diocese": "대전교구",
+      "phone": "042-841-7114",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": "10"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19, 수/10, 목/19, 금/10 ▶토요일 - 17 ▶주일 - 8 / 10"
+      },
+      "church_id": "201000642",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "고덕",
+      "diocese": "대전교구",
+      "phone": "041-337-6606",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 화/19, 수/10, 목/10, 금/10, ▶토요일 - 19 ▶주일 - 10"
+      },
+      "church_id": "201008484",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "공세리",
+      "diocese": "대전교구",
+      "phone": "041-533-8181",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [],
+        "sunday": [],
+        "special": [],
+        "raw": "▶평일 - 오전: 월~토/11시(순례자미사) 저녁: 화/금 19시 ▶토요일 - 순례자미사 11시, 주일학교미사 17시 ▶주일 - 새벽미사 06시, 교중미사 9시30분, 순례자미사 11시30분"
+      },
+      "church_id": "201000643",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "공주교동",
+      "diocese": "대전교구",
+      "phone": "041-856-0100",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": "(토요주일미사)"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 화/19:30, 수/10:00, 목/10:00, 금/19:30, 첫주 토/10:00(성모신심미사) ▶토요일 - 17:00(토요주일미사) ▶주일 - 10:30"
+      },
+      "church_id": "201000644",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "공주신관동",
+      "diocese": "대전교구",
+      "phone": "041-881-9035",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수/10/19:30, 목/10, 금/10/19:30 ▶토요일 - 17/19:30 ▶주일 - 6/8:30/10:30/19:30"
+      },
+      "church_id": "201000645",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "공주중동",
+      "diocese": "대전교구",
+      "phone": "041-856-1033",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": "(첫토:10/17)"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평 일 - 월/6:30, 화/19, 수/10, 목/10, 금/19, ▶토요일 - 17 (첫토:10/17), ▶주일 - 10:30/19"
+      },
+      "church_id": "201000646",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "관저1동",
+      "diocese": "대전교구",
+      "phone": "042-544-3167",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [],
+        "special": [],
+        "raw": "▶평일_화/19:30, 수/10, 목/19:30, 금/10 ▶토요일_18:00 ▶주일_10:30/19:30"
+      },
+      "church_id": "201003884",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "관저2동",
+      "diocese": "대전교구",
+      "phone": "042-546-0113",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "17"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수/10, 목/19:30, 금/10 ▶토요일 - 19 ▶주일 - 10/17"
+      },
+      "church_id": "201003885",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "관저동",
+      "diocese": "대전교구",
+      "phone": "042-543-0236",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": "(매월 첫째주-성모신심미사)",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "(매월 첫째주-성모신심미사)"
+            }
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "17"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19, 수/10 목/19, 금/10 ▶토요일 - 19, 10(매월 첫째주-성모신심미사) ▶주일 - 8/10:30/17"
+      },
+      "church_id": "201000647",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "관평동",
+      "diocese": "대전교구",
+      "phone": "042-936-5004",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:30",
+            "note": "15/18 (매월 첫 토요일-성모신심미사",
+            "type": [
+              "신심"
+            ]
+          },
+          {
+            "time": "10:30",
+            "note": ")"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "15/18"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일-월/6, 화/19:30, 수/10:30,19:30, 목/10:30,19:30, 금/10:30 ▶토요일-10:30/15/18 (매월 첫 토요일-성모신심미사 10:30) ▶주일-8/10:30/15/18"
+      },
+      "church_id": "201000648",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "광천",
+      "diocese": "대전교구",
+      "phone": "041-641-0596",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월 / 06:30, 화/19, 수/10, 목/19, 금/10 ▶토요일 - 19 ▶주일 - 10"
+      },
+      "church_id": "201000649",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "괴정동",
+      "diocese": "대전교구",
+      "phone": "042-535-7991",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [],
+          "wed": [],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06:30 화/19:30 수/10:00 목/10:00 금/10:00 ▶토요일 - 16/18:30 ▶주일 - 8:30/10:30/19:30"
+      },
+      "church_id": "201000650",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "궁동",
+      "diocese": "대전교구",
+      "phone": "042-825-7433",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "15/19"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수/10/19:30, 목/10/19:30, 금/10/19:30 ▶토요일 - 10/15/19 ▶주일 - 6/10:30/19"
+      },
+      "church_id": "201000651",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "규암",
+      "diocese": "대전교구",
+      "phone": "041-835-7261",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평 일 - 화/19, 수/10, 목/19, 금/10 ▶토요일 - 19 ▶주일 - 10"
+      },
+      "church_id": "201000652",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "금사리",
+      "diocese": "대전교구",
+      "phone": "041-832-5355",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "tue": [],
+          "wed": [],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/9 화/19:30 수/10 목/19:30 금/10 ▶토요일 - 19:30 ▶주일 - 10 ▶매월 첫, 토, 성모신심미사 - 10 * 동절기 10월 ~ 04월"
+      },
+      "church_id": "201000653",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "금산",
+      "diocese": "대전교구",
+      "phone": "041-752-7620",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19, 수/10, 목/19, 금/10, ▶토요일 - 17, ▶주일 - 6/10:30/19"
+      },
+      "church_id": "201000654",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "기지시",
+      "diocese": "대전교구",
+      "phone": "041-355-8014",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "(첫토"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6:30, 화/19:30, 수/10, 목/19:30, 금/10, ▶토요일 - 10(첫토, 성모신심미사)/17 ▶주일 - 10:30/19:30"
+      },
+      "church_id": "201000655",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "내동",
+      "diocese": "대전교구",
+      "phone": "042-526-4002",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수/10, 목/10, 금/10, ▶토요일 - 매월 첫 토요일 10시 / 매주 어린이, 청년 미사 18, ▶주일 - 6/10:30/19"
+      },
+      "church_id": "201000656",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "내포홍북",
+      "diocese": "대전교구",
+      "phone": "041-977-1787",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": "(어린이 청소년미사)",
+            "type": [
+              "어린이",
+              "청소년"
+            ]
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 -월/06:30, 화/19:30, 수/10:00, 목/19:30, 금/10:00 ▶토요일 -15:00(어린이 청소년미사), 19:30 ▶주일 - 10:30, 19:30"
+      },
+      "church_id": "201007995",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "노은동",
+      "diocese": "대전교구",
+      "phone": "042-476-7474",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [],
+          "wed": [],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "19"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": "10/15(어린이)/19(청년",
+            "type": [
+              "어린이",
+              "청년"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6 화/19 수/10,19 목/10,19 금/10,19 ▶토요일 - 10/19 ▶주일 - 8/10/15(어린이)/19(청년,청소년)"
+      },
+      "church_id": "201000657",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "논산내동",
+      "diocese": "대전교구",
+      "phone": "041-736-9551",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": "(교중)",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06:00, 화/19:30, 수/10:00, 목/19:30, 금/10:00 ▶토요일 - 17:30 ▶주일 - 10:00/19:30(교중)"
+      },
+      "church_id": "201000658",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "논산대교동",
+      "diocese": "대전교구",
+      "phone": "041-736-4013",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": "(어린이미사)",
+            "type": [
+              "어린이"
+            ]
+          },
+          {
+            "time": "18:00",
+            "note": "(청소년.특전)",
+            "type": [
+              "청소년",
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "(교중)/19",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6:30, 화/19, 수/10, 목/19, 금/10 ▶토요일 - 15(어린이미사), 18(청소년.특전) ▶주일 - 10:30(교중)/19 ▶상월공소 주일미사 - 매월 둘째 주일 14 ▶성광원공소 주일미사 - 매월 넷째 주일 14"
+      },
+      "church_id": "201000659",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "논산부창동",
+      "diocese": "대전교구",
+      "phone": "041-733-5321",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": "19"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": "10/19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19, 수/10/19, 목/10/19, 금/10/19, ▶토요일 - 15/19, ▶주일 - 6/10/19,"
+      },
+      "church_id": "201000660",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "다락골성지",
+      "diocese": "대전교구",
+      "phone": "041-943-8123",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "18"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19, 수/10/19, 목/10, 금/10/19 ▶토요일 - 10/18 ▶주일 - 6/8:30/10:30/19"
+      },
+      "church_id": null,
+      "match_method": "unmatched"
+    },
+    {
+      "parish_name": "당진",
+      "diocese": "대전교구",
+      "phone": "041-356-1555",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "18"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19, 수/10/19, 목/10, 금/10/19 ▶토요일 - 10/18 ▶주일 - 6/8:30/10:30/19"
+      },
+      "church_id": "201000661",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "당진수청",
+      "diocese": "대전교구",
+      "phone": "041-358-1717",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19, 수/10, 목/19, 금/10, ▶토요일 - 17 ▶주일 - 08:30/10:30/19:00"
+      },
+      "church_id": "201000661",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "대동",
+      "diocese": "대전교구",
+      "phone": "042-623-2043",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/7, 화/19, 수/10, 목/19, 금/10 ▶토요일 - 17 ▶주일 - 8/10:30"
+      },
+      "church_id": "201000662",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "대사동",
+      "diocese": "대전교구",
+      "phone": "042-253-1214",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [],
+          "wed": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "16/19"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": "10/15/19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06, 화19, 수/06/10, 목/06/19, 금/06/10 ▶토요일 - 10/16/19 ▶주일 - 06/10/15/19"
+      },
+      "church_id": "201000663",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "대산",
+      "diocese": "대전교구",
+      "phone": "041-681-8802",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06, 화/19:30, 수/10:30, 목/19:30, 금/10:30 ▶토요일 - 16 ▶주일 - 10:30/19:30"
+      },
+      "church_id": "201000664",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "대천",
+      "diocese": "대전교구",
+      "phone": "041-934-1214",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "16/19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19, 수/10, 목/10/19, 금/10/19 ▶토요일 - 19 ▶주일 - 7/10:30/16/19"
+      },
+      "church_id": "201000665",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "대천해수욕장",
+      "diocese": "대전교구",
+      "phone": "041-934-7758",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": "시"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 화/19시 수/10시 목/19시 금/10시 ▶토요일 - 17시 ▶주일 - 10:30"
+      },
+      "church_id": "201000666",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "대화동",
+      "diocese": "대전교구",
+      "phone": "042-625-3909",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6:30, 화/19:30, 수/10, 목/19:30, 금/10, ▶토요일 - 18, ▶주일 - 10/19"
+      },
+      "church_id": "201000667",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "대흥동",
+      "diocese": "대전교구",
+      "phone": "042-252-9611",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "06:00",
+            "note": "16/19"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": "10/15/17/19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/6/19, 수/10/19, 목/10/19, 금/10/1 ▶토요일 - 6/16/19 ▶주일 - 6/10/15/17/19"
+      },
+      "church_id": "201000636",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "대흥봉수산순교성지",
+      "diocese": "대전교구",
+      "phone": "041-333-0202",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "17:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06:00, 화/19:30, 수/10:30, 목/19:30, 금/10:30, ▶토요일 - 19:00 ▶주일 - 10:30/17:30"
+      },
+      "church_id": null,
+      "match_method": "unmatched"
+    },
+    {
+      "parish_name": "덕명동",
+      "diocese": "대전교구",
+      "phone": "042-826-3218",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "17:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06:00, 화/19:30, 수/10:30, 목/19:30, 금/10:30, ▶토요일 - 19:00 ▶주일 - 10:30/17:30"
+      },
+      "church_id": "201007189",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "덕산",
+      "diocese": "대전교구",
+      "phone": "010-5725-4355",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": "11"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 화/19, 수/10, 목/19, 금/10, ▶토요일 - 19 ▶주일 - 9/11"
+      },
+      "church_id": "201000668",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "도고",
+      "diocese": "대전교구",
+      "phone": "041-541-6789",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": "동절기 하절기 동일",
+            "recurrence": {
+              "season": "summer",
+              "raw": "동절기 하절기 동일"
+            }
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06:00 화/19:00), 수/10:00 목/19:00 금/10:00 ▶토요일 - 19:00 동절기 하절기 동일, ▶주일 - 09:00/11:00"
+      },
+      "church_id": "201000669",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "도룡동",
+      "diocese": "대전교구",
+      "phone": "042-863-0521",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "15"
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06:30, 화/19:30, 수/06:30/10, 목/06:30/10, 금/06:30/10 ▶토요일 - 10/15/19:30 ▶주일 - 08/10:30/19:30"
+      },
+      "church_id": "201000670",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "도마동",
+      "diocese": "대전교구",
+      "phone": "042-527-3782",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "(매월 첫 토요일 신심미사만 있음)/19",
+            "type": [
+              "신심"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": "10/19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06, 화/19:30, 수/10, 목/19:30, 금 /10 ▶토요일 - 10(매월 첫 토요일 신심미사만 있음)/19 ▶주일 - 08/10/19"
+      },
+      "church_id": "201000671",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "도안동",
+      "diocese": "대전교구",
+      "phone": "042-544-2214",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "17/19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06, 화/19:30, 수/10, 목/19:30, 금/10 ▶토요일 - 17 ▶주일 - 10:30/17/19"
+      },
+      "church_id": "201007185",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "둔산동",
+      "diocese": "대전교구",
+      "phone": "042-472-2960",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": "19"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "17/19"
+          }
+        ],
+        "special": [],
+        "raw": "▶ 평일 - 월/6, 화/19:30, 수/10/19:30, 목/10/19:30, 금/10/19:30, 토/10 ▶ 토요일 - 15/19 ▶ 주일 - 8:30/10:30/17/19"
+      },
+      "church_id": "201000672",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "둔포",
+      "diocese": "대전교구",
+      "phone": "041-531-6665",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/미사없음, 화/19:30, 수/10, 목/19:30, 금/10, ▶토요일 - 오후5시 토요가정미사 ▶주일 - 8:30/10:30/19:30"
+      },
+      "church_id": "201000673",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "만년동",
+      "diocese": "대전교구",
+      "phone": "042-489-9031",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": "19"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수/10, 목/19:30, 금/10 ▶토요일 - 16/19 ▶주일 - 8:30/10:30/19:30"
+      },
+      "church_id": "201000674",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "모산",
+      "diocese": "대전교구",
+      "phone": "041-548-1417",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": "시/18시30분"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "시/18시30분"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06시, 화/19시30분, 수/10시, 목/19시30분, 금/10시, ▶토요일 - 15시/18시30분, ▶주일 - 10시/18시30분"
+      },
+      "church_id": "201000675",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "목동",
+      "diocese": "대전교구",
+      "phone": "042-252-8001",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "09:00",
+            "note": "16(어린이)/18(중고등부",
+            "type": [
+              "어린이",
+              "중고등부"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "19(청년)",
+            "type": [
+              "청년"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19, 수/10:30, 목/10:30, 금/19 ▶토요일 - 9/16(어린이)/18(중고등부,특전) ▶주일 - 7/10:30/19(청년)"
+      },
+      "church_id": "201000676",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "목천",
+      "diocese": "대전교구",
+      "phone": "041-557-4322",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "15(공소:넷째 주일)",
+            "recurrence": {
+              "weeks": [
+                4
+              ],
+              "raw": "15(공소:넷째 주일)"
+            }
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06:30, 화/19, 수/19, 목/10. 금/10 ▶토요일 - 18 ▶주일 - 8:30/10:30/15(공소:넷째 주일)"
+      },
+      "church_id": "201000677",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "문창동",
+      "diocese": "대전교구",
+      "phone": "042-256-5652",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [],
+          "wed": [],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "17"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6 화/19:30 수/10:30 목/10:30 금/19:30 ▶토요일 - 16 ▶주일 - 6/10:30/17"
+      },
+      "church_id": "201000678",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "문화동",
+      "diocese": "대전교구",
+      "phone": "042-226-1220",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "17"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수/10, 목/19:30, 금/10 ▶토요일 - 17 ▶주일 - 10:30/17"
+      },
+      "church_id": "201000679",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "반석동",
+      "diocese": "대전교구",
+      "phone": "042-826-1412",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/09:00, 화/19:30, 수/10:30, 목/19:30, 금/10:30 ▶토요일 - 15/19:30 ▶주일 - 10:30/17:00"
+      },
+      "church_id": "201000680",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "배방",
+      "diocese": "대전교구",
+      "phone": "041-548-9154",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06, 화/19:30, 수/10 목/19:30, 금/10 ▶토요일 - 16/19:30 ▶주일 - 10:30/19:30"
+      },
+      "church_id": "201000681",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "버드내",
+      "diocese": "대전교구",
+      "phone": "042-525-2744",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06, 화/19:30, 수/10, 목/19:30, 금/10 ▶토요일 - 18 ▶주일 - 06/10:30/19"
+      },
+      "church_id": "201000682",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "법동",
+      "diocese": "대전교구",
+      "phone": "042-631-8081",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "[성모신심미사(매월 첫째주)]/18",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "[성모신심미사(매월 첫째주)]/18"
+            }
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수/10/19:30, 목/10/19:30, 금/10 ▶토요일 - 10[성모신심미사(매월 첫째주)]/18 ▶주일 - 6/8:30/10:30/19:30"
+      },
+      "church_id": "201000683",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "변동",
+      "diocese": "대전교구",
+      "phone": "042-527-9151",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": "동절기(1~3월) 토",
+            "recurrence": {
+              "months": [
+                1,
+                2,
+                3
+              ],
+              "season": "winter",
+              "raw": "동절기(1~3월) 토"
+            }
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6:30, 화/19:30, 수/10, 목/10, 금/10 동절기(1~3월) 화/19:00 ▶토- 19:30 동절기(1~3월) 토/19:00 ▶주일 - 6:30/10:30"
+      },
+      "church_id": "201000684",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "보령동대동",
+      "diocese": "대전교구",
+      "phone": "041-931-8827",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [],
+          "wed": [],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "(공소미사)"
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화,목/19, 수,금/10, ▶토요일 - 19 ▶주일 - 8:30/10:30/10:30(공소미사)10:30"
+      },
+      "church_id": "201000685",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "복수동",
+      "diocese": "대전교구",
+      "phone": "042-582-1784",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 화/19:30, 수/10:00, 목/19:30, 금/10:00 ▶토요일 - 19:00 ▶주일 - 10:00/17:00"
+      },
+      "church_id": "201000686",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "복지단체",
+      "diocese": "대전교구",
+      "phone": "042-635-1115",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "(매월 첫째주 토요일)",
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "(매월 첫째주 토요일)"
+            }
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "17"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06, 화/19:30, 수/10, 목/19:30 , 금/10 ▶토요일 - 10(매월 첫째주 토요일)/19:30 ▶주일 - 08/10:30/17"
+      },
+      "church_id": null,
+      "match_method": "unmatched"
+    },
+    {
+      "parish_name": "봉산동",
+      "diocese": "대전교구",
+      "phone": "042-935-1232",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "(매월 첫째주 토요일)",
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "(매월 첫째주 토요일)"
+            }
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "17"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06, 화/19:30, 수/10, 목/19:30 , 금/10 ▶토요일 - 10(매월 첫째주 토요일)/19:30 ▶주일 - 08/10:30/17"
+      },
+      "church_id": "201000687",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "부여",
+      "diocese": "대전교구",
+      "phone": "041-832-0712",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/미사없음, 화/19:00, 수/10:00, 목/19:00, 금/10:00 ▶토요일 - 19:00 ▶주일 - 10:30, 17:00"
+      },
+      "church_id": "201000688",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "산성동",
+      "diocese": "대전교구",
+      "phone": "042-581-4990",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "17"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19, 수/10, 목/19, 금/10 ▶토요일 - 19 ▶주일 - 10/17"
+      },
+      "church_id": "201000689",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "삼성동",
+      "diocese": "대전교구",
+      "phone": "042-627-3541",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": "*매월 첫주 10/18",
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "*매월 첫주 10/18"
+            }
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "18"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19, 수/10, 목/19, 금/10 ▶토요일 - 18 *매월 첫주 10/18 ▶주일 - 10/18"
+      },
+      "church_id": "201000690",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "삽교",
+      "diocese": "대전교구",
+      "phone": "041-338-1924",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [],
+          "thu": [],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": "10"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/7, 화/19:30 수/10 목/19:30, 금/10 ▶토요일 - 17 ▶주일 - 7/10"
+      },
+      "church_id": "201000691",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "서산동문동",
+      "diocese": "대전교구",
+      "phone": "041-669-1002",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "14:00",
+            "note": "(상홍리공소매월 첫주간 토요일 제외)/16/18",
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "(상홍리공소매월 첫주간 토요일 제외)/16/18"
+            }
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수/10/19:30, 목/10, 19:30, 금/10/19:30, ▶토요일 - 10[매월 첫주간 토요일], ▶토요특전 - 14(상홍리공소매월 첫주간 토요일 제외)/16/18, ▶주일 - 6/8:30/10:30/19/"
+      },
+      "church_id": "201000692",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "서산석림동",
+      "diocese": "대전교구",
+      "phone": "041-667-7033",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "17"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수/10, 목/19:30, 금/10 ▶토요일 - 19 ▶주일 -10/17"
+      },
+      "church_id": "201000693",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "서산예천동",
+      "diocese": "대전교구",
+      "phone": "041-668-2302",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:30",
+            "note": "(첫토"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "17"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 화/19, 수/10:30, 목/19, 금/10:30, ▶토요일 - 10:30(첫토, 성모신심미사)/17, ▶주일 - 7/10:30/17"
+      },
+      "church_id": "201000694",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "서천",
+      "diocese": "대전교구",
+      "phone": "041-951-9014",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [],
+        "special": [],
+        "raw": "▶평 일 - 월/6, 화/19:30, 수/10, 목/19:30, 금/10 ▶토요일 - 17 ▶주 일 - 6/8:30/10:30/19:30"
+      },
+      "church_id": "201000695",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "서천서면",
+      "diocese": "대전교구",
+      "phone": "041-953-9014",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6:00, 화/19:30, 수/10:00, 목/19:30, 금/10:00, ▶토요일 - 19:30 ▶주일 - 10:30"
+      },
+      "church_id": "201005374",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "선화동",
+      "diocese": "대전교구",
+      "phone": "042-255-8262",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": "시"
+          }
+        ],
+        "sunday": [],
+        "special": [],
+        "raw": "▶평 일 : 월/06시, 화/19시, 수/10시, 목/19시, 금/10시 ▶토요일 : 15시(어린이), 17시 ▶주 일 : 10시, 19시"
+      },
+      "church_id": "201000696",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "성남동",
+      "diocese": "대전교구",
+      "phone": "042-625-2662",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "[성모신심미사(매월첫째주)]/ 17",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "[성모신심미사(매월첫째주)]/ 17"
+            }
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": "10"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 화/19, 수/10, 목/19, 금/10, ▶토요일 -10[성모신심미사(매월첫째주)]/ 17 ▶주일 - 6/10"
+      },
+      "church_id": "201000698",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "성연",
+      "diocese": "대전교구",
+      "phone": "041-666-1713",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶토요일 - 17:00 ▶주일 - 10:30 / 17:00 ▶월요일 - 06:30 ▶화요일 - 19:30 ▶수요일 - 19:30 ▶목요일 - 10:00 ▶금요일 - 19:30"
+      },
+      "church_id": "201007996",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "성환",
+      "diocese": "대전교구",
+      "phone": "041-581-0393",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": "시(특전)",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [],
+        "special": [],
+        "raw": "▶평일 - 월/6시, 화/19시, 수/10시, 목/19시, 금/10시 ▶토요일 - 18시(특전) ▶주일 -오전6시(하절기 3월 - 10월) / 오전 7시 (동절기 11월 - 2월) 10시30분(교중) 소동공소(첫째주 15시) 신휴공소(둘째주 15시)"
+      },
+      "church_id": "201000699",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "세종도원",
+      "diocese": "대전교구",
+      "phone": "044-864-4560",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [],
+          "wed": [],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "(매월 첫주)/16/19",
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "(매월 첫주)/16/19"
+            }
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6. 화/19. 수/10. 목/19. 금/10. ▶토요일 - 10(매월 첫주)/16/19 ▶주일 - 10/19"
+      },
+      "church_id": "201007274",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "세종성바오로",
+      "diocese": "대전교구",
+      "phone": "044-865-0644",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": "(어린이)/19(특전)",
+            "type": [
+              "어린이",
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": "8"
+          },
+          {
+            "time": "10:30",
+            "note": "19(청년",
+            "type": [
+              "청년"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수/10/19:30, 목/10/19:30, 금/10/19:30 ▶토요일 - 15(어린이)/19(특전) ▶주일 - 6/8/10:30/19(청년,청소년)"
+      },
+      "church_id": "201007729",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "세종성베드로",
+      "diocese": "대전교구",
+      "phone": "044-867-0629",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "17시(청소년.청년미사)",
+            "type": [
+              "청소년",
+              "청년"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/7시, 화/19:30, 수/10시, 목/19:30, 금/10시, ▶토요일 - 어린이미사16(첫주제외)/ 19(특전미사) *첫토요일/10:00(성모신심미사) ▶주일 - 08:30/ 10:30/ 17시(청소년.청년미사)"
+      },
+      "church_id": "201008483",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "세종성요한",
+      "diocese": "대전교구",
+      "phone": "044-867-3217",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [],
+          "thu": [],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "19(청소년)",
+            "type": [
+              "청소년"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": "9/11(교중)",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "15:30",
+            "note": "(어린이)/19(청년)",
+            "type": [
+              "어린이",
+              "청년"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수,목,금/10/19:30 ▶토요일 - 10/19(청소년) ▶주일 - 6/9/11(교중)/15:30(어린이)/19(청년)"
+      },
+      "church_id": "201007728",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "세종성요한바오로2세",
+      "diocese": "대전교구",
+      "phone": "044-866-1784",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": "(어린이)",
+            "type": [
+              "어린이"
+            ]
+          },
+          {
+            "time": "19:30",
+            "note": "*첫토요일"
+          },
+          {
+            "time": "10:00",
+            "note": "(성모신심미사)",
+            "type": [
+              "신심"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "17"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/7, 화/19:30, 수/10, 목/19:30, 금/10, ▶토요일 - 15(어린이)/ 19:30 *첫토요일/10:00(성모신심미사) ▶주일 - 10:30/17"
+      },
+      "church_id": "201008443",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "세종성프란치스코",
+      "diocese": "대전교구",
+      "phone": "044-866-7181",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "16/19"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": "8/10/16/18"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/10/19:30, 수/10/19:30, 목/10/19:30, 금/6/10 ▶토요일 - 10/16/19 ▶주일 - 6/8/10/16/18"
+      },
+      "church_id": "201000756",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "송촌동",
+      "diocese": "대전교구",
+      "phone": "042-638-1071",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "18"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수/10:30, 목/19:30, 금/10:30, ▶토요일 -17, ▶주일 - 6:30/10:30/18,"
+      },
+      "church_id": "201000700",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "순성",
+      "diocese": "대전교구",
+      "phone": "041-354-5858",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수/10, 목/19:30, 금/10 ▶토요일 - 16/19:30 ▶주일 - 10:30"
+      },
+      "church_id": "201007273",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "신례원",
+      "diocese": "대전교구",
+      "phone": "041-334-7860",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": "(하."
+          },
+          {
+            "time": "19:30",
+            "note": ") *하절기:4월~9월",
+            "recurrence": {
+              "months": [
+                4
+              ],
+              "season": "summer",
+              "raw": ") *하절기:4월~9월"
+            }
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19(하19:30), 수/10 목/19(하19:30), 금/10 ▶토요일 - 19(하.19:30) *하절기:4월~9월 ▶주일 - 10"
+      },
+      "church_id": "201000701",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "신리성지",
+      "diocese": "대전교구",
+      "phone": "041-363-1359",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 화/11, 수/11, 목/11, 금/11, ▶토요일 - 11 ▶주일 - 11"
+      },
+      "church_id": "201003716",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "신탄진",
+      "diocese": "대전교구",
+      "phone": "042-932-3231",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "[성모신심미사(매월 첫째주)]/16/18",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "[성모신심미사(매월 첫째주)]/16/18"
+            }
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "17"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/07, 화/19, 수/10, 목/19, 금/10 ▶토요일 - 10[성모신심미사(매월 첫째주)]/16/18 ▶주일 - 8:00/10:30/17"
+      },
+      "church_id": "201000703",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "신평",
+      "diocese": "대전교구",
+      "phone": "041-363-6761",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [],
+        "special": [],
+        "raw": "▶평일 - 월(06:30) 화,목(19:30) 수,금(10:00) ▶토요일 - 18:00 ▶주일 - 새벽 06:30 교중10:00"
+      },
+      "church_id": "201000704",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "신합덕",
+      "diocese": "대전교구",
+      "phone": "041-362-5947",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/7, 화/19:30, 수/10, 목/19:30, 금/10 ▶토요일 - 19:30 ▶주일 - 9/10:30"
+      },
+      "church_id": "201000705",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "안면도",
+      "diocese": "대전교구",
+      "phone": "041-673-1071",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "15(누동공소)"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 화/19, 수/10:30, 목/19, 금/10:30, ▶토요일 - 19, ▶주일 - 10:30/15(누동공소)"
+      },
+      "church_id": "201000706",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "여사울성지",
+      "diocese": "대전교구",
+      "phone": "041-332-7860",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [],
+        "sunday": [],
+        "special": [],
+        "raw": "▶평일 - 화~ 토 오전 11시 ▶주일 - 오전 11,"
+      },
+      "church_id": "201000707",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "연무",
+      "diocese": "대전교구",
+      "phone": "041-741-4443",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06, 화/19:30(동.19), 수/10 목/10, 금/19:30(동.19), ▶토요일 -18:30, * 동절기 11월~3월 ▶주일 -10:30"
+      },
+      "church_id": "201000708",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "예산",
+      "diocese": "대전교구",
+      "phone": "041-332-2564",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": "10"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6:30, 화/19:30, 수/10, 목/10, 금/19:30, ▶토요일 - 17:30, ▶주일 - 6:30/10,"
+      },
+      "church_id": "201000709",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "예산산성리",
+      "diocese": "대전교구",
+      "phone": "041-334-0232",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일- 월/6, 화/19, 수/10, 목/19, 금/10 ▶토요일 /10(첫 토, 성모신심미사)/19 ▶주일 - 10/19"
+      },
+      "church_id": "201000710",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "옥계동",
+      "diocese": "대전교구",
+      "phone": "042-272-4561",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": "11"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/10, 화/19, 수/10, 목/10, 금/10 ▶토요일 - 19 ▶주일 - 8/11"
+      },
+      "church_id": "201000711",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "온양",
+      "diocese": "대전교구",
+      "phone": "041-548-3211",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06;00, 화/19:00, 수/10:00, 목/19:00, 금/10:00 ▶토요일 - 17:00 ▶주일 - 10:30/19:00"
+      },
+      "church_id": "201000712",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "온양모종동",
+      "diocese": "대전교구",
+      "phone": "041-547-5660",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "05:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "18"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/5:30, 화/19, 수/10, 목/19, 금/10 ▶토요일 - 16 ▶주일 - 10:30/18"
+      },
+      "church_id": "201005375",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "온양신정동",
+      "diocese": "대전교구",
+      "phone": "041-534-2324",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "11:00",
+            "note": "(매월 첫주 토요일만 순교/성모 신심)/17(토요일주일저녁)",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "(매월 첫주 토요일만 순교/성모 신심)/17(토요일주일저녁)"
+            }
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "17"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19, 수/10, 목/19, 금/10 ▶토요일 - 11(매월 첫주 토요일만 순교/성모 신심)/17(토요일주일저녁) ▶주일 - 10/17"
+      },
+      "church_id": "201000713",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "온양용화동",
+      "diocese": "대전교구",
+      "phone": "041-544-2255",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "17"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19, 수/10, 목/19, 금/10, ▶토요일 - 19 ▶주일 - 6/10:30/17"
+      },
+      "church_id": "201000714",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "온양풍기동",
+      "diocese": "대전교구",
+      "phone": "041-541-3070",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": "* 동절기",
+            "recurrence": {
+              "season": "winter",
+              "raw": "* 동절기"
+            }
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "19 (12월~2월 월요일 새벽미사 없음)",
+            "type": [
+              "새벽"
+            ],
+            "recurrence": {
+              "months": [
+                12
+              ],
+              "raw": "19 (12월~2월 월요일 새벽미사 없음)"
+            }
+          }
+        ],
+        "special": [],
+        "raw": "▶ 평일 - 월/6, 화/19:30, 수/10, 목/19:30, 금/10 ▶ 토요일 - 17 * 동절기 ▶ 주일 - 10/19 (12월~2월 월요일 새벽미사 없음)"
+      },
+      "church_id": "201003886",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "용전동",
+      "diocese": "대전교구",
+      "phone": "042-624-8117",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": "10/17"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19, 수/10, 목/19, 금/10, ▶토요일 -10 ▶주일 - 6/10/17"
+      },
+      "church_id": "201000715",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "운산",
+      "diocese": "대전교구",
+      "phone": "041-664-9677",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": "시"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 화/19시, 수/10:30, 목/19시, 금/10:30 ▶토요일 - 19시 ▶주일 - 10:30"
+      },
+      "church_id": "201000716",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "웅천",
+      "diocese": "대전교구",
+      "phone": "041-934-1335",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 화/19, 수/10:30 목/10:30 금/10:30 ▶토요일 - ▶주일 - 10:30"
+      },
+      "church_id": "201007275",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "원신흥동",
+      "diocese": "대전교구",
+      "phone": "042-824-2283",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "18"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "15/19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수/10/19:30, 목/10/19:30, 금/10 ▶토요일 - 10/18 ▶주일 - 8:30/10:30/15/19"
+      },
+      "church_id": "201003880",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "월평동",
+      "diocese": "대전교구",
+      "phone": "042-483-6014",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": null
+          },
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수/10:00/19:30, 목/10/19:30, 금/10:00 ▶토요일 - 15/18:30 ▶주일 - 6/8:30/10:30/19:30"
+      },
+      "church_id": "201000717",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "유구",
+      "diocese": "대전교구",
+      "phone": "041-841-9431",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30(동,19), 수/10, 목/19:30(동,19), 금/10, ▶토요일 - 18 ▶주일 - 10"
+      },
+      "church_id": "201000718",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "유성",
+      "diocese": "대전교구",
+      "phone": "042-823-4751",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "17"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19, 수/10, 목/19, 금/10 ▶토요일 - 19 ▶주일 - 10/17"
+      },
+      "church_id": "201000719",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "유천동",
+      "diocese": "대전교구",
+      "phone": "042-583-4712",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "17"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19, 수/10, 목/19, 금/10, ▶토요일 - 19, ▶주일 - 10/17"
+      },
+      "church_id": "201000720",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "응봉",
+      "diocese": "대전교구",
+      "phone": "041-331-1924",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": "(동.19) *동절기(10-3월)",
+            "recurrence": {
+              "season": "winter",
+              "raw": "(동.19) *동절기(10-3월)"
+            }
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 화/19:30(동.19), 수/10, 목/19:30(동.19), 금/19:30(동.19) ▶토요일 - 19:30(동.19) *동절기(10-3월) ▶주일 - 10"
+      },
+      "church_id": "201000721",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "입장",
+      "diocese": "대전교구",
+      "phone": "041-585-4872",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/9시, 화/19:30, 수/10:30, 목/19:30, 금/10:30, ▶토요일 - 19 ▶주일 - 10:30/19:30"
+      },
+      "church_id": "201000722",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "자양동",
+      "diocese": "대전교구",
+      "phone": "042-625-1770",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": "시"
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06, 화/19, 수/10, 목/10, 금/19 ▶토요일 - 17 ▶주일 - 6시/10:30"
+      },
+      "church_id": "201000723",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "장재",
+      "diocese": "대전교구",
+      "phone": "041-549-7657",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "(교중)",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "16:00",
+            "note": "(주일학교)"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06:30, 화/19:30, 수/10:30, 목/19:30, 금/10:30, (매월) 첫토/10:30 (복되신 동정 마리아 신심 미사) ▶토요일 주일미사 - 19:30 ▶주일 - 08:00 / 10:30(교중) / 16:00(주일학교)"
+      },
+      "church_id": "201000724",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "장항",
+      "diocese": "대전교구",
+      "phone": "041-956-0661",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "."
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수/10, 목/10, 금/19:30, ▶토요일 - 17, ▶주일 - 6/10:30."
+      },
+      "church_id": "201000725",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "전민동",
+      "diocese": "대전교구",
+      "phone": "042-863-8803",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "19(중고등부)",
+            "type": [
+              "중고등부"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "15(어린이)/19(청년)/21",
+            "type": [
+              "어린이",
+              "청년"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:00, 수/10/19:00, 목/10/19:00, 금/10:30/19:00 ▶토요일 - 10/19(중고등부) ▶주일 - 6/10:30/15(어린이)/19(청년)/21"
+      },
+      "church_id": "201000726",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "전의",
+      "diocese": "대전교구",
+      "phone": "044-863-2172",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [],
+        "sunday": [],
+        "special": [],
+        "raw": "▶평일 - 월 06:30(동9)/ 화 19:30(동19)/ 수 10/ 목 (첫목,성시간) 19:30(동19) / 금 10 ▶토요일 - (첫토, 성모신심미사)10 / 특전미사 19:30(동 19) ▶일요일 - 10 동절기 : 대림시기~예수부활대축일까지"
+      },
+      "church_id": "201000727",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "정림동",
+      "diocese": "대전교구",
+      "phone": "042-584-2244",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶ 평일 - 월/6 :30, 화/19:30, 수/10, 목/19:30, 금/10, ▶ 토요일 - 17, ▶ 주일 - 8:30/10:30"
+      },
+      "church_id": "201000728",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "조치원",
+      "diocese": "대전교구",
+      "phone": "044-863-5321",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": "8(노송공소)"
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19, 수/10, 목/19, 금/10 ▶토요일 -17 ▶주일 - 6/8(노송공소)/10:30"
+      },
+      "church_id": "201000729",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "죽동",
+      "diocese": "대전교구",
+      "phone": "042-826-4627",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "(첫주)/16(어린이)/19(학생청년)",
+            "type": [
+              "어린이",
+              "학생",
+              "청년"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "(첫주)/16(어린이)/19(학생청년)"
+            }
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "17"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6:30, 화/19:30, 수/10, 목/19:30, 금/10, ▶토요일 - 10(첫주)/16(어린이)/19(학생청년) ▶주일 - 10:30/17"
+      },
+      "church_id": "201007967",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "직산",
+      "diocese": "대전교구",
+      "phone": "041-583-9153",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "15"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06, 화/19, 수/10, 목/10, 금/10 ▶토요일 - 19, ▶주일 - 09/10:30/15"
+      },
+      "church_id": "201000731",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "진산성지",
+      "diocese": "대전교구",
+      "phone": "041-752-6249",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:30",
+            "note": "(국가등록문화유산성당)"
+          },
+          {
+            "time": "10:00",
+            "note": "(성지성당)-교중미사",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 화/11:00, 수/11:00, 목/11:00, 금/11:00 ▶토요일 - 11:00 ▶주일 - 07:30(국가등록문화유산성당), 10:00(성지성당)-교중미사"
+      },
+      "church_id": "201000732",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "진잠",
+      "diocese": "대전교구",
+      "phone": "042-542-7004",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6 화/19:30, 수/10:30, 목/19:30, 금/10:30 ▶토요일 - 16 /19:30 ▶주일 - 6/10:30/19:30"
+      },
+      "church_id": "201000733",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "천안구룡동",
+      "diocese": "대전교구",
+      "phone": "041-578-7552",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "11:00",
+            "note": "(신심)/16(학생)/19",
+            "type": [
+              "학생",
+              "신심"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19, 수/10, 목/19, 금/10, ▶토요일 - 11(신심)/16(학생)/19, ▶주일 - 10/19,"
+      },
+      "church_id": "201000739",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "천안두정동",
+      "diocese": "대전교구",
+      "phone": "041-523-1201",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "16/19"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/7, 화/19:30, 수/10/19:30, 목/10/19:30, 금/10/19:30, ▶토요일 - 10/16/19 ▶주일 - 7/10:30/19"
+      },
+      "church_id": "201000734",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "천안봉명동",
+      "diocese": "대전교구",
+      "phone": "041-574-7411",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": "(첫 토요일 - 10시"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": "10"
+          },
+          {
+            "time": "17:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06:30, 화/19, 수/10, 목/19, 금/10 ▶토요일 - 19(첫 토요일 - 10시, 성모신심미사) ▶주일 - 6:30/10/17:30"
+      },
+      "church_id": "201000735",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "천안불당2동",
+      "diocese": "대전교구",
+      "phone": "041-523-0230",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": "18"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "18"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일- 월/09, 화/19:30, 수/19:30, 목/19:30, 금/10, ▶토요일- 15/18, ▶주일- 10:30/18"
+      },
+      "church_id": "201007929",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "천안불당동",
+      "diocese": "대전교구",
+      "phone": "041-621-8311",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": "(주일학교)"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "(교중)",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6:30, 화/19:30, 수/10:30, 목/19:30, 금/10:30, ▶토요일 - 18:00(주일학교) ▶주일-10:30(교중), 17"
+      },
+      "church_id": "201000736",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "천안성정동",
+      "diocese": "대전교구",
+      "phone": "041-579-3220",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [],
+          "fri": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:30",
+            "note": "16"
+          },
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": "9"
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수/10/19:30, 목10/19:30, 금/6/10, ▶토요일 - 10:30/16/18:30, ▶주일 - 7/9/10:30/18:30,"
+      },
+      "church_id": "201000737",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "천안신방동",
+      "diocese": "대전교구",
+      "phone": "041-576-7611",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "16"
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": "10"
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수/19:30, 목/10, 금/10 ▶토요일 - 10/16/19:30 ▶주일 - 7/10/19:30"
+      },
+      "church_id": "201000738",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "천안신부동",
+      "diocese": "대전교구",
+      "phone": "041-568-1711",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "16/19"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19, 수/10/19, 목/10/19, 금/10/19, ▶토요일 -10/16/19, ▶주일 - 6/8:30/10:30/19"
+      },
+      "church_id": "201000740",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "천안쌍용2동",
+      "diocese": "대전교구",
+      "phone": "041-579-0093",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": "19"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수/10, 목/19:30, 금/10, ▶토요일 - 15/19 ▶주일 - 8/10:30/19"
+      },
+      "church_id": "201000742",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "천안쌍용3동",
+      "diocese": "대전교구",
+      "phone": "041-565-9700",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": "19"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "매월 마지막주 토 15시 어린이미사는 가정주일로 없음",
+            "type": [
+              "어린이",
+              "가정"
+            ],
+            "recurrence": {
+              "weeks": [
+                -1
+              ],
+              "raw": "매월 마지막주 토 15시 어린이미사는 가정주일로 없음"
+            }
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 화/19:30, 수/10 목/19:30, 금/10 ▶토요일 - 17/19 ▶주일 - 8/10:30 매월 마지막주 토 15시 어린이미사는 가정주일로 없음"
+      },
+      "church_id": "201000743",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "천안쌍용동",
+      "diocese": "대전교구",
+      "phone": "041-571-4787",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "06:00",
+            "note": "16"
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:00, 수/10/19:00, 목/19:00, 금/10/19:00 ▶토요일 - 6/16/19:00 ▶주일 - 6/8:30/10:30/19:00"
+      },
+      "church_id": "201000741",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "천안오룡동",
+      "diocese": "대전교구",
+      "phone": "041-567-9667",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "18"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19, 수/10, 목/19, 금/10 ▶토요일 - 19 ▶주일 - 6 / 10:30 / 18"
+      },
+      "church_id": "201000744",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "천안용곡동",
+      "diocese": "대전교구",
+      "phone": "041-578-2253",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "17"
+          }
+        ],
+        "special": [],
+        "raw": "▶ 평일 - 월/9, 화/19:30, 수/10, 목/19:30, 금/10, ▶ 토요일 - 16/19:30 ▶ 주일 - 10/17"
+      },
+      "church_id": "201007731",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "천안원성동",
+      "diocese": "대전교구",
+      "phone": "041-551-5744",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "tue": [],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": "10/19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/09 화/19, 수/10, 목/19, 금/10, ▶토요일 - 18 ▶주일 - 06/10/19"
+      },
+      "church_id": "201000745",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "천안월랑",
+      "diocese": "대전교구",
+      "phone": "041-541-3217",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:30",
+            "note": "(첫 토요일 -"
+          },
+          {
+            "time": "10:30",
+            "note": "성모신심)",
+            "type": [
+              "신심"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수/10:30, 목/19:30, 금/10:30, ▶토요일 - 17:30 (첫 토요일 - 10:30 성모신심) ▶주일 - 10:30, 19:30"
+      },
+      "church_id": "201007276",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "천안청당동",
+      "diocese": "대전교구",
+      "phone": "041-567-9663",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수/10, 목/19:30, 금/10 ▶토요일 - 15/19:30 ▶주일 - 10:30/19:30"
+      },
+      "church_id": "201007186",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "청양",
+      "diocese": "대전교구",
+      "phone": "041-943-6123",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "* 정산성지미사 - 주일 후 둘째"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19, 수/10, 목/19, 금/10 ▶토요일 - 17, * 하절기 4월-9월 ▶주일 - 9/10:30 * 정산성지미사 - 주일 후 둘째,넷째 주 목11"
+      },
+      "church_id": "201000746",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "탄방동",
+      "diocese": "대전교구",
+      "phone": "042-485-1009",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          },
+          {
+            "time": "20:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/07:00, 화/19:30, 수/10:00/19:30 목/07:00/19:30, 금/10:00/19:30 ▶토요일 - 10:00/19:00 ▶주일 - 07:00/10:00/16:00/18:00/20:00"
+      },
+      "church_id": "201000747",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "태안",
+      "diocese": "대전교구",
+      "phone": "041-674-1004",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 화/19:30, 수/10, 목19:30, 금/10 ▶토요일 -15/19:30 ▶주일 - 08:00/10:30/19"
+      },
+      "church_id": "201000748",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "태평동",
+      "diocese": "대전교구",
+      "phone": "042-527-6661",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19, 수/10 목/19 금/10 ▶토요일- 18 ▶주일 - 8:30/10:30"
+      },
+      "church_id": "201000749",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "판암동",
+      "diocese": "대전교구",
+      "phone": "042-272-5995",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": "10"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/09, 화/19, 수/10, 목/19, 금/10 ▶토요일 - 10, 17 ▶주일 - 07 / 10"
+      },
+      "church_id": "201000750",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "하기동",
+      "diocese": "대전교구",
+      "phone": "042-823-7621",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "19"
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30, 수/10:30, 목/19:30, 금/10:30 ▶토요일 - 17 ▶주일 - 10:30/19"
+      },
+      "church_id": "201000751",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "하부내포성지",
+      "diocese": "대전교구",
+      "phone": "041-836-9625",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6:30, 화/19:30, 수/10:30, 목/19:30, 금/10:30 ▶토요일 -19:30 ▶주일 - 10:30"
+      },
+      "church_id": null,
+      "match_method": "unmatched"
+    },
+    {
+      "parish_name": "한산",
+      "diocese": "대전교구",
+      "phone": "041-953-8835",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6:30, 화/19:30, 수/10:30, 목/19:30, 금/10:30 ▶토요일 -19:30 ▶주일 - 10:30"
+      },
+      "church_id": "201006525",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "합덕",
+      "diocese": "대전교구",
+      "phone": "041-363-1061",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "17:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": "(동.7)/10(교중) *동절기(11-3월)",
+            "type": [
+              "교중"
+            ],
+            "recurrence": {
+              "season": "winter",
+              "raw": "(동.7)/10(교중) *동절기(11-3월)"
+            }
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6(동.7), 화/17, 수/10, 목/10, 금/10 ▶토요일 - 17 ▶주일 - 6(동.7)/10(교중) *동절기(11-3월)"
+      },
+      "church_id": "201000752",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "해미",
+      "diocese": "대전교구",
+      "phone": "041-688-1557",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": "(동.19) *동절기 11월~2월",
+            "recurrence": {
+              "months": [
+                11
+              ],
+              "season": "winter",
+              "raw": "(동.19) *동절기 11월~2월"
+            }
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/6, 화/19:30(동.19), 수/10, 목/19:30(동.19), 금/19:30(동.19) ▶토요일 - 19:30(동.19) *동절기 11월~2월 ▶주일 - 6:00,10:00"
+      },
+      "church_id": "201000753",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "홍산",
+      "diocese": "대전교구",
+      "phone": "041-836-0067",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:30",
+            "note": "(첫 토 성모신심)",
+            "type": [
+              "신심"
+            ]
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "▶평일 - 월/06, 화/19:30, 수/10:30, 목/19:30, 금/10:30 ▶토요일 - 10:30(첫 토 성모신심), 19:30 ▶주일 - 10:30"
+      },
+      "church_id": "201000754",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "홍성",
+      "diocese": "대전교구",
+      "phone": "041-633-8891",
+      "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [],
+        "special": [],
+        "raw": "▶평 일 - 월/6:00, 화/19:30, 수/10:00/19:30, 목/10:00 금/10:00/19:30 ▶토요일 - 10:00/16:00/18:30 ▶주 일 - 6:00/8:30(공소)/10:30/19:00"
+      },
+      "church_id": "201000755",
+      "match_method": "phone"
+    }
+  ]
+}

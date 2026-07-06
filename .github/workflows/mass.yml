@@ -1,0 +1,44 @@
+name: Collect mass times
+
+on:
+  schedule:
+    # 매주 월요일 21:00 UTC = 화요일 06:00 KST (미사시간은 주 단위로 갱신)
+    - cron: "0 21 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mass
+  cancel-in-progress: false
+
+jobs:
+  mass:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Collect mass times
+        run: python scraper/mass/run.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/mass.json data/mass/
+          if git diff --staged --quiet; then
+            echo "변경 사항 없음 — 커밋 생략"
+          else
+            git commit -m "mass: update $(date -u +'%Y-%m-%d')"
+            git push
+          fi
