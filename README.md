@@ -67,14 +67,9 @@ churches = requests.get(url).json()["churches"]
 | `patron` | string\|null | 주보 |
 | `believers` | int\|null | 신자수 |
 | `mission_stations` | int\|null | 공소수 |
-| `source_url` | string | 원본 상세 페이지 |
-
-**좌표 필드**
-
-| 키 | 타입 | 설명 |
-|----|------|------|
 | `lat` / `lng` | float\|null | 위도 / 경도 (WGS84) |
 | `geocode_status` | string | `matched`(좌표 확보) / `refined_only` / `failed` / `skipped` |
+| `source_url` | string | 원본 상세 페이지 |
 
 > 군부대·사서함 등 일부 주소는 좌표를 얻을 수 없어 `geocode_status`가 `failed`이며,
 > 이 경우에도 원본 `address`는 그대로 제공됩니다.
