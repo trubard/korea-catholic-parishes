@@ -1,0 +1,87 @@
+{
+  "generated_at": "2026-07-06T17:47:46+00:00",
+  "source": "https://directory.cbck.or.kr/OnlineAddress/SearchList.aspx",
+  "count": 1789,
+  "dioceses": [
+    {
+      "diocese": "서울대교구",
+      "diocese_id": "201000011",
+      "count": 233
+    },
+    {
+      "diocese": "수원교구",
+      "diocese_id": "201000018",
+      "count": 222
+    },
+    {
+      "diocese": "대구대교구",
+      "diocese_id": "201000021",
+      "count": 164
+    },
+    {
+      "diocese": "대전교구",
+      "diocese_id": "201000016",
+      "count": 144
+    },
+    {
+      "diocese": "광주대교구",
+      "diocese_id": "201000026",
+      "count": 142
+    },
+    {
+      "diocese": "인천교구",
+      "diocese_id": "201000017",
+      "count": 135
+    },
+    {
+      "diocese": "부산교구",
+      "diocese_id": "201000022",
+      "count": 126
+    },
+    {
+      "diocese": "전주교구",
+      "diocese_id": "201000027",
+      "count": 96
+    },
+    {
+      "diocese": "군종교구",
+      "diocese_id": "201000029",
+      "count": 95
+    },
+    {
+      "diocese": "의정부교구",
+      "diocese_id": "201000020",
+      "count": 87
+    },
+    {
+      "diocese": "청주교구",
+      "diocese_id": "201000023",
+      "count": 82
+    },
+    {
+      "diocese": "마산교구",
+      "diocese_id": "201000024",
+      "count": 75
+    },
+    {
+      "diocese": "춘천교구",
+      "diocese_id": "201000013",
+      "count": 62
+    },
+    {
+      "diocese": "원주교구",
+      "diocese_id": "201000019",
+      "count": 54
+    },
+    {
+      "diocese": "안동교구",
+      "diocese_id": "201000025",
+      "count": 41
+    },
+    {
+      "diocese": "제주교구",
+      "diocese_id": "201000028",
+      "count": 31
+    }
+  ]
+}
