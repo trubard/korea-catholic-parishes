@@ -28,6 +28,93 @@ from bs4 import BeautifulSoup
 WEEKDAYS = ("mon", "tue", "wed", "thu", "fri")
 _TIME_RE = re.compile(r"(\d{1,2}):(\d{2})")
 
+# --- 주기 조건(recurrence) 파싱 ---
+_ORD = {"첫": 1, "둘": 2, "셋": 3, "넷": 4, "다섯": 5}
+_ORD_RE = re.compile(r"(첫|둘|셋|넷|다섯)째?\s*주")
+_WEEK_EXCLUDE_RE = re.compile(r"주\s*(?:에는\s*)?제외")
+_MONTH_EX_RE = re.compile(r"([\d,\s·~\-]+)\s*월\s*(?:에는\s*)?제외")
+_MONTH_RE = re.compile(r"([\d,\s·~\-]+)\s*월")
+
+
+def _parse_months(seg: str) -> list[int]:
+    months: set[int] = set()
+    for part in re.split(r"[,\s·]+", seg.replace("·", ",").strip()):
+        if not part:
+            continue
+        rng = re.match(r"(\d+)\s*[-~]\s*(\d+)$", part)
+        if rng:
+            months.update(range(int(rng.group(1)), int(rng.group(2)) + 1))
+        elif part.isdigit():
+            months.add(int(part))
+    return sorted(m for m in months if 1 <= m <= 12)
+
+
+def parse_recurrence(note: str | None) -> dict | None:
+    """미사 note 에서 주기 조건을 추출. 조건 없으면 None(=매주 정규).
+
+    weeks / weeks_exclude: 해당 주차에만 / 해당 주차 제외 (1=첫째, -1=마지막)
+    months / months_exclude: 해당 월에만 / 해당 월 제외
+    season: 'summer'(하절기) / 'winter'(동절기)
+    """
+    if not note:
+        return None
+    weeks: set = set()
+    for m in _ORD_RE.finditer(note):
+        weeks.add(_ORD[m.group(1)])
+    if re.search(r"첫\s*주(?!\s*보)", note):  # '첫 주'(주보 제외)
+        weeks.add(1)
+    if "홀수" in note:
+        weeks.update({1, 3, 5})
+    if "짝수" in note:
+        weeks.update({2, 4})
+    if re.search(r"(마지막|말)\s*주", note):
+        weeks.add(-1)
+
+    rec: dict = {}
+    if weeks:
+        key = "weeks_exclude" if _WEEK_EXCLUDE_RE.search(note) else "weeks"
+        rec[key] = sorted(weeks)
+
+    mex = _MONTH_EX_RE.search(note)
+    if mex:
+        months = _parse_months(mex.group(1))
+        if months:
+            rec["months_exclude"] = months
+    else:
+        mon = _MONTH_RE.search(note)
+        if mon:
+            months = _parse_months(mon.group(1))
+            if months:
+                rec["months"] = months
+
+    if "하절기" in note or "여름" in note:
+        rec["season"] = "summer"
+    elif "동절기" in note or "겨울" in note:
+        rec["season"] = "winter"
+
+    if not rec:
+        return None
+    rec["raw"] = note
+    return rec
+
+
+# --- 미사 성격(type) 분류 ---
+# 긴 것 우선(초중고 > 중고등부 > 학생 등 부분일치 충돌 방지)
+_TYPE_KEYWORDS = (
+    "교중", "새벽", "유아", "어린이", "초중고", "중고등부", "학생",
+    "청소년", "대학생", "청년", "가족", "가정", "장년", "성시간",
+    "특전", "신심", "군인", "외국인", "영어",
+)
+
+
+def parse_type(note: str | None) -> list[str] | None:
+    """note 에서 미사 성격/대상을 분류. 예: '청년, 학생' -> ['청년','학생']."""
+    if not note:
+        return None
+    found = [t for t in _TYPE_KEYWORDS if t in note]
+    # 중복/포함 정리: 다른 키워드의 부분집합이면 제거(예: '학생'이 '초중고'와 함께면 유지 OK)
+    return found or None
+
 
 def get_soup(session: requests.Session, url: str, encoding: str = "utf-8",
              headers: dict | None = None) -> BeautifulSoup:
@@ -54,8 +141,15 @@ def parse_time_cell(text: str) -> list[dict]:
         time = f"{hh:02d}:{m.group(2)}"
         start = m.end()
         end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
-        note = text[start:end].strip(" ,/·")
-        entries.append({"time": time, "note": note or None})
+        note = text[start:end].strip(" ,/·") or None
+        entry = {"time": time, "note": note}
+        types = parse_type(note)
+        if types:
+            entry["type"] = types
+        rec = parse_recurrence(note)
+        if rec:
+            entry["recurrence"] = rec
+        entries.append(entry)
     return entries
 
 
