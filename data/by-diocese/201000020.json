@@ -22,8 +22,6 @@
       "believers": 2317,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000255&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 일산서구 송포로391번길 10 (가좌동)",
-      "address_detail": null,
       "lat": 37.698322882972484,
       "lng": 126.72556363070586,
       "geocode_status": "matched"
@@ -45,8 +43,6 @@
       "believers": 60,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201008040&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 파주시 법원읍 화합로466번길 25",
-      "address_detail": null,
       "lat": 37.846066823184096,
       "lng": 126.91514894505488,
       "geocode_status": "matched"
@@ -68,8 +64,6 @@
       "believers": 855,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201008039&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 구리시 산마루로 76 (갈매동)",
-      "address_detail": null,
       "lat": 37.629227853612775,
       "lng": 127.12147669710387,
       "geocode_status": "matched"
@@ -91,8 +85,6 @@
       "believers": 0,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201008880&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 의정부시 잔돌길 30 (산곡동)",
-      "address_detail": null,
       "lat": 37.72902573724524,
       "lng": 127.1141265480693,
       "geocode_status": "matched"
@@ -114,8 +106,6 @@
       "believers": 2052,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000256&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 덕양구 푸른마을로 36 (고양동)",
-      "address_detail": null,
       "lat": 37.71094929514868,
       "lng": 126.90528325408152,
       "geocode_status": "matched"
@@ -137,8 +127,6 @@
       "believers": 1987,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000257&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 양주시 고읍로 56 (고읍동)",
-      "address_detail": null,
       "lat": 37.79779152767244,
       "lng": 127.07789732577623,
       "geocode_status": "matched"
@@ -160,8 +148,6 @@
       "believers": 1461,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000258&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 덕양구 통일로966번길 38 (관산동)",
-      "address_detail": null,
       "lat": 37.701743455376565,
       "lng": 126.8602366362775,
       "geocode_status": "matched"
@@ -183,8 +169,6 @@
       "believers": 3000,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000259&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 남양주시 진접읍 해밀예당3로 146",
-      "address_detail": null,
       "lat": 37.72220988411001,
       "lng": 127.19487853241222,
       "geocode_status": "matched"
@@ -206,8 +190,6 @@
       "believers": 681,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000260&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 양주시 광적면 광적로65번길 122",
-      "address_detail": null,
       "lat": 37.82662183540758,
       "lng": 126.97536908361357,
       "geocode_status": "matched"
@@ -229,8 +211,6 @@
       "believers": 596,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000261&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 파주시 광탄면 심궁로 76-38",
-      "address_detail": null,
       "lat": 37.7777243061481,
       "lng": 126.85905289991511,
       "geocode_status": "matched"
@@ -252,8 +232,6 @@
       "believers": 3012,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000262&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 파주시 책향기숲길 62 (동패동)",
-      "address_detail": null,
       "lat": 37.718995833030824,
       "lng": 126.71566223958713,
       "geocode_status": "matched"
@@ -275,8 +253,6 @@
       "believers": 4213,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000263&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 구리시 안골로64번길 42 (수택동)",
-      "address_detail": null,
       "lat": 37.596793401593,
       "lng": 127.14060537162584,
       "geocode_status": "matched"
@@ -298,8 +274,6 @@
       "believers": 915,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000264&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 남양주시 경춘로1015번길 29 (금곡동)",
-      "address_detail": null,
       "lat": 37.63740130535639,
       "lng": 127.21463950555062,
       "geocode_status": "matched"
@@ -321,8 +295,6 @@
       "believers": 2015,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000265&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 파주시 금정28길 13-17 (금촌동)",
-      "address_detail": null,
       "lat": 37.7644426766191,
       "lng": 126.77319456461424,
       "geocode_status": "matched"
@@ -344,8 +316,6 @@
       "believers": 2875,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000266&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 파주시 한마음1길 12 (금촌동)",
-      "address_detail": null,
       "lat": 37.75609070171816,
       "lng": 126.77132543736323,
       "geocode_status": "matched"
@@ -367,8 +337,6 @@
       "believers": 2133,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000267&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 의정부시 비우로 99 (녹양동)",
-      "address_detail": null,
       "lat": 37.758654094965074,
       "lng": 127.0374024521127,
       "geocode_status": "matched"
@@ -390,8 +358,6 @@
       "believers": 3906,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000268&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 덕양구 토당로78번길 7-14 (토당동)",
-      "address_detail": null,
       "lat": 37.623213952894915,
       "lng": 126.81949799667937,
       "geocode_status": "matched"
@@ -413,8 +379,6 @@
       "believers": 708,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201008390&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 남양주시 미금로 91 (다산동)",
-      "address_detail": null,
       "lat": 37.61263396809013,
       "lng": 127.15381986927869,
       "geocode_status": "matched"
@@ -436,8 +400,6 @@
       "believers": 0,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201008689&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 파주시 범벅들길 89 (다율동)",
-      "address_detail": null,
       "lat": 37.743505191902344,
       "lng": 126.73344161309167,
       "geocode_status": "matched"
@@ -459,8 +421,6 @@
       "believers": 3419,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000269&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 일산서구 성저로 58 (대화동)",
-      "address_detail": null,
       "lat": 37.68448628228459,
       "lng": 126.75343519900585,
       "geocode_status": "matched"
@@ -482,8 +442,6 @@
       "believers": 1979,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000270&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 일산서구 대화1로 12-14 (대화동)",
-      "address_detail": null,
       "lat": 37.669665819576096,
       "lng": 126.7303785540753,
       "geocode_status": "matched"
@@ -505,8 +463,6 @@
       "believers": 1045,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201006726&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 양주시 덕계서안길 7 (덕계동)",
-      "address_detail": null,
       "lat": 37.82306991156951,
       "lng": 127.04180918969065,
       "geocode_status": "matched"
@@ -528,8 +484,6 @@
       "believers": 6100,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000271&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 남양주시 와부읍 수레로 88-21",
-      "address_detail": null,
       "lat": 37.59079730753807,
       "lng": 127.22023766494584,
       "geocode_status": "matched"
@@ -551,8 +505,6 @@
       "believers": 3440,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000272&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 양주시 화합로 1457-17 (고암동)",
-      "address_detail": null,
       "lat": 37.84010057008004,
       "lng": 127.07083030119637,
       "geocode_status": "matched"
@@ -574,8 +526,6 @@
       "believers": 646,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201007752&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 덕양구 도래울3로 10 (도내동)",
-      "address_detail": null,
       "lat": 37.63043983122701,
       "lng": 126.8706102693501,
       "geocode_status": "matched"
@@ -597,8 +547,6 @@
       "believers": 3020,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000273&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 동두천시 동광로 64 (생연동)",
-      "address_detail": null,
       "lat": 37.908519987023354,
       "lng": 127.05524747962045,
       "geocode_status": "matched"
@@ -620,8 +568,6 @@
       "believers": 7026,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000274&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 일산동구 일산로 254 (마두동)",
-      "address_detail": null,
       "lat": 37.65891485045755,
       "lng": 126.78795778817357,
       "geocode_status": "matched"
@@ -643,8 +589,6 @@
       "believers": 1987,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000275&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 남양주시 화도읍 마석로 38",
-      "address_detail": null,
       "lat": 37.65417824784106,
       "lng": 127.30679756428955,
       "geocode_status": "matched"
@@ -666,8 +610,6 @@
       "believers": 0,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201003746&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 남양주시 조안면 다산로 698-44",
-      "address_detail": null,
       "lat": 37.52158925821296,
       "lng": 127.29606537901127,
       "geocode_status": "matched"
@@ -689,8 +631,6 @@
       "believers": 4206,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201008392&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 파주시 교하로159번길 52 (목동동)",
-      "address_detail": null,
       "lat": 37.72369038536693,
       "lng": 126.74097814047653,
       "geocode_status": "matched"
@@ -712,8 +652,6 @@
       "believers": 2641,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000276&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 파주시 문산읍 문향로67번길 38",
-      "address_detail": null,
       "lat": 37.85920152690102,
       "lng": 126.7838807159786,
       "geocode_status": "matched"
@@ -735,8 +673,6 @@
       "believers": 867,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201008037&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 의정부시 용민로351번길 7 (낙양동)",
-      "address_detail": null,
       "lat": 37.75460202909109,
       "lng": 127.10703697844883,
       "geocode_status": "matched"
@@ -758,8 +694,6 @@
       "believers": 6865,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000277&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 일산동구 강석로 25 (백석동)",
-      "address_detail": null,
       "lat": 37.64527377193234,
       "lng": 126.78640493902478,
       "geocode_status": "matched"
@@ -781,8 +715,6 @@
       "believers": 1044,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000278&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 파주시 법원읍 사임당로 872-2",
-      "address_detail": null,
       "lat": 37.847876750084765,
       "lng": 126.87801001293293,
       "geocode_status": "matched"
@@ -804,8 +736,6 @@
       "believers": 4280,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201007166&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 남양주시 송산로 121 (별내동)",
-      "address_detail": null,
       "lat": 37.653062745242885,
       "lng": 127.12911730233449,
       "geocode_status": "matched"
@@ -827,8 +757,6 @@
       "believers": 1852,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000279&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 파주시 조리읍 송비말길 79-5",
-      "address_detail": null,
       "lat": 37.74388221794472,
       "lng": 126.80417566973847,
       "geocode_status": "matched"
@@ -850,8 +778,6 @@
       "believers": 279,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000280&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 연천군 연천읍 상리로34번길 19-1",
-      "address_detail": null,
       "lat": 38.136545258087025,
       "lng": 127.07822728774183,
       "geocode_status": "matched"
@@ -873,8 +799,6 @@
       "believers": 1696,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000281&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 동두천시 중앙로33번길 12 (송내동)",
-      "address_detail": null,
       "lat": 37.884624292731765,
       "lng": 127.050742030876,
       "geocode_status": "matched"
@@ -896,8 +820,6 @@
       "believers": 1560,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000282&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 의정부시 부용로219번길 29 (용현동)",
-      "address_detail": null,
       "lat": 37.75031241340828,
       "lng": 127.08143639437223,
       "geocode_status": "matched"
@@ -919,8 +841,6 @@
       "believers": 0,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000283&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 양주시 장흥면 호국로 477-29",
-      "address_detail": null,
       "lat": 37.71585342309416,
       "lng": 126.96970794179143,
       "geocode_status": "matched"
@@ -942,8 +862,6 @@
       "believers": 949,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000284&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 남양주시 수동면 남가로 1482",
-      "address_detail": null,
       "lat": 37.701106018997464,
       "lng": 127.32297199196259,
       "geocode_status": "matched"
@@ -965,8 +883,6 @@
       "believers": 3142,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000285&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 일산동구 위시티로 153 (식사동)",
-      "address_detail": null,
       "lat": 37.68608387219354,
       "lng": 126.81390831850474,
       "geocode_status": "matched"
@@ -988,8 +904,6 @@
       "believers": 3651,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000286&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 의정부시 동일로506번길 26 (신곡동)",
-      "address_detail": null,
       "lat": 37.73325569979424,
       "lng": 127.06086443040869,
       "geocode_status": "matched"
@@ -1011,8 +925,6 @@
       "believers": 3543,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000287&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 의정부시 금신로296번길 61 (신곡동)",
-      "address_detail": null,
       "lat": 37.74505252318649,
       "lng": 127.06387165131122,
       "geocode_status": "matched"
@@ -1034,8 +946,6 @@
       "believers": 0,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000288&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 양주시 남면 감악산로489번길 27-32",
-      "address_detail": null,
       "lat": 37.90381963913063,
       "lng": 126.95986041139679,
       "geocode_status": "matched"
@@ -1057,8 +967,6 @@
       "believers": 1622,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201007237&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 덕양구 신원1로 89 (신원동)",
-      "address_detail": null,
       "lat": 37.659589927942505,
       "lng": 126.88431479405267,
       "geocode_status": "matched"
@@ -1080,8 +988,6 @@
       "believers": 4902,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000289&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 파주시 동서대로 696-27 (야당동)",
-      "address_detail": null,
       "lat": 37.705527932829185,
       "lng": 126.75492081366609,
       "geocode_status": "matched"
@@ -1103,8 +1009,6 @@
       "believers": 1549,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000290&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 양주시 삼숭로58번길 258-5 (삼숭동)",
-      "address_detail": null,
       "lat": 37.80858341092461,
       "lng": 127.10894266734093,
       "geocode_status": "matched"
@@ -1126,8 +1030,6 @@
       "believers": 1143,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000291&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 양주시 백석읍 고릉말로 127-34",
-      "address_detail": null,
       "lat": 37.794691386844974,
       "lng": 126.99456169592887,
       "geocode_status": "matched"
@@ -1149,8 +1051,6 @@
       "believers": 358,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000292&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 연천군 연천읍 연천로308번길 19",
-      "address_detail": null,
       "lat": 38.10464128176213,
       "lng": 127.07683636580688,
       "geocode_status": "matched"
@@ -1172,8 +1072,6 @@
       "believers": 2997,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000293&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 남양주시 오남읍 진건오남로808번길 20-28",
-      "address_detail": null,
       "lat": 37.69814199080723,
       "lng": 127.20533173385479,
       "geocode_status": "matched"
@@ -1195,8 +1093,6 @@
       "believers": 1154,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201008391&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 양주시 옥정동로8길 28 (옥정동)",
-      "address_detail": null,
       "lat": 37.83150604958085,
       "lng": 127.10083512496365,
       "geocode_status": "matched"
@@ -1218,8 +1114,6 @@
       "believers": 3718,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000294&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 의정부시 용민로21번길 23 (용현동)",
-      "address_detail": null,
       "lat": 37.73610341249095,
       "lng": 127.08208110557263,
       "geocode_status": "matched"
@@ -1241,8 +1135,6 @@
       "believers": 2970,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000295&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 파주시 운정벌판길 72 (상지석동)",
-      "address_detail": null,
       "lat": 37.72603953822072,
       "lng": 126.77164299191227,
       "geocode_status": "matched"
@@ -1264,8 +1156,6 @@
       "believers": 4235,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000296&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 덕양구 고양대로1369번길 68 (성사동)",
-      "address_detail": null,
       "lat": 37.65694421498767,
       "lng": 126.83916853107752,
       "geocode_status": "matched"
@@ -1287,8 +1177,6 @@
       "believers": 1665,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201007971&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 덕양구 원흥1로 46-20 (원흥동)",
-      "address_detail": null,
       "lat": 37.65032849074299,
       "lng": 126.87055203390166,
       "geocode_status": "matched"
@@ -1310,8 +1198,6 @@
       "believers": 3864,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000297&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 의정부시 가능로135번길 30 (의정부동)",
-      "address_detail": null,
       "lat": 37.748415470444584,
       "lng": 127.04624027008808,
       "geocode_status": "matched"
@@ -1333,8 +1219,6 @@
       "believers": 4570,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000298&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 구리시 건원대로99번길 80-11 (인창동)",
-      "address_detail": null,
       "lat": 37.60684512077207,
       "lng": 127.13768352367642,
       "geocode_status": "matched"
@@ -1356,8 +1240,6 @@
       "believers": 5510,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000299&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 일산서구 원일로 57 (일산동)",
-      "address_detail": null,
       "lat": 37.68789449825755,
       "lng": 126.76901944566477,
       "geocode_status": "matched"
@@ -1379,8 +1261,6 @@
       "believers": 573,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000300&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 파주시 적성면 칠중5길 18-5",
-      "address_detail": null,
       "lat": 37.95452315786005,
       "lng": 126.92167998120226,
       "geocode_status": "matched"
@@ -1402,8 +1282,6 @@
       "believers": 1019,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000301&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 연천군 전곡읍 평화로673번길 5",
-      "address_detail": null,
       "lat": 38.02973839819653,
       "lng": 127.06449936980641,
       "geocode_status": "matched"
@@ -1425,8 +1303,6 @@
       "believers": 4182,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000302&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 일산동구 일산로 419 (정발산동)",
-      "address_detail": null,
       "lat": 37.672020829634874,
       "lng": 126.77935489641351,
       "geocode_status": "matched"
@@ -1448,8 +1324,6 @@
       "believers": 3200,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000254&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 의정부시 신흥로265번길 27 (의정부동)",
-      "address_detail": null,
       "lat": 37.7396916232005,
       "lng": 127.0417994769587,
       "geocode_status": "matched"
@@ -1471,8 +1345,6 @@
       "believers": 7470,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000303&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 일산서구 주화로 48 (주엽동)",
-      "address_detail": null,
       "lat": 37.66874841556283,
       "lng": 126.76245286459584,
       "geocode_status": "matched"
@@ -1494,8 +1366,6 @@
       "believers": 5333,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000304&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 일산동구 중산로 162 (중산동)",
-      "address_detail": null,
       "lat": 37.68332847131822,
       "lng": 126.78104822095,
       "geocode_status": "matched"
@@ -1517,8 +1387,6 @@
       "believers": 4318,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000305&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 남양주시 경춘로476번길 28 (다산동)",
-      "address_detail": null,
       "lat": 37.60874659170817,
       "lng": 127.16747078015993,
       "geocode_status": "matched"
@@ -1540,8 +1408,6 @@
       "believers": 1144,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000306&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 덕양구 삼송로221번길 5-7 (지축동)",
-      "address_detail": null,
       "lat": 37.65457594297747,
       "lng": 126.89862372169236,
       "geocode_status": "matched"
@@ -1563,8 +1429,6 @@
       "believers": 1348,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000307&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 남양주시 진건읍 사릉로372번길 23",
-      "address_detail": null,
       "lat": 37.65699628109291,
       "lng": 127.18448987930381,
       "geocode_status": "matched"
@@ -1586,8 +1450,6 @@
       "believers": 1337,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000308&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 남양주시 진접읍 장현천로 58",
-      "address_detail": null,
       "lat": 37.72141918462427,
       "lng": 127.18189265956545,
       "geocode_status": "matched"
@@ -1609,8 +1471,6 @@
       "believers": 976,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201007239&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 파주시 탄현면 성동로 111",
-      "address_detail": null,
       "lat": 37.78106806962049,
       "lng": 126.69502823521515,
       "geocode_status": "matched"
@@ -1632,8 +1492,6 @@
       "believers": 2036,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000309&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 남양주시 화도읍 수레로 1171-49",
-      "address_detail": null,
       "lat": 37.64262248398151,
       "lng": 127.30228801686235,
       "geocode_status": "matched"
@@ -1655,8 +1513,6 @@
       "believers": 757,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000310&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 남양주시 화도읍 먹갓로38번길 7",
-      "address_detail": null,
       "lat": 37.658010960360926,
       "lng": 127.27509524822239,
       "geocode_status": "matched"
@@ -1678,8 +1534,6 @@
       "believers": 1990,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000311&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 남양주시 별내면 청학로68번길 67",
-      "address_detail": null,
       "lat": 37.71177223102919,
       "lng": 127.1189113162109,
       "geocode_status": "matched"
@@ -1701,8 +1555,6 @@
       "believers": 4316,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000312&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 일산서구 탄현로 119-11 (탄현동)",
-      "address_detail": null,
       "lat": 37.701616894645056,
       "lng": 126.76618294341705,
       "geocode_status": "matched"
@@ -1724,8 +1576,6 @@
       "believers": 2694,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000313&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 구리시 벌말로128번길 40 (토평동)",
-      "address_detail": null,
       "lat": 37.5865670465204,
       "lng": 127.14961781469316,
       "geocode_status": "matched"
@@ -1747,8 +1597,6 @@
       "believers": 1471,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000314&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": null,
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -1770,8 +1618,6 @@
       "believers": 3319,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000315&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 남양주시 경춘로1256번길 17 (평내동)",
-      "address_detail": null,
       "lat": 37.645478876120976,
       "lng": 127.23605096349473,
       "geocode_status": "matched"
@@ -1793,8 +1639,6 @@
       "believers": 3815,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000316&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 일산동구 숲속마을로 49-69 (풍동)",
-      "address_detail": null,
       "lat": 37.66410223615625,
       "lng": 126.7979122792942,
       "geocode_status": "matched"
@@ -1816,8 +1660,6 @@
       "believers": 3124,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000317&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 덕양구 중앙로472번길 68 (행신동)",
-      "address_detail": null,
       "lat": 37.622052992320945,
       "lng": 126.84418816431412,
       "geocode_status": "matched"
@@ -1839,8 +1681,6 @@
       "believers": 3694,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000318&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 덕양구 용현로5번길 40 (행신동)",
-      "address_detail": null,
       "lat": 37.614454968960914,
       "lng": 126.83496565375785,
       "geocode_status": "matched"
@@ -1862,8 +1702,6 @@
       "believers": 253,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000319&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 덕양구 행주산성로144번길 50 (행주외동)",
-      "address_detail": null,
       "lat": 37.60246015377396,
       "lng": 126.8170571329941,
       "geocode_status": "matched"
@@ -1885,8 +1723,6 @@
       "believers": 766,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201008491&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 덕양구 향기5로 88 (향동동)",
-      "address_detail": null,
       "lat": 37.60956491006632,
       "lng": 126.89395400382192,
       "geocode_status": "matched"
@@ -1908,8 +1744,6 @@
       "believers": 4387,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000320&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 의정부시 호암로 167 (호원동)",
-      "address_detail": null,
       "lat": 37.71567633615667,
       "lng": 127.0441753682295,
       "geocode_status": "matched"
@@ -1931,8 +1765,6 @@
       "believers": 3620,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000321&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 남양주시 늘을1로73번길 27 (호평동)",
-      "address_detail": null,
       "lat": 37.65946094830028,
       "lng": 127.2376857208541,
       "geocode_status": "matched"
@@ -1954,8 +1786,6 @@
       "believers": 335,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000322&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 덕양구 중앙로78번안길 88 (화전동)",
-      "address_detail": null,
       "lat": 37.600526865272386,
       "lng": 126.8768016147985,
       "geocode_status": "matched"
@@ -1977,8 +1807,6 @@
       "believers": 8374,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000323&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 덕양구 화신로260번길 10 (화정동)",
-      "address_detail": null,
       "lat": 37.631330388838066,
       "lng": 126.83292873821304,
       "geocode_status": "matched"
@@ -2000,8 +1828,6 @@
       "believers": 5573,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000324&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 일산서구 일산로 592 (일산동)",
-      "address_detail": null,
       "lat": 37.6801608745347,
       "lng": 126.76296725077904,
       "geocode_status": "matched"

@@ -52,7 +52,7 @@ ENV_PATH = os.path.join(ROOT, ".env")
 
 # 정규화로 각 성당에 추가되는 필드
 NORM_FIELDS = (
-    "road_address", "address_detail", "lat", "lng", "geocode_status",
+    "lat", "lng", "geocode_status",
 )
 
 

@@ -22,8 +22,6 @@
       "believers": 1433,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000637&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 서구 가수원로65번길 38 (가수원동)",
-      "address_detail": null,
       "lat": 36.29810750327039,
       "lng": 127.35093252895714,
       "geocode_status": "matched"
@@ -45,8 +43,6 @@
       "believers": 1915,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000638&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 동구 흥룡로 55 (가양동)",
-      "address_detail": null,
       "lat": 36.35017972591486,
       "lng": 127.44946817230046,
       "geocode_status": "matched"
@@ -68,8 +64,6 @@
       "believers": 0,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201003881&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 동구 은어송로52번길 20 (가오동)",
-      "address_detail": null,
       "lat": 36.305179319124946,
       "lng": 127.45589545239059,
       "geocode_status": "matched"
@@ -91,8 +85,6 @@
       "believers": 2184,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000639&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 서구 신갈마로195번길 13 (갈마동)",
-      "address_detail": null,
       "lat": 36.350590948547534,
       "lng": 127.36736124514175,
       "geocode_status": "matched"
@@ -114,8 +106,6 @@
       "believers": 91,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000640&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 보령시 오천면 오천해안로 610",
-      "address_detail": null,
       "lat": 36.427882749438325,
       "lng": 126.50732664008856,
       "geocode_status": "matched"
@@ -137,8 +127,6 @@
       "believers": 1286,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000641&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 논산시 강경읍 옥녀봉로27번길 13-3",
-      "address_detail": null,
       "lat": 36.160739986872,
       "lng": 127.01693224327306,
       "geocode_status": "matched"
@@ -160,8 +148,6 @@
       "believers": 2124,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000642&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 계룡시 엄사면 번영3길 73-6",
-      "address_detail": null,
       "lat": 36.28180253175259,
       "lng": 127.23741778633325,
       "geocode_status": "matched"
@@ -183,8 +169,6 @@
       "believers": 0,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201008484&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 예산군 고덕면 고덕중앙로 33",
-      "address_detail": null,
       "lat": 36.74435410531656,
       "lng": 126.70074868535616,
       "geocode_status": "matched"
@@ -206,8 +190,6 @@
       "believers": 1724,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000643&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 아산시 인주면 공세리성당길 10",
-      "address_detail": null,
       "lat": 36.88346039134154,
       "lng": 126.91353631417738,
       "geocode_status": "matched"
@@ -229,8 +211,6 @@
       "believers": 850,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000644&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 공주시 무령로 191 (교동)",
-      "address_detail": null,
       "lat": 36.45669904104262,
       "lng": 127.12103173956712,
       "geocode_status": "matched"
@@ -252,8 +232,6 @@
       "believers": 2832,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000645&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 공주시 신금2길 13-5 (신관동)",
-      "address_detail": null,
       "lat": 36.47539292650967,
       "lng": 127.14832514447721,
       "geocode_status": "matched"
@@ -275,8 +253,6 @@
       "believers": 1583,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000646&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 공주시 성당길 6 (중동)",
-      "address_detail": null,
       "lat": 36.45458876731222,
       "lng": 127.12733653947001,
       "geocode_status": "matched"
@@ -298,8 +274,6 @@
       "believers": 1337,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201003884&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 서구 관저북로51번길 15-26 (관저동)",
-      "address_detail": null,
       "lat": 36.305302918553,
       "lng": 127.3361006670565,
       "geocode_status": "matched"
@@ -321,8 +295,6 @@
       "believers": 1129,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201003885&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 서구 구봉산북로280번길 9-9 (관저동)",
-      "address_detail": null,
       "lat": 36.29957654246309,
       "lng": 127.34497295774482,
       "geocode_status": "matched"
@@ -344,8 +316,6 @@
       "believers": 1322,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000647&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 서구 구봉로 11 (관저동)",
-      "address_detail": null,
       "lat": 36.29861449587982,
       "lng": 127.32554621036604,
       "geocode_status": "matched"
@@ -367,8 +337,6 @@
       "believers": 2695,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000648&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 유성구 테크노5로 46 (관평동)",
-      "address_detail": null,
       "lat": 36.42774651815182,
       "lng": 127.3918068905675,
       "geocode_status": "matched"
@@ -390,8 +358,6 @@
       "believers": 858,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000649&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 홍성군 광천읍 광천로 385-1",
-      "address_detail": null,
       "lat": 36.50819566374345,
       "lng": 126.62299843050458,
       "geocode_status": "matched"
@@ -413,8 +379,6 @@
       "believers": 2259,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000650&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 서구 도솔로 336 (괴정동)",
-      "address_detail": null,
       "lat": 36.33742497064168,
       "lng": 127.38463862453486,
       "geocode_status": "matched"
@@ -436,8 +400,6 @@
       "believers": 2494,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000651&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 유성구 궁동로 61 (궁동)",
-      "address_detail": null,
       "lat": 36.36409276056763,
       "lng": 127.35177906051138,
       "geocode_status": "matched"
@@ -459,8 +421,6 @@
       "believers": 844,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000652&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 부여군 규암면 충절로2291번길 11",
-      "address_detail": null,
       "lat": 36.27346616621631,
       "lng": 126.87973484063669,
       "geocode_status": "matched"
@@ -482,8 +442,6 @@
       "believers": 505,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000653&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 부여군 구룡면 성충로1342번길 21",
-      "address_detail": null,
       "lat": 36.24944755482715,
       "lng": 126.79835089179048,
       "geocode_status": "matched"
@@ -505,8 +463,6 @@
       "believers": 1708,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000654&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 금산군 금산읍 뒷담말2길 20",
-      "address_detail": null,
       "lat": 36.10440147009116,
       "lng": 127.4924989513832,
       "geocode_status": "matched"
@@ -528,8 +484,6 @@
       "believers": 1581,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000655&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 당진시 송악읍 틀모시로 868",
-      "address_detail": null,
       "lat": 36.91033269508671,
       "lng": 126.69177615755969,
       "geocode_status": "matched"
@@ -551,8 +505,6 @@
       "believers": 2142,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000656&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 서구 도솔로252번길 19 (내동)",
-      "address_detail": null,
       "lat": 36.332059729256144,
       "lng": 127.37901260502022,
       "geocode_status": "matched"
@@ -574,8 +526,6 @@
       "believers": 733,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201007995&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "센트럴 뉴 스퀘어 605호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -597,8 +547,6 @@
       "believers": 3577,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000657&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 유성구 노은서로 109 (노은동)",
-      "address_detail": null,
       "lat": 36.36966173894308,
       "lng": 127.31443522823983,
       "geocode_status": "matched"
@@ -620,8 +568,6 @@
       "believers": 1386,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000658&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 논산시 중앙로 180-10 (내동)",
-      "address_detail": null,
       "lat": 36.18495404839261,
       "lng": 127.1057013575038,
       "geocode_status": "matched"
@@ -643,8 +589,6 @@
       "believers": 1286,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000659&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 논산시 대화로 24 (대교동)",
-      "address_detail": null,
       "lat": 36.20554364688357,
       "lng": 127.08057000945195,
       "geocode_status": "matched"
@@ -666,8 +610,6 @@
       "believers": 2289,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000660&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 논산시 시민로 405 (부창동)",
-      "address_detail": null,
       "lat": 36.19992247711842,
       "lng": 127.0867631083127,
       "geocode_status": "matched"
@@ -689,8 +631,6 @@
       "believers": 3781,
       "mission_stations": 4,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000661&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 당진시 서문2길 28 (읍내동)",
-      "address_detail": null,
       "lat": 36.8945203841364,
       "lng": 126.62749647255447,
       "geocode_status": "matched"
@@ -712,8 +652,6 @@
       "believers": 891,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000662&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 동구 동대전로 47 (대동)",
-      "address_detail": null,
       "lat": 36.32896140563552,
       "lng": 127.43988017353557,
       "geocode_status": "matched"
@@ -735,8 +673,6 @@
       "believers": 2691,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000663&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 중구 대흥로10번길 19 (대사동)",
-      "address_detail": null,
       "lat": 36.320777840591724,
       "lng": 127.41600985868794,
       "geocode_status": "matched"
@@ -758,8 +694,6 @@
       "believers": 903,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000664&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 서산시 대산읍 충의로 1882-5",
-      "address_detail": null,
       "lat": 36.93435444380268,
       "lng": 126.43845882743672,
       "geocode_status": "matched"
@@ -781,8 +715,6 @@
       "believers": 1845,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000665&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 보령시 대천로 51 (대천동)",
-      "address_detail": null,
       "lat": 36.353171593742644,
       "lng": 126.59789066136017,
       "geocode_status": "matched"
@@ -804,8 +736,6 @@
       "believers": 225,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000666&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 보령시 해수욕장3길 57 (신흑동)",
-      "address_detail": null,
       "lat": 36.30436136057462,
       "lng": 126.52041408528694,
       "geocode_status": "matched"
@@ -827,8 +757,6 @@
       "believers": 1192,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000667&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 대덕구 대화12길 4 (대화동)",
-      "address_detail": null,
       "lat": 36.36735544370385,
       "lng": 127.41857187547643,
       "geocode_status": "matched"
@@ -850,8 +778,6 @@
       "believers": 1310,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201007189&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 유성구 동서대로179번길 2 (덕명동)",
-      "address_detail": null,
       "lat": 36.34678562193285,
       "lng": 127.29646999684479,
       "geocode_status": "matched"
@@ -873,8 +799,6 @@
       "believers": 1309,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000668&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 예산군 덕산면 수암산로 8",
-      "address_detail": null,
       "lat": 36.70315700249709,
       "lng": 126.66754802657462,
       "geocode_status": "matched"
@@ -896,8 +820,6 @@
       "believers": 1065,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000669&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 아산시 도고면 아산만로198번길 16",
-      "address_detail": null,
       "lat": 36.76170615564916,
       "lng": 126.86929654781333,
       "geocode_status": "matched"
@@ -919,8 +841,6 @@
       "believers": 2555,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000670&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 유성구 대덕대로649번길 42 (도룡동)",
-      "address_detail": null,
       "lat": 36.38721512900801,
       "lng": 127.376480701103,
       "geocode_status": "matched"
@@ -942,8 +862,6 @@
       "believers": 1802,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000671&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 서구 사마4길 58 (도마동)",
-      "address_detail": null,
       "lat": 36.318714074175666,
       "lng": 127.37605980835309,
       "geocode_status": "matched"
@@ -965,8 +883,6 @@
       "believers": 1175,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201007185&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 서구 원도안로25번길 87 (도안동)",
-      "address_detail": null,
       "lat": 36.30880749718588,
       "lng": 127.34703764197553,
       "geocode_status": "matched"
@@ -988,8 +904,6 @@
       "believers": 5630,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000672&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": null,
       "lat": null,
       "lng": null,
       "geocode_status": "no_address"
@@ -1011,8 +925,6 @@
       "believers": 1914,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000673&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 아산시 둔포면 둔포로 65-11",
-      "address_detail": null,
       "lat": 36.927775193947134,
       "lng": 127.04180778556591,
       "geocode_status": "matched"
@@ -1034,8 +946,6 @@
       "believers": 1714,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000674&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 서구 대덕대로 333 (월평동)",
-      "address_detail": null,
       "lat": 36.3627662102612,
       "lng": 127.37904886186166,
       "geocode_status": "matched"
@@ -1057,8 +967,6 @@
       "believers": 1690,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000675&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 아산시 배방읍 모산로171번길 1-9",
-      "address_detail": null,
       "lat": 36.77624341932534,
       "lng": 127.06099070712878,
       "geocode_status": "matched"
@@ -1080,8 +988,6 @@
       "believers": 2358,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000676&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 중구 동서대로1365번길 19 (목동)",
-      "address_detail": null,
       "lat": 36.33174599619552,
       "lng": 127.40814700924417,
       "geocode_status": "matched"
@@ -1103,8 +1009,6 @@
       "believers": 1675,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000677&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 천안시 동남구 목천읍 서리1길 67-6",
-      "address_detail": null,
       "lat": 36.78666429027659,
       "lng": 127.2340260939456,
       "geocode_status": "matched"
@@ -1126,8 +1030,6 @@
       "believers": 2245,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000678&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 중구 대종로334번길 12 (부사동)",
-      "address_detail": null,
       "lat": 36.3156863458554,
       "lng": 127.43476987407529,
       "geocode_status": "matched"
@@ -1149,8 +1051,6 @@
       "believers": 1734,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000679&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 중구 보문산로369번길 124 (문화동)",
-      "address_detail": null,
       "lat": 36.311644099319395,
       "lng": 127.41179235575208,
       "geocode_status": "matched"
@@ -1172,8 +1072,6 @@
       "believers": 2750,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000680&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 유성구 지족북로 50 (지족동)",
-      "address_detail": null,
       "lat": 36.38873812950483,
       "lng": 127.30434613638187,
       "geocode_status": "matched"
@@ -1195,8 +1093,6 @@
       "believers": 1053,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000681&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 아산시 배방읍 월천6길 74",
-      "address_detail": null,
       "lat": 36.770765277974974,
       "lng": 127.08010067719506,
       "geocode_status": "matched"
@@ -1218,8 +1114,6 @@
       "believers": 1671,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000682&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 중구 계백로1565번길 24 (유천동)",
-      "address_detail": null,
       "lat": 36.31878039693507,
       "lng": 127.39408773878633,
       "geocode_status": "matched"
@@ -1241,8 +1135,6 @@
       "believers": 3051,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000683&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 대덕구 아리랑로197번길 20 (법동)",
-      "address_detail": null,
       "lat": 36.374379536458235,
       "lng": 127.42557285395498,
       "geocode_status": "matched"
@@ -1264,8 +1156,6 @@
       "believers": 1182,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000684&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 서구 도솔로 165 (도마동)",
-      "address_detail": null,
       "lat": 36.325482116363816,
       "lng": 127.37341714141019,
       "geocode_status": "matched"
@@ -1287,8 +1177,6 @@
       "believers": 1976,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000685&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 보령시 한내로터리길 91 (동대동)",
-      "address_detail": null,
       "lat": 36.34854171483879,
       "lng": 126.61154718015845,
       "geocode_status": "matched"
@@ -1310,8 +1198,6 @@
       "believers": 1485,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000686&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 서구 유등로43번길 36 (복수동)",
-      "address_detail": null,
       "lat": 36.2982936334176,
       "lng": 127.37968942659751,
       "geocode_status": "matched"
@@ -1333,8 +1219,6 @@
       "believers": 1362,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000687&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 유성구 와룡로136번길 27 (봉산동)",
-      "address_detail": null,
       "lat": 36.43827164159843,
       "lng": 127.383205338536,
       "geocode_status": "matched"
@@ -1356,8 +1240,6 @@
       "believers": 1485,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000688&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 부여군 부여읍 사비로 51",
-      "address_detail": null,
       "lat": 36.27717609666334,
       "lng": 126.90981835192295,
       "geocode_status": "matched"
@@ -1379,8 +1261,6 @@
       "believers": 1850,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000689&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 중구 보문산로122번안길 41 (산성동)",
-      "address_detail": null,
       "lat": 36.304399733826926,
       "lng": 127.3915996579654,
       "geocode_status": "matched"
@@ -1402,8 +1282,6 @@
       "believers": 1017,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000690&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 동구 태전로 146 (삼성동)",
-      "address_detail": null,
       "lat": 36.34110837183002,
       "lng": 127.4209937614306,
       "geocode_status": "matched"
@@ -1425,8 +1303,6 @@
       "believers": 814,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000691&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 예산군 삽교읍 신가꽃산길 111",
-      "address_detail": null,
       "lat": 36.684940226070125,
       "lng": 126.7414189142058,
       "geocode_status": "matched"
@@ -1448,8 +1324,6 @@
       "believers": 2712,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000692&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 서산시 서령로 53 (동문동)",
-      "address_detail": null,
       "lat": 36.78738427619976,
       "lng": 126.4550035319507,
       "geocode_status": "matched"
@@ -1471,8 +1345,6 @@
       "believers": 2132,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000693&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 서산시 중앙로 210 (석림동)",
-      "address_detail": null,
       "lat": 36.77072657936429,
       "lng": 126.470100360851,
       "geocode_status": "matched"
@@ -1494,8 +1366,6 @@
       "believers": 1834,
       "mission_stations": 3,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000694&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 서산시 무학로 1864-8 (예천동)",
-      "address_detail": null,
       "lat": 36.76718534800971,
       "lng": 126.43493466229475,
       "geocode_status": "matched"
@@ -1517,8 +1387,6 @@
       "believers": 1662,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000695&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 서천군 서천읍 군사안길 31-13",
-      "address_detail": null,
       "lat": 36.07745935822615,
       "lng": 126.6973395106832,
       "geocode_status": "matched"
@@ -1540,8 +1408,6 @@
       "believers": 318,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201005374&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 서천군 서면 서인로 794-3",
-      "address_detail": null,
       "lat": 36.15396422197797,
       "lng": 126.5524440409639,
       "geocode_status": "matched"
@@ -1563,8 +1429,6 @@
       "believers": 1494,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000696&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 중구 우암로 7 (선화동)",
-      "address_detail": null,
       "lat": 36.334183304969756,
       "lng": 127.42011551259688,
       "geocode_status": "matched"
@@ -1586,8 +1450,6 @@
       "believers": 1794,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000698&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 동구 동서대로1692번길 64 (성남동)",
-      "address_detail": null,
       "lat": 36.34685422920343,
       "lng": 127.4371805377836,
       "geocode_status": "matched"
@@ -1609,8 +1471,6 @@
       "believers": 388,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201007996&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 서산시 성연면 명천1길 119-3",
-      "address_detail": null,
       "lat": 36.8365603202231,
       "lng": 126.49248233877282,
       "geocode_status": "matched"
@@ -1632,8 +1492,6 @@
       "believers": 2277,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000699&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 천안시 서북구 성환읍 성환3로 23",
-      "address_detail": null,
       "lat": 36.91531912542728,
       "lng": 127.13051390492284,
       "geocode_status": "matched"
@@ -1655,8 +1513,6 @@
       "believers": 1419,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201007274&tbxSearch=&gubn2=all&char=all",
-      "road_address": "세종특별자치시 연서면 도원로 41",
-      "address_detail": null,
       "lat": 36.587029181797675,
       "lng": 127.28833486336492,
       "geocode_status": "matched"
@@ -1678,8 +1534,6 @@
       "believers": 2318,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201007729&tbxSearch=&gubn2=all&char=all",
-      "road_address": "세종특별자치시 대평로 3 (대평동)",
-      "address_detail": null,
       "lat": 36.46916461140968,
       "lng": 127.28230110206613,
       "geocode_status": "matched"
@@ -1701,8 +1555,6 @@
       "believers": 0,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201008483&tbxSearch=&gubn2=all&char=all",
-      "road_address": "세종특별자치시 절재로 194 (어진동)",
-      "address_detail": "중앙타운B동 810~811호",
       "lat": 36.50830553405568,
       "lng": 127.26244139018519,
       "geocode_status": "matched"
@@ -1724,8 +1576,6 @@
       "believers": 3275,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201007728&tbxSearch=&gubn2=all&char=all",
-      "road_address": "세종특별자치시 새롬로 23 (새롬동)",
-      "address_detail": null,
       "lat": 36.48709296455247,
       "lng": 127.2550123066425,
       "geocode_status": "matched"
@@ -1747,8 +1597,6 @@
       "believers": 0,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201008443&tbxSearch=&gubn2=all&char=all",
-      "road_address": "세종특별자치시 국책연구원5로 12 (반곡동)",
-      "address_detail": null,
       "lat": 36.49185993470592,
       "lng": 127.30663517905398,
       "geocode_status": "matched"
@@ -1770,8 +1618,6 @@
       "believers": 6746,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000756&tbxSearch=&gubn2=all&char=all",
-      "road_address": "세종특별자치시 마음안로 130 (고운동)",
-      "address_detail": null,
       "lat": 36.5134640692513,
       "lng": 127.23335931150942,
       "geocode_status": "matched"
@@ -1793,8 +1639,6 @@
       "believers": 1645,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000700&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 대덕구 동춘당로31번길 5 (송촌동)",
-      "address_detail": null,
       "lat": 36.36112860710948,
       "lng": 127.44514805497315,
       "geocode_status": "matched"
@@ -1816,8 +1660,6 @@
       "believers": 728,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201007273&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 당진시 순성면 순성로 472-3",
-      "address_detail": null,
       "lat": 36.84170799503697,
       "lng": 126.71095753079227,
       "geocode_status": "matched"
@@ -1839,8 +1681,6 @@
       "believers": 1011,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000701&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 예산군 예산읍 신례원로 247",
-      "address_detail": null,
       "lat": 36.72999630518456,
       "lng": 126.84780953742865,
       "geocode_status": "matched"
@@ -1862,8 +1702,6 @@
       "believers": 47,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201003716&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 당진시 합덕읍 평야6로 135",
-      "address_detail": null,
       "lat": 36.76257355185956,
       "lng": 126.77020786848567,
       "geocode_status": "matched"
@@ -1885,8 +1723,6 @@
       "believers": 1554,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000703&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 대덕구 석봉로57번길 27 (석봉동)",
-      "address_detail": null,
       "lat": 36.448344173543994,
       "lng": 127.42731152195446,
       "geocode_status": "matched"
@@ -1908,8 +1744,6 @@
       "believers": 1781,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000704&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 당진시 신평면 신평길 63",
-      "address_detail": null,
       "lat": 36.88417137920773,
       "lng": 126.77068417999169,
       "geocode_status": "matched"
@@ -1931,8 +1765,6 @@
       "believers": 1877,
       "mission_stations": 4,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000705&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 당진시 합덕읍 굴미2길 40",
-      "address_detail": null,
       "lat": 36.80683819301471,
       "lng": 126.77035862832209,
       "geocode_status": "matched"
@@ -1954,8 +1786,6 @@
       "believers": 318,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000706&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 태안군 안면읍 장터로 218-5",
-      "address_detail": null,
       "lat": 36.52662295153583,
       "lng": 126.34661954460913,
       "geocode_status": "matched"
@@ -1977,8 +1807,6 @@
       "believers": 121,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000707&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 예산군 신암면 신종여사울길 22",
-      "address_detail": null,
       "lat": 36.75668902251893,
       "lng": 126.82388042573908,
       "geocode_status": "matched"
@@ -2000,8 +1828,6 @@
       "believers": 965,
       "mission_stations": 3,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000708&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 논산시 연무읍 연무로 274-7",
-      "address_detail": null,
       "lat": 36.12507303167073,
       "lng": 127.10844337030328,
       "geocode_status": "matched"
@@ -2023,8 +1849,6 @@
       "believers": 1571,
       "mission_stations": 4,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000709&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 예산군 예산읍 예산로161번길 10",
-      "address_detail": null,
       "lat": 36.679309896289375,
       "lng": 126.84227721173048,
       "geocode_status": "matched"
@@ -2046,8 +1870,6 @@
       "believers": 1758,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000710&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 예산군 예산읍 산성길 19",
-      "address_detail": null,
       "lat": 36.688222927048656,
       "lng": 126.83317697487996,
       "geocode_status": "matched"
@@ -2069,8 +1891,6 @@
       "believers": 1545,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000711&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 중구 대종로 114 (옥계동)",
-      "address_detail": null,
       "lat": 36.302800799676305,
       "lng": 127.45170599075067,
       "geocode_status": "matched"
@@ -2092,8 +1912,6 @@
       "believers": 2125,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000712&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 아산시 충무로 50 (권곡동)",
-      "address_detail": null,
       "lat": 36.78561427317642,
       "lng": 127.00583183143726,
       "geocode_status": "matched"
@@ -2115,8 +1933,6 @@
       "believers": 831,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201005375&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 아산시 모종북로 29 (권곡동)",
-      "address_detail": null,
       "lat": 36.78838643693014,
       "lng": 127.01848893748559,
       "geocode_status": "matched"
@@ -2138,8 +1954,6 @@
       "believers": 1156,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000713&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 아산시 곡교천로27번길 25-10 (방축동)",
-      "address_detail": null,
       "lat": 36.78778606119169,
       "lng": 126.98255940291516,
       "geocode_status": "matched"
@@ -2161,8 +1975,6 @@
       "believers": 2144,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000714&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 아산시 중앙로 30 (온천동)",
-      "address_detail": null,
       "lat": 36.77753881497058,
       "lng": 127.00293627140272,
       "geocode_status": "matched"
@@ -2184,8 +1996,6 @@
       "believers": 1597,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201003886&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 아산시 외암로 1562-8 (풍기동)",
-      "address_detail": null,
       "lat": 36.77377769753942,
       "lng": 127.01428230820136,
       "geocode_status": "matched"
@@ -2207,8 +2017,6 @@
       "believers": 1718,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000715&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 동구 계족로424번길 4 (용전동)",
-      "address_detail": null,
       "lat": 36.349442640674766,
       "lng": 127.43276413315849,
       "geocode_status": "matched"
@@ -2230,8 +2038,6 @@
       "believers": 850,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000716&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 서산시 운산면 해운로 1125",
-      "address_detail": null,
       "lat": 36.8051671370989,
       "lng": 126.578729431124,
       "geocode_status": "matched"
@@ -2253,8 +2059,6 @@
       "believers": 282,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201007275&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 보령시 웅천읍 장터7길 10",
-      "address_detail": null,
       "lat": 36.23353485895372,
       "lng": 126.59744746572704,
       "geocode_status": "matched"
@@ -2276,8 +2080,6 @@
       "believers": 3396,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201003880&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 유성구 원신흥남로42번길 19-34 (원신흥동)",
-      "address_detail": null,
       "lat": 36.33772470588001,
       "lng": 127.33977440457352,
       "geocode_status": "matched"
@@ -2299,8 +2101,6 @@
       "believers": 2994,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000717&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 서구 월평중로13번길 71 (월평동)",
-      "address_detail": null,
       "lat": 36.35542564234427,
       "lng": 127.360192135012,
       "geocode_status": "matched"
@@ -2322,8 +2122,6 @@
       "believers": 647,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000718&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": null,
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -2345,8 +2143,6 @@
       "believers": 1838,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000719&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 유성구 계룡로46번길 23 (봉명동)",
-      "address_detail": null,
       "lat": 36.35390713399138,
       "lng": 127.33580145711004,
       "geocode_status": "matched"
@@ -2368,8 +2164,6 @@
       "believers": 1952,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000720&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 중구 계백로1630번길 20 (유천동)",
-      "address_detail": null,
       "lat": 36.31830354346831,
       "lng": 127.40116582916782,
       "geocode_status": "matched"
@@ -2391,8 +2185,6 @@
       "believers": 425,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000721&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 예산군 응봉면 응봉로 143-1",
-      "address_detail": null,
       "lat": 36.659160653879354,
       "lng": 126.76208140731976,
       "geocode_status": "matched"
@@ -2414,8 +2206,6 @@
       "believers": 842,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000722&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 천안시 서북구 입장면 신덕2길 8",
-      "address_detail": null,
       "lat": 36.91216216036145,
       "lng": 127.21089305097239,
       "geocode_status": "matched"
@@ -2437,8 +2227,6 @@
       "believers": 1082,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000723&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 동구 동대전로144번길 78 (자양동)",
-      "address_detail": null,
       "lat": 36.33288649626857,
       "lng": 127.44965813650292,
       "geocode_status": "matched"
@@ -2460,8 +2248,6 @@
       "believers": 851,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000724&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 아산시 배방읍 공원로 47",
-      "address_detail": null,
       "lat": 36.78798922751466,
       "lng": 127.0993217834664,
       "geocode_status": "matched"
@@ -2483,8 +2269,6 @@
       "believers": 716,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000725&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 서천군 장항읍 장서로53번길 24",
-      "address_detail": null,
       "lat": 36.01327170524488,
       "lng": 126.69705953840655,
       "geocode_status": "matched"
@@ -2506,8 +2290,6 @@
       "believers": 1760,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000726&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 유성구 엑스포로 482 (전민동)",
-      "address_detail": null,
       "lat": 36.39911171847382,
       "lng": 127.40568152715113,
       "geocode_status": "matched"
@@ -2529,8 +2311,6 @@
       "believers": 775,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000727&tbxSearch=&gubn2=all&char=all",
-      "road_address": "세종특별자치시 전의면 북촌2길 25",
-      "address_detail": null,
       "lat": 36.6820829287923,
       "lng": 127.20325166198796,
       "geocode_status": "matched"
@@ -2552,8 +2332,6 @@
       "believers": 1804,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000728&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 서구 계백로1300번길 20 (정림동)",
-      "address_detail": null,
       "lat": 36.307664143834266,
       "lng": 127.36727683270024,
       "geocode_status": "matched"
@@ -2575,8 +2353,6 @@
       "believers": 1852,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000729&tbxSearch=&gubn2=all&char=all",
-      "road_address": "세종특별자치시 조치원읍 새내6길 30",
-      "address_detail": null,
       "lat": 36.59803703074793,
       "lng": 127.3000994001157,
       "geocode_status": "matched"
@@ -2598,8 +2374,6 @@
       "believers": 3404,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000636&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 중구 대종로 471 (대흥동)",
-      "address_detail": null,
       "lat": 36.326562102853885,
       "lng": 127.42650083608572,
       "geocode_status": "matched"
@@ -2621,8 +2395,6 @@
       "believers": 407,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201007967&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 유성구 죽동로242번길 13 (죽동)",
-      "address_detail": null,
       "lat": 36.374275005201405,
       "lng": 127.33757757689102,
       "geocode_status": "matched"
@@ -2644,8 +2416,6 @@
       "believers": 1116,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000731&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 천안시 서북구 성거읍 봉주로 144",
-      "address_detail": null,
       "lat": 36.87738425299307,
       "lng": 127.16229443490889,
       "geocode_status": "matched"
@@ -2667,8 +2437,6 @@
       "believers": 284,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000732&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 금산군 진산면 실학로 207",
-      "address_detail": null,
       "lat": 36.18011955543537,
       "lng": 127.35344746758142,
       "geocode_status": "matched"
@@ -2690,8 +2458,6 @@
       "believers": 1774,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000733&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 유성구 교촌로10번길 17 (교촌동)",
-      "address_detail": null,
       "lat": 36.300491694996566,
       "lng": 127.31406884886351,
       "geocode_status": "matched"
@@ -2713,8 +2479,6 @@
       "believers": 1660,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000739&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 천안시 동남구 풍세로 732 (구룡동)",
-      "address_detail": null,
       "lat": 36.775515299795984,
       "lng": 127.14071974401452,
       "geocode_status": "matched"
@@ -2736,8 +2500,6 @@
       "believers": 2847,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000734&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 천안시 서북구 두정중5길 54-5 (두정동)",
-      "address_detail": null,
       "lat": 36.83848929731283,
       "lng": 127.14467043733853,
       "geocode_status": "matched"
@@ -2759,8 +2521,6 @@
       "believers": 1793,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000735&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 천안시 동남구 우영3길 15 (봉명동)",
-      "address_detail": null,
       "lat": 36.804444093167405,
       "lng": 127.14034633474581,
       "geocode_status": "matched"
@@ -2782,8 +2542,6 @@
       "believers": 972,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201007929&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 천안시 서북구 불당19로 188 (불당동)",
-      "address_detail": null,
       "lat": 36.808611530126505,
       "lng": 127.10164275578828,
       "geocode_status": "matched"
@@ -2805,8 +2563,6 @@
       "believers": 1425,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000736&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 천안시 서북구 불당12길 26-6 (불당동)",
-      "address_detail": null,
       "lat": 36.806270936615036,
       "lng": 127.1073460763482,
       "geocode_status": "matched"
@@ -2828,8 +2584,6 @@
       "believers": 3120,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000737&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 천안시 서북구 서부대로 618 (성정동)",
-      "address_detail": null,
       "lat": 36.8222167023647,
       "lng": 127.13248898845795,
       "geocode_status": "matched"
@@ -2851,8 +2605,6 @@
       "believers": 2471,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000738&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 천안시 서북구 다가말2길 22 (쌍용동)",
-      "address_detail": null,
       "lat": 36.797759085571215,
       "lng": 127.13444599392238,
       "geocode_status": "matched"
@@ -2874,8 +2626,6 @@
       "believers": 3030,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000740&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 천안시 동남구 천안대로 866 (신부동)",
-      "address_detail": null,
       "lat": 36.825486072777736,
       "lng": 127.16058277263596,
       "geocode_status": "matched"
@@ -2897,8 +2647,6 @@
       "believers": 1260,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000742&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 천안시 서북구 월봉1길 31 (쌍용동)",
-      "address_detail": null,
       "lat": 36.78843412586657,
       "lng": 127.11499049466076,
       "geocode_status": "matched"
@@ -2920,8 +2668,6 @@
       "believers": 1973,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000743&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 천안시 서북구 불당13길 6-6 (불당동)",
-      "address_detail": null,
       "lat": 36.80483849735051,
       "lng": 127.11549940928236,
       "geocode_status": "matched"
@@ -2943,8 +2689,6 @@
       "believers": 2655,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000741&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 천안시 서북구 미라12길 11 (쌍용동)",
-      "address_detail": null,
       "lat": 36.805250435226995,
       "lng": 127.12962321330932,
       "geocode_status": "matched"
@@ -2966,8 +2710,6 @@
       "believers": 1584,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000744&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 천안시 동남구 옛시청길 32 (오룡동)",
-      "address_detail": null,
       "lat": 36.80596319051336,
       "lng": 127.15107665250915,
       "geocode_status": "matched"
@@ -2989,8 +2731,6 @@
       "believers": 879,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201007731&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 천안시 동남구 용곡6길 8-33 (용곡동)",
-      "address_detail": null,
       "lat": 36.787236112060526,
       "lng": 127.13799584023158,
       "geocode_status": "matched"
@@ -3012,8 +2752,6 @@
       "believers": 1752,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000745&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 천안시 동남구 고재17길 29 (원성동)",
-      "address_detail": null,
       "lat": 36.80271609236813,
       "lng": 127.16261332988125,
       "geocode_status": "matched"
@@ -3035,8 +2773,6 @@
       "believers": 675,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201007276&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 아산시 음봉면 월암로 64-33",
-      "address_detail": null,
       "lat": 36.84054508104691,
       "lng": 127.07953666727751,
       "geocode_status": "matched"
@@ -3058,8 +2794,6 @@
       "believers": 1017,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201007186&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 천안시 동남구 광풍로 1879 (청당동)",
-      "address_detail": null,
       "lat": 36.78633731441953,
       "lng": 127.14632872432006,
       "geocode_status": "matched"
@@ -3081,8 +2815,6 @@
       "believers": 733,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000746&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 청양군 청양읍 중앙로18길 16",
-      "address_detail": null,
       "lat": 36.455555038311076,
       "lng": 126.80615674530344,
       "geocode_status": "matched"
@@ -3104,8 +2836,6 @@
       "believers": 5573,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000747&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 서구 탄방로 16 (탄방동)",
-      "address_detail": null,
       "lat": 36.345211194770336,
       "lng": 127.38992853811868,
       "geocode_status": "matched"
@@ -3127,8 +2857,6 @@
       "believers": 2777,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000748&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 태안군 태안읍 터널길 26-13",
-      "address_detail": null,
       "lat": 36.75445088532016,
       "lng": 126.30158624005004,
       "geocode_status": "matched"
@@ -3150,8 +2878,6 @@
       "believers": 2585,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000749&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 중구 태평로151번길 24 (태평동)",
-      "address_detail": null,
       "lat": 36.33029911426493,
       "lng": 127.39548913737667,
       "geocode_status": "matched"
@@ -3173,8 +2899,6 @@
       "believers": 1513,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000750&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 동구 새울로 13 (판암동)",
-      "address_detail": null,
       "lat": 36.31989436235945,
       "lng": 127.46137493992046,
       "geocode_status": "matched"
@@ -3196,8 +2920,6 @@
       "believers": 1047,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000751&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 유성구 송림로 49 (하기동)",
-      "address_detail": null,
       "lat": 36.38747239875507,
       "lng": 127.32345906530527,
       "geocode_status": "matched"
@@ -3219,8 +2941,6 @@
       "believers": 294,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201006525&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 서천군 한산면 한마로121번길 25",
-      "address_detail": null,
       "lat": 36.08992954465662,
       "lng": 126.79869022687863,
       "geocode_status": "matched"
@@ -3242,8 +2962,6 @@
       "believers": 974,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000752&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 당진시 합덕읍 합덕성당2길 22",
-      "address_detail": null,
       "lat": 36.79247373508485,
       "lng": 126.78585702587301,
       "geocode_status": "matched"
@@ -3265,8 +2983,6 @@
       "believers": 1013,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000753&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 서산시 해미면 남문5로 30-10",
-      "address_detail": null,
       "lat": 36.71156756336745,
       "lng": 126.54308263204969,
       "geocode_status": "matched"
@@ -3288,8 +3004,6 @@
       "believers": 534,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000754&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 부여군 홍산면 홍산로 53-14",
-      "address_detail": null,
       "lat": 36.214705633502845,
       "lng": 126.75811152609442,
       "geocode_status": "matched"
@@ -3311,8 +3025,6 @@
       "believers": 2559,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000755&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 홍성군 홍성읍 조양로208번길 7",
-      "address_detail": null,
       "lat": 36.59919488388889,
       "lng": 126.67277831166587,
       "geocode_status": "matched"

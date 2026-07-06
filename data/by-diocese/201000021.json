@@ -22,8 +22,6 @@
       "believers": 511,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000758&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 칠곡군 왜관읍 가실1길 1",
-      "address_detail": null,
       "lat": 35.93685694824221,
       "lng": 128.40545147969965,
       "geocode_status": "matched"
@@ -45,8 +43,6 @@
       "believers": 1457,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000759&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달성군 가창면 가창로 1118",
-      "address_detail": null,
       "lat": 35.803840187000475,
       "lng": 128.6229337164248,
       "geocode_status": "matched"
@@ -68,8 +64,6 @@
       "believers": 656,
       "mission_stations": 10,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000760&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 성주군 가천면 창천2길 16",
-      "address_detail": null,
       "lat": 35.88550636146876,
       "lng": 128.16749263348433,
       "geocode_status": "matched"
@@ -91,8 +85,6 @@
       "believers": 834,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201007876&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 동구 이노밸리로29길 5 (각산동)",
-      "address_detail": null,
       "lat": 35.87939420062314,
       "lng": 128.7124922929782,
       "geocode_status": "matched"
@@ -114,8 +106,6 @@
       "believers": 1819,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201008099&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달서구 갈밭남로 83 (도원동)",
-      "address_detail": null,
       "lat": 35.802606424391,
       "lng": 128.5368352098946,
       "geocode_status": "matched"
@@ -137,8 +127,6 @@
       "believers": 1943,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000761&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달서구 달구벌대로304길 42 (감삼동)",
-      "address_detail": null,
       "lat": 35.84790474253347,
       "lng": 128.53206495247719,
       "geocode_status": "matched"
@@ -160,8 +148,6 @@
       "believers": 294,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000762&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 경주시 건천읍 내서로 1149",
-      "address_detail": null,
       "lat": 35.847149797391864,
       "lng": 129.1059471931577,
       "geocode_status": "matched"
@@ -183,8 +169,6 @@
       "believers": 3280,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000763&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 경산시 중앙로 14 (사정동)",
-      "address_detail": null,
       "lat": 35.81969172952601,
       "lng": 128.7297311105612,
       "geocode_status": "matched"
@@ -206,8 +190,6 @@
       "believers": 4777,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000764&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 중구 서성로 10 (계산동2가)",
-      "address_detail": null,
       "lat": 35.867706815472275,
       "lng": 128.58782917375737,
       "geocode_status": "matched"
@@ -229,8 +211,6 @@
       "believers": 1112,
       "mission_stations": 4,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000765&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 고령군 대가야읍 주산길 10-9",
-      "address_detail": null,
       "lat": 35.7285667835489,
       "lng": 128.26461419996411,
       "geocode_status": "matched"
@@ -252,8 +232,6 @@
       "believers": 3007,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000766&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 수성구 달구벌대로 3094-1 (시지동)",
-      "address_detail": null,
       "lat": 35.842567762618756,
       "lng": 128.69511779245883,
       "geocode_status": "matched"
@@ -275,8 +253,6 @@
       "believers": 2698,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000767&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 북구 옥산로 112 (고성동3가)",
-      "address_detail": null,
       "lat": 35.88352599197597,
       "lng": 128.58741664833337,
       "geocode_status": "matched"
@@ -298,8 +274,6 @@
       "believers": 668,
       "mission_stations": 3,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000768&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 구미시 고아읍 관심1길 21",
-      "address_detail": null,
       "lat": 36.21001232747645,
       "lng": 128.32946405803358,
       "geocode_status": "matched"
@@ -321,8 +295,6 @@
       "believers": 396,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000770&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 포항시 남구 구룡포읍 후동길 2",
-      "address_detail": null,
       "lat": 35.98586128465096,
       "lng": 129.54729376974308,
       "geocode_status": "matched"
@@ -344,8 +316,6 @@
       "believers": 1759,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000771&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 북구 학정로 280 (구암동)",
-      "address_detail": null,
       "lat": 35.92945709921628,
       "lng": 128.56186740789673,
       "geocode_status": "matched"
@@ -367,8 +337,6 @@
       "believers": 623,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201006713&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 구미시 인동54길 33 (구평동)",
-      "address_detail": null,
       "lat": 36.08976362533397,
       "lng": 128.44713063513407,
       "geocode_status": "matched"
@@ -390,8 +358,6 @@
       "believers": 2227,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000772&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 북구 구암로 362 (구암동)",
-      "address_detail": null,
       "lat": 35.94200448190668,
       "lng": 128.57183172541482,
       "geocode_status": "matched"
@@ -413,8 +379,6 @@
       "believers": 837,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000773&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 군위군 군위읍 동서4길 14",
-      "address_detail": null,
       "lat": 36.23490168187212,
       "lng": 128.56870213999719,
       "geocode_status": "matched"
@@ -436,8 +400,6 @@
       "believers": 679,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000774&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 영천시 금호읍 거여로 16",
-      "address_detail": null,
       "lat": 35.93197955278984,
       "lng": 128.87941944593365,
       "geocode_status": "matched"
@@ -459,8 +421,6 @@
       "believers": 281,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000775&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 포항시 북구 기계면 기계로240번길 2",
-      "address_detail": null,
       "lat": 36.07760740938277,
       "lng": 129.1940564539782,
       "geocode_status": "matched"
@@ -482,8 +442,6 @@
       "believers": 1637,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000776&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 김천시 학사대길 64 (황금동)",
-      "address_detail": null,
       "lat": 36.11629766588467,
       "lng": 128.12144274481108,
       "geocode_status": "matched"
@@ -505,8 +463,6 @@
       "believers": 3547,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000777&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 중구 남산로4길 90 (남산동)",
-      "address_detail": null,
       "lat": 35.86091530038455,
       "lng": 128.5858087554763,
       "geocode_status": "matched"
@@ -528,8 +484,6 @@
       "believers": 1988,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000778&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 서구 달서로 33 (내당동)",
-      "address_detail": null,
       "lat": 35.8651213499715,
       "lng": 128.57012202174423,
       "geocode_status": "matched"
@@ -551,8 +505,6 @@
       "believers": 1122,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000779&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 북구 노원로 34 (노원동3가)",
-      "address_detail": null,
       "lat": 35.89176828074507,
       "lng": 128.56669826673365,
       "geocode_status": "matched"
@@ -574,8 +526,6 @@
       "believers": 729,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000780&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달성군 논공읍 비슬로359길 147",
-      "address_detail": null,
       "lat": 35.7736633121607,
       "lng": 128.41859089068515,
       "geocode_status": "matched"
@@ -597,8 +547,6 @@
       "believers": 3123,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000781&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달성군 다사읍 다사로4길 24",
-      "address_detail": null,
       "lat": 35.863237494953985,
       "lng": 128.46281928964754,
       "geocode_status": "matched"
@@ -620,8 +568,6 @@
       "believers": 481,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000782&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 고령군 다산면 상곡2길 34",
-      "address_detail": null,
       "lat": 35.824344688372534,
       "lng": 128.44594312121467,
       "geocode_status": "matched"
@@ -643,8 +589,6 @@
       "believers": 1309,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000783&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달서구 명천로 46 (대곡동)",
-      "address_detail": null,
       "lat": 35.80545949542878,
       "lng": 128.5114302116356,
       "geocode_status": "matched"
@@ -666,8 +610,6 @@
       "believers": 3477,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000784&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 남구 안지랑로 42 (대명동)",
-      "address_detail": null,
       "lat": 35.83512841037313,
       "lng": 128.57180705551906,
       "geocode_status": "matched"
@@ -689,8 +631,6 @@
       "believers": 2171,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000785&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 남구 대명로 253 (대명동)",
-      "address_detail": null,
       "lat": 35.84267550787104,
       "lng": 128.5845102268147,
       "geocode_status": "matched"
@@ -712,8 +652,6 @@
       "believers": 2864,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000786&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 중구 명덕로 285 (대봉동)",
-      "address_detail": null,
       "lat": 35.855679569137806,
       "lng": 128.60152305249642,
       "geocode_status": "matched"
@@ -735,8 +673,6 @@
       "believers": 1980,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000787&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 김천시 시청로 128 (신음동)",
-      "address_detail": null,
       "lat": 36.13926417210085,
       "lng": 128.1180286105194,
       "geocode_status": "matched"
@@ -758,8 +694,6 @@
       "believers": 1021,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000788&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 중구 서성로16길 77 (대안동)",
-      "address_detail": null,
       "lat": 35.873664482725715,
       "lng": 128.59210470877008,
       "geocode_status": "matched"
@@ -781,8 +715,6 @@
       "believers": 1182,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000789&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 포항시 남구 새천년대로410번길 15 (대잠동)",
-      "address_detail": null,
       "lat": 36.01228214007499,
       "lng": 129.34529937336544,
       "geocode_status": "matched"
@@ -804,8 +736,6 @@
       "believers": 1219,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000790&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달서구 조암남로32길 20-13 (대천동)",
-      "address_detail": null,
       "lat": 35.81919371528508,
       "lng": 128.5170899453954,
       "geocode_status": "matched"
@@ -827,8 +757,6 @@
       "believers": 2255,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000791&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 포항시 남구 문예로 121 (대도동)",
-      "address_detail": null,
       "lat": 36.01788278847641,
       "lng": 129.36686516549713,
       "geocode_status": "matched"
@@ -850,8 +778,6 @@
       "believers": 2013,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000792&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 북구 대현로 80 (대현동)",
-      "address_detail": null,
       "lat": 35.88279503996554,
       "lng": 128.60767259325723,
       "geocode_status": "matched"
@@ -873,8 +799,6 @@
       "believers": 1466,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000793&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 포항시 북구 대신로7번길 16 (덕수동)",
-      "address_detail": null,
       "lat": 36.04512782751078,
       "lng": 129.3664993788108,
       "geocode_status": "matched"
@@ -896,8 +820,6 @@
       "believers": 662,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000794&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 울릉군 울릉읍 행남길 9",
-      "address_detail": null,
       "lat": 37.484862184781804,
       "lng": 130.90551996409528,
       "geocode_status": "matched"
@@ -919,8 +841,6 @@
       "believers": 2981,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000795&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 구미시 야은로 446-1 (도량동)",
-      "address_detail": null,
       "lat": 36.13567120729436,
       "lng": 128.33093130768225,
       "geocode_status": "matched"
@@ -942,8 +862,6 @@
       "believers": 2749,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000796&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달서구 미리샘길 56 (도원동)",
-      "address_detail": null,
       "lat": 35.80630391758329,
       "lng": 128.54611989885836,
       "geocode_status": "matched"
@@ -965,8 +883,6 @@
       "believers": 927,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000797&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 칠곡군 동명면 한티로 15",
-      "address_detail": null,
       "lat": 35.981163656263014,
       "lng": 128.55772310024557,
       "geocode_status": "matched"
@@ -988,8 +904,6 @@
       "believers": 929,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000798&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 중구 국채보상로152길 6-5 (동인동4가)",
-      "address_detail": null,
       "lat": 35.86768842851808,
       "lng": 128.6129203176309,
       "geocode_status": "matched"
@@ -1011,8 +925,6 @@
       "believers": 2947,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000799&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 북구 팔거천동로 199 (동천동)",
-      "address_detail": null,
       "lat": 35.94171589291109,
       "lng": 128.55755748285833,
       "geocode_status": "matched"
@@ -1034,8 +946,6 @@
       "believers": 1768,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000800&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 동구 해동로 213 (검사동)",
-      "address_detail": null,
       "lat": 35.88598637115577,
       "lng": 128.65209821676214,
       "geocode_status": "matched"
@@ -1057,8 +967,6 @@
       "believers": 1545,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000801&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달서구 야외음악당로47길 81 (두류동)",
-      "address_detail": null,
       "lat": 35.858178727810035,
       "lng": 128.5609261099993,
       "geocode_status": "matched"
@@ -1080,8 +988,6 @@
       "believers": 3831,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000802&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 수성구 지산로3길 125 (두산동)",
-      "address_detail": null,
       "lat": 35.82516062650181,
       "lng": 128.62567118663486,
       "geocode_status": "matched"
@@ -1103,8 +1009,6 @@
       "believers": 2657,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000804&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 수성구 화랑로2길 99 (만촌동)",
-      "address_detail": null,
       "lat": 35.86836675034263,
       "lng": 128.63612850572497,
       "geocode_status": "matched"
@@ -1126,8 +1030,6 @@
       "believers": 2238,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000803&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 수성구 만촌로 34 (만촌동)",
-      "address_detail": null,
       "lat": 35.862086963878454,
       "lng": 128.64497732876015,
       "geocode_status": "matched"
@@ -1149,8 +1051,6 @@
       "believers": 1549,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000805&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 수성구 교학로19길 1 (만촌동)",
-      "address_detail": null,
       "lat": 35.84808752566852,
       "lng": 128.6495519679077,
       "geocode_status": "matched"
@@ -1172,8 +1072,6 @@
       "believers": 1179,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000806&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 북구 매천로동17길 55 (매천동)",
-      "address_detail": null,
       "lat": 35.90961811170318,
       "lng": 128.54119636905682,
       "geocode_status": "matched"
@@ -1195,8 +1093,6 @@
       "believers": 2846,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000807&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 수성구 달구벌대로647길 20-5 (신매동)",
-      "address_detail": null,
       "lat": 35.8406868188701,
       "lng": 128.7120799645806,
       "geocode_status": "matched"
@@ -1218,8 +1114,6 @@
       "believers": 733,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000808&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 경주시 외동읍 모화북2길 80-18",
-      "address_detail": null,
       "lat": 35.68262372470079,
       "lng": 129.3367487483171,
       "geocode_status": "matched"
@@ -1241,8 +1135,6 @@
       "believers": 1784,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000809&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 북구 서변로 2 (서변동)",
-      "address_detail": null,
       "lat": 35.91647268887969,
       "lng": 128.5976527376568,
       "geocode_status": "matched"
@@ -1264,8 +1156,6 @@
       "believers": 766,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000810&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 포항시 남구 오천읍 중원로 93-88",
-      "address_detail": null,
       "lat": 35.971341630763916,
       "lng": 129.39700183103417,
       "geocode_status": "matched"
@@ -1287,8 +1177,6 @@
       "believers": 2720,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000811&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 동구 경안로107길 34 (서호동)",
-      "address_detail": null,
       "lat": 35.87131262200917,
       "lng": 128.71028165098767,
       "geocode_status": "matched"
@@ -1310,8 +1198,6 @@
       "believers": 681,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000812&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 경산시 경청로226길 13 (백천동)",
-      "address_detail": null,
       "lat": 35.80580474428829,
       "lng": 128.74153158526752,
       "geocode_status": "matched"
@@ -1333,8 +1219,6 @@
       "believers": 2749,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000813&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 수성구 지범로48길 27 (범물동)",
-      "address_detail": null,
       "lat": 35.81444485216002,
       "lng": 128.64377812581574,
       "geocode_status": "matched"
@@ -1356,8 +1240,6 @@
       "believers": 7391,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000814&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 수성구 범어천로 90 (범어동)",
-      "address_detail": null,
       "lat": 35.85647821565093,
       "lng": 128.62298333871854,
       "geocode_status": "matched"
@@ -1379,8 +1261,6 @@
       "believers": 3261,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000815&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 동구 송라로 22 (신천동)",
-      "address_detail": null,
       "lat": 35.868789706430036,
       "lng": 128.62105453574878,
       "geocode_status": "matched"
@@ -1402,8 +1282,6 @@
       "believers": 2857,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000816&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 북구 공항로5길 11 (복현동)",
-      "address_detail": null,
       "lat": 35.89901148030781,
       "lng": 128.6173309932912,
       "geocode_status": "matched"
@@ -1425,8 +1303,6 @@
       "believers": 2011,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000817&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달서구 와룡로18길 26 (본리동)",
-      "address_detail": null,
       "lat": 35.84017535709074,
       "lng": 128.5385257443626,
       "geocode_status": "matched"
@@ -1448,8 +1324,6 @@
       "believers": 2558,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000818&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 구미시 봉곡로18길 21-2 (봉곡동)",
-      "address_detail": null,
       "lat": 36.15170616214857,
       "lng": 128.31335458815312,
       "geocode_status": "matched"
@@ -1471,8 +1345,6 @@
       "believers": 2106,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000819&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 남구 대덕로 185 (봉덕동)",
-      "address_detail": null,
       "lat": 35.84151836551378,
       "lng": 128.60338554347612,
       "geocode_status": "matched"
@@ -1494,8 +1366,6 @@
       "believers": 283,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000820&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 김천시 남면 농남로 1022-3",
-      "address_detail": null,
       "lat": 36.06952209053463,
       "lng": 128.26372783653028,
       "geocode_status": "matched"
@@ -1517,8 +1387,6 @@
       "believers": 1930,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000821&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 동구 팔공로35길 3 (불로동)",
-      "address_detail": null,
       "lat": 35.91454927148869,
       "lng": 128.64033946039513,
       "geocode_status": "matched"
@@ -1540,8 +1408,6 @@
       "believers": 1336,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000822&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 서구 북비산로67길 31 (비산동)",
-      "address_detail": null,
       "lat": 35.88359270940971,
       "lng": 128.57057042961497,
       "geocode_status": "matched"
@@ -1563,8 +1429,6 @@
       "believers": 2890,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000823&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 경산시 백자로 92-6 (사동)",
-      "address_detail": null,
       "lat": 35.81335589151123,
       "lng": 128.75633232206945,
       "geocode_status": "matched"
@@ -1586,8 +1450,6 @@
       "believers": 774,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201007892&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 북구 내곡로 123 (사수동)",
-      "address_detail": null,
       "lat": 35.9013920886848,
       "lng": 128.51707356946852,
       "geocode_status": "matched"
@@ -1609,8 +1471,6 @@
       "believers": 2964,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000824&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 북구 대동로1길 68-3 (산격동)",
-      "address_detail": null,
       "lat": 35.897369530170806,
       "lng": 128.6132025945211,
       "geocode_status": "matched"
@@ -1632,8 +1492,6 @@
       "believers": 188,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000825&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 경주시 산내면 의곡2길 6-11",
-      "address_detail": null,
       "lat": 35.75720841708478,
       "lng": 129.04654674929918,
       "geocode_status": "matched"
@@ -1655,8 +1513,6 @@
       "believers": 2681,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000826&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 중구 공평로 39 (삼덕동1가)",
-      "address_detail": null,
       "lat": 35.867657116516924,
       "lng": 128.59939244433235,
       "geocode_status": "matched"
@@ -1678,8 +1534,6 @@
       "believers": 2696,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000827&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 수성구 수성로 49 (상동)",
-      "address_detail": null,
       "lat": 35.829789009110534,
       "lng": 128.61022471865314,
       "geocode_status": "matched"
@@ -1701,8 +1555,6 @@
       "believers": 1277,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000829&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 구미시 상사서로12길 20 (상모동)",
-      "address_detail": null,
       "lat": 36.09214911753044,
       "lng": 128.35729454464024,
       "geocode_status": "matched"
@@ -1724,8 +1576,6 @@
       "believers": 3467,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000830&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달서구 월곡로 235 (상인동)",
-      "address_detail": null,
       "lat": 35.815477490885954,
       "lng": 128.53984334290016,
       "geocode_status": "matched"
@@ -1747,8 +1597,6 @@
       "believers": 290,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000831&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 서구 새방로27길 9 (상리동)",
-      "address_detail": null,
       "lat": 35.86813929810722,
       "lng": 128.52850207547775,
       "geocode_status": "matched"
@@ -1770,8 +1618,6 @@
       "believers": 1100,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000832&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달성군 다사읍 서재로20길 28",
-      "address_detail": null,
       "lat": 35.870840760615685,
       "lng": 128.49992920790413,
       "geocode_status": "matched"
@@ -1793,8 +1639,6 @@
       "believers": 1299,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000833&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 칠곡군 왜관읍 석전로 34-7",
-      "address_detail": null,
       "lat": 35.99709369618691,
       "lng": 128.40324207194942,
       "geocode_status": "matched"
@@ -1816,8 +1660,6 @@
       "believers": 671,
       "mission_stations": 7,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000834&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 성주군 선남면 관화길 92-13",
-      "address_detail": null,
       "lat": 35.90184923981073,
       "lng": 128.3502734712485,
       "geocode_status": "matched"
@@ -1839,8 +1681,6 @@
       "believers": 1191,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000835&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 구미시 선산읍 단계서길 83-2",
-      "address_detail": null,
       "lat": 36.244583640952285,
       "lng": 128.29715219756523,
       "geocode_status": "matched"
@@ -1862,8 +1702,6 @@
       "believers": 990,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000836&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 경주시 북문로55번길 24 (성건동)",
-      "address_detail": null,
       "lat": 35.85238920239359,
       "lng": 129.20878364543182,
       "geocode_status": "matched"
@@ -1885,8 +1723,6 @@
       "believers": 4013,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000837&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 수성구 청호로67길 71 (황금동)",
-      "address_detail": null,
       "lat": 35.84755174230566,
       "lng": 128.635404217166,
       "geocode_status": "matched"
@@ -1908,8 +1744,6 @@
       "believers": 1605,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000838&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달서구 야외음악당로 87 (성당동)",
-      "address_detail": null,
       "lat": 35.84502343760788,
       "lng": 128.55182929814578,
       "geocode_status": "matched"
@@ -1931,8 +1765,6 @@
       "believers": 2762,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000839&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 경주시 화랑로 127 (성동동)",
-      "address_detail": null,
       "lat": 35.84501501559269,
       "lng": 129.21510527233116,
       "geocode_status": "matched"
@@ -1954,8 +1786,6 @@
       "believers": 766,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000840&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달서구 달구벌대로203길 14 (호산동)",
-      "address_detail": null,
       "lat": 35.85396288681373,
       "lng": 128.47834359861662,
       "geocode_status": "matched"
@@ -1977,8 +1807,6 @@
       "believers": 1268,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000841&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 남구 효명길 145 (봉덕동)",
-      "address_detail": null,
       "lat": 35.83352054475721,
       "lng": 128.5944184445152,
       "geocode_status": "matched"
@@ -2000,8 +1828,6 @@
       "believers": 748,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000842&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 북구 연암로25길 5-5 (산격동)",
-      "address_detail": null,
       "lat": 35.89510674174524,
       "lng": 128.59344088099357,
       "geocode_status": "matched"
@@ -2023,8 +1849,6 @@
       "believers": 887,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000843&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달성군 화원읍 비슬로497길 88",
-      "address_detail": null,
       "lat": 35.80217793671696,
       "lng": 128.49298239905994,
       "geocode_status": "matched"
@@ -2046,8 +1870,6 @@
       "believers": 2313,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000844&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달서구 선원로33길 17-30 (이곡동)",
-      "address_detail": null,
       "lat": 35.860600135467394,
       "lng": 128.50921185980013,
       "geocode_status": "matched"
@@ -2069,8 +1891,6 @@
       "believers": 1287,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000845&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 수성구 수성로 411 (수성동4가,수성화성쌍용타운)",
-      "address_detail": "(수성동4가, 화성쌍용타운) 상가지하",
       "lat": 35.86180814010231,
       "lng": 128.61309970636097,
       "geocode_status": "matched"
@@ -2092,8 +1912,6 @@
       "believers": 1963,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000846&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달서구 학산남로 91 (송현동)",
-      "address_detail": null,
       "lat": 35.82612871088884,
       "lng": 128.542316822197,
       "geocode_status": "matched"
@@ -2115,8 +1933,6 @@
       "believers": 2451,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000847&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 수성구 청수로38길 17 (지산동)",
-      "address_detail": null,
       "lat": 35.838055958408646,
       "lng": 128.6282720670066,
       "geocode_status": "matched"
@@ -2138,8 +1954,6 @@
       "believers": 1545,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000848&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 성주군 성주읍 청사도서관길 6",
-      "address_detail": null,
       "lat": 35.92037596808177,
       "lng": 128.28443674439126,
       "geocode_status": "matched"
@@ -2161,8 +1975,6 @@
       "believers": 1284,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000849&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 남구 중앙대로 204 (대명동)",
-      "address_detail": null,
       "lat": 35.85128336510563,
       "lng": 128.59090520310554,
       "geocode_status": "matched"
@@ -2184,8 +1996,6 @@
       "believers": 381,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201008100&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달성군 다사읍 세천로9길 23-14",
-      "address_detail": null,
       "lat": 35.87549895724812,
       "lng": 128.47667112130853,
       "geocode_status": "matched"
@@ -2207,8 +2017,6 @@
       "believers": 1118,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000850&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달서구 성당로 195 (성당동)",
-      "address_detail": "5층",
       "lat": 35.850467875366874,
       "lng": 128.57199453441996,
       "geocode_status": "matched"
@@ -2230,8 +2038,6 @@
       "believers": 1900,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000851&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달서구 학산로50길 88 (송현동)",
-      "address_detail": null,
       "lat": 35.830799990934,
       "lng": 128.5502000081731,
       "geocode_status": "matched"
@@ -2253,8 +2059,6 @@
       "believers": 4268,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000852&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 수성구 수성로 347 (수성동1가)",
-      "address_detail": null,
       "lat": 35.85674100216086,
       "lng": 128.61329894029387,
       "geocode_status": "matched"
@@ -2276,8 +2080,6 @@
       "believers": 786,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000853&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 영천시 신녕면 화성중앙길 21",
-      "address_detail": null,
       "lat": 36.04457077370431,
       "lng": 128.7887797209832,
       "geocode_status": "matched"
@@ -2299,8 +2101,6 @@
       "believers": 608,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000854&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 칠곡군 지천면 신동로8길 12-12",
-      "address_detail": null,
       "lat": 35.95749775330441,
       "lng": 128.49287291731218,
       "geocode_status": "matched"
@@ -2322,8 +2122,6 @@
       "believers": 536,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000855&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 김천시 개령면 황계길 324",
-      "address_detail": null,
       "lat": 36.156384569842906,
       "lng": 128.15338481532177,
       "geocode_status": "matched"
@@ -2345,8 +2143,6 @@
       "believers": 2582,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000856&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 동구 금강로16길 2 (신서동)",
-      "address_detail": null,
       "lat": 35.86433030282129,
       "lng": 128.72995959498962,
       "geocode_status": "matched"
@@ -2368,8 +2164,6 @@
       "believers": 2531,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000857&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 동구 아양로11길 2 (신암동)",
-      "address_detail": null,
       "lat": 35.88337573974405,
       "lng": 128.62066690153947,
       "geocode_status": "matched"
@@ -2391,8 +2185,6 @@
       "believers": 1178,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000858&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 구미시 야은로45길 13 (신평동)",
-      "address_detail": null,
       "lat": 36.12433906730698,
       "lng": 128.36305316563082,
       "geocode_status": "matched"
@@ -2414,8 +2206,6 @@
       "believers": 1590,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000859&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 경주시 안강읍 비화원로 112",
-      "address_detail": null,
       "lat": 35.991534690712854,
       "lng": 129.220594121099,
       "geocode_status": "matched"
@@ -2437,8 +2227,6 @@
       "believers": 1153,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000860&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": null,
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -2460,8 +2248,6 @@
       "believers": 654,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000861&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 칠곡군 약목면 복성7길 19-7",
-      "address_detail": null,
       "lat": 36.03374995798293,
       "lng": 128.36098656188437,
       "geocode_status": "matched"
@@ -2483,8 +2269,6 @@
       "believers": 244,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000862&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 경주시 양남면 양남항구길 103-4",
-      "address_detail": null,
       "lat": 35.69716332760427,
       "lng": 129.4749403517164,
       "geocode_status": "matched"
@@ -2506,8 +2290,6 @@
       "believers": 1136,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000863&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 포항시 남구 연일읍 형산강남로326번길 22",
-      "address_detail": null,
       "lat": 35.99763556024237,
       "lng": 129.34870030832178,
       "geocode_status": "matched"
@@ -2529,8 +2311,6 @@
       "believers": 3015,
       "mission_stations": 4,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000864&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 영천시 시장2길 35 (완산동)",
-      "address_detail": null,
       "lat": 35.965102508449434,
       "lng": 128.93697772811464,
       "geocode_status": "matched"
@@ -2552,8 +2332,6 @@
       "believers": 2227,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000865&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 포항시 남구 오천읍 장기로 1676",
-      "address_detail": null,
       "lat": 35.96564079574385,
       "lng": 129.41750576286913,
       "geocode_status": "matched"
@@ -2575,8 +2353,6 @@
       "believers": 981,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000866&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 구미시 옥계신당로5길 13 (옥계동)",
-      "address_detail": null,
       "lat": 36.1446710414573,
       "lng": 128.42214748352188,
       "geocode_status": "matched"
@@ -2598,8 +2374,6 @@
       "believers": 1328,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000867&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 북구 침산남로44길 31 (침산동)",
-      "address_detail": null,
       "lat": 35.884746739609895,
       "lng": 128.59920802395942,
       "geocode_status": "matched"
@@ -2621,8 +2395,6 @@
       "believers": 3716,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000868&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 칠곡군 왜관읍 관문로 25",
-      "address_detail": null,
       "lat": 35.98805751938059,
       "lng": 128.39748260942486,
       "geocode_status": "matched"
@@ -2644,8 +2416,6 @@
       "believers": 912,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201006712&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 경주시 유림로13번길 109 (황성동)",
-      "address_detail": null,
       "lat": 35.87897713912953,
       "lng": 129.22120641859698,
       "geocode_status": "matched"
@@ -2667,8 +2437,6 @@
       "believers": 1682,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000869&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 동구 화랑로91길 12 (용계동)",
-      "address_detail": null,
       "lat": 35.876751087691346,
       "lng": 128.67461255906107,
       "geocode_status": "matched"
@@ -2690,8 +2458,6 @@
       "believers": 282,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000870&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 경산시 용성면 원효로 1413-3",
-      "address_detail": null,
       "lat": 35.79346901031708,
       "lng": 128.8753337686292,
       "geocode_status": "matched"
@@ -2713,8 +2479,6 @@
       "believers": 5854,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000871&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 수성구 달구벌대로650길 81 (욱수동)",
-      "address_detail": null,
       "lat": 35.83125527572204,
       "lng": 128.70875544397666,
       "geocode_status": "matched"
@@ -2736,8 +2500,6 @@
       "believers": 3290,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000872&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 구미시 원남로 120 (원평동)",
-      "address_detail": null,
       "lat": 36.12653079896011,
       "lng": 128.3328470452635,
       "geocode_status": "matched"
@@ -2759,8 +2521,6 @@
       "believers": 3429,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000873&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달서구 월배로 131-5 (진천동)",
-      "address_detail": null,
       "lat": 35.8158881608862,
       "lng": 128.52761361778363,
       "geocode_status": "matched"
@@ -2782,8 +2542,6 @@
       "believers": 5318,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000874&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달서구 학산로 54 (월성동)",
-      "address_detail": null,
       "lat": 35.830038658610746,
       "lng": 128.53470673441612,
       "geocode_status": "matched"
@@ -2805,8 +2563,6 @@
       "believers": 847,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000875&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달성군 화원읍 성천로42길 2",
-      "address_detail": null,
       "lat": 35.81016473944669,
       "lng": 128.5023583865257,
       "geocode_status": "matched"
@@ -2828,8 +2584,6 @@
       "believers": 2035,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000876&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 서구 서대구로42길 70 (평리동)",
-      "address_detail": null,
       "lat": 35.876415669045684,
       "lng": 128.56281929048382,
       "geocode_status": "matched"
@@ -2851,8 +2605,6 @@
       "believers": 1503,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201007279&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 김천시 우래3길 5 (율곡동)",
-      "address_detail": null,
       "lat": 36.12341491857911,
       "lng": 128.18446056016774,
       "geocode_status": "matched"
@@ -2874,8 +2626,6 @@
       "believers": 2073,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000877&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달서구 선원로33길 125 (용산동)",
-      "address_detail": null,
       "lat": 35.86033541003336,
       "lng": 128.51482430245704,
       "geocode_status": "matched"
@@ -2897,8 +2647,6 @@
       "believers": 1429,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000878&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 포항시 남구 대이로175번길 18 (이동)",
-      "address_detail": null,
       "lat": 36.03009803247354,
       "lng": 129.33667038333465,
       "geocode_status": "matched"
@@ -2920,8 +2668,6 @@
       "believers": 722,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000879&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 구미시 수출대로36길 9-11 (인의동)",
-      "address_detail": null,
       "lat": 36.11045991768827,
       "lng": 128.4274241707638,
       "geocode_status": "matched"
@@ -2943,8 +2689,6 @@
       "believers": 1345,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000880&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 칠곡군 북삼읍 금오대로2길 6",
-      "address_detail": null,
       "lat": 36.065069338563255,
       "lng": 128.34598499311812,
       "geocode_status": "matched"
@@ -2966,8 +2710,6 @@
       "believers": 276,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000881&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 영천시 임고면 포은로 473",
-      "address_detail": null,
       "lat": 36.01877935492115,
       "lng": 128.97335580661365,
       "geocode_status": "matched"
@@ -2989,8 +2731,6 @@
       "believers": 540,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000882&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 경산시 자인면 일연로 90",
-      "address_detail": null,
       "lat": 35.820797402737824,
       "lng": 128.82190993677438,
       "geocode_status": "matched"
@@ -3012,8 +2752,6 @@
       "believers": 2954,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000883&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 포항시 북구 법원로97번길 32 (장성동)",
-      "address_detail": null,
       "lat": 36.083834434957744,
       "lng": 129.38168866709242,
       "geocode_status": "matched"
@@ -3035,8 +2773,6 @@
       "believers": 3756,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000884&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 포항시 북구 새천년대로 1135-40 (장성동)",
-      "address_detail": null,
       "lat": 36.07119657684267,
       "lng": 129.37074831808513,
       "geocode_status": "matched"
@@ -3058,8 +2794,6 @@
       "believers": 367,
       "mission_stations": 4,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000886&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 구미시 장천면 상장5길 41",
-      "address_detail": null,
       "lat": 36.12309349055455,
       "lng": 128.49575323347977,
       "geocode_status": "matched"
@@ -3081,8 +2815,6 @@
       "believers": 1497,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000885&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 경산시 대학로13길 98 (정평동)",
-      "address_detail": null,
       "lat": 35.836944487064045,
       "lng": 128.72517708446736,
       "geocode_status": "matched"
@@ -3104,8 +2836,6 @@
       "believers": 4160,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000887&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 포항시 북구 죽도로 20 (죽도동)",
-      "address_detail": null,
       "lat": 36.034297853546164,
       "lng": 129.36259694892098,
       "geocode_status": "matched"
@@ -3127,8 +2857,6 @@
       "believers": 2421,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000888&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달서구 죽전길 77 (죽전동)",
-      "address_detail": null,
       "lat": 35.855060191764096,
       "lng": 128.53966359377984,
       "geocode_status": "matched"
@@ -3150,8 +2878,6 @@
       "believers": 769,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000889&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 칠곡군 석적읍 남중리2길 24-6",
-      "address_detail": null,
       "lat": 36.073879369044306,
       "lng": 128.40847205693532,
       "geocode_status": "matched"
@@ -3173,8 +2899,6 @@
       "believers": 1871,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000890&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 경산시 남매로 225 (중방동)",
-      "address_detail": null,
       "lat": 35.83100242434239,
       "lng": 128.74044873334893,
       "geocode_status": "matched"
@@ -3196,8 +2920,6 @@
       "believers": 2377,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000891&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 포항시 남구 연일읍 연지로 103",
-      "address_detail": null,
       "lat": 36.032234753357514,
       "lng": 129.31184294502077,
       "geocode_status": "matched"
@@ -3219,8 +2941,6 @@
       "believers": 445,
       "mission_stations": 4,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000892&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 김천시 지례면 장터길 21",
-      "address_detail": null,
       "lat": 35.986698601230486,
       "lng": 128.02754226382774,
       "geocode_status": "matched"
@@ -3242,8 +2962,6 @@
       "believers": 2018,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000893&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 동구 파계로22길 17 (지묘동)",
-      "address_detail": null,
       "lat": 35.94324773058621,
       "lng": 128.6394306601718,
       "geocode_status": "matched"
@@ -3265,8 +2983,6 @@
       "believers": 2623,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000894&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 수성구 지범로31길 11-2 (지산동)",
-      "address_detail": null,
       "lat": 35.823188718672114,
       "lng": 128.63915514079915,
       "geocode_status": "matched"
@@ -3288,8 +3004,6 @@
       "believers": 979,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000895&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 김천시 마잠1길 23 (지좌동)",
-      "address_detail": null,
       "lat": 36.12133547749988,
       "lng": 128.1467566006101,
       "geocode_status": "matched"
@@ -3311,8 +3025,6 @@
       "believers": 1977,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000896&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 경산시 진량읍 봉회길 76-10",
-      "address_detail": null,
       "lat": 35.88368703382277,
       "lng": 128.81649783844557,
       "geocode_status": "matched"
@@ -3334,8 +3046,6 @@
       "believers": 177,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000897&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 울릉군 북면 천부2길 16",
-      "address_detail": null,
       "lat": 37.540450924694994,
       "lng": 130.87458253771342,
       "geocode_status": "matched"
@@ -3357,8 +3067,6 @@
       "believers": 1438,
       "mission_stations": 5,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000898&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 청도군 청도읍 고수뒷길 42",
-      "address_detail": null,
       "lat": 35.64304738379583,
       "lng": 128.74075461170787,
       "geocode_status": "matched"
@@ -3380,8 +3088,6 @@
       "believers": 851,
       "mission_stations": 6,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000899&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 성주군 초전면 대장길 91",
-      "address_detail": null,
       "lat": 35.973244334307054,
       "lng": 128.26358499166795,
       "geocode_status": "matched"
@@ -3403,8 +3109,6 @@
       "believers": 709,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201007081&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 경주시 충효7길 13-6 (충효동)",
-      "address_detail": null,
       "lat": 35.843159234979716,
       "lng": 129.17664547447308,
       "geocode_status": "matched"
@@ -3426,8 +3130,6 @@
       "believers": 1197,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000900&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 북구 칠곡중앙대로 579 (읍내동)",
-      "address_detail": null,
       "lat": 35.94758583232264,
       "lng": 128.54994493372357,
       "geocode_status": "matched"
@@ -3449,8 +3151,6 @@
       "believers": 781,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000901&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 북구 침산로46길 9 (침산동)",
-      "address_detail": null,
       "lat": 35.896414699436846,
       "lng": 128.5904316975375,
       "geocode_status": "matched"
@@ -3472,8 +3172,6 @@
       "believers": 2303,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000902&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 동구 아양로 150 (신암동)",
-      "address_detail": null,
       "lat": 35.88536484791307,
       "lng": 128.62967753324193,
       "geocode_status": "matched"
@@ -3495,8 +3193,6 @@
       "believers": 2340,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000903&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 북구 칠곡중앙대로77길 19 (태전동)",
-      "address_detail": null,
       "lat": 35.930674486061676,
       "lng": 128.5457286437884,
       "geocode_status": "matched"
@@ -3518,8 +3214,6 @@
       "believers": 2370,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000904&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 서구 국채보상로38길 19 (평리동)",
-      "address_detail": null,
       "lat": 35.86804732053679,
       "lng": 128.55273293388268,
       "geocode_status": "matched"
@@ -3541,8 +3235,6 @@
       "believers": 3570,
       "mission_stations": 3,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000905&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 김천시 평화순환길 204 (평화동)",
-      "address_detail": null,
       "lat": 36.12056364142235,
       "lng": 128.11404123836212,
       "geocode_status": "matched"
@@ -3564,8 +3256,6 @@
       "believers": 3039,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000906&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 경산시 하양읍 금송로 71",
-      "address_detail": null,
       "lat": 35.91934309252899,
       "lng": 128.81844462181652,
       "geocode_status": "matched"
@@ -3587,8 +3277,6 @@
       "believers": 281,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000907&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 구미시 해평면 월호2길 16",
-      "address_detail": null,
       "lat": 36.20168048638371,
       "lng": 128.39166386081376,
       "geocode_status": "matched"
@@ -3610,8 +3298,6 @@
       "believers": 2479,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000908&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": null,
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -3633,8 +3319,6 @@
       "believers": 2868,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000909&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 구미시 형곡로12길 14 (형곡동)",
-      "address_detail": null,
       "lat": 36.11506894503832,
       "lng": 128.3308143662554,
       "geocode_status": "matched"
@@ -3656,8 +3340,6 @@
       "believers": 1073,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000911&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 달성군 화원읍 비슬로522길 65",
-      "address_detail": null,
       "lat": 35.801313707678005,
       "lng": 128.50149185775774,
       "geocode_status": "matched"
@@ -3679,8 +3361,6 @@
       "believers": 2564,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000912&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 수성구 청수로 109-5 (황금동)",
-      "address_detail": null,
       "lat": 35.84082965036692,
       "lng": 128.62108760969681,
       "geocode_status": "matched"
@@ -3702,8 +3382,6 @@
       "believers": 3308,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000913&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 경주시 용담로92번길 67 (황성동)",
-      "address_detail": null,
       "lat": 35.86968801500473,
       "lng": 129.21500810865638,
       "geocode_status": "matched"
@@ -3725,8 +3403,6 @@
       "believers": 2757,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000914&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 동구 화랑로25길 33 (효목동)",
-      "address_detail": null,
       "lat": 35.87742939699323,
       "lng": 128.64028382930547,
       "geocode_status": "matched"
@@ -3748,8 +3424,6 @@
       "believers": 1922,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000915&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 포항시 남구 유강길10번길 34-25 (효자동)",
-      "address_detail": null,
       "lat": 36.00673392352624,
       "lng": 129.32313417016772,
       "geocode_status": "matched"
@@ -3771,8 +3445,6 @@
       "believers": 2054,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000916&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상북도 포항시 북구 흥해읍 남미질로 12-42",
-      "address_detail": null,
       "lat": 36.10303849943324,
       "lng": 129.34280647647967,
       "geocode_status": "matched"

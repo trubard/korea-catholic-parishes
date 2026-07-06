@@ -22,8 +22,6 @@
       "believers": 47,
       "mission_stations": 4,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001557&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 1호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -45,8 +43,6 @@
       "believers": 367,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001558&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": null,
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -68,8 +64,6 @@
       "believers": 78,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201006660&tbxSearch=&gubn2=all&char=all",
-      "road_address": "강원특별자치도 인제군 남면 응봉길 32",
-      "address_detail": null,
       "lat": 37.92512943521216,
       "lng": 128.06343604471806,
       "geocode_status": "matched"
@@ -91,8 +85,6 @@
       "believers": 272,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001559&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 304-101호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -114,8 +106,6 @@
       "believers": 1285,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001556&tbxSearch=&gubn2=all&char=all",
-      "road_address": "서울특별시 용산구 한강대로40길 46 (용산동5가)",
-      "address_detail": null,
       "lat": 37.529851303667925,
       "lng": 126.97193739611178,
       "geocode_status": "matched"
@@ -137,8 +127,6 @@
       "believers": 153,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001561&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "육군종합행정학교",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -160,8 +148,6 @@
       "believers": 79,
       "mission_stations": 3,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001562&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "천주교 노도 성당",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -183,8 +169,6 @@
       "believers": 105,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001564&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 334-22호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -206,8 +190,6 @@
       "believers": 124,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001566&tbxSearch=&gubn2=all&char=all",
-      "road_address": "강원특별자치도 고성군 토성면 화원길 117",
-      "address_detail": null,
       "lat": 38.282480986624535,
       "lng": 128.53757327233683,
       "geocode_status": "matched"
@@ -229,8 +211,6 @@
       "believers": 129,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001565&tbxSearch=&gubn2=all&char=all",
-      "road_address": "강원특별자치도 동해시 중앙로 145 (천곡동)",
-      "address_detail": null,
       "lat": 37.512629665940125,
       "lng": 129.11683990512188,
       "geocode_status": "matched"
@@ -252,8 +232,6 @@
       "believers": 92,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001567&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 평택시 포승읍 내기리 2",
-      "address_detail": "사서함 800-12호",
       "lat": 36.981389213377014,
       "lng": 126.87915715583586,
       "geocode_status": "matched"
@@ -275,8 +253,6 @@
       "believers": 103,
       "mission_stations": 3,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001568&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": null,
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -298,8 +274,6 @@
       "believers": 113,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001569&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 323-1호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -321,8 +295,6 @@
       "believers": 13,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001571&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": null,
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -344,8 +316,6 @@
       "believers": 302,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001572&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 수성구 무열로 56 (만촌동)",
-      "address_detail": "사서함 11호",
       "lat": 35.861926818194746,
       "lng": 128.65288675229527,
       "geocode_status": "matched"
@@ -367,8 +337,6 @@
       "believers": 721,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201006618&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청북도 괴산군 괴산읍 문무로 177-1",
-      "address_detail": null,
       "lat": 36.821977379612434,
       "lng": 127.80393000606936,
       "geocode_status": "matched"
@@ -390,8 +358,6 @@
       "believers": 265,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001573&tbxSearch=&gubn2=all&char=all",
-      "road_address": "서울특별시 관악구 과천대로 851 (남현동)",
-      "address_detail": "(남현동, 한울아파트) 사서함 20003호",
       "lat": 37.46706467080975,
       "lng": 126.98631386462083,
       "geocode_status": "matched"
@@ -413,8 +379,6 @@
       "believers": 106,
       "mission_stations": 3,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001574&tbxSearch=&gubn2=all&char=all",
-      "road_address": "강원특별자치도 철원군 서면 신술1길 25-4",
-      "address_detail": null,
       "lat": 38.16328335294861,
       "lng": 127.41373031207436,
       "geocode_status": "matched"
@@ -436,8 +400,6 @@
       "believers": 146,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001575&tbxSearch=&gubn2=all&char=all",
-      "road_address": "강원특별자치도 양구군 양구읍 박수근로213번길 31-19",
-      "address_detail": "천주교 백두산 성당",
       "lat": 38.08878411164707,
       "lng": 127.98064590170506,
       "geocode_status": "matched"
@@ -459,8 +421,6 @@
       "believers": 101,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001576&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 110-1호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -482,8 +442,6 @@
       "believers": 0,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201008414&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "천주교 백마대 성당",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -505,8 +463,6 @@
       "believers": 116,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001577&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "백운아파트 내",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -528,8 +484,6 @@
       "believers": 96,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001578&tbxSearch=&gubn2=all&char=all",
-      "road_address": "강원특별자치도 원주시 소초면 치악로 2367",
-      "address_detail": "반가운아파트 옆 천주교 백호 성당",
       "lat": 37.38605810420533,
       "lng": 127.97627901149357,
       "geocode_status": "matched"
@@ -551,8 +505,6 @@
       "believers": 0,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001635&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 용인시 처인구 포곡읍 포곡로 168",
-      "address_detail": "육군 제5708부대",
       "lat": 37.27252603488106,
       "lng": 127.22281131180628,
       "geocode_status": "matched"
@@ -574,8 +526,6 @@
       "believers": 89,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001581&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 양주시 남면 개나리길 29",
-      "address_detail": null,
       "lat": 37.89440944470594,
       "lng": 126.97275142979456,
       "geocode_status": "matched"
@@ -597,8 +547,6 @@
       "believers": 443,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001582&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 306호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -620,8 +568,6 @@
       "believers": 141,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001583&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 이천시 진상미로 1700-29 (대포동)",
-      "address_detail": "사서함 867-1호",
       "lat": 37.201626662727165,
       "lng": 127.45893910784883,
       "geocode_status": "matched"
@@ -643,8 +589,6 @@
       "believers": 2391,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001584&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 계룡시 신도안면 신도안1길 72",
-      "address_detail": null,
       "lat": 36.29824513453343,
       "lng": 127.2462642125934,
       "geocode_status": "matched"
@@ -666,8 +610,6 @@
       "believers": 217,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001585&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 75-1호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -689,8 +631,6 @@
       "believers": 225,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001586&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 이천시 장호원읍 경충대로597번길 227-25",
-      "address_detail": null,
       "lat": 37.162374752505556,
       "lng": 127.57395213234823,
       "geocode_status": "matched"
@@ -712,8 +652,6 @@
       "believers": 415,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001587&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 용인시 처인구 금학로235번길 26 (역북동,아파트 112동)",
-      "address_detail": null,
       "lat": 37.240787251531515,
       "lng": 127.19044054866717,
       "geocode_status": "matched"
@@ -735,8 +673,6 @@
       "believers": 92,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001607&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": null,
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -758,8 +694,6 @@
       "believers": 750,
       "mission_stations": 3,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001588&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": null,
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -781,8 +715,6 @@
       "believers": 329,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001589&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 335-1호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -804,8 +736,6 @@
       "believers": 359,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001590&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 135-1호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -827,8 +757,6 @@
       "believers": 173,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001626&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": null,
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -850,8 +778,6 @@
       "believers": 267,
       "mission_stations": 4,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001591&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 고양시 덕양구 혜음로 65 (고양동)",
-      "address_detail": null,
       "lat": 37.70626590659482,
       "lng": 126.90241652127055,
       "geocode_status": "matched"
@@ -873,8 +799,6 @@
       "believers": 236,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001592&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": null,
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -896,8 +820,6 @@
       "believers": 137,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001593&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 100호 국군수도병원",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -919,8 +841,6 @@
       "believers": 158,
       "mission_stations": 3,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001597&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 305-1호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -942,8 +862,6 @@
       "believers": 157,
       "mission_stations": 4,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001594&tbxSearch=&gubn2=all&char=all",
-      "road_address": "인천광역시 부평구 무네미로 431 (구산동)",
-      "address_detail": null,
       "lat": 37.475107887641755,
       "lng": 126.75327652702234,
       "geocode_status": "matched"
@@ -965,8 +883,6 @@
       "believers": 153,
       "mission_stations": 4,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001570&tbxSearch=&gubn2=all&char=all",
-      "road_address": "강원특별자치도 화천군 사내면 수피령로 861",
-      "address_detail": null,
       "lat": 38.13891936348328,
       "lng": 127.52897501614783,
       "geocode_status": "matched"
@@ -988,8 +904,6 @@
       "believers": 108,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001595&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 포천시 이동면 노곡리 921-1",
-      "address_detail": null,
       "lat": 38.00851943427041,
       "lng": 127.32758433421472,
       "geocode_status": "matched"
@@ -1011,8 +925,6 @@
       "believers": 85,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001596&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 7-13호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -1034,8 +946,6 @@
       "believers": 129,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001598&tbxSearch=&gubn2=all&char=all",
-      "road_address": "강원특별자치도 춘천시 신북읍 맥국길 79-9",
-      "address_detail": "사서함 114-1호",
       "lat": 37.944313433143726,
       "lng": 127.7711477685231,
       "geocode_status": "matched"
@@ -1057,8 +967,6 @@
       "believers": 179,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001560&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 76-1호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -1080,8 +988,6 @@
       "believers": 0,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201009167&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": null,
       "lat": null,
       "lng": null,
       "geocode_status": "no_address"
@@ -1103,8 +1009,6 @@
       "believers": 193,
       "mission_stations": 6,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001599&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 포천시 창수면 청창로 753",
-      "address_detail": null,
       "lat": 38.023195806402626,
       "lng": 127.1407817047905,
       "geocode_status": "matched"
@@ -1126,8 +1030,6 @@
       "believers": 119,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001600&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 322-1호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -1149,8 +1051,6 @@
       "believers": 158,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001601&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 양주시 백석읍 고릉말로 13",
-      "address_detail": null,
       "lat": 37.80270116773866,
       "lng": 127.00275832309924,
       "geocode_status": "matched"
@@ -1172,8 +1072,6 @@
       "believers": 380,
       "mission_stations": 4,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001602&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 384-1호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -1195,8 +1093,6 @@
       "believers": 125,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001603&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 383-1호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -1218,8 +1114,6 @@
       "believers": 27,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001604&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대구광역시 수성구 달구벌대로568길 40-11 (이천동)",
-      "address_detail": "사서함 134호",
       "lat": 35.84547218998049,
       "lng": 128.6638565853417,
       "geocode_status": "matched"
@@ -1241,8 +1135,6 @@
       "believers": 135,
       "mission_stations": 3,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001605&tbxSearch=&gubn2=all&char=all",
-      "road_address": "강원특별자치도 인제군 서화면 금강로 1513-2",
-      "address_detail": null,
       "lat": 38.23089742721377,
       "lng": 128.20637688119785,
       "geocode_status": "matched"
@@ -1264,8 +1156,6 @@
       "believers": 20,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201006616&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "㉴ 303-1호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -1287,8 +1177,6 @@
       "believers": 1261,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001608&tbxSearch=&gubn2=all&char=all",
-      "road_address": "대전광역시 유성구 자운로245번길 126 (추목동)",
-      "address_detail": null,
       "lat": 36.41572887946393,
       "lng": 127.34011704112578,
       "geocode_status": "matched"
@@ -1310,8 +1198,6 @@
       "believers": 19,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201007259&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": null,
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -1333,8 +1219,6 @@
       "believers": 114,
       "mission_stations": 3,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001609&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 파주시 광탄면 혜음로 1210-28",
-      "address_detail": null,
       "lat": 37.78795847223917,
       "lng": 126.84709206014011,
       "geocode_status": "matched"
@@ -1356,8 +1240,6 @@
       "believers": 8,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001630&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": null,
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -1379,8 +1261,6 @@
       "believers": 71,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001610&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청북도 증평군 증평읍 초평로 1717",
-      "address_detail": null,
       "lat": 36.804426175577916,
       "lng": 127.56057888158327,
       "geocode_status": "matched"
@@ -1402,8 +1282,6 @@
       "believers": 38,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001611&tbxSearch=&gubn2=all&char=all",
-      "road_address": "충청남도 천안시 서북구 성환읍 성월수향길 106",
-      "address_detail": null,
       "lat": 36.925843272925235,
       "lng": 127.14481811704864,
       "geocode_status": "matched"
@@ -1425,8 +1303,6 @@
       "believers": 100,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001612&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 118-1호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -1448,8 +1324,6 @@
       "believers": 527,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001613&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 진해구 충무로 29-1 (현동)",
-      "address_detail": "천주교 진해해군 성당",
       "lat": 35.14461228072655,
       "lng": 128.65351210914287,
       "geocode_status": "matched"
@@ -1471,8 +1345,6 @@
       "believers": 71,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001614&tbxSearch=&gubn2=all&char=all",
-      "road_address": "서울특별시 동작구 여의대방로22길 77 (신대방동)",
-      "address_detail": "서울동작우체국 ㉴ 40호",
       "lat": 37.49798137310011,
       "lng": 126.92424610450053,
       "geocode_status": "matched"
@@ -1494,8 +1366,6 @@
       "believers": 134,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001616&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 308-1호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -1517,8 +1387,6 @@
       "believers": 90,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001617&tbxSearch=&gubn2=all&char=all",
-      "road_address": "강원특별자치도 삼척시 새천년도로 10 (정상동)",
-      "address_detail": null,
       "lat": 37.43579010592528,
       "lng": 129.18396133107427,
       "geocode_status": "matched"
@@ -1540,8 +1408,6 @@
       "believers": 0,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201008415&tbxSearch=&gubn2=all&char=all",
-      "road_address": "인천광역시 강화군 하점면 고려산로 18",
-      "address_detail": "천주교 청룡세라핌 성당",
       "lat": 37.76898250869266,
       "lng": 126.44125098204478,
       "geocode_status": "matched"
@@ -1563,8 +1429,6 @@
       "believers": 59,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001618&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": null,
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -1586,8 +1450,6 @@
       "believers": 132,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001619&tbxSearch=&gubn2=all&char=all",
-      "road_address": "강원특별자치도 철원군 동송읍 금학로157번길 44",
-      "address_detail": null,
       "lat": 38.200370752683504,
       "lng": 127.21765106273492,
       "geocode_status": "matched"
@@ -1609,8 +1471,6 @@
       "believers": 76,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001620&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 89-301호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -1632,8 +1492,6 @@
       "believers": 145,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001622&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": null,
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -1655,8 +1513,6 @@
       "believers": 411,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001621&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 209-8호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -1678,8 +1534,6 @@
       "believers": 109,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001624&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": null,
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -1701,8 +1555,6 @@
       "believers": 136,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001625&tbxSearch=&gubn2=all&char=all",
-      "road_address": "광주광역시 북구 우치로 295 (오치동)",
-      "address_detail": null,
       "lat": 35.1910320376072,
       "lng": 126.90488245795217,
       "geocode_status": "matched"
@@ -1724,8 +1576,6 @@
       "believers": 94,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001627&tbxSearch=&gubn2=all&char=all",
-      "road_address": "강원특별자치도 화천군 상서면 주파령로 40-13",
-      "address_detail": null,
       "lat": 38.2139045586941,
       "lng": 127.66791449782205,
       "geocode_status": "matched"
@@ -1747,8 +1597,6 @@
       "believers": 257,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001628&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 평택시 신장로100번길 55 (신장동)",
-      "address_detail": "사서함 309-20호",
       "lat": 37.083064659483526,
       "lng": 127.05123227383453,
       "geocode_status": "matched"
@@ -1770,8 +1618,6 @@
       "believers": 112,
       "mission_stations": 3,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001629&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 120-1호 육군군수사령부",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -1793,8 +1639,6 @@
       "believers": 0,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001579&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "해병9여단",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -1816,8 +1660,6 @@
       "believers": 95,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001631&tbxSearch=&gubn2=all&char=all",
-      "road_address": "강원특별자치도 인제군 기린면 내린천로 3898",
-      "address_detail": null,
       "lat": 37.9466988073755,
       "lng": 128.31710226941664,
       "geocode_status": "matched"
@@ -1839,8 +1681,6 @@
       "believers": 106,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001633&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 사천시 사천읍 사천대로 1949-1",
-      "address_detail": "사서함 336-1호",
       "lat": 35.090752097722,
       "lng": 128.0857729186086,
       "geocode_status": "matched"
@@ -1862,8 +1702,6 @@
       "believers": 0,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001634&tbxSearch=&gubn2=all&char=all",
-      "road_address": "강원특별자치도 원주시 치악로 1692 (단구동)",
-      "address_detail": "(단구동, 신통일아파트) 천주교 통일대 성당",
       "lat": 37.33438389894163,
       "lng": 127.9582702814013,
       "geocode_status": "matched"
@@ -1885,8 +1723,6 @@
       "believers": 58,
       "mission_stations": 3,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001636&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": null,
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -1908,8 +1744,6 @@
       "believers": 84,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001637&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "32사단",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -1931,8 +1765,6 @@
       "believers": 235,
       "mission_stations": 3,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001638&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 337-29호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -1954,8 +1786,6 @@
       "believers": 87,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001639&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 211호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -1977,8 +1807,6 @@
       "believers": 286,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001640&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 진해구 중원로79번길 1 (송학동)",
-      "address_detail": "사서함 88-1-6호 천주교 해군사관학교 성당",
       "lat": 35.15123626656839,
       "lng": 128.65962169172076,
       "geocode_status": "matched"
@@ -2000,8 +1828,6 @@
       "believers": 317,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001641&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": null,
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -2023,8 +1849,6 @@
       "believers": 6,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201006619&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 209-132호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -2046,8 +1870,6 @@
       "believers": 80,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001642&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 601-206-01호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -2069,8 +1891,6 @@
       "believers": 113,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001643&tbxSearch=&gubn2=all&char=all",
-      "road_address": "부산광역시 강서구 공항진입로42번길 54 (대저2동)",
-      "address_detail": "사서함 1호",
       "lat": 35.18313098095818,
       "lng": 128.9483237728402,
       "geocode_status": "matched"
@@ -2092,8 +1912,6 @@
       "believers": 117,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001644&tbxSearch=&gubn2=all&char=all",
-      "road_address": "강원특별자치도 홍천군 홍천읍 송학로5길 4",
-      "address_detail": null,
       "lat": 37.68686579217078,
       "lng": 127.87503362592307,
       "geocode_status": "matched"
@@ -2115,8 +1933,6 @@
       "believers": 150,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001645&tbxSearch=&gubn2=all&char=all",
-      "road_address": "서울특별시 노원구 화랑로 634 (공릉동)",
-      "address_detail": null,
       "lat": 37.625556364765814,
       "lng": 127.09583716490319,
       "geocode_status": "matched"
@@ -2138,8 +1954,6 @@
       "believers": 0,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001563&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경기도 광명시 소하동 1123",
-      "address_detail": null,
       "lat": 37.4321602315963,
       "lng": 126.87594836571479,
       "geocode_status": "matched"
@@ -2161,8 +1975,6 @@
       "believers": 94,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001646&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": "사서함 303-1호",
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -2184,8 +1996,6 @@
       "believers": 38,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001647&tbxSearch=&gubn2=all&char=all",
-      "road_address": "인천광역시 옹진군 백령면 백령로 783",
-      "address_detail": null,
       "lat": 37.962212842208785,
       "lng": 124.66908755740722,
       "geocode_status": "matched"

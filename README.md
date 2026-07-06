@@ -69,12 +69,10 @@ churches = requests.get(url).json()["churches"]
 | `mission_stations` | int\|null | 공소수 |
 | `source_url` | string | 원본 상세 페이지 |
 
-**정규화 주소 필드** (원본 주소를 공식 도로명주소로 정규화)
+**좌표 필드**
 
 | 키 | 타입 | 설명 |
 |----|------|------|
-| `road_address` | string\|null | 정규 도로명주소 |
-| `address_detail` | string\|null | 층·호·사서함 등 상세 |
 | `lat` / `lng` | float\|null | 위도 / 경도 (WGS84) |
 | `geocode_status` | string | `matched`(좌표 확보) / `refined_only` / `failed` / `skipped` |
 

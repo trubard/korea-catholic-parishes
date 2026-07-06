@@ -22,8 +22,6 @@
       "believers": 4405,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001036&tbxSearch=&gubn2=all&char=all",
-      "road_address": null,
-      "address_detail": null,
       "lat": null,
       "lng": null,
       "geocode_status": "failed"
@@ -45,8 +43,6 @@
       "believers": 1814,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001037&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 진주시 개양로6번길 17 (가좌동)",
-      "address_detail": null,
       "lat": 35.15532112869223,
       "lng": 128.10981619747386,
       "geocode_status": "matched"
@@ -68,8 +64,6 @@
       "believers": 1110,
       "mission_stations": 6,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001038&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 거제시 거제면 동상2길 11",
-      "address_detail": null,
       "lat": 34.85074580795716,
       "lng": 128.59336754615208,
       "geocode_status": "matched"
@@ -91,8 +85,6 @@
       "believers": 3854,
       "mission_stations": 4,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001039&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 거창군 거창읍 창남1길 58",
-      "address_detail": null,
       "lat": 35.68290499870542,
       "lng": 127.91528927307994,
       "geocode_status": "matched"
@@ -114,8 +106,6 @@
       "believers": 3062,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001040&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 진해구 충장로 319 (경화동)",
-      "address_detail": null,
       "lat": 35.15366923607114,
       "lng": 128.6867283202545,
       "geocode_status": "matched"
@@ -137,8 +127,6 @@
       "believers": 2861,
       "mission_stations": 3,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001041&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 고성군 고성읍 중앙로 22",
-      "address_detail": null,
       "lat": 34.97395652699818,
       "lng": 128.32289324430087,
       "geocode_status": "matched"
@@ -160,8 +148,6 @@
       "believers": 4912,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001042&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 거제시 거제중앙로19길 18 (고현동)",
-      "address_detail": null,
       "lat": 34.88536859439928,
       "lng": 128.62243352565383,
       "geocode_status": "matched"
@@ -183,8 +169,6 @@
       "believers": 2813,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001043&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 마산회원구 구암서2길 90 (구암동)",
-      "address_detail": null,
       "lat": 35.24895132163725,
       "lng": 128.59354800902503,
       "geocode_status": "matched"
@@ -206,8 +190,6 @@
       "believers": 1382,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001044&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 진주시 금산면 금산순환로 48",
-      "address_detail": null,
       "lat": 35.217967521968035,
       "lng": 128.14920772955784,
       "geocode_status": "matched"
@@ -229,8 +211,6 @@
       "believers": 3449,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001045&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 마산합포구 동서북7길 39 (남성동)",
-      "address_detail": null,
       "lat": 35.2041743672675,
       "lng": 128.57513703556742,
       "geocode_status": "matched"
@@ -252,8 +232,6 @@
       "believers": 953,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001046&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창녕군 남지읍 동포로 18",
-      "address_detail": "남지성당",
       "lat": 35.391195051606545,
       "lng": 128.48213455622587,
       "geocode_status": "matched"
@@ -275,8 +253,6 @@
       "believers": 1402,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001047&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 남해군 남해읍 망운로10번길 35",
-      "address_detail": null,
       "lat": 34.841459812133245,
       "lng": 127.89207014208435,
       "geocode_status": "matched"
@@ -298,8 +274,6 @@
       "believers": 2341,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001048&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 통영시 도남로 54 (미수동)",
-      "address_detail": null,
       "lat": 34.83214293133405,
       "lng": 128.41108731115096,
       "geocode_status": "matched"
@@ -321,8 +295,6 @@
       "believers": 4155,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001049&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 성산구 대암로 205 (대방동)",
-      "address_detail": null,
       "lat": 35.20711956803276,
       "lng": 128.7106077393762,
       "geocode_status": "matched"
@@ -344,8 +316,6 @@
       "believers": 587,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001050&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 함안군 대산면 대산중앙로 183",
-      "address_detail": null,
       "lat": 35.350273332237165,
       "lng": 128.43046939981997,
       "geocode_status": "matched"
@@ -367,8 +337,6 @@
       "believers": 4739,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001051&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 진해구 충장로481번길 13 (덕산동)",
-      "address_detail": null,
       "lat": 35.14736090255167,
       "lng": 128.701668889291,
       "geocode_status": "matched"
@@ -390,8 +358,6 @@
       "believers": 2080,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001052&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 진주시 천수로152번길 24 (망경동)",
-      "address_detail": null,
       "lat": 35.179391140338325,
       "lng": 128.08646053217495,
       "geocode_status": "matched"
@@ -413,8 +379,6 @@
       "believers": 5287,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001053&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 의창구 우곡로 177 (명서동)",
-      "address_detail": null,
       "lat": 35.241436548773095,
       "lng": 128.64465434696191,
       "geocode_status": "matched"
@@ -436,8 +400,6 @@
       "believers": 2341,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001054&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 진주시 문산읍 소문길67번길 9-4",
-      "address_detail": null,
       "lat": 35.1721175039594,
       "lng": 128.1685755665979,
       "geocode_status": "matched"
@@ -459,8 +421,6 @@
       "believers": 6218,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001055&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 성산구 원이대로473번길 25 (반림동)",
-      "address_detail": null,
       "lat": 35.23603038667389,
       "lng": 128.67031811836407,
       "geocode_status": "matched"
@@ -482,8 +442,6 @@
       "believers": 3231,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001056&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 진주시 진주대로 1178 (봉곡동)",
-      "address_detail": null,
       "lat": 35.19538646828358,
       "lng": 128.07427389312878,
       "geocode_status": "matched"
@@ -505,8 +463,6 @@
       "believers": 2304,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001057&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 통영시 여황로 353 (북신동)",
-      "address_detail": null,
       "lat": 34.852458738707554,
       "lng": 128.42418931793674,
       "geocode_status": "matched"
@@ -528,8 +484,6 @@
       "believers": 1933,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201007269&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 의창구 사림로45번길 4-21 (사림동)",
-      "address_detail": null,
       "lat": 35.24750447406526,
       "lng": 128.6789263470347,
       "geocode_status": "matched"
@@ -551,8 +505,6 @@
       "believers": 2477,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001058&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 사천시 사천읍 사천읍성로 17",
-      "address_detail": null,
       "lat": 35.085830429413505,
       "lng": 128.08642740337913,
       "geocode_status": "matched"
@@ -574,8 +526,6 @@
       "believers": 7755,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001059&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 성산구 동산로 168 (사파동)",
-      "address_detail": null,
       "lat": 35.222471081843636,
       "lng": 128.6941336605526,
       "geocode_status": "matched"
@@ -597,8 +547,6 @@
       "believers": 1809,
       "mission_stations": 8,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001060&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 산청군 산청읍 덕계로 13-6",
-      "address_detail": null,
       "lat": 35.41609167475734,
       "lng": 127.87810945824162,
       "geocode_status": "matched"
@@ -620,8 +568,6 @@
       "believers": 1716,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001061&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 마산합포구 산호남12길 16 (산호동)",
-      "address_detail": null,
       "lat": 35.21561385257671,
       "lng": 128.585881560551,
       "geocode_status": "matched"
@@ -643,8 +589,6 @@
       "believers": 1859,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001062&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 마산회원구 내서읍 광려로 78-15",
-      "address_detail": null,
       "lat": 35.21994605472521,
       "lng": 128.50100033102495,
       "geocode_status": "matched"
@@ -666,8 +610,6 @@
       "believers": 2426,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001063&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 사천시 한내1길 9 (좌룡동)",
-      "address_detail": null,
       "lat": 34.94987682111851,
       "lng": 128.0798357415564,
       "geocode_status": "matched"
@@ -689,8 +631,6 @@
       "believers": 2548,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001064&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 마산합포구 허당로 8 (상남동)",
-      "address_detail": null,
       "lat": 35.211129460160116,
       "lng": 128.57648360019954,
       "geocode_status": "matched"
@@ -712,8 +652,6 @@
       "believers": 2596,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001065&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 진주시 공단로91번길 26 (상평동)",
-      "address_detail": null,
       "lat": 35.17753531258294,
       "lng": 128.10999697709536,
       "geocode_status": "matched"
@@ -735,8 +673,6 @@
       "believers": 318,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001066&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 김해시 생림면 장재로520번길 44",
-      "address_detail": "(생림성당)",
       "lat": 35.32172611193062,
       "lng": 128.85120350359722,
       "geocode_status": "matched"
@@ -758,8 +694,6 @@
       "believers": 1519,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001068&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 마산회원구 북성로 284-20 (석전동)",
-      "address_detail": null,
       "lat": 35.231343501820845,
       "lng": 128.5662151451192,
       "geocode_status": "matched"
@@ -781,8 +715,6 @@
       "believers": 510,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001067&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 사천시 서포면 구평1로 28",
-      "address_detail": "(서포성당)",
       "lat": 35.00862246648252,
       "lng": 127.9810256124145,
       "geocode_status": "matched"
@@ -804,8 +736,6 @@
       "believers": 330,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001069&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 산청군 산청읍 산청대로1381번길 17 (성심원)",
-      "address_detail": null,
       "lat": 35.38076660669156,
       "lng": 127.90733162686803,
       "geocode_status": "matched"
@@ -827,8 +757,6 @@
       "believers": 492,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001070&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 밀양시 하남읍 수산동촌3길 16",
-      "address_detail": null,
       "lat": 35.37740269161414,
       "lng": 128.7100547640065,
       "geocode_status": "matched"
@@ -850,8 +778,6 @@
       "believers": 4447,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001071&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 진주시 평거로 141 (신안동)",
-      "address_detail": null,
       "lat": 35.18193137733805,
       "lng": 128.06910279636912,
       "geocode_status": "matched"
@@ -873,8 +799,6 @@
       "believers": 508,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001073&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 함양군 안의면 허삼둘길 3",
-      "address_detail": "안의성당",
       "lat": 35.62985250865205,
       "lng": 127.81046693338496,
       "geocode_status": "matched"
@@ -896,8 +820,6 @@
       "believers": 1130,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001074&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 성산구 양곡길 84 (신촌동)",
-      "address_detail": null,
       "lat": 35.20282650376555,
       "lng": 128.62695473462662,
       "geocode_status": "matched"
@@ -919,8 +841,6 @@
       "believers": 5117,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001075&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 마산회원구 양덕옛2길 128 (양덕동)",
-      "address_detail": null,
       "lat": 35.23303263549478,
       "lng": 128.58012856249272,
       "geocode_status": "matched"
@@ -942,8 +862,6 @@
       "believers": 2750,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001076&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 진해구 여좌로89번길 9 (여좌동)",
-      "address_detail": null,
       "lat": 35.15922712516783,
       "lng": 128.6614019429203,
       "geocode_status": "matched"
@@ -965,8 +883,6 @@
       "believers": 353,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201008160&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창녕군 영산면 초롱길 4-7",
-      "address_detail": null,
       "lat": 35.45670708325905,
       "lng": 128.52931213013818,
       "geocode_status": "matched"
@@ -988,8 +904,6 @@
       "believers": 2625,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001078&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 진주시 향교로42번길 5 (옥봉동)",
-      "address_detail": null,
       "lat": 35.198030996335945,
       "lng": 128.08723417500084,
       "geocode_status": "matched"
@@ -1011,8 +925,6 @@
       "believers": 4616,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001079&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 거제시 옥포로12길 22 (옥포동)",
-      "address_detail": null,
       "lat": 34.8919840578559,
       "lng": 128.69363224532452,
       "geocode_status": "matched"
@@ -1034,8 +946,6 @@
       "believers": 4691,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001080&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 마산합포구 완월동8길 60 (완월동)",
-      "address_detail": null,
       "lat": 35.198462342074905,
       "lng": 128.5639916657978,
       "geocode_status": "matched"
@@ -1057,8 +967,6 @@
       "believers": 1908,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001081&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 진해구 청안로 241-55 (청안동)",
-      "address_detail": null,
       "lat": 35.10103060756171,
       "lng": 128.80200737950548,
       "geocode_status": "matched"
@@ -1080,8 +988,6 @@
       "believers": 1260,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001082&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 의창구 동읍 의창대로 919",
-      "address_detail": null,
       "lat": 35.27935095786186,
       "lng": 128.69147692971626,
       "geocode_status": "matched"
@@ -1103,8 +1009,6 @@
       "believers": 3167,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001083&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 마산합포구 3·15대로 79 (두월동2가)",
-      "address_detail": null,
       "lat": 35.187027815686534,
       "lng": 128.56110805448827,
       "geocode_status": "matched"
@@ -1126,8 +1030,6 @@
       "believers": 4146,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001084&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 마산합포구 가포로 28 (해운동)",
-      "address_detail": null,
       "lat": 35.17775426467393,
       "lng": 128.5595529298485,
       "geocode_status": "matched"
@@ -1149,8 +1051,6 @@
       "believers": 1004,
       "mission_stations": 2,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001085&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 의령군 의령읍 백산로 15-10",
-      "address_detail": null,
       "lat": 35.322189809570446,
       "lng": 128.26478329278183,
       "geocode_status": "matched"
@@ -1172,8 +1072,6 @@
       "believers": 976,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201008684&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 김해시 진영읍 장등로6번길 50",
-      "address_detail": null,
       "lat": 35.31071696588974,
       "lng": 128.73630882063708,
       "geocode_status": "matched"
@@ -1195,8 +1093,6 @@
       "believers": 3644,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001086&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 거제시 장승로 156 (장승포동)",
-      "address_detail": null,
       "lat": 34.86836438577885,
       "lng": 128.72407568296495,
       "geocode_status": "matched"
@@ -1218,8 +1114,6 @@
       "believers": 742,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001087&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 진주시 진산로357번길 10 (장재동)",
-      "address_detail": null,
       "lat": 35.21761812805042,
       "lng": 128.09962718245475,
       "geocode_status": "matched"
@@ -1241,8 +1135,6 @@
       "believers": 2655,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001088&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 거제시 장평로4길 8 (장평동)",
-      "address_detail": null,
       "lat": 34.892094580010905,
       "lng": 128.61459843342442,
       "geocode_status": "matched"
@@ -1264,8 +1156,6 @@
       "believers": 4289,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001089&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 의창구 의안로17번길 10 (중동)",
-      "address_detail": null,
       "lat": 35.26380657875099,
       "lng": 128.62291050623577,
       "geocode_status": "matched"
@@ -1287,8 +1177,6 @@
       "believers": 3927,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001090&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 진해구 중원동로 64 (중앙동)",
-      "address_detail": null,
       "lat": 35.15024286914078,
       "lng": 128.66181866311064,
       "geocode_status": "matched"
@@ -1310,8 +1198,6 @@
       "believers": 1047,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001091&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 거제시 일운면 거제대로 2464",
-      "address_detail": null,
       "lat": 34.827613734822464,
       "lng": 128.70473163147796,
       "geocode_status": "matched"
@@ -1333,8 +1219,6 @@
       "believers": 1153,
       "mission_stations": 3,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001092&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 하동군 진교면 진양로 29-5",
-      "address_detail": null,
       "lat": 35.02511066929023,
       "lng": 127.90244249234621,
       "geocode_status": "matched"
@@ -1356,8 +1240,6 @@
       "believers": 975,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001093&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 마산합포구 진동면 서촌바다길 18-33",
-      "address_detail": null,
       "lat": 35.1135435074213,
       "lng": 128.48443968662804,
       "geocode_status": "matched"
@@ -1379,8 +1261,6 @@
       "believers": 334,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001094&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 김해시 진례면 진례로223번길 7",
-      "address_detail": null,
       "lat": 35.247005292945836,
       "lng": 128.74825009017073,
       "geocode_status": "matched"
@@ -1402,8 +1282,6 @@
       "believers": 2091,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001095&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 김해시 진영읍 진영산복로 110",
-      "address_detail": null,
       "lat": 35.30101693690621,
       "lng": 128.7302696202476,
       "geocode_status": "matched"
@@ -1425,8 +1303,6 @@
       "believers": 1728,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001096&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창녕군 창녕읍 만옥정길 5",
-      "address_detail": null,
       "lat": 35.54171998873257,
       "lng": 128.50055874448248,
       "geocode_status": "matched"
@@ -1448,8 +1324,6 @@
       "believers": 2650,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001098&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 진주시 진주대로986번길 9 (칠암동)",
-      "address_detail": null,
       "lat": 35.18770564837742,
       "lng": 128.08784383110702,
       "geocode_status": "matched"
@@ -1471,8 +1345,6 @@
       "believers": 1527,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001099&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 함안군 칠원읍 구성1길 7",
-      "address_detail": null,
       "lat": 35.304752641045404,
       "lng": 128.51974017864626,
       "geocode_status": "matched"
@@ -1494,8 +1366,6 @@
       "believers": 2886,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001100&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 통영시 중앙로 177 (태평동)",
-      "address_detail": null,
       "lat": 34.84790301731085,
       "lng": 128.42433119940063,
       "geocode_status": "matched"
@@ -1517,8 +1387,6 @@
       "believers": 1218,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001102&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 의창구 남산로17번길 28 (팔용동)",
-      "address_detail": null,
       "lat": 35.26054710783687,
       "lng": 128.6143925102959,
       "geocode_status": "matched"
@@ -1540,8 +1408,6 @@
       "believers": 1144,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201008069&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 진주시 진양호로125번길 22-4 (평거동)",
-      "address_detail": null,
       "lat": 35.17005702740421,
       "lng": 128.05327556558763,
       "geocode_status": "matched"
@@ -1563,8 +1429,6 @@
       "believers": 3739,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001103&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 진주시 도동로239번길 14 (하대동)",
-      "address_detail": null,
       "lat": 35.19213522402889,
       "lng": 128.12046103498056,
       "geocode_status": "matched"
@@ -1586,8 +1450,6 @@
       "believers": 1410,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001104&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 하동군 하동읍 향교1길 62",
-      "address_detail": null,
       "lat": 35.07144732829624,
       "lng": 127.74487319983035,
       "geocode_status": "matched"
@@ -1609,8 +1471,6 @@
       "believers": 471,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201006911&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 거제시 하청면 거제북로 524-2",
-      "address_detail": null,
       "lat": 34.95465648848507,
       "lng": 128.6560559362074,
       "geocode_status": "matched"
@@ -1632,8 +1492,6 @@
       "believers": 2439,
       "mission_stations": 1,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001105&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 함안군 가야읍 방목2길 13",
-      "address_detail": null,
       "lat": 35.27948649483805,
       "lng": 128.40410226151724,
       "geocode_status": "matched"
@@ -1655,8 +1513,6 @@
       "believers": 2670,
       "mission_stations": 5,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001106&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 함양군 함양읍 함양로 1165",
-      "address_detail": null,
       "lat": 35.52284231017907,
       "lng": 127.72747304507851,
       "geocode_status": "matched"
@@ -1678,8 +1534,6 @@
       "believers": 1867,
       "mission_stations": 3,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001107&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 합천군 합천읍 충효로3길 10",
-      "address_detail": null,
       "lat": 35.56561353969331,
       "lng": 128.1619448571006,
       "geocode_status": "matched"
@@ -1701,8 +1555,6 @@
       "believers": 2392,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001108&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 마산회원구 내서읍 호원로 215",
-      "address_detail": null,
       "lat": 35.252779110836784,
       "lng": 128.52034723987248,
       "geocode_status": "matched"
@@ -1724,8 +1576,6 @@
       "believers": 3191,
       "mission_stations": 0,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001109&tbxSearch=&gubn2=all&char=all",
-      "road_address": "경상남도 창원시 마산회원구 회원남로 23 (회원동)",
-      "address_detail": null,
       "lat": 35.21895485377401,
       "lng": 128.5637585089793,
       "geocode_status": "matched"
