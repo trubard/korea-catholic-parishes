@@ -25,12 +25,18 @@ from join import Joiner  # noqa: E402
 from dioceses.jeju import JejuAdapter  # noqa: E402
 from dioceses.chuncheon import ChuncheonAdapter  # noqa: E402
 from dioceses.busan import BusanAdapter  # noqa: E402
+from dioceses.gwangju import GwangjuAdapter  # noqa: E402
+from dioceses.suwon import SuwonAdapter  # noqa: E402
+from dioceses.cheongju import CheongjuAdapter  # noqa: E402
 
 # 등록된 어댑터 (단계적으로 추가)
 ADAPTERS = [
     JejuAdapter(),
     ChuncheonAdapter(),
     BusanAdapter(),
+    GwangjuAdapter(),
+    SuwonAdapter(),
+    CheongjuAdapter(),
 ]
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))

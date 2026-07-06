@@ -153,6 +153,34 @@ def parse_time_cell(text: str) -> list[dict]:
     return entries
 
 
+_DAY_KEY = {"월": "mon", "화": "tue", "수": "wed", "목": "thu", "금": "fri",
+            "토": "saturday", "주일": "sunday"}
+
+
+def split_day_labeled(text: str) -> dict:
+    """'월 10:00 화 19:30 ... 토 ... 주일 ...' 평문 -> {mon: '10:00', ...}.
+
+    앞의 날짜 헤더('미사시간 안내 ( 2026년 07월 ... )')는 '요일+시간' 첫 위치부터
+    잘라 무시한다. 시간이 없는 요일은 제외.
+    """
+    if not text:
+        return {}
+    text = re.sub(r"\s+", " ", text)
+    m = re.search(r"(주일|[월화수목금토])\s*\d{1,2}:\d{2}", text)
+    seg = text[m.start():] if m else text
+    poss = []
+    for lb in _DAY_KEY:
+        poss.extend((mm.start(), lb) for mm in re.finditer(lb, seg))
+    poss.sort()
+    result: dict = {}
+    for i, (pos, lb) in enumerate(poss):
+        end = poss[i + 1][0] if i + 1 < len(poss) else len(seg)
+        val = seg[pos + len(lb):end].strip(" :,")
+        if _TIME_RE.search(val):
+            result.setdefault(_DAY_KEY[lb], val)
+    return result
+
+
 def normalize_mass(weekday_cells: dict, saturday: str, sunday: str,
                    special: list | None = None, raw: str = "") -> dict:
     """요일별 셀 텍스트를 구조화된 mass 객체로. weekday_cells: {mon: text, ...}."""
