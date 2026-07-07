@@ -1,0 +1,2267 @@
+{
+  "generated_at": "2026-07-07T12:37:14+00:00",
+  "diocese": "군종교구",
+  "diocese_id": "201000029",
+  "count": 45,
+  "masses": [
+    {
+      "parish_name": "강철",
+      "diocese": "군종교구",
+      "phone": "053) 320-6169",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110035",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "08:30",
+              "note": "평일미사"
+            }
+          ],
+          "wed": [
+            {
+              "time": "08:30",
+              "note": "평일미사"
+            }
+          ],
+          "thu": [
+            {
+              "time": "08:30",
+              "note": "평일미사"
+            }
+          ],
+          "fri": [
+            {
+              "time": "08:30",
+              "note": "평일미사"
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "14:00",
+            "note": "찾아가는 미사"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "교중미사 (훈련병/용사/간부가족)",
+            "type": [
+              "교중",
+              "가족"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "tue 08:30 평일미사; wed 08:30 평일미사; thu 08:30 평일미사; fri 08:30 평일미사; saturday 14:00 찾아가는 미사; sunday 10:30 교중미사 (훈련병/용사/간부가족)"
+      },
+      "church_id": "201001557",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "공군중앙",
+      "diocese": "군종교구",
+      "phone": "02) 844-6124",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110006",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "06:30",
+              "note": "포대미사(격주)"
+            },
+            {
+              "time": "13:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": "포대미사(격주)"
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "tue 평일 미사 06:30 포대미사(격주) 13:00; wed 평일 미사 19:00; thu 평일 미사 10:30; fri 평일 미사 10:30 포대미사(격주); sunday 교중 미사 10:30"
+      },
+      "church_id": "201001558",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "과훈단",
+      "diocese": "군종교구",
+      "phone": "033) 462-6162",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110117",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "06:30",
+              "note": "- 소성당"
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:00",
+              "note": "- 소성당"
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": "- 소성당 성모회 미사"
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": "- 소성당"
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "14:00",
+            "note": "전문대항군연대"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "- 대성당"
+          }
+        ],
+        "special": [],
+        "raw": "tue 06:30 - 소성당; wed 19:00 - 소성당; thu 10:30 - 소성당 성모회 미사; fri 06:30 - 소성당; saturday 14:00 전문대항군연대; sunday 10:30 - 대성당"
+      },
+      "church_id": "201006660",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "광성대",
+      "diocese": "군종교구",
+      "phone": "053) 981-1064",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110069",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "tue 10:30; wed 19:30; thu 10:30; fri 10:30; sunday 10:30"
+      },
+      "church_id": "201001559",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "국군중앙주교좌",
+      "diocese": "군종교구",
+      "phone": "02) 798-2457",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110002",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "15:00",
+              "note": "특강 ("
+            },
+            {
+              "time": "14:00",
+              "note": ")"
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "00:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "mon *첫째주월요일 군종후원회 미사 15:00 특강 ( 14:00 ); tue  10:30 ; wed 19: 00:00 ; thu  10:30 ; fri  10:30 ; sunday  10:30"
+      },
+      "church_id": "201001556",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "남성대",
+      "diocese": "군종교구",
+      "phone": "043) 745-4414",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110013",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "09:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "wed 19:00; sunday 09:30"
+      },
+      "church_id": "201001561",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "노도",
+      "diocese": "군종교구",
+      "phone": "031) 771-7852",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110025",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": "노도성당"
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:00",
+              "note": "노도성당"
+            }
+          ],
+          "thu": [
+            {
+              "time": "11:00",
+              "note": "노도성당"
+            }
+          ],
+          "fri": [
+            {
+              "time": "11:00",
+              "note": "노도성당"
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "노도성당"
+          },
+          {
+            "time": "16:00",
+            "note": "충일 공소(73사단)"
+          }
+        ],
+        "special": [],
+        "raw": "tue 19:00 노도성당; wed 19:00 노도성당; thu 11:00 노도성당; fri 11:00 노도성당; sunday 10:30 노도성당 16:00 충일 공소(73사단)"
+      },
+      "church_id": "201001562",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "동성대",
+      "diocese": "군종교구",
+      "phone": "033) 645-9109",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110080",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "12:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "12:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "12:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "tue 12:30; wed 19:00; thu 12:30; fri 12:30; sunday 10:30"
+      },
+      "church_id": "201001564",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "동해(육군)",
+      "diocese": "군종교구",
+      "phone": "033) 632-6723",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110084",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "교중미사",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "sunday  10:30  교중미사"
+      },
+      "church_id": "201001566",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "동해(해군)",
+      "diocese": "군종교구",
+      "phone": "033) 539-4696",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110085",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [
+            {
+              "time": "14:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "17:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "wed 14:00; thu 17:00; fri 10:00; sunday 10:30"
+      },
+      "church_id": "201001565",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "삼위일체",
+      "diocese": "군종교구",
+      "phone": "042) 551-2130",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110007",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": "소성당"
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:30",
+              "note": "소성당"
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": "소성당"
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": "소성당"
+            },
+            {
+              "time": "19:00",
+              "note": "대성당(병사)"
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": "소성당"
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": "소성당(초등부)"
+          },
+          {
+            "time": "19:00",
+            "note": "소성당(중고등부)",
+            "type": [
+              "중고등부"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": "소성당"
+          },
+          {
+            "time": "10:00",
+            "note": "대성당"
+          },
+          {
+            "time": "17:00",
+            "note": "국방대공소"
+          },
+          {
+            "time": "19:00",
+            "note": "소성당"
+          }
+        ],
+        "special": [],
+        "raw": "mon 06:30 소성당; tue 10:30 소성당; wed 10:30 소성당; thu 10:30 소성당 19:00 대성당(병사); fri 10:30 소성당; saturday 16:00 소성당(초등부) 19:00 소성당(중고등부); sunday 08:00 소성당 10:00 대성당 17:00 국방대공소 19:00 소성당"
+      },
+      "church_id": "201001584",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "성가브리엘",
+      "diocese": "군종교구",
+      "phone": "070) 8944-1161",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110116",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "11:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "tue 부대 미사 -11:30; wed 평일 미사 - 10:00; thu 평일 미사 - 10:00; fri 평일 미사 - 10:00; sunday 주일 미사 - 10:30"
+      },
+      "church_id": "201001607",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "성비안네",
+      "diocese": "군종교구",
+      "phone": "02) 731-4996",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110106",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [
+            {
+              "time": "19:00",
+              "note": "서오릉 미사"
+            }
+          ],
+          "thu": [
+            {
+              "time": "11:30",
+              "note": "사령부 미사"
+            }
+          ],
+          "fri": []
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "11:00",
+            "note": "교중 미사",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "wed 19:00 서오릉 미사; thu 11:30 사령부 미사; sunday 11:00 교중 미사"
+      },
+      "church_id": "201001626",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "성요셉(의무사)",
+      "diocese": "군종교구",
+      "phone": "031) 725-5074",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110003",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "12:10",
+              "note": "병원 직원과 환자를 위한 미사"
+            }
+          ],
+          "wed": [
+            {
+              "time": "12:15",
+              "note": "SEC연구소 공소미사"
+            }
+          ],
+          "thu": [
+            {
+              "time": "12:10",
+              "note": "병원 직원과 환자를 위한 미사"
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": "병원 직원과 환자를 위한 미사"
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "교중 미사",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "tue 12:10 병원 직원과 환자를 위한 미사; wed 12:15 SEC연구소 공소미사; thu 12:10 병원 직원과 환자를 위한 미사; fri 06:30 병원 직원과 환자를 위한 미사; sunday 10:30 교중 미사"
+      },
+      "church_id": "201001593",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "문무대",
+      "diocese": "군종교구",
+      "phone": "043) 830-6092",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110114",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:00",
+              "note": "수요종교교육"
+            }
+          ],
+          "thu": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": "종교교육활동"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "주일미사"
+          }
+        ],
+        "special": [],
+        "raw": "tue 11:00; wed 19:00 수요종교교육; thu 11:00; fri 11:00; saturday 15:00 종교교육활동; sunday 10:00 주일미사"
+      },
+      "church_id": "201006618",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "방패",
+      "diocese": "군종교구",
+      "phone": "02) 524-1620",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110008",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "07:30",
+              "note": "평일미사"
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:00",
+              "note": "평일미사"
+            }
+          ],
+          "thu": [
+            {
+              "time": "07:30",
+              "note": "평일미사"
+            }
+          ],
+          "fri": [
+            {
+              "time": "07:30",
+              "note": "평일미사"
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "평일미사"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "교중미사",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "14:00",
+            "note": "1경비단 주일미사"
+          }
+        ],
+        "special": [],
+        "raw": "tue 07:30 평일미사; wed 19:00 평일미사; thu 07:30 평일미사; fri 07:30 평일미사; saturday 10:00 평일미사; sunday 10:30 교중미사 14:00 1경비단 주일미사"
+      },
+      "church_id": "201001573",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "백마대",
+      "diocese": "군종교구",
+      "phone": "031-760-6203",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110120",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "간부, 교육생, 용사"
+          }
+        ],
+        "special": [],
+        "raw": "wed 19:00; sunday 10:00 간부, 교육생, 용사"
+      },
+      "church_id": "201008414",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "백운",
+      "diocese": "군종교구",
+      "phone": "02) 381-6196",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110087",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [
+            {
+              "time": "18:30",
+              "note": "백운성당"
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": "백운성당"
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": "백운성당"
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "11:00",
+            "note": "스테파노 공소"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": "충성성당"
+          },
+          {
+            "time": "11:00",
+            "note": "백운성당(교중)",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "wed 18:30 백운성당; thu 10:30 백운성당; fri 10:30 백운성당; saturday 11:00 스테파노 공소; sunday 09:00 충성성당 11:00 백운성당(교중)"
+      },
+      "church_id": "201001577",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "비승",
+      "diocese": "군종교구",
+      "phone": "031) 632-5093",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110105",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": "(비승)"
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": "(비승)"
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:00",
+              "note": "(비승) 수요종교교육, 예비신자교리"
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": "(비승)"
+            },
+            {
+              "time": "19:00",
+              "note": "성시간 (매월 첫번째 목요일)",
+              "type": [
+                "성시간"
+              ]
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": "(비승)"
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "09:00",
+            "note": "(비승) 매월 첫째주 토요일 성모신심미사",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "(비승) 매월 첫째주 토요일 성모신심미사"
+            }
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": "비승성당(영내)"
+          },
+          {
+            "time": "11:00",
+            "note": "무극성당 (무극성당, 영외성당으로 민간신자 참석 가능)"
+          }
+        ],
+        "special": [],
+        "raw": "mon 06:00(비승); tue 10:00(비승); wed 19:00(비승) 수요종교교육, 예비신자교리; thu 10:00(비승) 19:00 성시간 (매월 첫번째 목요일); fri 10:00(비승); saturday 09:00(비승) 매월 첫째주 토요일 성모신심미사; sunday 09:00 비승성당(영내) 11:00 무극성당 (무극성당, 영외성당으로 민간신자 참석 가능)"
+      },
+      "church_id": "201001583",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "상무대",
+      "diocese": "군종교구",
+      "phone": "061) 390-1597",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110016",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": "(영외)"
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:00",
+              "note": "(영내)"
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": "(영외)"
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": "(영외)"
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "09:30",
+            "note": "(함평공소)"
+          },
+          {
+            "time": "11:00",
+            "note": "(영외)"
+          },
+          {
+            "time": "14:00",
+            "note": "(영내)"
+          }
+        ],
+        "special": [],
+        "raw": "tue 19:00 (영외); wed 19:00 (영내); thu 10:30 (영외); fri 10:30 (영외); sunday 09:30 (함평공소) 11:00 (영외) 14:00 (영내)"
+      },
+      "church_id": "201001585",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "성레오",
+      "diocese": "군종교구",
+      "phone": "031) 633-5166",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110014",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "00:00",
+            "note": "작"
+          }
+        ],
+        "special": [],
+        "raw": "sunday 성레오 10: 00:00 작"
+      },
+      "church_id": "201001588",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "성바실리오",
+      "diocese": "군종교구",
+      "phone": "054) 330-3171",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110015",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": "소성당"
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:15",
+              "note": "미사 - 현역(가족) 신자 - 생도, 용사",
+              "type": [
+                "가족"
+              ]
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": "소성당"
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": "소성당"
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "13:30",
+            "note": "요한공소 (201특공여단)"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "교중미사",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "19:45",
+            "note": "저녁미사(생도)"
+          }
+        ],
+        "special": [],
+        "raw": "tue 10:00 소성당; wed 19:15 미사 - 현역(가족) 신자 - 생도, 용사; thu 10:00 소성당; fri 10:00 소성당; saturday 13:30 요한공소 (201특공여단); sunday 10:30 교중미사 19:45 저녁미사(생도)"
+      },
+      "church_id": "201001590",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "맹호",
+      "diocese": "군종교구",
+      "phone": "031) 585-2427",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110053",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "10:30",
+              "note": "오전 미사"
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:00",
+              "note": "저녁 미사"
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": "오전 미사"
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": "오전 미사"
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "11:30",
+            "note": "베드로 공소(66사단)"
+          },
+          {
+            "time": "14:00",
+            "note": "바오로 공소(제3야수교)"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "주일 미사"
+          }
+        ],
+        "special": [],
+        "raw": "tue 10:30 오전 미사; wed 19:00 저녁 미사; thu 10:30 오전 미사; fri 10:30 오전 미사; saturday 11:30 베드로 공소(66사단) 14:00 바오로 공소(제3야수교); sunday 10:00 주일 미사"
+      },
+      "church_id": "201001568",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "무열대",
+      "diocese": "군종교구",
+      "phone": "053) 755-1710",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110030",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "10:30",
+              "note": "(대성전)"
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:00",
+              "note": "(대성전)"
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": "(대성전)"
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": "(대성전)"
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "(대성전) 매월 첫 주 성모신심미사",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "(대성전) 매월 첫 주 성모신심미사"
+            }
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "(무열대 : 용사, 군인가족)",
+            "type": [
+              "가족",
+              "군인"
+            ]
+          },
+          {
+            "time": "14:00",
+            "note": "(남천성당 : 2수연)"
+          }
+        ],
+        "special": [],
+        "raw": "tue 10:30 (대성전); wed 19:00 (대성전); thu 10:30(대성전); fri 10:30(대성전); saturday 10:00(대성전) 매월 첫 주 성모신심미사; sunday 10:30 (무열대 : 용사, 군인가족) 14:00 (남천성당 : 2수연)"
+      },
+      "church_id": "201001572",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "백골",
+      "diocese": "군종교구",
+      "phone": "033) 458-3219",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110045",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "11:00",
+              "note": "평일미사"
+            }
+          ],
+          "wed": [
+            {
+              "time": "11:00",
+              "note": "평일미사"
+            }
+          ],
+          "thu": [
+            {
+              "time": "11:00",
+              "note": "평일미사"
+            }
+          ],
+          "fri": [
+            {
+              "time": "11:00",
+              "note": "평일미사"
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "14:00",
+            "note": "혜산진공소"
+          },
+          {
+            "time": "16:00",
+            "note": "진백골공소"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "본당"
+          },
+          {
+            "time": "14:00",
+            "note": "성요셉공소(신교대)"
+          }
+        ],
+        "special": [],
+        "raw": "tue 11:00 평일미사; wed 11:00 평일미사; thu 11:00 평일미사; fri 11:00 평일미사; saturday 14:00 혜산진공소 16:00 진백골공소; sunday 10:00 본당 14:00 성요셉공소(신교대)"
+      },
+      "church_id": "201001574",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "백두산",
+      "diocese": "군종교구",
+      "phone": "033)482-0654",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110027",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "교중미사",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "14:00",
+            "note": "중근공소(신교대대)"
+          },
+          {
+            "time": "15:30",
+            "note": "이목정대대"
+          }
+        ],
+        "special": [],
+        "raw": "tue 10:30; wed 10:30; thu 10:30; fri 10:30; sunday 10:30 교중미사 14:00 중근공소(신교대대) 15:30 이목정대대"
+      },
+      "church_id": "201001575",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "백마",
+      "diocese": "군종교구",
+      "phone": "031) 975-3204",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110041",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "15:00",
+              "note": "미사"
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": "성모회 미사 (매월 1주: 성모신심미사 및 성시간)",
+              "type": [
+                "성시간",
+                "신심"
+              ]
+            }
+          ],
+          "thu": [
+            {
+              "time": "15:00",
+              "note": "미사"
+            }
+          ],
+          "fri": [
+            {
+              "time": "15:00",
+              "note": "미사"
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "13:30",
+            "note": "임진강 공소"
+          },
+          {
+            "time": "15:00",
+            "note": "한강 공소"
+          },
+          {
+            "time": "16:10",
+            "note": "안드레아 공소(30기갑여단)"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "주일 미사 (매월 1주: 가정 축복 미사)",
+            "type": [
+              "가정"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "tue 15:00 미사; wed 10:30 성모회 미사 (매월 1주: 성모신심미사 및 성시간); thu 15:00 미사; fri 15:00 미사; saturday 13:30 임진강 공소 15:00 한강 공소 16:10 안드레아 공소(30기갑여단); sunday 10:30 주일 미사 (매월 1주: 가정 축복 미사)"
+      },
+      "church_id": "201001576",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "백호",
+      "diocese": "군종교구",
+      "phone": "033)741-6163",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110951",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [
+            {
+              "time": "19:00",
+              "note": "저녁미사"
+            }
+          ],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "14:00",
+            "note": "공소미사 (충성공소)"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": "훈련병 미사"
+          },
+          {
+            "time": "11:00",
+            "note": "교중 미사",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "wed 19:00 저녁미사; saturday 14:00 공소미사 (충성공소); sunday 09:00 훈련병 미사 11:00 교중 미사"
+      },
+      "church_id": "201001578",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "봉화",
+      "diocese": "군종교구",
+      "phone": "031)329-6161",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110110",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "12:30",
+              "note": "봉화성당"
+            }
+          ],
+          "wed": [
+            {
+              "time": "12:30",
+              "note": "봉화성당"
+            }
+          ],
+          "thu": [
+            {
+              "time": "12:30",
+              "note": "봉화성당"
+            }
+          ],
+          "fri": [
+            {
+              "time": "11:00",
+              "note": "봉화성당"
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "봉화성당"
+          },
+          {
+            "time": "14:00",
+            "note": "신교대성당"
+          }
+        ],
+        "special": [],
+        "raw": "tue 12:30 봉화성당; wed 12:30 봉화성당; thu 12:30 봉화성당; fri 11:00 봉화성당; sunday 10:30 봉화성당 14:00 신교대성당"
+      },
+      "church_id": "201001635",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "만포대",
+      "diocese": "군종교구",
+      "phone": "031) 682-0225",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110005",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [
+            {
+              "time": "13:00",
+              "note": "평일 미사"
+            }
+          ],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "11:30",
+            "note": "교중 미사",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "wed - 13:00 평일 미사; sunday - 11:30 교중 미사"
+      },
+      "church_id": "201001567",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "목포해군",
+      "diocese": "군종교구",
+      "phone": "061) 263-1805",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110066",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [
+            {
+              "time": "13:30",
+              "note": "수요종교교육"
+            }
+          ],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "wed 13:30 수요종교교육; sunday 11:00"
+      },
+      "church_id": "201001571",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "신선대",
+      "diocese": "군종교구",
+      "phone": "051) 679-1930",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110100",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [
+            {
+              "time": "13:00",
+              "note": "수병"
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": "군가족",
+              "type": [
+                "가족"
+              ]
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": "군가족",
+              "type": [
+                "가족"
+              ]
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "장병 및 군가족",
+            "type": [
+              "가족"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "wed 13:00 수병; thu 10:00 군가족; fri 10:00 군가족; sunday 10:00 장병 및 군가족"
+      },
+      "church_id": "201001596",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "인천해군",
+      "diocese": "군종교구",
+      "phone": "032) 452-4152",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110067",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [
+            {
+              "time": "13:30",
+              "note": null
+            }
+          ],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "11:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "wed  13:30 ; sunday  11:30"
+      },
+      "church_id": "201006616",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "제주해군",
+      "diocese": "군종교구",
+      "phone": "064) 905-6621",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110068",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": "평일미사"
+            }
+          ],
+          "wed": [
+            {
+              "time": "13:30",
+              "note": "수병미사"
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": "평일미사"
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": "평일미사"
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "11:00",
+            "note": "교중미사",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "tue -19:30 평일미사; wed -13:30 수병미사; thu - 10:30 평일미사; fri - 10:30 평일미사; sunday - 11:00 교중미사"
+      },
+      "church_id": "201001630",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "진해해군",
+      "diocese": "군종교구",
+      "phone": "055) 545-1003",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110061",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "첫 토요일 성모신심미사 -",
+            "type": [
+              "신심"
+            ]
+          },
+          {
+            "time": "15:00",
+            "note": "어린이, 청소년 미사",
+            "type": [
+              "어린이",
+              "청소년"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "11:00",
+            "note": "(교중)",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "tue -19:00; wed -10:00; thu -10:00; fri -10:00; saturday -10:00 첫 토요일 성모신심미사 -15:00 어린이, 청소년 미사; sunday -11:00(교중)"
+      },
+      "church_id": "201001613",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "청룡세라핌",
+      "diocese": "군종교구",
+      "phone": "-",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110121",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": "평일미사"
+            }
+          ],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "11:30",
+            "note": "특전미사",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "교중미사",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "wed 19:30 평일미사; saturday 11:30 특전미사; sunday 10:00 교중미사"
+      },
+      "church_id": "201008415",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "청룡오리정",
+      "diocese": "군종교구",
+      "phone": "031) 981-5052",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110064",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "13:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "13:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "13:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "13:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": "병사 교리"
+          },
+          {
+            "time": "10:00",
+            "note": "미사"
+          }
+        ],
+        "special": [],
+        "raw": "tue 13:30; wed 13:30; thu 13:30; fri 13:30; sunday 09:00 병사 교리 10:00 미사"
+      },
+      "church_id": "201001618",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "충무대",
+      "diocese": "군종교구",
+      "phone": "054) 291-0438",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110063",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "13:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "09:30",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "tue 10:00; wed 13:30; thu 10:00; fri 10:00; sunday 09:30 11:00"
+      },
+      "church_id": "201001621",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "명성대",
+      "diocese": "군종교구",
+      "phone": "033) 730-4193",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110075",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "18:00",
+              "note": "병사미사"
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "tue 10:30; wed 18:00 병사미사; thu 10:30; fri 10:30; sunday 10:30"
+      },
+      "church_id": "201001569",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "비성대",
+      "diocese": "군종교구",
+      "phone": "055)751-6821",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110072",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": "저녁미사 - 항공과학고등학교 학생 - 기간장병 및 군무원 - 군가족",
+              "type": [
+                "학생",
+                "가족"
+              ]
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:00",
+              "note": "저녁미사 - 병 특기교육생 - 부사관후보생 - 학사사관후보생 - 기간장병 및 군무원 - 군가족",
+              "type": [
+                "가족"
+              ]
+            }
+          ],
+          "thu": [
+            {
+              "time": "11:20",
+              "note": "성모회 미사 - 군가족",
+              "type": [
+                "가족"
+              ]
+            }
+          ],
+          "fri": [
+            {
+              "time": "11:45",
+              "note": "기간장병 및 군무원 미사 - 기간장병 및 군무원, 군가족",
+              "type": [
+                "가족"
+              ]
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": "훈련병 미사 - 훈련병"
+          },
+          {
+            "time": "10:30",
+            "note": "교중미사 - 부사관후보생 - 학사사관후보생 - 특기교육생 - 기간장병 및 군무원 - 군가족",
+            "type": [
+              "교중",
+              "가족"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "tue 19:00 저녁미사 - 항공과학고등학교 학생 - 기간장병 및 군무원 - 군가족; wed 19:00 저녁미사 - 병 특기교육생 - 부사관후보생 - 학사사관후보생 - 기간장병 및 군무원 - 군가족; thu 11:20 성모회 미사 - 군가족; fri 11:45 기간장병 및 군무원 미사 - 기간장병 및 군무원, 군가족; sunday 09:00 훈련병 미사 - 훈련병 10:30 교중미사 - 부사관후보생 - 학사사관후보생 - 특기교육생 - 기간장병 및 군무원 - 군가족"
+      },
+      "church_id": "201001582",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "성무대",
+      "diocese": "군종교구",
+      "phone": "043) 290-6041",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110071",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:00",
+              "note": "생도미사"
+            }
+          ],
+          "thu": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "09:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "11:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "mon 09:00; tue 09:00; wed 19:00 생도미사; thu 09:00; fri 09:00; saturday 09:00; sunday 11:30"
+      },
+      "church_id": "201001589",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "성요한",
+      "diocese": "군종교구",
+      "phone": "062) 940-1167",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110073",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "18:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "13:00",
+              "note": "공소 미사"
+            },
+            {
+              "time": "19:00",
+              "note": "군가족 미사",
+              "type": [
+                "가족"
+              ]
+            }
+          ],
+          "fri": [
+            {
+              "time": "13:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "mon 평일 미사 07:00; tue 평일 미사 07:00; wed 학생조종사 미사 18:00; thu 13:00 공소 미사 19:00 군가족 미사; fri 평일 미사 13:00; sunday 교중 미사 10:30"
+      },
+      "church_id": "201001597",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "예성대",
+      "diocese": "군종교구",
+      "phone": "054) 650-1616",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110078",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "18:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "07:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "20:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "(교중 미사)",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "16:00",
+            "note": "충성(안동)"
+          }
+        ],
+        "special": [],
+        "raw": "tue 19:30; wed 18:00; thu 11:00; fri 7:30; saturday 20:30; sunday 10:30 (교중 미사) 16:00 충성(안동)"
+      },
+      "church_id": "201001600",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "용성대",
+      "diocese": "군종교구",
+      "phone": "041) 689-1180",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110083",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": "(저녁미사)"
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": "(오전미사)"
+            }
+          ],
+          "fri": [
+            {
+              "time": "11:30",
+              "note": "(부대안전기원미사)"
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "(교중미사) 예비자교리 133-2포대미사 (",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "16:00",
+            "note": ") 38전대 미사 ("
+          },
+          {
+            "time": "18:00",
+            "note": ")"
+          }
+        ],
+        "special": [],
+        "raw": "wed 19:30(저녁미사); thu 10:30(오전미사); fri 11:30(부대안전기원미사); sunday 10:30(교중미사) 예비자교리 133-2포대미사 (16:00) 38전대 미사 (18:00)"
+      },
+      "church_id": "201001602",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "은성대",
+      "diocese": "군종교구",
+      "phone": "043) 849-6172",
+      "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110081",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [
+            {
+              "time": "19:00",
+              "note": "평일미사"
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": "평일미사"
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": "평일미사"
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": "공소미사"
+          },
+          {
+            "time": "10:30",
+            "note": "주일미사"
+          }
+        ],
+        "special": [],
+        "raw": "wed 19:00 평일미사; thu 10:00 평일미사; fri 10:00 평일미사; sunday 09:00 공소미사 10:30 주일미사"
+      },
+      "church_id": "201001603",
+      "match_method": "phone"
+    }
+  ]
+}

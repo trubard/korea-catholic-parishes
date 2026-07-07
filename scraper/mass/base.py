@@ -155,6 +155,26 @@ def parse_time_cell(text: str) -> list[dict]:
 
 _DAY_KEY = {"월": "mon", "화": "tue", "수": "wed", "목": "thu", "금": "fri",
             "토": "saturday", "주일": "sunday"}
+_KTIME_RE = re.compile(r"(오전|오후)?\s*(\d{1,2})\s*시\s*(?:(\d{1,2})\s*분)?")
+
+
+def korean_to_hhmm(text: str) -> str:
+    """'오전 6시 30분', '오후 7시', '10시30분' 등 한글 시간을 'HH:MM' 으로 치환.
+
+    오전/오후가 없으면 그대로(24시간 가정). 나머지 텍스트(비고/대상)는 보존.
+    """
+    if not text:
+        return ""
+
+    def repl(m):
+        ap, hh, mm = m.group(1), int(m.group(2)), m.group(3)
+        if ap == "오후" and hh < 12:
+            hh += 12
+        elif ap == "오전" and hh == 12:
+            hh = 0
+        return f" {hh:02d}:{mm or '00':0>2} "
+
+    return _KTIME_RE.sub(repl, text)
 
 
 def split_day_labeled(text: str) -> dict:
