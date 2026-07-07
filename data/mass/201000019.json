@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-07T12:52:43+00:00",
+  "generated_at": "2026-07-07T14:59:40+00:00",
   "diocese": "원주교구",
   "diocese_id": "201000019",
-  "count": 46,
+  "count": 54,
   "masses": [
     {
       "parish_name": "관설동",
@@ -2730,6 +2730,473 @@
         "raw": "주일미사 토 19:00 일 10:30(교중) 월 09:00 화 19:00 수 10:00 목 19:00 금 10:00 토 -"
       },
       "church_id": "201000960",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "대화",
+      "diocese": "원주교구",
+      "phone": "033)334-2122",
+      "source_url": "http://www.wjcatholic.or.kr/parish/time?c=영평정지구",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": "(매"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "주일미사 토 19:30 일 10:00 월 10:00 화 19:30 수 10:00 목 19:30 금 10:00 토 10:00(매월 첫 토요일 성모신심미사)"
+      },
+      "church_id": "201000923",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "아우라지",
+      "diocese": "원주교구",
+      "phone": null,
+      "source_url": "http://www.wjcatholic.or.kr/parish/time?c=영평정지구",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "(매"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "주일미사 토 19:30 일 10:30 월 09:00 화 19:30 수 10:30 목 10:30 금 10:30 토 10:30(매월 첫주 성모신심미사)"
+      },
+      "church_id": "201000939",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "영월",
+      "diocese": "원주교구",
+      "phone": "033)372-3900",
+      "source_url": "http://www.wjcatholic.or.kr/parish/time?c=영평정지구",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "주일미사 토 18:00 일 09:00 11:00 월 06:00 화 19:00 수 10:00 목 19:00 금 10:00 토 -"
+      },
+      "church_id": "201000942",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "임계",
+      "diocese": "원주교구",
+      "phone": null,
+      "source_url": "http://www.wjcatholic.or.kr/parish/time?c=영평정지구",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": "(매"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "(교중)",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "주일미사 토 19:00 일 10:30(교중) 월 - 화 10:00 수 10:00 목 10:00 금 10:00 토 10:00(매월 첫 주 성모신심미사)"
+      },
+      "church_id": "201007065",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "정선",
+      "diocese": "원주교구",
+      "phone": "033)563-0056",
+      "source_url": "http://www.wjcatholic.or.kr/parish/time?c=영평정지구",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "주일미사 토 18:30 일 10:30 월 07:00 화 19:30 수 10:00 목 19:30 금 10:00 토 -"
+      },
+      "church_id": "201000949",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "주천",
+      "diocese": "원주교구",
+      "phone": null,
+      "source_url": "http://www.wjcatholic.or.kr/parish/time?c=영평정지구",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "(교중)",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "주일미사 토 19:30 일 10:30(교중) 월 - 화 19:30 수 10:30 목 19:30 금 10:30 토 -"
+      },
+      "church_id": "201000950",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "평창",
+      "diocese": "원주교구",
+      "phone": "033)334-2356",
+      "source_url": "http://www.wjcatholic.or.kr/parish/time?c=영평정지구",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "(교중)",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "주일미사 토 19:30 일 10:30(교중) 월 07:00 화 19:30 수 10:00 목 19:30 금 10:00 토 -"
+      },
+      "church_id": "201000956",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "함백",
+      "diocese": "원주교구",
+      "phone": null,
+      "source_url": "http://www.wjcatholic.or.kr/parish/time?c=영평정지구",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "18:30",
+              "note": "(3"
+            }
+          ],
+          "wed": [
+            {
+              "time": "18:30",
+              "note": "(3"
+            }
+          ],
+          "thu": [
+            {
+              "time": "18:30",
+              "note": "(3"
+            }
+          ],
+          "fri": [
+            {
+              "time": "18:30",
+              "note": "(3"
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": "(매"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "주일미사 토 19:00 일 11:00 월 06:30 화 18:30 (3월~11월) 수 18:30 (3월~11월) 목 18:30 (3월~11월) 금 18:30 (3월~11월) 토 10:00(매월 첫 주 성모신심미사)"
+      },
+      "church_id": "201000959",
       "match_method": "name"
     },
     {

@@ -38,16 +38,17 @@ class WonjuAdapter(MassAdapter):
 
     def _districts(self, session) -> list[str]:
         try:
-            soup = get_soup(session, f"{BASE}parish/time?ca=지구별")
+            soup = get_soup(session, f"{BASE}parish/time")
             cs = re.findall(r"parish/time\?c=([^\"'&]+지구)", str(soup))
             return list(dict.fromkeys(cs))
         except Exception:  # noqa: BLE001
             return []
 
     def collect(self, session: requests.Session) -> list[dict]:
+        # 영평정지구(영월·평창·정선) 포함 — 지구명 정확히 일치해야 함
         districts = self._districts(session) or [
             "남원주지구", "북원주지구", "서원주지구", "횡성지구",
-            "제천지구", "태백지구", "영월정선지구", "영동지구"]
+            "제천지구", "태백지구", "영평정지구", "영동지구"]
         records: list[dict] = []
         seen: set[str] = set()
         for dist in districts:
