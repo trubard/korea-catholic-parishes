@@ -38,6 +38,7 @@ SITES = {
     "북신동": "http://bsd.cathms.kr/xe/board_Yuex31/8553",
     "산청": "http://sanc.cathms.kr/xe/board_Yuex31/10006",
     "산호동": "http://san.cathms.kr/xe/board_wIoU26/8976",
+    "생림선교": "http://sl.cathms.kr/",   # 생림(본당)+한림(공소) 2열 표
     "상평동": "http://sp.cathms.kr/xe/board_Yuex31/10769",
     "성가정": "http://skj.cathms.kr/photo/1032",
     "신안동": "http://sin.cathms.kr/B_1/10796",
@@ -170,6 +171,65 @@ def _parse_day_text(text: str) -> dict:
     return kmap
 
 
+# 시간대/구조 열 이름(공소 열이 아님)
+_STRUCT = {"새벽", "오전", "오후", "저녁", "밤", "미사", "시간", "구분", "요일",
+           "비고", "미사시간"}
+
+
+def _mk_mass(kmap: dict, raw: str = "") -> dict:
+    return normalize_mass(
+        weekday_cells={d: kmap.get(d, "") for d in ("mon", "tue", "wed", "thu", "fri")},
+        saturday=kmap.get("saturday", ""), sunday=kmap.get("sunday", ""),
+        raw=raw or "; ".join(f"{k} {v}" for k, v in kmap.items()))
+
+
+def _parse_columns(table, footnote=""):
+    """본당·공소 등 '이름 열'이 여럿인 표 → {열이름: {요일: 시간}}. 아니면 None.
+
+    빈 셀을 보존해 열 위치를 유지한다(시간대 열 표는 _STRUCT 로 걸러 제외).
+    괄호 표시된 시간(예: '(10:00)')에는 footnote(각주)를 note 로 붙인다.
+    """
+    rows = table.find_all("tr")
+    col_names = None
+    hi = 0
+    for i, tr in enumerate(rows):
+        cells = [c.get_text(" ", strip=True) for c in tr.find_all(["th", "td"])]
+        if len(cells) < 3 or _day_keys(cells[0]):
+            continue
+        names = [re.sub(r"\s", "", c) for c in cells[1:]]
+        if all(n and n not in _STRUCT and not _day_keys(n)
+               and not re.search(r"\d", n) for n in names):
+            col_names, hi = names, i
+            break
+    if not col_names or len(col_names) < 2:
+        return None
+    if not footnote:  # 각주가 표 안에 있으면 사용
+        fn = re.search(r"\*\s*((?:매월|매주|첫|격주|둘째|셋째|넷째)[^*\n]{2,30}?미사)",
+                       table.get_text(" ", strip=True))
+        footnote = fn.group(1).strip() if fn else ""
+    col_mass = {n: {} for n in col_names}
+    for tr in rows[hi + 1:]:
+        cells = [c.get_text(" ", strip=True) for c in tr.find_all(["th", "td"])]
+        keys = _day_keys(cells[0]) if cells else []
+        if not keys:
+            continue
+        for ci, cn in enumerate(col_names, start=1):
+            if ci < len(cells) and _is_time(cells[ci]):
+                v = re.sub(r"[()]", "", korean_to_hhmm(cells[ci])).strip()
+                v = re.sub(r"\s+", " ", v)
+                if "(" in cells[ci] and footnote:  # 괄호=각주 참조
+                    v = f"{v} {footnote}"
+                for k in keys:
+                    col_mass[cn][k] = (col_mass[cn].get(k, "") + " " + v).strip()
+    return {n: km for n, km in col_mass.items() if km} or None
+
+
+def _station_address(text, name):
+    m = re.search(r"\d{5}\s*([가-힣][가-힣0-9\s\-·]{3,45}?)\s*" + re.escape(name)
+                  + r"(?:성당|공소)", text)
+    return re.sub(r"\s+", " ", m.group(1)).strip() if m else None
+
+
 def _valid_mass(kmap: dict) -> bool:
     """미사시간표가 맞는지 검증(게시판 타임스탬프 등 오검출 방지)."""
     all_t = [t for v in kmap.values() for t in re.findall(r"\d{1,2}:\d{2}", v)]
@@ -189,27 +249,49 @@ class MasanAdapter(MassAdapter):
                 soup, html = _get(session, url)
             except Exception:  # noqa: BLE001
                 continue
-            kmap: dict[str, str] = {}
+            parish_km: dict = {}
+            stations: list = []
+            text = soup.get_text(" ", strip=True)
+            fn = re.search(r"\*\s*((?:매월|매주|첫|격주|둘째|셋째|넷째)[^*\n]{2,30}?미사)", text)
+            footnote = fn.group(1).strip() if fn else ""
+            # (1) 본당·공소 다열 표
             for table in soup.find_all("table"):
-                km = _parse_mass_table(table)
-                if len(km) > len(kmap):
-                    kmap = km
-            if len(kmap) < 3:  # 표 없으면 요일 평문 시도
-                kt = _parse_day_text(soup.get_text(" ", strip=True))
-                if len(kt) > len(kmap):
-                    kmap = kt
-            if len(kmap) < 3:  # 그래도 없으면 base64 이미지 OCR(easyocr 있을 때만)
-                ko = ocr.ocr_mass_from_html(html)
-                if len(ko) > len(kmap):
-                    kmap = ko
-            if len(kmap) < 3 or not _valid_mass(kmap):
-                continue  # 미사표·텍스트·이미지 없음 또는 오검출 → 스킵
-            mass = normalize_mass(
-                weekday_cells={d: kmap.get(d, "") for d in
-                               ("mon", "tue", "wed", "thu", "fri")},
-                saturday=kmap.get("saturday", ""), sunday=kmap.get("sunday", ""),
-                raw="; ".join(f"{k} {v}" for k, v in kmap.items()))
-            records.append({
+                cols = _parse_columns(table, footnote)
+                if not cols:
+                    continue
+                pcol = next((c for c in cols
+                             if name.startswith(c) or c.startswith(name) or c in name),
+                            next(iter(cols)))
+                parish_km = cols.get(pcol, {})
+                for cn, km in cols.items():
+                    if cn != pcol and _valid_mass(km):
+                        stations.append({"name": cn, "address": _station_address(text, cn),
+                                         "mass": _mk_mass(km)})
+                if _valid_mass(parish_km) or stations:
+                    break
+            # (2) 단열 폴백: 표 → 평문 → 이미지 OCR
+            if not _valid_mass(parish_km):
+                kmap: dict = {}
+                for table in soup.find_all("table"):
+                    km = _parse_mass_table(table)
+                    if len(km) > len(kmap):
+                        kmap = km
+                if len(kmap) < 3:
+                    kt = _parse_day_text(soup.get_text(" ", strip=True))
+                    if len(kt) > len(kmap):
+                        kmap = kt
+                if len(kmap) < 3:
+                    ko = ocr.ocr_mass_from_html(html)
+                    if len(ko) > len(kmap):
+                        kmap = ko
+                if _valid_mass(kmap):
+                    parish_km = kmap
+            if not _valid_mass(parish_km) and not stations:
+                continue
+            rec = {
                 "parish_name": name, "diocese": self.diocese,
-                "phone": None, "source_url": url, "mass": mass})
+                "phone": None, "source_url": url, "mass": _mk_mass(parish_km)}
+            if stations:
+                rec["stations"] = stations
+            records.append(rec)
         return records

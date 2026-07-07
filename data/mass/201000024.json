@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-07T17:08:51+00:00",
+  "generated_at": "2026-07-07T17:23:11+00:00",
   "diocese": "마산교구",
   "diocese_id": "201000024",
-  "count": 33,
+  "count": 35,
   "masses": [
     {
       "parish_name": "가좌동",
@@ -338,23 +338,7 @@
             }
           ]
         },
-        "saturday": [
-          {
-            "time": "20:00",
-            "note": "10월~2월(동절기)",
-            "recurrence": {
-              "months": [
-                10
-              ],
-              "season": "winter",
-              "raw": "10월~2월(동절기)"
-            }
-          },
-          {
-            "time": "19:00",
-            "note": null
-          }
-        ],
+        "saturday": [],
         "sunday": [
           {
             "time": "07:00",
@@ -366,19 +350,92 @@
           },
           {
             "time": "18:00",
-            "note": "(셋째주,베트남)",
+            "note": "셋째주,베트남",
             "recurrence": {
               "weeks": [
                 3
               ],
-              "raw": "(셋째주,베트남)"
+              "raw": "셋째주,베트남"
             }
           }
         ],
         "special": [],
-        "raw": "tue 19:30; wed 10:00; thu 19:30; fri 10:00; saturday 3월~9월(하절기) 20:00 10월~2월(동절기) 19:00; sunday 07:00 10:30 18:00(셋째주,베트남)"
+        "raw": "tue 19:30; wed 10:00; thu 19:30; fri 10:00; sunday 07:00 10:30 18:00셋째주,베트남"
       },
+      "stations": [
+        {
+          "name": "부곡",
+          "address": null,
+          "mass": {
+            "weekday": {
+              "mon": [],
+              "tue": [],
+              "wed": [],
+              "thu": [],
+              "fri": []
+            },
+            "saturday": [
+              {
+                "time": "20:00",
+                "note": "10월~2월동절기",
+                "recurrence": {
+                  "months": [
+                    10
+                  ],
+                  "season": "winter",
+                  "raw": "10월~2월동절기"
+                }
+              },
+              {
+                "time": "19:00",
+                "note": null
+              }
+            ],
+            "sunday": [],
+            "special": [],
+            "raw": "saturday 3월~9월하절기 20:00 10월~2월동절기 19:00"
+          }
+        }
+      ],
       "church_id": "201001046",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "대건",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "http://dg.cathms.kr/",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": "."
+          },
+          {
+            "time": "11:00",
+            "note": ". 저녁미사 없습니다 2023-01-21 설 명절 합동미사"
+          },
+          {
+            "time": "11:00",
+            "note": "설명절 함동위령미사"
+          },
+          {
+            "time": "11:00",
+            "note": "2023-01-21 연중 제14"
+          }
+        ],
+        "special": [],
+        "raw": "sunday (자비축일... 2020-04-10 천주의 성모마리아 대... 미사 시간 :  09:00 .  11:00 . 저녁미사 없습니다 2023-01-21 설 명절 합동미사 11:00 설명절 함동위령미사  11:00 2023-01-21 연중 제14"
+      },
+      "church_id": "201001048",
       "match_method": "name"
     },
     {
@@ -776,6 +833,90 @@
       "match_method": "name"
     },
     {
+      "parish_name": "생림선교",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "http://sl.cathms.kr/",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [],
+          "fri": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "매월 첫째 주 토요일 성모 신심 미사",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "매월 첫째 주 토요일 성모 신심 미사"
+            }
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "wed 10:00; fri 19:00; saturday 10:00 매월 첫째 주 토요일 성모 신심 미사; sunday 10:30"
+      },
+      "stations": [
+        {
+          "name": "한림",
+          "address": "김해시 한림면 한림로371번길 43-21",
+          "mass": {
+            "weekday": {
+              "mon": [],
+              "tue": [
+                {
+                  "time": "19:00",
+                  "note": null
+                }
+              ],
+              "wed": [],
+              "thu": [
+                {
+                  "time": "10:00",
+                  "note": null
+                }
+              ],
+              "fri": []
+            },
+            "saturday": [
+              {
+                "time": "18:30",
+                "note": null
+              }
+            ],
+            "sunday": [],
+            "special": [],
+            "raw": "tue 19:00; thu 10:00; saturday 18:30"
+          }
+        }
+      ],
+      "church_id": "201001066",
+      "match_method": "name"
+    },
+    {
       "parish_name": "상평동",
       "diocese": "마산교구",
       "phone": null,
@@ -850,33 +991,70 @@
               "note": null
             }
           ],
-          "thu": [
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
+          "thu": [],
           "fri": []
         },
-        "saturday": [
-          {
-            "time": "17:00",
-            "note": null
-          }
-        ],
+        "saturday": [],
         "sunday": [
           {
             "time": "11:00",
             "note": null
-          },
-          {
-            "time": "09:00",
-            "note": null
           }
         ],
         "special": [],
-        "raw": "tue 19:30; wed 06:30; thu 19:30; saturday 마지막 주 17:00; sunday 11:00 9:00"
+        "raw": "tue 19:30; wed 06:30; sunday 11:00"
       },
+      "stations": [
+        {
+          "name": "곤양",
+          "address": null,
+          "mass": {
+            "weekday": {
+              "mon": [],
+              "tue": [],
+              "wed": [],
+              "thu": [
+                {
+                  "time": "19:30",
+                  "note": null
+                }
+              ],
+              "fri": []
+            },
+            "saturday": [],
+            "sunday": [
+              {
+                "time": "09:00",
+                "note": null
+              }
+            ],
+            "special": [],
+            "raw": "thu 19:30; sunday 9:00"
+          }
+        },
+        {
+          "name": "봉계",
+          "address": null,
+          "mass": {
+            "weekday": {
+              "mon": [],
+              "tue": [],
+              "wed": [],
+              "thu": [],
+              "fri": []
+            },
+            "saturday": [
+              {
+                "time": "17:00",
+                "note": null
+              }
+            ],
+            "sunday": [],
+            "special": [],
+            "raw": "saturday 마지막 주 17:00"
+          }
+        }
+      ],
       "church_id": "201001067",
       "match_method": "name"
     },

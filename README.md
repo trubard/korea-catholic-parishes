@@ -99,9 +99,16 @@ churches = requests.get(url).json()["churches"]
     "sunday":   [ {"time": "11:00", "note": "교중", "type": ["교중"]} ],
     "special": [],
     "raw": "원문 텍스트"
-  }
+  },
+  "stations": [                    // 공소(선택) — 소스가 공소 미사를 구분 제공할 때만
+    { "name": "한림", "address": "경남 김해시 …", "mass": { … } }
+  ]
 }
 ```
+
+> **공소(`stations`)**: 성당코드(`church_id`)는 본당에만 부여되고 공소는 별도 id가 없어,
+> 본당 레코드 안에 `stations` 배열(이름·주소·미사)로 중첩합니다. 소스가 공소 미사를
+> 명시적으로 구분할 때만 존재합니다(대다수 본당은 없음).
 
 각 미사 항목(entry) 필드:
 
