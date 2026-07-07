@@ -1,5 +1,11 @@
-# 선택적 의존성: 미사시간을 이미지(base64 임베드 표)로만 게시하는 본당의 OCR 수집용.
-# 미설치 시 해당 본당만 스킵되고 나머지 수집은 정상 동작한다(scraper/mass/ocr.py 참고).
+# 선택적 의존성 — 일부 본당(주로 마산교구)의 특수 형식 미사표 수집용.
+# 미설치 시 해당 본당만 스킵되고 나머지 수집은 정상 동작한다.
 # 주간 미사시간 워크플로우(.github/workflows/mass.yml)에서만 설치한다.
+
+# 이미지(base64 임베드 표) OCR — scraper/mass/ocr.py
 easyocr>=1.7
 Pillow>=10.0
+
+# JS 위젯으로만 렌더링되는 표 — scraper/mass/render.py
+# 설치 후 브라우저도 받아야 함:  playwright install chromium
+playwright>=1.40

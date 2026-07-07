@@ -20,6 +20,7 @@ from bs4 import BeautifulSoup
 
 from base import MassAdapter, korean_to_hhmm, normalize_mass
 import ocr
+import render
 
 C = "cathms.kr"
 # 본당명: 미사 페이지 URL
@@ -68,6 +69,11 @@ SITES = {
     "고성": "http://ks.cathms.kr/",
     "대건": "http://dg.cathms.kr/",
     "칠원": "http://cw.cathms.kr/",
+}
+
+# 미사표가 JS 위젯으로만 렌더링되는 본당 — playwright 필요(render.py, 선택적)
+JS_SITES = {
+    "구암동": "http://ga.cathms.kr/",
 }
 
 _DAY = {"월": "mon", "화": "tue", "수": "wed", "목": "thu", "금": "fri",
@@ -245,11 +251,19 @@ class MasanAdapter(MassAdapter):
 
     def collect(self, session: requests.Session) -> list[dict]:
         records: list[dict] = []
-        for name, url in SITES.items():
-            try:
-                soup, html = _get(session, url)
-            except Exception:  # noqa: BLE001
-                continue
+        items = ([(n, u, False) for n, u in SITES.items()]
+                 + [(n, u, True) for n, u in JS_SITES.items()])
+        for name, url, is_js in items:
+            if is_js:  # JS 위젯 미사표 — 헤드리스 렌더링
+                html = render.render_html(url)
+                if not html:
+                    continue
+                soup = BeautifulSoup(html, "html.parser")
+            else:
+                try:
+                    soup, html = _get(session, url)
+                except Exception:  # noqa: BLE001
+                    continue
             parish_km: dict = {}
             stations: list = []
             text = soup.get_text(" ", strip=True)

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T17:50:16+00:00",
-  "count": 1646,
-  "matched": 1635,
+  "generated_at": "2026-07-07T17:59:06+00:00",
+  "count": 1647,
+  "matched": 1636,
   "masses": [
     {
       "parish_name": "강진",
@@ -28435,6 +28435,61 @@
         "raw": "mon 09:00; tue 19:30; wed 10:00 19:30; thu 10:00 19:30; fri 10:00; saturday 어린이 15:00 특전 18:30; sunday 06:30 08:30 10:30 19:30"
       },
       "church_id": "201001042",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "구암동",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "http://ga.cathms.kr/",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "07:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "07:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "06:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "tue 7:30; wed 10:00; thu 7:30; fri 10:00; saturday 6:00; sunday 7:00 10:30"
+      },
+      "church_id": "201001043",
       "match_method": "name"
     },
     {

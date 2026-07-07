@@ -28,8 +28,10 @@ jobs:
       - name: Install dependencies
         run: pip install -r scraper/requirements.txt
 
-      - name: Install OCR dependencies (이미지 미사표 수집용)
-        run: pip install -r scraper/requirements-ocr.txt
+      - name: Install optional dependencies (이미지 OCR·JS 렌더링 미사표 수집용)
+        run: |
+          pip install -r scraper/requirements-ocr.txt
+          python -m playwright install --with-deps chromium
 
       - name: Cache EasyOCR models
         uses: actions/cache@v4
