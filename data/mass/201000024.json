@@ -1,0 +1,148 @@
+{
+  "generated_at": "2026-07-07T12:52:43+00:00",
+  "diocese": "마산교구",
+  "diocese_id": "201000024",
+  "count": 2,
+  "masses": [
+    {
+      "parish_name": "거창",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "http://geo.cathms.kr/xe/page_foxn59",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": "﻿"
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "tue 19:30; wed 10:00; thu ﻿19:30 ﻿; fri 10:00; saturday 18:30; sunday 09:00 10:30"
+      },
+      "church_id": "201001039",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "명서동",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "http://ms.cathms.kr/xe/churh9",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": "(초등부)"
+          },
+          {
+            "time": "18:30",
+            "note": "(중고등부)",
+            "type": [
+              "중고등부"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "(교중미사)",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "19:30",
+            "note": "(청년부)",
+            "type": [
+              "청년"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "mon 06:30; tue 19:30; wed 10:00; thu 10:00 19:30; fri 10:00; saturday 10:00 16:00 (초등부) 18:30 (중고등부); sunday 09:00 10:30 (교중미사) 19:30 (청년부)"
+      },
+      "church_id": "201001053",
+      "match_method": "name"
+    }
+  ]
+}
