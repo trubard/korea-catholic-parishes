@@ -14,7 +14,7 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
-from base import MassAdapter, normalize_mass
+from base import MassAdapter, korean_to_hhmm, normalize_mass
 
 # 본당명: (서브도메인, 미사페이지 경로).
 # CBCK 상세의 홈페이지 필드에서 마산 본당 홈페이지 52개(cathms 서브도메인 36개)를 수집하고,
@@ -25,8 +25,13 @@ SITES = {
     "가좌동": ("gajwa", "/xe/board_oCOh74/13788"),
     "거창": ("geo", "/xe/page_foxn59"),
     "고현": ("goh", "/xe/page_Awcw22"),
+    "망경동": ("mk", "/xe/board_LuAU21/25930"),
     "명서동": ("ms", "/xe/churh9"),
+    "남성동": ("namsung", "/xe/board_LuAU21/8839"),
     "북신동": ("bsd", "/xe/board_Yuex31/8553"),
+    "산호동": ("san", "/xe/board_LuAU21/16598"),
+    "장평": ("jp", "/xe/movie/39148"),
+    "진동": ("jin", "/xe/board_LuAU21/7150"),
     "산청": ("sanc", "/xe/board_Yuex31/10006"),
     "상평동": ("sp", "/xe/board_Yuex31/10769"),
     "장승포": ("jsp", "/xe/board_LuAU21/27254"),
@@ -42,20 +47,31 @@ _DAY = {"월": "mon", "화": "tue", "수": "wed", "목": "thu", "금": "fri",
 
 
 def _parse_mass_table(table) -> dict:
-    """표에서 (요일행+시간) 을 {mon: 'HH:MM ...'} 로. 미사표가 아니면 빈 dict."""
+    """표에서 (요일행+시간) 을 {mon: 'HH:MM ...'} 로. 미사표가 아니면 빈 dict.
+
+    한글시간(오전/오후)·다중요일(예: '수, 목, 금')도 처리.
+    """
     kmap: dict[str, str] = {}
     for tr in table.find_all("tr"):
-        cells = [re.sub(r"\s+", " ", c.get_text(" ", strip=True))
+        cells = [re.sub(r"\s+", " ", korean_to_hhmm(c.get_text(" ", strip=True)))
                  for c in tr.find_all(["th", "td"])]
         if not cells:
             continue
-        d = cells[0].replace("요일", "").strip()
-        key = _DAY.get(d) or (_DAY.get(d[0]) if d else None)
-        if not key:
+        c0 = cells[0].replace("요일", "")
+        keys = []
+        if "주일" in c0:
+            keys.append("sunday")
+        for ch in ("월", "화", "수", "목", "금", "토"):
+            if ch in c0:
+                keys.append(_DAY[ch])
+        if not keys and "일" in c0:
+            keys.append("sunday")
+        if not keys:
             continue
         times = " ".join(c for c in cells[1:] if re.search(r"\d{1,2}:\d{2}", c))
         if times:
-            kmap[key] = (kmap.get(key, "") + " " + times).strip()
+            for k in keys:
+                kmap[k] = (kmap.get(k, "") + " " + times).strip()
     return kmap
 
 

@@ -166,7 +166,17 @@ def korean_to_hhmm(text: str) -> str:
     if not text:
         return ""
 
-    def repl(m):
+    def _colon(m):  # '오후 7:30' 같은 오전/오후 + HH:MM
+        ap, hh, mm = m.group(1), int(m.group(2)), m.group(3)
+        if ap == "오후" and hh < 12:
+            hh += 12
+        elif ap == "오전" and hh == 12:
+            hh = 0
+        return f" {hh:02d}:{mm} "
+
+    text = re.sub(r"(오전|오후)\s*(\d{1,2}):(\d{2})", _colon, text)
+
+    def repl(m):  # '오전 6시 30분' 같은 N시 M분
         ap, hh, mm = m.group(1), int(m.group(2)), m.group(3)
         if ap == "오후" and hh < 12:
             hh += 12
