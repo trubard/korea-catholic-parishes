@@ -44,10 +44,8 @@ SITES = {
     "상평동": "http://sp.cathms.kr/xe/board_Yuex31/10769",
     "성가정": "http://skj.cathms.kr/photo/1032",
     "신안동": "http://sin.cathms.kr/B_1/10796",
-    "안의선교": "http://an.cathms.kr/page_fJlT21",
     "양곡": "http://yk.cathms.kr/xe/board_Yuex31/2956",
     "양덕동": "http://yangduk.kr/bbs/board.php?bo_table=livesbody&wr_id=10",
-    "옥포": "http://okpo.cathms.kr/xe/90479",
     "월영": "http://www.wolyoung.or.kr/bbs/board.php?bo_table=livesbody&wr_id=12",
     "의령": "http://ur.cathms.kr/photo/681",
     "장등": "http://jdsd.cathms.kr/board_ffCj96/7752",
@@ -74,6 +72,20 @@ SITES = {
 # 미사표가 JS 위젯으로만 렌더링되는 본당 — playwright 필요(render.py, 선택적)
 JS_SITES = {
     "구암동": "http://ga.cathms.kr/",
+    "남해": "http://nh.cathms.kr/",
+    "대방동": "http://db.cathms.kr/",
+    "봉곡동": "http://bong.cathms.kr/",
+    "삼천포": "http://samchpo.cathms.kr/",
+    "안의선교": "http://an.cathms.kr/",
+    "여좌동": "http://yeo.cathms.kr/",
+    "영산": "http://ys.cathms.kr/",
+    "옥봉동": "http://ob.cathms.kr/",
+    "옥포": "http://okpo.cathms.kr/",
+    "용잠": "http://yj.cathms.kr/",
+    "창녕": "http://cn.cathms.kr/",
+    "팔용동": "http://pr.cathms.kr/",
+    "하동": "http://hd.cathms.kr/",
+    "하청": "http://hac.cathms.kr/",
 }
 
 _DAY = {"월": "mon", "화": "tue", "수": "wed", "목": "thu", "금": "fri",
