@@ -25,6 +25,7 @@ C = "cathms.kr"
 # 본당명: 미사 페이지 URL
 SITES = {
     "가좌동": "http://gajwa.cathms.kr/xe/board_oCOh74/13788",
+    "경화동": "http://kyung.cathms.kr/",
     "거창": "http://geo.cathms.kr/xe/page_foxn59",
     "고현": "http://goh.cathms.kr/xe/page_Awcw22",
     "금산": "http://kum.cathms.kr/xe/board_LuAU21/11773",

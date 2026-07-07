@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T17:26:23+00:00",
-  "count": 1645,
-  "matched": 1634,
+  "generated_at": "2026-07-07T17:50:16+00:00",
+  "count": 1646,
+  "matched": 1635,
   "masses": [
     {
       "parish_name": "강진",
@@ -28224,6 +28224,66 @@
         "raw": "tue 19:30; wed 10:00; thu ﻿19:30 ﻿; fri 10:00; saturday 18:30; sunday 09:00 10:30"
       },
       "church_id": "201001039",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "경화동",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "http://kyung.cathms.kr/",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "mon 06:30; tue 19:30; wed 10:00; thu 19:30; fri 10:00; saturday 18:00; sunday 07:00 10:30"
+      },
+      "church_id": "201001040",
       "match_method": "name"
     },
     {
