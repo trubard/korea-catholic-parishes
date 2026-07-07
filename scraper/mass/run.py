@@ -37,6 +37,7 @@ from dioceses.wonju import WonjuAdapter  # noqa: E402
 from dioceses.gunjong import GunjongAdapter  # noqa: E402
 from dioceses.uijeongbu import UijeongbuAdapter  # noqa: E402
 from dioceses.masan import MasanAdapter  # noqa: E402
+from dioceses.andong import AndongAdapter  # noqa: E402
 
 # 등록된 어댑터 (단계적으로 추가)
 ADAPTERS = [
@@ -55,6 +56,7 @@ ADAPTERS = [
     GunjongAdapter(),
     UijeongbuAdapter(),
     MasanAdapter(),
+    AndongAdapter(),
 ]
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))

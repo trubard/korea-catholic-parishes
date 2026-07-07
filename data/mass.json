@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T15:02:41+00:00",
-  "count": 1600,
-  "matched": 1589,
+  "generated_at": "2026-07-07T16:44:41+00:00",
+  "count": 1641,
+  "matched": 1630,
   "masses": [
     {
       "parish_name": "강진",
@@ -75964,6 +75964,2116 @@
       },
       "church_id": "201000635",
       "match_method": "phone"
+    },
+    {
+      "parish_name": "가은",
+      "diocese": "안동교구",
+      "phone": "054-571-6040",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=2",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "20:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |20:00|10:00|20:00|20:00|20:00|10:30"
+      },
+      "church_id": "201001234",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "가흥동",
+      "diocese": "안동교구",
+      "phone": "054-634-1781",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=3",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |19:30|10:00|19:30|10:00|15:00, 19:30|10:30"
+      },
+      "church_id": "201008003",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "갈전마티아",
+      "diocese": "안동교구",
+      "phone": "054-852-1781",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=25",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |19:30|10:00|19:30|10:00|15:00, 19:30|08:00, 10:30"
+      },
+      "church_id": "201007893",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "강구",
+      "diocese": "안동교구",
+      "phone": "054-733-4003",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=26",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "20:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |20:00|20:00|20:00|06:30|20:00|10:30"
+      },
+      "church_id": "201001235",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "개운동",
+      "diocese": "안동교구",
+      "phone": "054-541-2901",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=27",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |20:00|20:00|10:00|10:00|19:30|10:30"
+      },
+      "church_id": "201001236",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "계림동",
+      "diocese": "안동교구",
+      "phone": "054-532-9600",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=30",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |20:00|10:00|10:00|20:00|15:00, 19:30|06:00, 10:30"
+      },
+      "church_id": "201001237",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "공검",
+      "diocese": "안동교구",
+      "phone": "054-541-2707",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=43",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "thu": [],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |20:00|20:00||10:00||11:00"
+      },
+      "church_id": "201001250",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "구담",
+      "diocese": "안동교구",
+      "phone": "054-652-3334",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=42",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [],
+        "special": [],
+        "raw": "하절기 ||19:30||10:30|19:30|"
+      },
+      "church_id": "201001238",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "남성동",
+      "diocese": "안동교구",
+      "phone": "054-531-1781",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=41",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 06:30|20:00|10:00|20:00|10:00|19:00|10:30 / 19:30"
+      },
+      "church_id": "201001239",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "다인",
+      "diocese": "안동교구",
+      "phone": "054-861-8343",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=40",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "wed": [],
+          "thu": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "20:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |20:00||20:00||20:00|10:30"
+      },
+      "church_id": "201001240",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "모전동",
+      "diocese": "안동교구",
+      "phone": "054-555-6652",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=39",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |19:30|10:00|19:30|10:00|15:00 / 19:30|09:00 / 10:30"
+      },
+      "church_id": "201001241",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "문경",
+      "diocese": "안동교구",
+      "phone": "054-572-0531",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=37",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "20:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |20:00|10:00|20:00|10:00|20:00|10:30"
+      },
+      "church_id": "201001242",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "봉화",
+      "diocese": "안동교구",
+      "phone": "054-674-1784",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=36",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |19:30|10:30|19:30|10:30|17:30|10:30"
+      },
+      "church_id": "201001243",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "북면",
+      "diocese": "안동교구",
+      "phone": "054-783-1965",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=35",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |19:30|10:00|19:30|10:00|17:00|10:30"
+      },
+      "church_id": "201001244",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "사벌퇴강",
+      "diocese": "안동교구",
+      "phone": "054-536-3789",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=47",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "20:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": "사벌"
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 ||사벌 10:30|목가공소 10:30|퇴강 10:30|사벌 20:00|퇴강 08:00 / 사벌 10:30"
+      },
+      "church_id": "201001245",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "서문동",
+      "diocese": "안동교구",
+      "phone": "054-535-2017",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=34",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": null
+          },
+          {
+            "time": "20:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |20:00|10:00|20:00|10:00|15:00 / 20:00|10:30"
+      },
+      "church_id": "201007934",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "송현동",
+      "diocese": "안동교구",
+      "phone": "054-859-4213",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=32",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |19:30|19:30|19:30|10:00|19:00|08:30 / 10:30"
+      },
+      "church_id": "201001247",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "신기동",
+      "diocese": "안동교구",
+      "phone": "054-553-5821",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=31",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "20:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |20:00|10:00|20:00|10:00|20:00|10:00"
+      },
+      "church_id": "201001248",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "안계",
+      "diocese": "안동교구",
+      "phone": "054-861-0371",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=29",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "20:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |20:00|10:00|20:00|10:00|20:00|10:30"
+      },
+      "church_id": "201001249",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "영덕",
+      "diocese": "안동교구",
+      "phone": "054-733-0511",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=28",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "20:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |20:00|10:00|20:00|10:00|20:00|10:30"
+      },
+      "church_id": "201001251",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "영양",
+      "diocese": "안동교구",
+      "phone": "054-683-2105",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=24",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |19:30|19:30||19:30|19:30|10:30"
+      },
+      "church_id": "201001252",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "영해",
+      "diocese": "안동교구",
+      "phone": "054-733-6880",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=23",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "20:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |20:00|10:00|20:00|10:00|20:00|10:30"
+      },
+      "church_id": "201001253",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "예천",
+      "diocese": "안동교구",
+      "phone": "054-654-2042",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=22",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "20:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |20:00|10:00|20:00|10:00|20:00|10:30"
+      },
+      "church_id": "201001254",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "옥산",
+      "diocese": "안동교구",
+      "phone": "054-532-4507",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=21",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |19:30||19:30|10:00||10:30"
+      },
+      "church_id": "201001255",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "용상동",
+      "diocese": "안동교구",
+      "phone": "054-821-2419",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=20",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |19:30|10:00|19:30|10:00|16:00 / 19:30|08:30 / 10:30"
+      },
+      "church_id": "201001256",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "울진",
+      "diocese": "안동교구",
+      "phone": "054-783-2130",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=19",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |19:30|19:30|10:00|10:00|19:30|10:30"
+      },
+      "church_id": "201001257",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "의성",
+      "diocese": "안동교구",
+      "phone": "054-834-1781",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=18",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "20:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "(*대축일"
+          },
+          {
+            "time": "11:00",
+            "note": ")"
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |20:00|10:00|20:00|10:00|16:00 / 20:00|10:30(*대축일 11:00)"
+      },
+      "church_id": "201007931",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "점촌동",
+      "diocese": "안동교구",
+      "phone": "054-533-8190",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=17",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |19:30|10:00|19:30|10:00|19:30|10:30 / 19:00"
+      },
+      "church_id": "201001259",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "정상동",
+      "diocese": "안동교구",
+      "phone": "054-857-1781",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=16",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |19:30|10:00|19:30|10:00|19:30|10:30"
+      },
+      "church_id": "201001260",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "주교좌목성동",
+      "diocese": "안동교구",
+      "phone": "054-858-2460",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=38",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 06:30|19:30|10:00|10:00 / 19:30|10:00 / 19:30|15:00 / 19:00|06:30 / 09:00 / 10:30 / 19:30"
+      },
+      "church_id": "201007933",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "진보",
+      "diocese": "안동교구",
+      "phone": "054-874-2397",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=14",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [],
+          "fri": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |20:00|10:30||20:00||11:00"
+      },
+      "church_id": "201001261",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "청송",
+      "diocese": "안동교구",
+      "phone": "054-872-2051",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=33",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "wed": [],
+          "thu": [],
+          "fri": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "20:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |20:00|||20:00|20:00|11:00"
+      },
+      "church_id": "201001262",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "춘양",
+      "diocese": "안동교구",
+      "phone": "054-672-1784",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=13",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "20:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |20:00|10:30|20:00|10:30|20:00|10:30"
+      },
+      "church_id": "201007932",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "태화동",
+      "diocese": "안동교구",
+      "phone": "054-852-7038",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=12",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |19:30|10:00|19:30|10:00|19:30|10:30"
+      },
+      "church_id": "201001264",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "풍기",
+      "diocese": "안동교구",
+      "phone": "054-636-2204",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=11",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |20:00|10:00|20:00|10:00|19:00|09:00 / 10:30"
+      },
+      "church_id": "201001265",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "풍양",
+      "diocese": "안동교구",
+      "phone": "054-654-8833",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=10",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [],
+          "thu": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "20:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |||20:00|20:00|20:00|10:30"
+      },
+      "church_id": "201001266",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "하망동",
+      "diocese": "안동교구",
+      "phone": "054-636-9100",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=9",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |19:30|10:00|19:30|10:00|19:30|10:30 / 19:30"
+      },
+      "church_id": "201001267",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "함창",
+      "diocese": "안동교구",
+      "phone": "054-541-3037",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=8",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |19:30|06:00|19:30|10:00|19:30|09:00 / 10:30"
+      },
+      "church_id": "201001268",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "화령",
+      "diocese": "안동교구",
+      "phone": "054-533-0044",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=7",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 ||20:00|10:30||19:30|10:30"
+      },
+      "church_id": "201001269",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "후포",
+      "diocese": "안동교구",
+      "phone": "054-788-2157",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=6",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |19:30|10:00|19:30|19:30|19:30|10:30"
+      },
+      "church_id": "201001270",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "휴천동",
+      "diocese": "안동교구",
+      "phone": "054-638-1781",
+      "source_url": "https://www.acatholic.or.kr/sub3/sub1_view.asp?seq=4",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "하절기 |19:30|10:00|19:30|10:00|19:30|09:00 / 10:30"
+      },
+      "church_id": "201001271",
+      "match_method": "name"
     },
     {
       "parish_name": "고한",
