@@ -16,14 +16,47 @@ from bs4 import BeautifulSoup
 
 from base import MassAdapter, normalize_mass
 
-# 본당명: (서브도메인, 미사페이지 경로).  ※ 확인된 본당부터 점진적으로 확장.
+# 본당명: (서브도메인, 미사페이지 경로).
+# CBCK 상세의 홈페이지 필드에서 마산 본당 홈페이지 52개(cathms 서브도메인 36개)를 수집하고,
+# 각 사이트의 미사 페이지 중 '요일' 표가 있는 본당을 등록했다. 미사시간을 이미지/게시글로만
+# 올린 본당은 표가 없어 자동 스킵된다. (page_* 는 고정 메뉴, board_*/movie 는 게시글 기반이라
+# 재게시 시 경로가 바뀔 수 있음 — 끊기면 해당 본당만 스킵된다.)
 SITES = {
+    "가좌동": ("gajwa", "/xe/board_oCOh74/13788"),
     "거창": ("geo", "/xe/page_foxn59"),
+    "고현": ("goh", "/xe/page_Awcw22"),
     "명서동": ("ms", "/xe/churh9"),
-    "회원동": ("hw", "/xe/page_MNku90"),   # 미사시간 이미지 → 표 없어 자동 스킵
+    "북신동": ("bsd", "/xe/board_Yuex31/8553"),
+    "산청": ("sanc", "/xe/board_Yuex31/10006"),
+    "상평동": ("sp", "/xe/board_Yuex31/10769"),
+    "장승포": ("jsp", "/xe/board_LuAU21/27254"),
+    "중동": ("jd", "/xe/board_LuAU21/8859"),
+    "진영": ("jy", "/xe/board_Yuex31/7649"),
+    "하대동": ("had", "/xe/page_JcrW79"),
+    "함양": ("ham", "/xe/board_Yuex31/5378"),
+    "합천": ("hap", "/xe/board_mnPW66/15692"),
+    "회원동": ("hw", "/xe/page_MNku90"),
 }
 _DAY = {"월": "mon", "화": "tue", "수": "wed", "목": "thu", "금": "fri",
         "토": "saturday", "주일": "sunday", "일": "sunday"}
+
+
+def _parse_mass_table(table) -> dict:
+    """표에서 (요일행+시간) 을 {mon: 'HH:MM ...'} 로. 미사표가 아니면 빈 dict."""
+    kmap: dict[str, str] = {}
+    for tr in table.find_all("tr"):
+        cells = [re.sub(r"\s+", " ", c.get_text(" ", strip=True))
+                 for c in tr.find_all(["th", "td"])]
+        if not cells:
+            continue
+        d = cells[0].replace("요일", "").strip()
+        key = _DAY.get(d) or (_DAY.get(d[0]) if d else None)
+        if not key:
+            continue
+        times = " ".join(c for c in cells[1:] if re.search(r"\d{1,2}:\d{2}", c))
+        if times:
+            kmap[key] = (kmap.get(key, "") + " " + times).strip()
+    return kmap
 
 
 def _get(session, url):
@@ -50,25 +83,14 @@ class MasanAdapter(MassAdapter):
                 soup = _get(session, url)
             except Exception:  # noqa: BLE001
                 continue
-            # 요일 헤더가 있는 미사표 찾기
+            # 요일 행이 가장 많은 표를 미사표로 선택(교리 일정표 등 오매칭 방지)
             kmap: dict[str, str] = {}
             for table in soup.find_all("table"):
-                if "요일" not in table.get_text():
-                    continue
-                for tr in table.find_all("tr"):
-                    cells = [re.sub(r"\s+", " ", c.get_text(" ", strip=True))
-                             for c in tr.find_all(["th", "td"])]
-                    if not cells or cells[0] not in _DAY:
-                        continue
-                    times = " ".join(c for c in cells[1:]
-                                     if re.search(r"\d{1,2}:\d{2}", c))
-                    if times:
-                        key = _DAY[cells[0]]
-                        kmap[key] = (kmap.get(key, "") + " " + times).strip()
-                if kmap:
-                    break
-            if not kmap:
-                continue  # 표 없음(이미지 등) → 스킵
+                km = _parse_mass_table(table)
+                if len(km) > len(kmap):
+                    kmap = km
+            if len(kmap) < 3:
+                continue  # 미사표 없음(이미지/게시글 등) → 스킵
             mass = normalize_mass(
                 weekday_cells={d: kmap.get(d, "") for d in
                                ("mon", "tue", "wed", "thu", "fri")},
