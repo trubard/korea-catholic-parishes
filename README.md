@@ -120,8 +120,10 @@ churches = requests.get(url).json()["churches"]
 미수집 본당과 사유는 [`data/mass_uncovered.json`](data/mass_uncovered.json) 참고.
 
 > **마산교구**는 통합 본당 목록이 없고 본당별 독립 사이트를 써서, 교구 본당목록에서
-> 홈페이지를 수집해 파싱 가능한 본당만 `dioceses/masan.py`의 맵으로 개별 수집합니다
-> (미사시간을 이미지로 올렸거나 다음·네이버 카페를 쓰는 본당은 제외).
+> 홈페이지를 수집해 `dioceses/masan.py`의 맵으로 개별 수집합니다. 미사시간을 이미지
+> (base64 임베드 표)로 게시한 본당은 **OCR**(선택적, `scraper/requirements-ocr.txt`)로
+> 읽습니다. easyocr 미설치 시 해당 본당만 스킵되고 나머지는 정상 동작합니다.
+> (다음·네이버 카페를 쓰는 본당은 로그인이 필요해 제외.)
 
 ## 업데이트
 

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T16:44:41+00:00",
-  "count": 1641,
-  "matched": 1630,
+  "generated_at": "2026-07-07T17:10:14+00:00",
+  "count": 1643,
+  "matched": 1632,
   "masses": [
     {
       "parish_name": "강진",
@@ -28064,6 +28064,61 @@
       "match_method": "phone"
     },
     {
+      "parish_name": "가음동",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "http://gaeum.cathms.kr/",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "wed 10:00; fri 10:00; sunday 10:30 19:30; tue 19:30; thu 19:30; saturday 18:00"
+      },
+      "church_id": "201001036",
+      "match_method": "name"
+    },
+    {
       "parish_name": "가좌동",
       "diocese": "마산교구",
       "phone": null,
@@ -28169,6 +28224,74 @@
         "raw": "tue 19:30; wed 10:00; thu ﻿19:30 ﻿; fri 10:00; saturday 18:30; sunday 09:00 10:30"
       },
       "church_id": "201001039",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "고성",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "http://ks.cathms.kr/",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": "어린이,학생",
+            "type": [
+              "어린이",
+              "학생"
+            ]
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "mon 06:30; tue 19:30; wed 10:00; thu 19:30; fri 10:00; saturday 토요일저녁주일미사 18:00 어린이,학생 18:00; sunday 06:30 10:30"
+      },
+      "church_id": "201001041",
       "match_method": "name"
     },
     {
@@ -29017,226 +29140,6 @@
         "raw": "mon 06:30; tue 19:30; wed 10:00 19:30; thu 10:00 19:30; fri 10:00; saturday 10:00 16:00 (초등부) 18:00; sunday 06:30 10:30 19:00"
       },
       "church_id": "201001071",
-      "match_method": "name"
-    },
-    {
-      "parish_name": "안의선교",
-      "diocese": "마산교구",
-      "phone": null,
-      "source_url": "http://an.cathms.kr/page_fJlT21",
-      "mass": {
-        "weekday": {
-          "mon": [
-            {
-              "time": "19:30",
-              "note": null
-            },
-            {
-              "time": "10:00",
-              "note": null
-            },
-            {
-              "time": "19:30",
-              "note": null
-            },
-            {
-              "time": "10:00",
-              "note": null
-            },
-            {
-              "time": "18:00",
-              "note": null
-            },
-            {
-              "time": "10:30",
-              "note": null
-            }
-          ],
-          "tue": [
-            {
-              "time": "19:30",
-              "note": null
-            },
-            {
-              "time": "10:00",
-              "note": null
-            },
-            {
-              "time": "19:30",
-              "note": null
-            },
-            {
-              "time": "10:00",
-              "note": null
-            },
-            {
-              "time": "18:00",
-              "note": null
-            },
-            {
-              "time": "10:30",
-              "note": null
-            },
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "wed": [
-            {
-              "time": "19:30",
-              "note": null
-            },
-            {
-              "time": "10:00",
-              "note": null
-            },
-            {
-              "time": "19:30",
-              "note": null
-            },
-            {
-              "time": "10:00",
-              "note": null
-            },
-            {
-              "time": "18:00",
-              "note": null
-            },
-            {
-              "time": "10:30",
-              "note": null
-            },
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ],
-          "thu": [
-            {
-              "time": "19:30",
-              "note": null
-            },
-            {
-              "time": "10:00",
-              "note": null
-            },
-            {
-              "time": "19:30",
-              "note": null
-            },
-            {
-              "time": "10:00",
-              "note": null
-            },
-            {
-              "time": "18:00",
-              "note": null
-            },
-            {
-              "time": "10:30",
-              "note": null
-            },
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "fri": [
-            {
-              "time": "19:30",
-              "note": null
-            },
-            {
-              "time": "10:00",
-              "note": null
-            },
-            {
-              "time": "19:30",
-              "note": null
-            },
-            {
-              "time": "10:00",
-              "note": null
-            },
-            {
-              "time": "18:00",
-              "note": null
-            },
-            {
-              "time": "10:30",
-              "note": null
-            },
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ]
-        },
-        "saturday": [
-          {
-            "time": "19:30",
-            "note": null
-          },
-          {
-            "time": "10:00",
-            "note": null
-          },
-          {
-            "time": "19:30",
-            "note": null
-          },
-          {
-            "time": "10:00",
-            "note": null
-          },
-          {
-            "time": "18:00",
-            "note": null
-          },
-          {
-            "time": "10:30",
-            "note": null
-          },
-          {
-            "time": "18:00",
-            "note": null
-          }
-        ],
-        "sunday": [
-          {
-            "time": "19:30",
-            "note": null
-          },
-          {
-            "time": "10:00",
-            "note": null
-          },
-          {
-            "time": "19:30",
-            "note": null
-          },
-          {
-            "time": "10:00",
-            "note": null
-          },
-          {
-            "time": "18:00",
-            "note": null
-          },
-          {
-            "time": "10:30",
-            "note": null
-          },
-          {
-            "time": "10:30",
-            "note": null
-          }
-        ],
-        "special": [],
-        "raw": "sunday 19:30 10:00 19:30 10:00 18:00 10:30 10:30; mon 19:30 10:00 19:30 10:00 18:00 10:30; tue 19:30 10:00 19:30 10:00 18:00 10:30 19:30; wed 19:30 10:00 19:30 10:00 18:00 10:30 10:00; thu 19:30 10:00 19:30 10:00 18:00 10:30 19:30; fri 19:30 10:00 19:30 10:00 18:00 10:30 10:00; saturday 19:30 10:00 19:30 10:00 18:00 10:30 18:00"
-      },
-      "church_id": "201001073",
       "match_method": "name"
     },
     {
@@ -30227,6 +30130,65 @@
         "raw": "tue 19:30; wed 10:00; thu 19:30; fri 10:00; saturday 1주 10:00 주 일 18:30; sunday 10:30"
       },
       "church_id": "201001107",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "호계",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "http://hg.cathms.kr/",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "tue 19:30; wed 10:00; thu 19:30; fri 10:00; saturday 18:00; sunday 7:00 10:30 19:30"
+      },
+      "church_id": "201001108",
       "match_method": "name"
     },
     {

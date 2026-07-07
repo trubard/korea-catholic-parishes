@@ -19,6 +19,7 @@ import requests
 from bs4 import BeautifulSoup
 
 from base import MassAdapter, korean_to_hhmm, normalize_mass
+import ocr
 
 C = "cathms.kr"
 # 본당명: 미사 페이지 URL
@@ -57,6 +58,14 @@ SITES = {
     "함안": "http://www.hamansd.kr/bbs/board.php?bo_table=livesbody&wr_id=16",
     "함양": "http://ham.cathms.kr/xe/board_Yuex31/5378",
     "합천": "http://hap.cathms.kr/xe/board_mnPW66/15692",
+    # 미사시간을 이미지(base64 임베드)로 게시 — 메인 홈페이지에서 OCR (easyocr 필요)
+    "가음동": "http://gaeum.cathms.kr/",
+    "호계": "http://hg.cathms.kr/",
+    "중앙동": "http://jung.cathms.kr/",
+    "수산": "http://susan.cathms.kr/",
+    "고성": "http://ks.cathms.kr/",
+    "대건": "http://dg.cathms.kr/",
+    "칠원": "http://cw.cathms.kr/",
 }
 
 _DAY = {"월": "mon", "화": "tue", "수": "wed", "목": "thu", "금": "fri",
@@ -70,35 +79,77 @@ def _get(session, url):
     time.sleep(0.3)  # 본당 사이트 과부하 방지(동시 요청 시 접속 실패)
     r = session.get(url, timeout=15, verify=False)
     r.raise_for_status()
+    html = None
     for enc in ("utf-8", "euc-kr"):
         try:
             t = r.content.decode(enc)
             if "미사" in t or "요일" in t:
-                return BeautifulSoup(t, "html.parser")
+                html = t
+                break
         except UnicodeDecodeError:
             pass
-    return BeautifulSoup(r.content.decode("utf-8", "replace"), "html.parser")
+    if html is None:
+        html = r.content.decode("utf-8", "replace")
+    return BeautifulSoup(html, "html.parser"), html
+
+
+def _cells(tr):
+    return [re.sub(r"\s+", " ", korean_to_hhmm(c.get_text(" ", strip=True)))
+            for c in tr.find_all(["th", "td"])]
+
+
+def _is_time(c):
+    """미사 시간 셀인가(순수 HH:MM). 게시판 날짜('2026-05-29 14:26')는 제외."""
+    return (re.search(r"\d{1,2}:\d{2}", c)
+            and not re.search(r"\d{4}[-.]\d{1,2}[-.]\d{1,2}|\d{4}년|\d{2}:\d{2}:\d{2}", c))
+
+
+def _day_keys(text):
+    t = text.replace("요일", "")
+    keys = ["sunday"] if "주일" in t else []
+    keys += [_DAY[ch] for ch in ("월", "화", "수", "목", "금", "토") if ch in t]
+    if not keys and "일" in t:
+        keys = ["sunday"]
+    return keys
 
 
 def _parse_mass_table(table) -> dict:
-    """요일 표 → {mon: 'HH:MM ...'}. 한글시간·다중요일('수, 목, 금') 처리."""
+    """요일 표 → {mon: 'HH:MM ...'}. 요일이 행(row)·열(column) 어느 방향이든 처리."""
+    rows = table.find_all("tr")
+    # (1) 요일이 행 머리(첫 셀)에 오는 표
     kmap: dict[str, str] = {}
-    for tr in table.find_all("tr"):
-        cells = [re.sub(r"\s+", " ", korean_to_hhmm(c.get_text(" ", strip=True)))
-                 for c in tr.find_all(["th", "td"])]
+    for tr in rows:
+        cells = _cells(tr)
         if not cells:
             continue
-        c0 = cells[0].replace("요일", "")
-        keys = ["sunday"] if "주일" in c0 else []
-        keys += [_DAY[ch] for ch in ("월", "화", "수", "목", "금", "토") if ch in c0]
-        if not keys and "일" in c0:
-            keys = ["sunday"]
+        keys = _day_keys(cells[0])
         if not keys:
             continue
-        times = " ".join(c for c in cells[1:] if re.search(r"\d{1,2}:\d{2}", c))
+        times = " ".join(c for c in cells[1:] if _is_time(c))
         if times:
             for k in keys:
                 kmap[k] = (kmap.get(k, "") + " " + times).strip()
+    if len(kmap) >= 3:
+        return kmap
+    # (2) 요일이 헤더 열(column)에 오는 표: 헤더행에서 열→요일 매핑
+    for hi, tr in enumerate(rows):
+        cells = _cells(tr)
+        col_day = {}
+        for i, c in enumerate(cells):
+            k = _day_keys(c)
+            if len(k) == 1 and not re.search(r"\d", c):
+                col_day[i] = k[0]
+        if len(col_day) < 4:
+            continue
+        km2: dict[str, str] = {}
+        for tr2 in rows[hi + 1:]:
+            cs = _cells(tr2)
+            for i, day in col_day.items():
+                if i < len(cs) and _is_time(cs[i]):
+                    km2[day] = (km2.get(day, "") + " " + cs[i]).strip()
+        if len(km2) > len(kmap):
+            kmap = km2
+        break
     return kmap
 
 
@@ -119,6 +170,15 @@ def _parse_day_text(text: str) -> dict:
     return kmap
 
 
+def _valid_mass(kmap: dict) -> bool:
+    """미사시간표가 맞는지 검증(게시판 타임스탬프 등 오검출 방지)."""
+    all_t = [t for v in kmap.values() for t in re.findall(r"\d{1,2}:\d{2}", v)]
+    if not all_t or any(len(re.findall(r"\d{1,2}:\d{2}", v)) > 6 for v in kmap.values()):
+        return False
+    round_frac = sum(1 for t in all_t if t[-2:] in ("00", "30", "15", "45")) / len(all_t)
+    return round_frac >= 0.7
+
+
 class MasanAdapter(MassAdapter):
     diocese = "마산교구"
 
@@ -126,7 +186,7 @@ class MasanAdapter(MassAdapter):
         records: list[dict] = []
         for name, url in SITES.items():
             try:
-                soup = _get(session, url)
+                soup, html = _get(session, url)
             except Exception:  # noqa: BLE001
                 continue
             kmap: dict[str, str] = {}
@@ -138,8 +198,12 @@ class MasanAdapter(MassAdapter):
                 kt = _parse_day_text(soup.get_text(" ", strip=True))
                 if len(kt) > len(kmap):
                     kmap = kt
-            if len(kmap) < 3:
-                continue  # 미사표·텍스트 없음(이미지 등) → 스킵
+            if len(kmap) < 3:  # 그래도 없으면 base64 이미지 OCR(easyocr 있을 때만)
+                ko = ocr.ocr_mass_from_html(html)
+                if len(ko) > len(kmap):
+                    kmap = ko
+            if len(kmap) < 3 or not _valid_mass(kmap):
+                continue  # 미사표·텍스트·이미지 없음 또는 오검출 → 스킵
             mass = normalize_mass(
                 weekday_cells={d: kmap.get(d, "") for d in
                                ("mon", "tue", "wed", "thu", "fri")},

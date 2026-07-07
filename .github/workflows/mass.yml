@@ -28,6 +28,15 @@ jobs:
       - name: Install dependencies
         run: pip install -r scraper/requirements.txt
 
+      - name: Install OCR dependencies (이미지 미사표 수집용)
+        run: pip install -r scraper/requirements-ocr.txt
+
+      - name: Cache EasyOCR models
+        uses: actions/cache@v4
+        with:
+          path: ~/.EasyOCR
+          key: easyocr-models-v1
+
       - name: Collect mass times
         run: python scraper/mass/run.py
 
