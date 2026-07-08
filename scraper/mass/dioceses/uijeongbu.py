@@ -88,33 +88,38 @@ class UijeongbuAdapter(MassAdapter):
                 home = _get(session, f"{ROOT}{code}/")
             except Exception:  # noqa: BLE001
                 continue
-            # 미사안내 페이지(default.aspx) 링크 중 최적 선택
-            best, best_score = None, -1
-            for a in home.find_all("a", href=_MISA_RE):
-                t = a.get_text(" ", strip=True)
-                if "미사" not in t:
+            def _mass_from(text):
+                if "주일미사" not in text:
+                    return None
+                m = parse_uijeongbu_mass(text)
+                return m if (m["sunday"] or any(m["weekday"].values())) else None
+
+            # (1) 메인 페이지에 미사 텍스트가 직접 있으면 사용
+            mass = _mass_from(" ".join(home.get_text(" ", strip=True).split()))
+            src = f"{ROOT}{code}/"
+            # (2) 없으면 미사안내(default.aspx) 링크 페이지
+            if not mass:
+                best, best_score = None, -1
+                for a in home.find_all("a", href=_MISA_RE):
+                    t = a.get_text(" ", strip=True)
+                    if "미사" not in t or re.search(r"동영상|생중계|영상|갤러리", t):
+                        continue
+                    score = 2 if re.search(r"안내|시간|전례|성사", t) else 1
+                    if score > best_score:
+                        best, best_score = _MISA_RE.search(a["href"]).group(0), score
+                if not best:
                     continue
-                if re.search(r"동영상|생중계|영상|갤러리", t):
+                try:
+                    page = _get(session, f"{ROOT}{code}/{best}")
+                except Exception:  # noqa: BLE001
                     continue
-                score = 2 if re.search(r"안내|시간|전례|성사", t) else 1
-                if score > best_score:
-                    best, best_score = _MISA_RE.search(a["href"]).group(0), score
-            if not best:
-                continue
-            link = best
-            try:
-                page = _get(session, f"{ROOT}{code}/{link}")
-            except Exception:  # noqa: BLE001
-                continue
-            text = " ".join(page.get_text(" ", strip=True).split())
-            if "주일미사" not in text:
-                continue
-            mass = parse_uijeongbu_mass(text)
-            if not (mass["sunday"] or any(mass["weekday"].values())):
+                mass = _mass_from(" ".join(page.get_text(" ", strip=True).split()))
+                src = f"{ROOT}{code}/{best}"
+            if not mass:
                 continue
             records.append({
                 "parish_name": name, "diocese": self.diocese,
-                "phone": None, "source_url": f"{ROOT}{code}/{link}", "mass": mass})
+                "phone": None, "source_url": src, "mass": mass})
 
         # 자체도메인 본당 — 헤드리스 렌더링 후 요일 표 파싱
         from dioceses.masan import _parse_mass_table  # noqa: PLC0415
