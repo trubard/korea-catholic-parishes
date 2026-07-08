@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-07T12:52:43+00:00",
+  "generated_at": "2026-07-08T15:28:45+00:00",
   "diocese": "광주대교구",
   "diocese_id": "201000026",
-  "count": 125,
+  "count": 139,
   "masses": [
     {
       "parish_name": "강진",
@@ -447,7 +447,7 @@
           "mon": [],
           "tue": [
             {
-              "time": "19:00",
+              "time": "19:30",
               "note": null
             }
           ],
@@ -487,7 +487,7 @@
           }
         ],
         "special": [],
-        "raw": "화 19:00; 수 19:00; 목 10:00; 금 10:00; 토 17:00; 주일 07:30, 10:00"
+        "raw": "화 19:30; 수 19:00; 목 10:00; 금 10:00; 토 17:00; 주일 07:30, 10:00"
       },
       "church_id": "201001120",
       "match_method": "phone"
@@ -2249,10 +2249,6 @@
             {
               "time": "09:30",
               "note": null
-            },
-            {
-              "time": "19:00",
-              "note": null
             }
           ],
           "thu": [
@@ -2297,7 +2293,7 @@
           }
         ],
         "special": [],
-        "raw": "월 06:30; 화 19:30; 수 09:30, 19:00; 목 19:30; 금 09:30; 토 15:00, 19:30; 주일 06:30, 09:00, 10:30, 18:30"
+        "raw": "월 06:30; 화 19:30; 수 09:30; 목 19:30; 금 09:30; 토 15:00, 19:30; 주일 06:30, 09:00, 10:30, 18:30"
       },
       "church_id": "201001149",
       "match_method": "phone"
@@ -4001,6 +3997,10 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
             }
           ],
           "thu": [
@@ -4037,7 +4037,7 @@
           }
         ],
         "special": [],
-        "raw": "월 06:30; 화 19:30; 수 10:00; 목 10:00; 금 10:00; 토 17:00; 주일 06:30, 10:00, 19:00"
+        "raw": "월 06:30; 화 19:30; 수 10:00, 19:30; 목 10:00; 금 10:00; 토 17:00; 주일 06:30, 10:00, 19:00"
       },
       "church_id": "201001175",
       "match_method": "name"
@@ -4086,6 +4086,42 @@
         "raw": "화 18:30; 수 10:00; 목 10:00; 금 10:00; 주일 11:00"
       },
       "church_id": "201001176",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "연동",
+      "diocese": "광주대교구",
+      "phone": "061-276-4352",
+      "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31043",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [],
+        "sunday": [],
+        "special": [],
+        "raw": "월 09:00; 화 19:30; 수 10:00"
+      },
+      "church_id": "201001178",
       "match_method": "phone"
     },
     {
@@ -7615,6 +7651,845 @@
       },
       "church_id": "201006734",
       "match_method": "phone"
+    },
+    {
+      "parish_name": "노안",
+      "diocese": "광주대교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/247",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [],
+          "thu": [],
+          "fri": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001129",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "대덕",
+      "diocese": "광주대교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/292",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "11:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201004202",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "무안",
+      "diocese": "광주대교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/491",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001145",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "보성",
+      "diocese": "광주대교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/578",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001151",
+      "match_method": "name",
+      "manual": true,
+      "stations": [
+        {
+          "name": "회천",
+          "address": null,
+          "mass": {
+            "weekday": {
+              "mon": [],
+              "tue": [],
+              "wed": [],
+              "thu": [],
+              "fri": []
+            },
+            "saturday": [],
+            "sunday": [
+              {
+                "time": "08:30",
+                "note": null
+              }
+            ],
+            "special": [],
+            "raw": "manual"
+          }
+        }
+      ]
+    },
+    {
+      "parish_name": "봉선유안",
+      "diocese": "광주대교구",
+      "phone": null,
+      "source_url": "https://bible.pieonane.com/2590",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "09:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "09:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "09:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": "청소년",
+            "type": [
+              "청소년"
+            ]
+          },
+          {
+            "time": "19:30",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201006733",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "비금",
+      "diocese": "광주대교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/950",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": "학생",
+            "type": [
+              "학생"
+            ]
+          },
+          {
+            "time": "11:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001166",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "삼호",
+      "diocese": "광주대교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/702",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001162",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "선암동",
+      "diocese": "광주대교구",
+      "phone": null,
+      "source_url": "https://bible.pieonane.com/2761",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "09:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201008073",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "신의",
+      "diocese": "광주대교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/957",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201007080",
+      "match_method": "name",
+      "manual": true,
+      "stations": [
+        {
+          "name": "웅곡",
+          "address": null,
+          "mass": {
+            "weekday": {
+              "mon": [],
+              "tue": [],
+              "wed": [],
+              "thu": [],
+              "fri": []
+            },
+            "saturday": [],
+            "sunday": [
+              {
+                "time": "08:00",
+                "note": null
+              }
+            ],
+            "special": [],
+            "raw": "manual"
+          }
+        },
+        {
+          "name": "대리",
+          "address": null,
+          "mass": {
+            "weekday": {
+              "mon": [],
+              "tue": [],
+              "wed": [],
+              "thu": [],
+              "fri": []
+            },
+            "saturday": [
+              {
+                "time": "18:00",
+                "note": null
+              }
+            ],
+            "sunday": [],
+            "special": [],
+            "raw": "manual"
+          }
+        }
+      ]
+    },
+    {
+      "parish_name": "양산동",
+      "diocese": "광주대교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/1021",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:30",
+            "note": "어린이",
+            "type": [
+              "어린이"
+            ]
+          },
+          {
+            "time": "19:30",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": "새벽",
+            "type": [
+              "새벽"
+            ]
+          },
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "19:30",
+            "note": "청소년청년",
+            "type": [
+              "청소년",
+              "청년"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001177",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "율촌",
+      "diocese": "광주대교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/1226",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "09:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "09:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "09:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001200",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "장흥",
+      "diocese": "광주대교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/1316",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "09:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001206",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "흑산",
+      "diocese": "광주대교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/1703",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001232",
+      "match_method": "name",
+      "manual": true
     }
   ]
 }

@@ -2,10 +2,802 @@
   "_comment": "자동 수집이 불가능한 본당(사이트 소멸·카페 로그인·이미지 주보 등)의 미사시간을 손으로 입력. run.py가 자동 수집 결과에 병합하되, 자동 수집된 본당은 자동값이 우선한다. 요일값은 'HH:MM 비고' 평문(type·recurrence는 비고에서 자동 추출).",
   "entries": [
     {
+      "diocese": "부산교구",
+      "name": "기장",
+      "source": "https://bible.pieonane.com/1866",
+      "weekday": {
+        "mon": "06:30",
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
+      "saturday": "17:00 어린이 19:00 특전",
+      "sunday": "06:30 10:30 19:00 청년"
+    },
+    {
+      "diocese": "부산교구",
+      "name": "꽃바위",
+      "source": "https://bible.pieonane.com/1919",
+      "weekday": {
+        "mon": "09:00",
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
+      "saturday": "18:30 특전",
+      "sunday": "09:00 11:00",
+      "special": [
+        "10:00 매월 첫토요일"
+      ]
+    },
+    {
+      "diocese": "부산교구",
+      "name": "남밀양",
+      "source": "https://lovecatholic.kr/churches/218",
+      "weekday": {
+        "mon": "07:00",
+        "tue": "19:30",
+        "wed": "10:30",
+        "thu": "19:30",
+        "fri": "10:30"
+      },
+      "saturday": "17:00 특전",
+      "sunday": "10:00",
+      "special": [
+        "10:30 매월 첫토요일"
+      ]
+    },
+    {
+      "diocese": "부산교구",
+      "name": "남산",
+      "source": "https://lovecatholic.kr/churches/219",
+      "weekday": {
+        "mon": "06:30",
+        "tue": "06:30 19:30",
+        "wed": "10:00 19:30",
+        "thu": "10:00 19:30",
+        "fri": "06:30 19:30"
+      },
+      "saturday": "06:30 18:00 어린이",
+      "sunday": "06:30 09:00 11:00 19:30"
+    },
+    {
+      "diocese": "부산교구",
+      "name": "덕신",
+      "source": "https://lovecatholic.kr/churches/341",
+      "weekday": {
+        "tue": "19:30",
+        "wed": "10:30",
+        "thu": "19:30",
+        "fri": "10:30"
+      },
+      "saturday": "19:30 특전",
+      "sunday": "10:30"
+    },
+    {
+      "diocese": "부산교구",
+      "name": "만덕",
+      "source": "https://bible.pieonane.com/2313",
+      "weekday": {
+        "mon": "06:30",
+        "tue": "10:00 19:30",
+        "wed": "10:00 19:30",
+        "thu": "10:00 19:30",
+        "fri": "10:00"
+      },
+      "saturday": "10:00 17:00 어린이 19:00 특전",
+      "sunday": "06:30 09:00 11:00 교중 19:00"
+    },
+    {
+      "diocese": "부산교구",
+      "name": "망미",
+      "source": "https://bible.pieonane.com/923",
+      "weekday": {
+        "mon": "06:30",
+        "tue": "10:00 19:30",
+        "wed": "10:00 19:30",
+        "thu": "10:00 19:30",
+        "fri": "10:00 19:30"
+      },
+      "saturday": "10:00 첫주 16:00 어린이 19:00 특전",
+      "sunday": "06:30 08:30 10:30 교중 19:30"
+    },
+    {
+      "diocese": "부산교구",
+      "name": "명촌",
+      "source": "https://bible.pieonane.com/2311",
+      "weekday": {
+        "tue": "19:00",
+        "wed": "10:30",
+        "thu": "19:00",
+        "fri": "10:30"
+      },
+      "saturday": "18:30 특전",
+      "sunday": "10:30"
+    },
+    {
+      "diocese": "부산교구",
+      "name": "무거",
+      "source": "https://lovecatholic.kr/churches/487",
+      "weekday": {
+        "mon": "06:30",
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
+      "saturday": "17:00 특전",
+      "sunday": "07:30 10:30 19:00"
+    },
+    {
+      "diocese": "부산교구",
+      "name": "삼랑진",
+      "source": "https://lovecatholic.kr/churches/687",
+      "weekday": {
+        "mon": "06:30",
+        "tue": "19:00",
+        "wed": "10:00",
+        "thu": "19:00",
+        "fri": "10:00"
+      },
+      "saturday": "18:30 특전",
+      "sunday": "07:00 10:00"
+    },
+    {
+      "diocese": "부산교구",
+      "name": "서면",
+      "source": "https://lovecatholic.kr/churches/745",
+      "weekday": {
+        "mon": "06:30",
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
+      "saturday": "10:00 첫주성모신심 19:00 특전",
+      "sunday": "07:00 10:30 교중 18:00 청년"
+    },
+    {
+      "diocese": "부산교구",
+      "name": "성안",
+      "source": "https://lovecatholic.kr/churches/823",
+      "weekday": {
+        "mon": "06:30",
+        "tue": "19:30",
+        "wed": "10:30",
+        "thu": "19:30",
+        "fri": "10:30"
+      },
+      "saturday": "19:00 특전",
+      "sunday": "06:30 11:00"
+    },
+    {
+      "diocese": "부산교구",
+      "name": "송도",
+      "source": "https://lovecatholic.kr/churches/863",
+      "weekday": {
+        "mon": "06:30",
+        "tue": "19:00",
+        "wed": "10:00",
+        "thu": "19:00",
+        "fri": "10:00"
+      },
+      "saturday": "18:30 특전",
+      "sunday": "06:30 10:30 19:00"
+    },
+    {
+      "diocese": "부산교구",
+      "name": "송정",
+      "source": "https://lovecatholic.kr/churches/871",
+      "weekday": {
+        "mon": "06:30",
+        "tue": "19:30",
+        "wed": "10:30",
+        "thu": "19:30",
+        "fri": "10:30"
+      },
+      "saturday": "19:30 특전",
+      "sunday": "10:30 19:30"
+    },
+    {
+      "diocese": "부산교구",
+      "name": "야음",
+      "source": "https://lovecatholic.kr/churches/1011",
+      "weekday": {
+        "mon": "06:30",
+        "tue": "19:30",
+        "wed": "10:00 19:30",
+        "thu": "10:00 19:30",
+        "fri": "10:00 19:30"
+      },
+      "saturday": "10:00 첫째주 16:00 어린이 19:30 특전",
+      "sunday": "06:30 08:00 10:00 18:00"
+    },
+    {
+      "diocese": "부산교구",
+      "name": "옥동",
+      "source": "https://lovecatholic.kr/churches/1118",
+      "weekday": {
+        "mon": "06:30",
+        "tue": "19:30",
+        "wed": "10:00 19:30",
+        "thu": "10:00 19:30",
+        "fri": "10:00 19:30"
+      },
+      "saturday": "10:00 16:00 어린이 19:30 특전",
+      "sunday": "06:30 10:00 19:00 21:00"
+    },
+    {
+      "diocese": "부산교구",
+      "name": "지내",
+      "source": "https://lovecatholic.kr/churches/1407",
+      "weekday": {
+        "mon": "10:00",
+        "tue": "19:30",
+        "wed": "10:00"
+      },
+      "saturday": "18:30 특전",
+      "sunday": "09:30 10:30"
+    },
+    {
+      "diocese": "부산교구",
+      "name": "활천",
+      "source": "https://m.cafe.daum.net/chrishc/GQMY/1198",
+      "weekday": {
+        "mon": "06:30",
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
+      "saturday": "18:00 특전",
+      "sunday": "06:30 10:30 교중 19:30",
+      "special": [
+        "10:00 성모신심미사 매월 첫토요일"
+      ]
+    },
+    {
+      "diocese": "의정부교구",
+      "name": "양주 2동",
+      "source": "https://bible.pieonane.com/2996",
+      "weekday": {
+        "mon": "06:00",
+        "tue": "20:00",
+        "wed": "10:00",
+        "thu": "10:00",
+        "fri": "10:00"
+      },
+      "saturday": "10:00 15:00 어린이 18:00 특전",
+      "sunday": "09:00 11:00 교중 17:00",
+      "special": [
+        "10:00 성모신심미사 매월 첫토요일"
+      ]
+    },
+    {
+      "diocese": "의정부교구",
+      "name": "전곡",
+      "source": "https://narthex.kr/전곡성당-미사시간/",
+      "weekday": {
+        "mon": "06:00",
+        "tue": "19:00",
+        "wed": "10:00",
+        "thu": "19:00",
+        "fri": "10:00"
+      },
+      "saturday": "19:00 특전",
+      "sunday": "09:00 11:00 교중"
+    },
+    {
+      "diocese": "의정부교구",
+      "name": "주교좌 의정부",
+      "source": "https://sd.uca.or.kr/ujbhome/misa?mnucd=20003912",
+      "weekday": {
+        "mon": "06:00",
+        "tue": "10:00 19:00",
+        "wed": "06:00 10:00",
+        "thu": "10:00 19:00",
+        "fri": "06:00 10:00"
+      },
+      "saturday": "10:00 15:00 어린이 19:00 특전",
+      "sunday": "06:00 09:00 11:00 교중 18:00 청년"
+    },
+    {
+      "diocese": "의정부교구",
+      "name": "주엽동",
+      "source": "http://www.jysd.or.kr/religious_life/mass.php",
+      "weekday": {
+        "mon": "10:00",
+        "tue": "06:00 10:00",
+        "wed": "06:00 10:00",
+        "thu": "06:00 10:00",
+        "fri": "06:00 10:00"
+      },
+      "saturday": "10:00 15:00 어린이 18:00 특전",
+      "sunday": "06:00 09:00 10:00 청소년 11:00 교중 18:00 청년 21:00",
+      "special": [
+        "10:00 성모신심미사 매월 첫토요일"
+      ]
+    },
+    {
+      "diocese": "의정부교구",
+      "name": "지금동",
+      "source": "https://sd.uca.or.kr/jgd/misa",
+      "weekday": {
+        "mon": "06:00",
+        "tue": "10:00 19:30",
+        "wed": "06:00 10:00",
+        "thu": "10:00 19:30",
+        "fri": "06:00 10:00"
+      },
+      "saturday": "10:00 18:00 특전",
+      "sunday": "06:30 10:00 청소년 11:00 교중 15:00 어린이 20:00",
+      "special": [
+        "10:00 성모신심미사 매월 첫토요일",
+        "10:00 민족화해미사 매월 둘째토요일",
+        "10:00 환우미사 매월 셋째토요일",
+        "10:00 연령미사 매월 넷째토요일"
+      ]
+    },
+    {
+      "diocese": "의정부교구",
+      "name": "진건",
+      "source": "http://www.jingeon.or.kr/image/missa.png",
+      "weekday": {
+        "mon": "10:00",
+        "tue": "19:00",
+        "wed": "10:00",
+        "thu": "19:00",
+        "fri": "10:00"
+      },
+      "saturday": "18:00 특전",
+      "sunday": "09:00 11:00 교중",
+      "special": [
+        "10:00 성모신심미사 매월 첫토요일"
+      ]
+    },
+    {
+      "diocese": "의정부교구",
+      "name": "진접",
+      "source": "https://m.cafe.daum.net/jinjeobsd/2Kdk/27",
+      "weekday": {
+        "mon": "10:00",
+        "tue": "19:00",
+        "wed": "10:00",
+        "thu": "19:00",
+        "fri": "10:00"
+      },
+      "saturday": "17:00 특전",
+      "sunday": "06:30 09:00 11:00 교중",
+      "special": [
+        "10:00 성모신심미사 매월 첫토요일"
+      ]
+    },
+    {
+      "diocese": "의정부교구",
+      "name": "창현",
+      "source": "https://narthex.kr/창현성당-미사시간/",
+      "weekday": {
+        "mon": "10:00",
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
+      "saturday": "15:00 어린이 19:00 특전",
+      "sunday": "09:00 청소년 11:00 교중 18:00 청년"
+    },
+    {
+      "diocese": "의정부교구",
+      "name": "탄현동",
+      "source": "http://thsd.or.kr/bbs/page.php?hid=mass_time",
+      "weekday": {
+        "mon": "10:00",
+        "tue": "10:00",
+        "wed": "06:00 10:00",
+        "thu": "10:00 19:30",
+        "fri": "06:00 10:00"
+      },
+      "saturday": "10:00 15:00 어린이 19:00 특전",
+      "sunday": "07:00 09:00 청소년 11:00 교중 18:00 청년",
+      "special": [
+        "10:00 성모신심미사 매월 첫토요일"
+      ]
+    },
+    {
+      "diocese": "의정부교구",
+      "name": "화정동",
+      "source": "http://www.hwajeong.or.kr/ 미사시간 이미지",
+      "weekday": {
+        "mon": "10:00",
+        "tue": "06:00 10:00 19:30",
+        "wed": "06:00 10:00",
+        "thu": "06:00 10:00 19:30",
+        "fri": "06:00 10:00"
+      },
+      "saturday": "10:00 19:00 특전",
+      "sunday": "06:00 09:00 청소년 11:00 교중 15:00 어린이 17:00 청년 19:00",
+      "special": [
+        "10:00 성모신심미사 매월 첫토요일"
+      ]
+    },
+    {
+      "diocese": "광주대교구",
+      "name": "노안",
+      "source": "https://lovecatholic.kr/churches/247",
+      "weekday": {
+        "tue": "19:00",
+        "fri": "19:00"
+      },
+      "saturday": "19:00 특전",
+      "sunday": "10:00 교중"
+    },
+    {
+      "diocese": "광주대교구",
+      "name": "대덕",
+      "source": "https://lovecatholic.kr/churches/292",
+      "weekday": {
+        "tue": "19:00",
+        "thu": "10:00",
+        "fri": "19:00"
+      },
+      "saturday": "19:00 특전",
+      "sunday": "11:00 교중"
+    },
+    {
+      "diocese": "광주대교구",
+      "name": "무안",
+      "source": "https://lovecatholic.kr/churches/491",
+      "weekday": {
+        "mon": "06:30",
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
+      "saturday": "19:30 특전",
+      "sunday": "08:30 10:30 교중"
+    },
+    {
+      "diocese": "광주대교구",
+      "name": "보성",
+      "source": "https://lovecatholic.kr/churches/578",
+      "weekday": {
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "10:00",
+        "fri": "19:30"
+      },
+      "saturday": "19:30 특전",
+      "sunday": "10:30 교중",
+      "stations": [
+        {
+          "name": "회천",
+          "sunday": "08:30"
+        }
+      ]
+    },
+    {
+      "diocese": "광주대교구",
+      "name": "봉선유안",
+      "source": "https://bible.pieonane.com/2590",
+      "weekday": {
+        "tue": "19:30",
+        "wed": "09:30",
+        "thu": "09:30",
+        "fri": "09:30"
+      },
+      "saturday": "16:00 청소년 19:30 특전",
+      "sunday": "08:00 10:00"
+    },
+    {
+      "diocese": "광주대교구",
+      "name": "비금",
+      "source": "https://lovecatholic.kr/churches/950",
+      "weekday": {
+        "tue": "19:00",
+        "wed": "10:00",
+        "thu": "19:00",
+        "fri": "10:00"
+      },
+      "saturday": "",
+      "sunday": "09:00 학생 11:00 교중"
+    },
+    {
+      "diocese": "광주대교구",
+      "name": "삼호",
+      "source": "https://lovecatholic.kr/churches/702",
+      "weekday": {
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "10:00",
+        "fri": "19:30"
+      },
+      "saturday": "",
+      "sunday": "10:30 교중"
+    },
+    {
+      "diocese": "광주대교구",
+      "name": "선암동",
+      "source": "https://bible.pieonane.com/2761",
+      "weekday": {
+        "tue": "19:30",
+        "wed": "19:30",
+        "thu": "09:30",
+        "fri": "19:30"
+      },
+      "saturday": "16:00 19:30 특전",
+      "sunday": "10:00"
+    },
+    {
+      "diocese": "광주대교구",
+      "name": "신의",
+      "source": "https://lovecatholic.kr/churches/957",
+      "weekday": {
+        "tue": "19:00"
+      },
+      "saturday": "",
+      "sunday": "10:00 교중",
+      "stations": [
+        {
+          "name": "웅곡",
+          "sunday": "08:00"
+        },
+        {
+          "name": "대리",
+          "saturday": "18:00"
+        }
+      ]
+    },
+    {
+      "diocese": "광주대교구",
+      "name": "양산동",
+      "source": "https://lovecatholic.kr/churches/1021",
+      "weekday": {
+        "mon": "06:00",
+        "tue": "19:30",
+        "wed": "10:00 19:30",
+        "thu": "06:00 10:00",
+        "fri": "19:30"
+      },
+      "saturday": "15:30 어린이 19:30 특전",
+      "sunday": "06:30 새벽 08:00 10:00 교중 19:30 청소년청년"
+    },
+    {
+      "diocese": "광주대교구",
+      "name": "연동",
+      "source": "https://lovecatholic.kr/churches/1047",
+      "weekday": {
+        "mon": "06:00",
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "10:00",
+        "fri": "19:30"
+      },
+      "saturday": "16:00 학생 19:30 특전",
+      "sunday": "06:00 새벽 08:30 10:30 교중"
+    },
+    {
+      "diocese": "광주대교구",
+      "name": "율촌",
+      "source": "https://lovecatholic.kr/churches/1226",
+      "weekday": {
+        "tue": "19:30",
+        "wed": "09:30",
+        "thu": "09:30",
+        "fri": "09:30"
+      },
+      "saturday": "19:00 특전",
+      "sunday": "10:00 교중"
+    },
+    {
+      "diocese": "광주대교구",
+      "name": "장흥",
+      "source": "https://lovecatholic.kr/churches/1316",
+      "weekday": {
+        "mon": "06:30",
+        "tue": "19:30",
+        "wed": "19:00",
+        "thu": "09:30",
+        "fri": "19:30"
+      },
+      "saturday": "19:00 특전",
+      "sunday": "10:30 교중"
+    },
+    {
+      "diocese": "광주대교구",
+      "name": "흑산",
+      "source": "https://lovecatholic.kr/churches/1703",
+      "weekday": {
+        "tue": "19:30",
+        "wed": "19:30",
+        "thu": "19:30",
+        "fri": "19:30"
+      },
+      "saturday": "19:30 특전",
+      "sunday": "10:30 교중"
+    },
+    {
+      "diocese": "마산교구",
+      "name": "사파동",
+      "source": "http://csapa.cathms.kr/xe/board_StSP98/35093",
+      "weekday": {
+        "mon": "06:30",
+        "tue": "10:00 19:30",
+        "wed": "10:00 19:30",
+        "thu": "10:00 19:30",
+        "fri": "06:30 10:00"
+      },
+      "saturday": "16:00 어린이 19:30 특전",
+      "sunday": "06:30 08:30 10:30 교중 17:00 21:00"
+    },
+    {
+      "diocese": "마산교구",
+      "name": "삼계",
+      "source": "https://bible.pieonane.com/1905",
+      "weekday": {
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
+      "saturday": "18:30 특전",
+      "sunday": "07:00 10:30 교중"
+    },
+    {
+      "diocese": "마산교구",
+      "name": "수산",
+      "source": "http://susan.cathms.kr",
+      "weekday": {
+        "mon": "06:30",
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
+      "saturday": "06:30 19:30 특전",
+      "sunday": "10:30 교중",
+      "special": [
+        "10:00 성모신심미사 매월 첫토요일"
+      ]
+    },
+    {
+      "diocese": "마산교구",
+      "name": "완월동",
+      "source": "https://sacred-andrea.com/entry/오래된-역사를-간직한-창원-완월동성당-미사-시간-안내",
+      "weekday": {
+        "mon": "06:30",
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
+      "saturday": "18:00 특전",
+      "sunday": "06:30 10:30 교중"
+    },
+    {
+      "diocese": "마산교구",
+      "name": "용원",
+      "source": "http://yongwon.cathms.kr/xe/paper/28993",
+      "weekday": {
+        "mon": "06:30",
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
+      "saturday": "18:00 특전",
+      "sunday": "10:30 19:30",
+      "special": [
+        "매월 첫 토요일 성모신심미사 10:00"
+      ]
+    },
+    {
+      "diocese": "마산교구",
+      "name": "중앙동",
+      "source": "http://jung.cathms.kr/xe/page_ferM17",
+      "weekday": {
+        "mon": "10:00",
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
+      "saturday": "18:00 특전",
+      "sunday": "10:30 교중 17:00"
+    },
+    {
+      "diocese": "마산교구",
+      "name": "칠원",
+      "source": "https://cw.cathms.kr/page4",
+      "weekday": {
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
+      "saturday": "18:30 특전",
+      "sunday": "10:30 교중"
+    },
+    {
+      "diocese": "마산교구",
+      "name": "상남동",
+      "source": "https://www.mariasarang.net/srch_church/bbs_view.asp?no=1239",
+      "weekday": {
+        "mon": "06:30",
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
+      "saturday": "18:00 특전",
+      "sunday": "06:30 10:30 교중"
+    },
+    {
+      "diocese": "마산교구",
+      "name": "석전동",
+      "source": "https://lovecatholic.kr/churches/779",
+      "weekday": {
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
+      "saturday": "19:30 특전",
+      "sunday": "10:30 교중"
+    },
+    {
+      "diocese": "마산교구",
+      "name": "월남동",
+      "source": "https://lovecatholic.kr/churches/1209",
+      "weekday": {
+        "mon": "06:30",
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
+      "saturday": "18:30 특전",
+      "sunday": "10:30 19:30"
+    },
+    {
+      "diocese": "마산교구",
+      "name": "장재동",
+      "source": "https://www.mariasarang.net/srch_church/bbs_view.asp?no=1118 (2025-01 갱신)",
+      "weekday": {
+        "tue": "20:00",
+        "wed": "10:00",
+        "thu": "20:00",
+        "fri": "10:00"
+      },
+      "saturday": "18:00 특전",
+      "sunday": "06:00 10:30 교중"
+    },
+    {
+      "diocese": "마산교구",
+      "name": "진례",
+      "source": "https://www.mariasarang.net/srch_church/bbs_view.asp?no=518",
+      "weekday": {
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
+      "saturday": "19:30 특전",
+      "sunday": "06:30 10:30 교중"
+    },
+    {
       "diocese": "의정부교구",
       "name": "신원동",
       "source": "https://swsf.or.kr/pages/sinwon04 미사시간표",
-      "weekday": {"mon": "10:00", "tue": "20:00", "wed": "10:00", "thu": "20:00", "fri": "10:00"},
+      "weekday": {
+        "mon": "10:00",
+        "tue": "20:00",
+        "wed": "10:00",
+        "thu": "20:00",
+        "fri": "10:00"
+      },
       "saturday": "10:00 18:00 특전",
       "sunday": "09:00 11:00 교중 16:00 어린이청소년청년"
     },
@@ -13,7 +805,13 @@
       "diocese": "의정부교구",
       "name": "문산",
       "source": "https://cafe.daum.net/munsan.church 주보(aKD9) 최신호 미사시간표",
-      "weekday": {"mon": "06:30", "tue": "19:30", "wed": "10:00", "thu": "19:30", "fri": "10:00"},
+      "weekday": {
+        "mon": "06:30",
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
       "saturday": "10:00 19:00 특전",
       "sunday": "07:00 09:00 11:00 교중 16:00 어린이 18:00 청소년"
     },
@@ -21,7 +819,12 @@
       "diocese": "의정부교구",
       "name": "마재(성지)",
       "source": "http://www.majaesungji.or.kr/ 미사시간 이미지(img/time.png)",
-      "weekday": {"tue": "11:00", "wed": "11:00", "thu": "11:00", "fri": "11:00"},
+      "weekday": {
+        "tue": "11:00",
+        "wed": "11:00",
+        "thu": "11:00",
+        "fri": "11:00"
+      },
       "saturday": "11:00",
       "sunday": "09:00 11:00"
     },
@@ -29,7 +832,13 @@
       "diocese": "의정부교구",
       "name": "마두동",
       "source": "http://www.madu.or.kr/mass 미사시간",
-      "weekday": {"mon": "06:00 10:00", "tue": "06:00 10:00 19:30", "wed": "06:00 10:00 19:30", "thu": "06:00 10:00 19:30", "fri": "06:00 10:00 19:30"},
+      "weekday": {
+        "mon": "06:00 10:00",
+        "tue": "06:00 10:00 19:30",
+        "wed": "06:00 10:00 19:30",
+        "thu": "06:00 10:00 19:30",
+        "fri": "06:00 10:00 19:30"
+      },
       "saturday": "10:00 15:00 어린이부 19:00 특전",
       "sunday": "07:00 09:00 10:00 청소년부 11:00 교중 17:00 청년 19:00"
     },
@@ -37,25 +846,46 @@
       "diocese": "의정부교구",
       "name": "동두천",
       "source": "https://cafe.daum.net/catholictdc 주보(OLDn) 최신호 미사 시간표",
-      "weekday": {"mon": "10:00", "tue": "19:30", "wed": "10:00", "thu": "10:00 14:30 필리핀", "fri": "10:00"},
+      "weekday": {
+        "mon": "10:00",
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "10:00 14:30 필리핀",
+        "fri": "10:00"
+      },
       "saturday": "10:00 18:00 청년",
       "sunday": "07:00 새벽 10:00 교중 12:00 가정 15:00 영어",
-      "special": ["19:30 성시간미사 매월 첫목요일"]
+      "special": [
+        "19:30 성시간미사 매월 첫목요일"
+      ]
     },
     {
       "diocese": "의정부교구",
       "name": "대화마을",
       "source": "http://daehwa.or.kr/gb/ 메인 미사시간 이미지(main_center_01.png)",
-      "weekday": {"mon": "06:00", "tue": "08:00", "wed": "10:00", "thu": "10:00", "fri": "10:00"},
+      "weekday": {
+        "mon": "06:00",
+        "tue": "08:00",
+        "wed": "10:00",
+        "thu": "10:00",
+        "fri": "10:00"
+      },
       "saturday": "17:00 특전",
       "sunday": "09:00 11:00 교중 17:00 어린이청소년청년",
-      "special": ["10:00 성모신심미사 매월 첫토요일"]
+      "special": [
+        "10:00 성모신심미사 매월 첫토요일"
+      ]
     },
     {
       "diocese": "의정부교구",
       "name": "다산",
       "source": "https://cafe.naver.com/dasanch 주보(menu 206) 최신호 미사안내",
-      "weekday": {"tue": "10:00 19:00", "wed": "06:00 10:00", "thu": "10:00", "fri": "10:00"},
+      "weekday": {
+        "tue": "10:00 19:00",
+        "wed": "06:00 10:00",
+        "thu": "10:00",
+        "fri": "10:00"
+      },
       "saturday": "16:00 청소년어린이 19:00 특전",
       "sunday": "09:00 11:00 교중 19:00"
     },
@@ -63,7 +893,12 @@
       "diocese": "의정부교구",
       "name": "다율동",
       "source": "https://cafe.naver.com/dayuldong 주보(menu 5) 최신호 미사전례",
-      "weekday": {"tue": "10:00", "wed": "10:00", "thu": "19:00 성시간", "fri": "10:00"},
+      "weekday": {
+        "tue": "10:00",
+        "wed": "10:00",
+        "thu": "19:00 성시간",
+        "fri": "10:00"
+      },
       "saturday": "11:00 어린이 18:00 특전",
       "sunday": "09:00 11:00"
     },
@@ -71,14 +906,24 @@
       "diocese": "대구대교구",
       "name": "양남",
       "source": "https://blog.naver.com/yangnam_emmao 주보(categoryNo=9) 최신호 미사시간 안내",
-      "weekday": {"tue": "19:30", "wed": "10:00", "thu": "19:30", "fri": "10:00"},
+      "weekday": {
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
       "saturday": "",
       "sunday": "09:00 11:00 교중",
       "stations": [
         {
           "name": "감포",
           "address": "경상북도 경주시 감포읍 감포로12길 19-8",
-          "weekday": {"tue": "11:00", "wed": "19:30", "thu": "11:00", "fri": "19:30"},
+          "weekday": {
+            "tue": "11:00",
+            "wed": "19:30",
+            "thu": "11:00",
+            "fri": "19:30"
+          },
           "saturday": "19:30 특전",
           "sunday": "11:00"
         }
@@ -96,7 +941,13 @@
       "diocese": "수원교구",
       "name": "동탄장지동",
       "source": "https://cafe.naver.com/ndt 게시글 2478 (미사시간 이미지)",
-      "weekday": {"mon": "10:00", "tue": "19:30", "wed": "10:00", "thu": "19:30", "fri": "10:00"},
+      "weekday": {
+        "mon": "10:00",
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
       "saturday": "10:00 성모신심미사 첫주 19:30 특전미사",
       "sunday": "10:00 교중 15:00 어린이 19:30 침묵미사"
     },
@@ -104,7 +955,13 @@
       "diocese": "마산교구",
       "name": "사림동",
       "source": "https://cafe.daum.net/SRcatholic/cIM5 주보 최신호(2026.07.05. 제0575호) 미사시간",
-      "weekday": {"mon": "09:00", "tue": "19:30", "wed": "10:00", "thu": "19:30", "fri": "10:00"},
+      "weekday": {
+        "mon": "09:00",
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
       "saturday": "18:30 특전",
       "sunday": "09:00 11:00 교중"
     },
@@ -112,7 +969,13 @@
       "diocese": "마산교구",
       "name": "반송",
       "source": "http://bs.cathms.kr/xe/page_NVdd17 (미사시간 이미지)",
-      "weekday": {"mon": "06:00", "tue": "10:00 19:30", "wed": "10:00 19:30", "thu": "10:00 19:30", "fri": "10:00 19:30"},
+      "weekday": {
+        "mon": "06:00",
+        "tue": "10:00 19:30",
+        "wed": "10:00 19:30",
+        "thu": "10:00 19:30",
+        "fri": "10:00 19:30"
+      },
       "saturday": "10:00 15:00 초등부 18:00 중고등부청년",
       "sunday": "06:00 08:30 10:30 교중 19:30"
     },
@@ -120,29 +983,53 @@
       "diocese": "마산교구",
       "name": "문산",
       "source": "https://catholicmunsan.or.kr/time (미사시간 이미지)",
-      "weekday": {"mon": "06:30", "tue": "19:30", "wed": "10:00", "thu": "19:30", "fri": "10:00"},
+      "weekday": {
+        "mon": "06:30",
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
       "saturday": "16:00 초등부어린이 마지막주 제외 19:30 중고등부청년 마지막주 제외",
       "sunday": "08:00 10:30 교중",
       "stations": [
-        {"name": "사봉", "sunday": "10:30 매월 첫째주 15:00 매월 둘째주"}
+        {
+          "name": "사봉",
+          "sunday": "10:30 매월 첫째주 15:00 매월 둘째주"
+        }
       ]
     },
     {
       "diocese": "마산교구",
       "name": "덕산동",
       "source": "http://ds.cathms.kr/xe/images/img/미사시간(2026)_2.png (홈페이지 미사안내 이미지)",
-      "weekday": {"mon": "10:00", "tue": "19:30", "wed": "10:00 19:30", "thu": "10:00 19:30", "fri": "10:00"},
+      "weekday": {
+        "mon": "10:00",
+        "tue": "19:30",
+        "wed": "10:00 19:30",
+        "thu": "10:00 19:30",
+        "fri": "10:00"
+      },
       "saturday": "10:00 18:00 학생특전",
       "sunday": "07:00 10:30 교중 19:30",
       "stations": [
-        {"name": "홍천", "sunday": "10:30"}
+        {
+          "name": "홍천",
+          "sunday": "10:30"
+        }
       ]
     },
     {
       "diocese": "의정부교구",
       "name": "관산동",
       "source": "https://m.cafe.naver.com/ca-fe/web/cafes/28779321/articles/11195 (전례안내 이미지)",
-      "weekday": {"mon": "10:00", "tue": "19:30", "wed": "10:00", "thu": "19:30", "fri": "10:00"},
+      "weekday": {
+        "mon": "10:00",
+        "tue": "19:30",
+        "wed": "10:00",
+        "thu": "19:30",
+        "fri": "10:00"
+      },
       "saturday": "17:00 주일학교",
       "sunday": "09:00 11:00 교중",
       "special": [

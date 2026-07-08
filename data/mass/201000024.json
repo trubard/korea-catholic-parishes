@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08T13:22:26+00:00",
+  "generated_at": "2026-07-08T15:37:39+00:00",
   "diocese": "마산교구",
   "diocese_id": "201000024",
-  "count": 56,
+  "count": 68,
   "masses": [
     {
       "parish_name": "가좌동",
@@ -3312,6 +3312,825 @@
       },
       "church_id": "201006911",
       "match_method": "name"
+    },
+    {
+      "parish_name": "사파동",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "http://csapa.cathms.kr/xe/board_StSP98/35093",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": "어린이",
+            "type": [
+              "어린이"
+            ]
+          },
+          {
+            "time": "19:30",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "17:00",
+            "note": null
+          },
+          {
+            "time": "21:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001059",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "삼계",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "https://bible.pieonane.com/1905",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:30",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001062",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "수산",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "http://susan.cathms.kr",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [
+          {
+            "time": "10:00",
+            "note": "성모신심미사 매월 첫토요일",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "성모신심미사 매월 첫토요일"
+            }
+          }
+        ],
+        "raw": "manual"
+      },
+      "church_id": "201001070",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "완월동",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "https://sacred-andrea.com/entry/오래된-역사를-간직한-창원-완월동성당-미사-시간-안내",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001080",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "용원",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "http://yongwon.cathms.kr/xe/paper/28993",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [
+          {
+            "time": "10:00",
+            "note": null
+          }
+        ],
+        "raw": "manual"
+      },
+      "church_id": "201001081",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "중앙동",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "http://jung.cathms.kr/xe/page_ferM17",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001090",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "칠원",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "https://cw.cathms.kr/page4",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:30",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001099",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "상남동",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "https://www.mariasarang.net/srch_church/bbs_view.asp?no=1239",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001064",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "석전동",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/779",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001068",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "월남동",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/1209",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:30",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001083",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "장재동",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "https://www.mariasarang.net/srch_church/bbs_view.asp?no=1118 (2025-01 갱신)",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001087",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "진례",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "https://www.mariasarang.net/srch_church/bbs_view.asp?no=518",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001094",
+      "match_method": "name",
+      "manual": true
     },
     {
       "parish_name": "사림동",

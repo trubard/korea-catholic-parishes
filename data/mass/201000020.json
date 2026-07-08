@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08T14:59:11+00:00",
+  "generated_at": "2026-07-08T15:36:27+00:00",
   "diocese": "의정부교구",
   "diocese_id": "201000020",
-  "count": 76,
+  "count": 86,
   "masses": [
     {
       "parish_name": "광탄",
@@ -5980,6 +5980,1037 @@
       },
       "church_id": "201000256",
       "match_method": "name"
+    },
+    {
+      "parish_name": "양주 2동",
+      "diocese": "의정부교구",
+      "phone": null,
+      "source_url": "https://bible.pieonane.com/2996",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "15:00",
+            "note": "어린이",
+            "type": [
+              "어린이"
+            ]
+          },
+          {
+            "time": "18:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [
+          {
+            "time": "10:00",
+            "note": "성모신심미사 매월 첫토요일",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "성모신심미사 매월 첫토요일"
+            }
+          }
+        ],
+        "raw": "manual"
+      },
+      "church_id": "201000290",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "전곡",
+      "diocese": "의정부교구",
+      "phone": null,
+      "source_url": "https://narthex.kr/전곡성당-미사시간/",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201000301",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "주교좌 의정부",
+      "diocese": "의정부교구",
+      "phone": null,
+      "source_url": "https://sd.uca.or.kr/ujbhome/misa?mnucd=20003912",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "15:00",
+            "note": "어린이",
+            "type": [
+              "어린이"
+            ]
+          },
+          {
+            "time": "19:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "18:00",
+            "note": "청년",
+            "type": [
+              "청년"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201000254",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "주엽동",
+      "diocese": "의정부교구",
+      "phone": null,
+      "source_url": "http://www.jysd.or.kr/religious_life/mass.php",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "15:00",
+            "note": "어린이",
+            "type": [
+              "어린이"
+            ]
+          },
+          {
+            "time": "18:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": "청소년",
+            "type": [
+              "청소년"
+            ]
+          },
+          {
+            "time": "11:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "18:00",
+            "note": "청년",
+            "type": [
+              "청년"
+            ]
+          },
+          {
+            "time": "21:00",
+            "note": null
+          }
+        ],
+        "special": [
+          {
+            "time": "10:00",
+            "note": "성모신심미사 매월 첫토요일",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "성모신심미사 매월 첫토요일"
+            }
+          }
+        ],
+        "raw": "manual"
+      },
+      "church_id": "201000303",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "지금동",
+      "diocese": "의정부교구",
+      "phone": null,
+      "source_url": "https://sd.uca.or.kr/jgd/misa",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": "청소년",
+            "type": [
+              "청소년"
+            ]
+          },
+          {
+            "time": "11:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "15:00",
+            "note": "어린이",
+            "type": [
+              "어린이"
+            ]
+          },
+          {
+            "time": "20:00",
+            "note": null
+          }
+        ],
+        "special": [
+          {
+            "time": "10:00",
+            "note": "성모신심미사 매월 첫토요일",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "성모신심미사 매월 첫토요일"
+            }
+          },
+          {
+            "time": "10:00",
+            "note": "민족화해미사 매월 둘째토요일"
+          },
+          {
+            "time": "10:00",
+            "note": "환우미사 매월 셋째토요일"
+          },
+          {
+            "time": "10:00",
+            "note": "연령미사 매월 넷째토요일"
+          }
+        ],
+        "raw": "manual"
+      },
+      "church_id": "201000305",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "진건",
+      "diocese": "의정부교구",
+      "phone": null,
+      "source_url": "http://www.jingeon.or.kr/image/missa.png",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [
+          {
+            "time": "10:00",
+            "note": "성모신심미사 매월 첫토요일",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "성모신심미사 매월 첫토요일"
+            }
+          }
+        ],
+        "raw": "manual"
+      },
+      "church_id": "201000307",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "진접",
+      "diocese": "의정부교구",
+      "phone": null,
+      "source_url": "https://m.cafe.daum.net/jinjeobsd/2Kdk/27",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [
+          {
+            "time": "10:00",
+            "note": "성모신심미사 매월 첫토요일",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "성모신심미사 매월 첫토요일"
+            }
+          }
+        ],
+        "raw": "manual"
+      },
+      "church_id": "201000308",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "창현",
+      "diocese": "의정부교구",
+      "phone": null,
+      "source_url": "https://narthex.kr/창현성당-미사시간/",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "15:00",
+            "note": "어린이",
+            "type": [
+              "어린이"
+            ]
+          },
+          {
+            "time": "19:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": "청소년",
+            "type": [
+              "청소년"
+            ]
+          },
+          {
+            "time": "11:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "18:00",
+            "note": "청년",
+            "type": [
+              "청년"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201000309",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "탄현동",
+      "diocese": "의정부교구",
+      "phone": null,
+      "source_url": "http://thsd.or.kr/bbs/page.php?hid=mass_time",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "15:00",
+            "note": "어린이",
+            "type": [
+              "어린이"
+            ]
+          },
+          {
+            "time": "19:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": "청소년",
+            "type": [
+              "청소년"
+            ]
+          },
+          {
+            "time": "11:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "18:00",
+            "note": "청년",
+            "type": [
+              "청년"
+            ]
+          }
+        ],
+        "special": [
+          {
+            "time": "10:00",
+            "note": "성모신심미사 매월 첫토요일",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "성모신심미사 매월 첫토요일"
+            }
+          }
+        ],
+        "raw": "manual"
+      },
+      "church_id": "201000312",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "화정동",
+      "diocese": "의정부교구",
+      "phone": null,
+      "source_url": "http://www.hwajeong.or.kr/ 미사시간 이미지",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": "청소년",
+            "type": [
+              "청소년"
+            ]
+          },
+          {
+            "time": "11:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "15:00",
+            "note": "어린이",
+            "type": [
+              "어린이"
+            ]
+          },
+          {
+            "time": "17:00",
+            "note": "청년",
+            "type": [
+              "청년"
+            ]
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [
+          {
+            "time": "10:00",
+            "note": "성모신심미사 매월 첫토요일",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "성모신심미사 매월 첫토요일"
+            }
+          }
+        ],
+        "raw": "manual"
+      },
+      "church_id": "201000323",
+      "match_method": "name",
+      "manual": true
     },
     {
       "parish_name": "신원동",

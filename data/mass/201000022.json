@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-07T15:01:26+00:00",
+  "generated_at": "2026-07-08T15:28:35+00:00",
   "diocese": "부산교구",
   "diocese_id": "201000022",
-  "count": 107,
+  "count": 125,
   "masses": [
     {
       "parish_name": "가야",
@@ -7646,6 +7646,1388 @@
       },
       "church_id": "201001470",
       "match_method": "phone"
+    },
+    {
+      "parish_name": "기장",
+      "diocese": "부산교구",
+      "phone": null,
+      "source_url": "https://bible.pieonane.com/1866",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": "어린이",
+            "type": [
+              "어린이"
+            ]
+          },
+          {
+            "time": "19:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": "청년",
+            "type": [
+              "청년"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001371",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "꽃바위",
+      "diocese": "부산교구",
+      "phone": null,
+      "source_url": "https://bible.pieonane.com/1919",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "09:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:30",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [
+          {
+            "time": "10:00",
+            "note": "매월 첫토요일",
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "매월 첫토요일"
+            }
+          }
+        ],
+        "raw": "manual"
+      },
+      "church_id": "201001374",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "남밀양",
+      "diocese": "부산교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/218",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "07:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": null
+          }
+        ],
+        "special": [
+          {
+            "time": "10:30",
+            "note": "매월 첫토요일",
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "매월 첫토요일"
+            }
+          }
+        ],
+        "raw": "manual"
+      },
+      "church_id": "201001439",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "남산",
+      "diocese": "부산교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/219",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": "어린이",
+            "type": [
+              "어린이"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001376",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "덕신",
+      "diocese": "부산교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/341",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001385",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "만덕",
+      "diocese": "부산교구",
+      "phone": null,
+      "source_url": "https://bible.pieonane.com/2313",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": "어린이",
+            "type": [
+              "어린이"
+            ]
+          },
+          {
+            "time": "19:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001389",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "망미",
+      "diocese": "부산교구",
+      "phone": null,
+      "source_url": "https://bible.pieonane.com/923",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "첫주",
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "첫주"
+            }
+          },
+          {
+            "time": "16:00",
+            "note": "어린이",
+            "type": [
+              "어린이"
+            ]
+          },
+          {
+            "time": "19:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "08:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001390",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "명촌",
+      "diocese": "부산교구",
+      "phone": null,
+      "source_url": "https://bible.pieonane.com/2311",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:30",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201003877",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "무거",
+      "diocese": "부산교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/487",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001395",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "삼랑진",
+      "diocese": "부산교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/687",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:30",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001414",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "서면",
+      "diocese": "부산교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/745",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "첫주성모신심",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "첫주성모신심"
+            }
+          },
+          {
+            "time": "19:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "18:00",
+            "note": "청년",
+            "type": [
+              "청년"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001418",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "성안",
+      "diocese": "부산교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/823",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201006746",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "송도",
+      "diocese": "부산교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/863",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:30",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001423",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "송정",
+      "diocese": "부산교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/871",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001424",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "야음",
+      "diocese": "부산교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/1011",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "첫째주",
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "첫째주"
+            }
+          },
+          {
+            "time": "16:00",
+            "note": "어린이",
+            "type": [
+              "어린이"
+            ]
+          },
+          {
+            "time": "19:30",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001431",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "옥동",
+      "diocese": "부산교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/1118",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": "어린이",
+            "type": [
+              "어린이"
+            ]
+          },
+          {
+            "time": "19:30",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
+          },
+          {
+            "time": "21:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201001440",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "지내",
+      "diocese": "부산교구",
+      "phone": null,
+      "source_url": "https://lovecatholic.kr/churches/1407",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "18:30",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201007249",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "활천",
+      "diocese": "부산교구",
+      "phone": null,
+      "source_url": "https://m.cafe.daum.net/chrishc/GQMY/1198",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [
+          {
+            "time": "10:00",
+            "note": "성모신심미사 매월 첫토요일",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "성모신심미사 매월 첫토요일"
+            }
+          }
+        ],
+        "raw": "manual"
+      },
+      "church_id": "201001471",
+      "match_method": "name",
+      "manual": true
     }
   ]
 }
