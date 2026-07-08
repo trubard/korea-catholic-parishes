@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08T14:39:51+00:00",
+  "generated_at": "2026-07-08T14:44:06+00:00",
   "diocese": "의정부교구",
   "diocese_id": "201000020",
-  "count": 71,
+  "count": 73,
   "masses": [
     {
       "parish_name": "광탄",
@@ -5980,6 +5980,248 @@
       },
       "church_id": "201000256",
       "match_method": "name"
+    },
+    {
+      "parish_name": "마두동",
+      "diocese": "의정부교구",
+      "phone": null,
+      "source_url": "http://www.madu.or.kr/mass 미사시간",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "15:00",
+            "note": "어린이부",
+            "type": [
+              "어린이"
+            ]
+          },
+          {
+            "time": "19:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": "청소년부",
+            "type": [
+              "청소년"
+            ]
+          },
+          {
+            "time": "11:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "17:00",
+            "note": "청년",
+            "type": [
+              "청년"
+            ]
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201000274",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "동두천",
+      "diocese": "의정부교구",
+      "phone": null,
+      "source_url": "https://cafe.daum.net/catholictdc 주보(OLDn) 최신호 미사 시간표",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "14:30",
+              "note": "필리핀"
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": "청년",
+            "type": [
+              "청년"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": "새벽",
+            "type": [
+              "새벽"
+            ]
+          },
+          {
+            "time": "10:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "12:00",
+            "note": "가정",
+            "type": [
+              "가정"
+            ]
+          },
+          {
+            "time": "15:00",
+            "note": "영어",
+            "type": [
+              "영어"
+            ]
+          }
+        ],
+        "special": [
+          {
+            "time": "19:30",
+            "note": "성시간미사 매월 첫목요일",
+            "type": [
+              "성시간"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "성시간미사 매월 첫목요일"
+            }
+          }
+        ],
+        "raw": "manual"
+      },
+      "church_id": "201000273",
+      "match_method": "name",
+      "manual": true
     },
     {
       "parish_name": "대화마을",

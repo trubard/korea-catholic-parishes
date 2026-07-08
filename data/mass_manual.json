@@ -3,6 +3,23 @@
   "entries": [
     {
       "diocese": "의정부교구",
+      "name": "마두동",
+      "source": "http://www.madu.or.kr/mass 미사시간",
+      "weekday": {"mon": "06:00 10:00", "tue": "06:00 10:00 19:30", "wed": "06:00 10:00 19:30", "thu": "06:00 10:00 19:30", "fri": "06:00 10:00 19:30"},
+      "saturday": "10:00 15:00 어린이부 19:00 특전",
+      "sunday": "07:00 09:00 10:00 청소년부 11:00 교중 17:00 청년 19:00"
+    },
+    {
+      "diocese": "의정부교구",
+      "name": "동두천",
+      "source": "https://cafe.daum.net/catholictdc 주보(OLDn) 최신호 미사 시간표",
+      "weekday": {"mon": "10:00", "tue": "19:30", "wed": "10:00", "thu": "10:00 14:30 필리핀", "fri": "10:00"},
+      "saturday": "10:00 18:00 청년",
+      "sunday": "07:00 새벽 10:00 교중 12:00 가정 15:00 영어",
+      "special": ["19:30 성시간미사 매월 첫목요일"]
+    },
+    {
+      "diocese": "의정부교구",
       "name": "대화마을",
       "source": "http://daehwa.or.kr/gb/ 메인 미사시간 이미지(main_center_01.png)",
       "weekday": {"mon": "06:00", "tue": "08:00", "wed": "10:00", "thu": "10:00", "fri": "10:00"},
