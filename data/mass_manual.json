@@ -3,6 +3,15 @@
   "entries": [
     {
       "diocese": "의정부교구",
+      "name": "대화마을",
+      "source": "http://daehwa.or.kr/gb/ 메인 미사시간 이미지(main_center_01.png)",
+      "weekday": {"mon": "06:00", "tue": "08:00", "wed": "10:00", "thu": "10:00", "fri": "10:00"},
+      "saturday": "17:00 특전",
+      "sunday": "09:00 11:00 교중 17:00 어린이청소년청년",
+      "special": ["10:00 성모신심미사 매월 첫토요일"]
+    },
+    {
+      "diocese": "의정부교구",
       "name": "다산",
       "source": "https://cafe.naver.com/dasanch 주보(menu 206) 최신호 미사안내",
       "weekday": {"tue": "10:00 19:00", "wed": "06:00 10:00", "thu": "10:00", "fri": "10:00"},

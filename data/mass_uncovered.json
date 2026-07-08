@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08T14:37:10+00:00",
+  "generated_at": "2026-07-08T14:39:51+00:00",
   "total_churches": 1789,
-  "covered": 1664,
-  "uncovered": 125,
+  "covered": 1665,
+  "uncovered": 124,
   "homepage_found": 8,
   "note": "phone/cbck 는 CBCK 주소록 상세페이지에서 추출. homepage 는 CBCK '홈페이지 주소' 필드(대부분 미등록=null), 마산교구는 어댑터 SITES/JS_SITES URL로 보완. homepage=null 은 수집 대상 사이트를 못 찾은 본당(카페/이미지/미등록). run.py 가 수집 시마다 재생성.",
   "by_diocese": {
@@ -673,15 +673,9 @@
       ]
     },
     "의정부교구": {
-      "count": 17,
+      "count": 16,
       "reason": "영상/게시글/카페",
       "parishes": [
-        {
-          "name": "대화마을",
-          "homepage": null,
-          "phone": "(031)922-7077~8",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000270&tbxSearch=&gubn2=all&char=all"
-        },
         {
           "name": "동두천",
           "homepage": null,

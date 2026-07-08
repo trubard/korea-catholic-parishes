@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T14:37:10+00:00",
-  "count": 1676,
-  "matched": 1665,
+  "generated_at": "2026-07-08T14:39:51+00:00",
+  "count": 1677,
+  "matched": 1666,
   "masses": [
     {
       "parish_name": "명동",
@@ -70058,6 +70058,96 @@
       },
       "church_id": "201000256",
       "match_method": "name"
+    },
+    {
+      "parish_name": "대화마을",
+      "diocese": "의정부교구",
+      "phone": null,
+      "source_url": "http://daehwa.or.kr/gb/ 메인 미사시간 이미지(main_center_01.png)",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "08:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "17:00",
+            "note": "어린이청소년청년",
+            "type": [
+              "어린이",
+              "청소년",
+              "청년"
+            ]
+          }
+        ],
+        "special": [
+          {
+            "time": "10:00",
+            "note": "성모신심미사 매월 첫토요일",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "성모신심미사 매월 첫토요일"
+            }
+          }
+        ],
+        "raw": "manual"
+      },
+      "church_id": "201000270",
+      "match_method": "name",
+      "manual": true
     },
     {
       "parish_name": "다산",
