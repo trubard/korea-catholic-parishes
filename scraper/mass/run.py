@@ -158,13 +158,21 @@ def main() -> int:
             })
         all_records.extend(records)
 
+    # 전체 mass.json 은 항상 교구 파일 전량을 합쳐 재생성한다.
+    # (--diocese 로 일부만 수집해도 나머지 교구가 지워지지 않도록)
+    merged: list[dict] = []
+    for fn in sorted(os.listdir(MASS_DIR)):
+        if not fn.endswith(".json"):
+            continue
+        merged.extend(json.load(open(os.path.join(MASS_DIR, fn),
+                                    encoding="utf-8")).get("masses", []))
     write_json(os.path.join(DATA_DIR, "mass.json"), {
         "generated_at": generated_at,
-        "count": len(all_records),
-        "matched": sum(1 for r in all_records if r.get("church_id")),
-        "masses": all_records,
+        "count": len(merged),
+        "matched": sum(1 for r in merged if r.get("church_id")),
+        "masses": merged,
     })
-    print(f"[저장] 전체 {len(all_records)}건 -> data/mass.json", flush=True)
+    print(f"[저장] 전체 {len(merged)}건 -> data/mass.json", flush=True)
     return 0
 
 
