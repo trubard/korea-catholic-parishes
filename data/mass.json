@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T14:33:07+00:00",
-  "count": 1674,
-  "matched": 1663,
+  "generated_at": "2026-07-08T14:37:10+00:00",
+  "count": 1676,
+  "matched": 1665,
   "masses": [
     {
       "parish_name": "명동",
@@ -70058,6 +70058,157 @@
       },
       "church_id": "201000256",
       "match_method": "name"
+    },
+    {
+      "parish_name": "다산",
+      "diocese": "의정부교구",
+      "phone": null,
+      "source_url": "https://cafe.naver.com/dasanch 주보(menu 206) 최신호 미사안내",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": "청소년어린이",
+            "type": [
+              "어린이",
+              "청소년"
+            ]
+          },
+          {
+            "time": "19:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201008390",
+      "match_method": "name",
+      "manual": true
+    },
+    {
+      "parish_name": "다율동",
+      "diocese": "의정부교구",
+      "phone": null,
+      "source_url": "https://cafe.naver.com/dayuldong 주보(menu 5) 최신호 미사전례",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": "성시간",
+              "type": [
+                "성시간"
+              ]
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "11:00",
+            "note": "어린이",
+            "type": [
+              "어린이"
+            ]
+          },
+          {
+            "time": "18:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201008689",
+      "match_method": "name",
+      "manual": true
     },
     {
       "parish_name": "관산동",

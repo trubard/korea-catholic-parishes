@@ -2,6 +2,22 @@
   "_comment": "자동 수집이 불가능한 본당(사이트 소멸·카페 로그인·이미지 주보 등)의 미사시간을 손으로 입력. run.py가 자동 수집 결과에 병합하되, 자동 수집된 본당은 자동값이 우선한다. 요일값은 'HH:MM 비고' 평문(type·recurrence는 비고에서 자동 추출).",
   "entries": [
     {
+      "diocese": "의정부교구",
+      "name": "다산",
+      "source": "https://cafe.naver.com/dasanch 주보(menu 206) 최신호 미사안내",
+      "weekday": {"tue": "10:00 19:00", "wed": "06:00 10:00", "thu": "10:00", "fri": "10:00"},
+      "saturday": "16:00 청소년어린이 19:00 특전",
+      "sunday": "09:00 11:00 교중 19:00"
+    },
+    {
+      "diocese": "의정부교구",
+      "name": "다율동",
+      "source": "https://cafe.naver.com/dayuldong 주보(menu 5) 최신호 미사전례",
+      "weekday": {"tue": "10:00", "wed": "10:00", "thu": "19:00 성시간", "fri": "10:00"},
+      "saturday": "11:00 어린이 18:00 특전",
+      "sunday": "09:00 11:00"
+    },
+    {
       "diocese": "대구대교구",
       "name": "양남",
       "source": "https://blog.naver.com/yangnam_emmao 주보(categoryNo=9) 최신호 미사시간 안내",

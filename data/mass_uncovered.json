@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08T14:33:07+00:00",
+  "generated_at": "2026-07-08T14:37:10+00:00",
   "total_churches": 1789,
-  "covered": 1662,
-  "uncovered": 127,
+  "covered": 1664,
+  "uncovered": 125,
   "homepage_found": 8,
   "note": "phone/cbck 는 CBCK 주소록 상세페이지에서 추출. homepage 는 CBCK '홈페이지 주소' 필드(대부분 미등록=null), 마산교구는 어댑터 SITES/JS_SITES URL로 보완. homepage=null 은 수집 대상 사이트를 못 찾은 본당(카페/이미지/미등록). run.py 가 수집 시마다 재생성.",
   "by_diocese": {
@@ -564,126 +564,6 @@
         }
       ]
     },
-    "의정부교구": {
-      "count": 19,
-      "reason": "영상/게시글/카페",
-      "parishes": [
-        {
-          "name": "다산",
-          "homepage": null,
-          "phone": "(031)567-9559",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201008390&tbxSearch=&gubn2=all&char=all"
-        },
-        {
-          "name": "다율동",
-          "homepage": null,
-          "phone": "(031)944-1783",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201008689&tbxSearch=&gubn2=all&char=all"
-        },
-        {
-          "name": "대화마을",
-          "homepage": null,
-          "phone": "(031)922-7077~8",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000270&tbxSearch=&gubn2=all&char=all"
-        },
-        {
-          "name": "동두천",
-          "homepage": null,
-          "phone": "(031)864-4300",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000273&tbxSearch=&gubn2=all&char=all"
-        },
-        {
-          "name": "마두동",
-          "homepage": "http://www.madu.or.kr/",
-          "phone": "(031)908-5901~2",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000274&tbxSearch=&gubn2=all&char=all"
-        },
-        {
-          "name": "마재(성지)",
-          "homepage": null,
-          "phone": "(031)576-5412",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201003746&tbxSearch=&gubn2=all&char=all"
-        },
-        {
-          "name": "문산",
-          "homepage": "https://cafe.daum.net/munsan.church",
-          "phone": "(031)953-3950",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000276&tbxSearch=&gubn2=all&char=all"
-        },
-        {
-          "name": "신원동",
-          "homepage": null,
-          "phone": "(02)381-3939",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201007237&tbxSearch=&gubn2=all&char=all"
-        },
-        {
-          "name": "양주 2동",
-          "homepage": "http://cafe.naver.com/yangju2",
-          "phone": "(031)846-1858",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000290&tbxSearch=&gubn2=all&char=all"
-        },
-        {
-          "name": "연천",
-          "homepage": null,
-          "phone": "(031)834-0188",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000292&tbxSearch=&gubn2=all&char=all"
-        },
-        {
-          "name": "전곡",
-          "homepage": null,
-          "phone": "(031)832-1987",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000301&tbxSearch=&gubn2=all&char=all"
-        },
-        {
-          "name": "주교좌 의정부",
-          "homepage": null,
-          "phone": "(031)836-1980",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000254&tbxSearch=&gubn2=all&char=all"
-        },
-        {
-          "name": "주엽동",
-          "homepage": null,
-          "phone": "(031)921-2301~2",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000303&tbxSearch=&gubn2=all&char=all"
-        },
-        {
-          "name": "지금동",
-          "homepage": null,
-          "phone": "(031)567-3950",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000305&tbxSearch=&gubn2=all&char=all"
-        },
-        {
-          "name": "진건",
-          "homepage": "http://www.jingeon.or.kr",
-          "phone": "(031)573-7723",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000307&tbxSearch=&gubn2=all&char=all"
-        },
-        {
-          "name": "진접",
-          "homepage": "http://cafe.daum.net/jinjeobsd",
-          "phone": "(031)572-7264",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000308&tbxSearch=&gubn2=all&char=all"
-        },
-        {
-          "name": "창현",
-          "homepage": null,
-          "phone": "(031)594-0340",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000309&tbxSearch=&gubn2=all&char=all"
-        },
-        {
-          "name": "탄현동",
-          "homepage": null,
-          "phone": "(031)922-3445~6",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000312&tbxSearch=&gubn2=all&char=all"
-        },
-        {
-          "name": "화정동",
-          "homepage": null,
-          "phone": "(031)974-9494",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000323&tbxSearch=&gubn2=all&char=all"
-        }
-      ]
-    },
     "광주대교구": {
       "count": 17,
       "reason": "교구 사이트 미사표 공란",
@@ -789,6 +669,114 @@
           "homepage": null,
           "phone": "(061)275-9004",
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201001232&tbxSearch=&gubn2=all&char=all"
+        }
+      ]
+    },
+    "의정부교구": {
+      "count": 17,
+      "reason": "영상/게시글/카페",
+      "parishes": [
+        {
+          "name": "대화마을",
+          "homepage": null,
+          "phone": "(031)922-7077~8",
+          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000270&tbxSearch=&gubn2=all&char=all"
+        },
+        {
+          "name": "동두천",
+          "homepage": null,
+          "phone": "(031)864-4300",
+          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000273&tbxSearch=&gubn2=all&char=all"
+        },
+        {
+          "name": "마두동",
+          "homepage": "http://www.madu.or.kr/",
+          "phone": "(031)908-5901~2",
+          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000274&tbxSearch=&gubn2=all&char=all"
+        },
+        {
+          "name": "마재(성지)",
+          "homepage": null,
+          "phone": "(031)576-5412",
+          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201003746&tbxSearch=&gubn2=all&char=all"
+        },
+        {
+          "name": "문산",
+          "homepage": "https://cafe.daum.net/munsan.church",
+          "phone": "(031)953-3950",
+          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000276&tbxSearch=&gubn2=all&char=all"
+        },
+        {
+          "name": "신원동",
+          "homepage": null,
+          "phone": "(02)381-3939",
+          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201007237&tbxSearch=&gubn2=all&char=all"
+        },
+        {
+          "name": "양주 2동",
+          "homepage": "http://cafe.naver.com/yangju2",
+          "phone": "(031)846-1858",
+          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000290&tbxSearch=&gubn2=all&char=all"
+        },
+        {
+          "name": "연천",
+          "homepage": null,
+          "phone": "(031)834-0188",
+          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000292&tbxSearch=&gubn2=all&char=all"
+        },
+        {
+          "name": "전곡",
+          "homepage": null,
+          "phone": "(031)832-1987",
+          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000301&tbxSearch=&gubn2=all&char=all"
+        },
+        {
+          "name": "주교좌 의정부",
+          "homepage": null,
+          "phone": "(031)836-1980",
+          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000254&tbxSearch=&gubn2=all&char=all"
+        },
+        {
+          "name": "주엽동",
+          "homepage": null,
+          "phone": "(031)921-2301~2",
+          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000303&tbxSearch=&gubn2=all&char=all"
+        },
+        {
+          "name": "지금동",
+          "homepage": null,
+          "phone": "(031)567-3950",
+          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000305&tbxSearch=&gubn2=all&char=all"
+        },
+        {
+          "name": "진건",
+          "homepage": "http://www.jingeon.or.kr",
+          "phone": "(031)573-7723",
+          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000307&tbxSearch=&gubn2=all&char=all"
+        },
+        {
+          "name": "진접",
+          "homepage": "http://cafe.daum.net/jinjeobsd",
+          "phone": "(031)572-7264",
+          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000308&tbxSearch=&gubn2=all&char=all"
+        },
+        {
+          "name": "창현",
+          "homepage": null,
+          "phone": "(031)594-0340",
+          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000309&tbxSearch=&gubn2=all&char=all"
+        },
+        {
+          "name": "탄현동",
+          "homepage": null,
+          "phone": "(031)922-3445~6",
+          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000312&tbxSearch=&gubn2=all&char=all"
+        },
+        {
+          "name": "화정동",
+          "homepage": null,
+          "phone": "(031)974-9494",
+          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000323&tbxSearch=&gubn2=all&char=all"
         }
       ]
     },
