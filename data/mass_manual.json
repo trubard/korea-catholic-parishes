@@ -2,6 +2,44 @@
   "_comment": "자동 수집이 불가능한 본당(사이트 소멸·카페 로그인·이미지 주보 등)의 미사시간을 손으로 입력. run.py가 자동 수집 결과에 병합하되, 자동 수집된 본당은 자동값이 우선한다. 요일값은 'HH:MM 비고' 평문(type·recurrence는 비고에서 자동 추출).",
   "entries": [
     {
+      "diocese": "마산교구",
+      "name": "사림동",
+      "source": "https://cafe.daum.net/SRcatholic/cIM5 주보 최신호(2026.07.05. 제0575호) 미사시간",
+      "weekday": {"mon": "09:00", "tue": "19:30", "wed": "10:00", "thu": "19:30", "fri": "10:00"},
+      "saturday": "18:30 특전",
+      "sunday": "09:00 11:00 교중"
+    },
+    {
+      "diocese": "마산교구",
+      "name": "반송",
+      "source": "http://bs.cathms.kr/xe/page_NVdd17 (미사시간 이미지)",
+      "weekday": {"mon": "06:00", "tue": "10:00 19:30", "wed": "10:00 19:30", "thu": "10:00 19:30", "fri": "10:00 19:30"},
+      "saturday": "10:00 15:00 초등부 18:00 중고등부청년",
+      "sunday": "06:00 08:30 10:30 교중 19:30"
+    },
+    {
+      "diocese": "마산교구",
+      "name": "문산",
+      "source": "https://catholicmunsan.or.kr/time (미사시간 이미지)",
+      "weekday": {"mon": "06:30", "tue": "19:30", "wed": "10:00", "thu": "19:30", "fri": "10:00"},
+      "saturday": "16:00 초등부어린이 마지막주 제외 19:30 중고등부청년 마지막주 제외",
+      "sunday": "08:00 10:30 교중",
+      "stations": [
+        {"name": "사봉", "sunday": "10:30 매월 첫째주 15:00 매월 둘째주"}
+      ]
+    },
+    {
+      "diocese": "마산교구",
+      "name": "덕산동",
+      "source": "http://ds.cathms.kr/xe/images/img/미사시간(2026)_2.png (홈페이지 미사안내 이미지)",
+      "weekday": {"mon": "10:00", "tue": "19:30", "wed": "10:00 19:30", "thu": "10:00 19:30", "fri": "10:00"},
+      "saturday": "10:00 18:00 학생특전",
+      "sunday": "07:00 10:30 교중 19:30",
+      "stations": [
+        {"name": "홍천", "sunday": "10:30"}
+      ]
+    },
+    {
       "diocese": "의정부교구",
       "name": "관산동",
       "source": "https://m.cafe.naver.com/ca-fe/web/cafes/28779321/articles/11195 (전례안내 이미지)",

@@ -108,9 +108,25 @@ def main() -> int:
                 saturday=e.get("saturday", ""), sunday=e.get("sunday", ""),
                 raw="manual")
             mass["special"] = [x for s in e.get("special", []) for x in parse_time_cell(s)]
-            out.append({"parish_name": e["name"], "diocese": diocese, "phone": None,
-                        "source_url": e.get("source"), "mass": mass,
-                        "church_id": cid, "match_method": method, "manual": True})
+            rec = {"parish_name": e["name"], "diocese": diocese, "phone": None,
+                   "source_url": e.get("source"), "mass": mass,
+                   "church_id": cid, "match_method": method, "manual": True}
+            # 공소(station) 미사 — {name, address?, sunday/weekday/... } 목록
+            stations = []
+            for st in e.get("stations", []):
+                swd = st.get("weekday", {})
+                smass = normalize_mass(
+                    weekday_cells={d: swd.get(d, "") for d in
+                                   ("mon", "tue", "wed", "thu", "fri")},
+                    saturday=st.get("saturday", ""), sunday=st.get("sunday", ""),
+                    raw="manual")
+                smass["special"] = [x for s in st.get("special", [])
+                                    for x in parse_time_cell(s)]
+                stations.append({"name": st["name"],
+                                 "address": st.get("address"), "mass": smass})
+            if stations:
+                rec["stations"] = stations
+            out.append(rec)
         return out
 
     all_records: list[dict] = []

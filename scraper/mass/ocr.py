@@ -97,8 +97,39 @@ def ocr_mass_image(png: bytes) -> dict:
     return kmap
 
 
-def ocr_mass_from_html(html: str) -> dict:
-    """페이지에서 미사시간표 이미지를 찾아 OCR. 여러 이미지면 요일 최다 결과."""
+def extract_img_urls(html: str, base_url: str):
+    """페이지의 <img src>(png/jpg)를 절대 URL 로. (힌트목록, 기타목록) 반환.
+
+    파일명/alt 에 '미사'·'미사시간'·'전례' 있으면 힌트. 힌트 없는 이미지는 사진·배너가
+    대부분이라 OCR 대상에서 캡을 둔다(페이지에 이미지가 수십 개인 경우 폭주 방지).
+    """
+    from urllib.parse import urljoin  # noqa: PLC0415
+    hinted, other, seen = [], [], set()
+    for tag in re.findall(r"<img\b[^>]*>", html, re.I):
+        m = re.search(r'src\s*=\s*["\']?([^"\'>\s]+)', tag, re.I)
+        if not m:
+            continue
+        src = m.group(1)
+        if not re.search(r"\.(?:png|jpe?g)(?:\?|$)", src, re.I):
+            continue
+        url = urljoin(base_url, src)
+        if url in seen:
+            continue
+        seen.add(url)
+        alt = re.search(r'alt\s*=\s*["\']([^"\']*)', tag, re.I)
+        blob = src + (alt.group(1) if alt else "")
+        (hinted if re.search(r"미사|전례|주보", blob) else other).append(url)
+    return hinted, other
+
+
+def ocr_mass_from_html(html: str, base_url: str | None = None, fetch=None,
+                       max_unhinted: int = 4) -> dict:
+    """페이지에서 미사시간표 이미지를 찾아 OCR. 여러 이미지면 요일 최다 결과.
+
+    base64 임베드 이미지를 먼저 시도하고, base_url·fetch 가 주어지면 링크된 <img>도
+    내려받아 OCR 한다. 파일명/alt 에 '미사' 등 힌트가 있는 이미지를 우선하며, 힌트 없는
+    이미지는 max_unhinted 개까지만 시도한다(사진 다수 페이지 폭주 방지).
+    """
     if _get_reader() is None:
         return {}
     best: dict = {}
@@ -108,4 +139,19 @@ def ocr_mass_from_html(html: str) -> dict:
         km = ocr_mass_image(png)
         if len(km) > len(best):
             best = km
+    if len(best) >= 4 or fetch is None or base_url is None:
+        return best
+    hinted, other = extract_img_urls(html, base_url)
+    for url in hinted + other[:max_unhinted]:
+        try:
+            png = fetch(url)
+        except Exception:  # noqa: BLE001
+            continue
+        if not png or len(png) < 3000:
+            continue
+        km = ocr_mass_image(png)
+        if len(km) > len(best):
+            best = km
+        if len(best) >= 6:
+            break
     return best

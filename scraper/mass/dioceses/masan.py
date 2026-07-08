@@ -47,6 +47,7 @@ SITES = {
     "양곡": "http://yk.cathms.kr/xe/board_Yuex31/2956",
     "양덕동": "http://yangduk.kr/bbs/board.php?bo_table=livesbody&wr_id=10",
     "월영": "http://www.wolyoung.or.kr/bbs/board.php?bo_table=livesbody&wr_id=12",
+    "문산": "https://catholicmunsan.or.kr/time",   # 미사시간 이미지 링크(해시 파일명)
     "의령": "http://ur.cathms.kr/photo/681",
     "장등": "http://jdsd.cathms.kr/board_ffCj96/7752",
     "장승포": "http://jsp.cathms.kr/xe/prayer01",
@@ -61,6 +62,7 @@ SITES = {
     "합천": "http://hap.cathms.kr/xe/board_mnPW66/15692",
     # 미사시간을 이미지(base64 임베드)로 게시 — 메인 홈페이지에서 OCR (easyocr 필요)
     "가음동": "http://gaeum.cathms.kr/",
+    "덕산동": "http://ds.cathms.kr/",   # 프레임셋 → 링크된 미사시간 이미지 OCR
     "회원동": "http://hw.cathms.kr/",
     "호계": "http://hg.cathms.kr/",
     "중앙동": "http://jung.cathms.kr/",
@@ -96,21 +98,36 @@ _DAYWORD = [("주일", "sunday"), ("월요일", "mon"), ("화요일", "tue"),
             ("토요일", "saturday")]
 
 
+def _decode(content):
+    for enc in ("utf-8", "euc-kr"):
+        try:
+            t = content.decode(enc)
+            if "미사" in t or "요일" in t or "frame" in t.lower():
+                return t
+        except UnicodeDecodeError:
+            pass
+    return content.decode("utf-8", "replace")
+
+
 def _get(session, url):
     time.sleep(0.3)  # 본당 사이트 과부하 방지(동시 요청 시 접속 실패)
     r = session.get(url, timeout=15, verify=False)
     r.raise_for_status()
-    html = None
-    for enc in ("utf-8", "euc-kr"):
-        try:
-            t = r.content.decode(enc)
-            if "미사" in t or "요일" in t:
-                html = t
-                break
-        except UnicodeDecodeError:
-            pass
-    if html is None:
-        html = r.content.decode("utf-8", "replace")
+    html = _decode(r.content)
+    # 프레임셋이면 프레임(iframe 포함) 내용을 받아 합친다(cathms 구형 사이트 다수)
+    if "<frameset" in html.lower() or "<frame " in html.lower():
+        from urllib.parse import urljoin  # noqa: PLC0415
+        srcs = re.findall(r"<(?:i?frame)\b[^>]*\bsrc\s*=\s*[\"']?([^\"'>\s]+)",
+                          html, re.I)
+        parts = []
+        for s in srcs:
+            try:
+                fr = session.get(urljoin(url, s), timeout=15, verify=False)
+                parts.append(_decode(fr.content))
+            except Exception:  # noqa: BLE001
+                continue
+        if parts:
+            html = "\n".join(parts)
     return BeautifulSoup(html, "html.parser"), html
 
 
@@ -309,7 +326,10 @@ class MasanAdapter(MassAdapter):
                     if len(kt) > len(kmap):
                         kmap = kt
                 if len(kmap) < 3:
-                    ko = ocr.ocr_mass_from_html(html)
+                    ko = ocr.ocr_mass_from_html(
+                        html, base_url=url,
+                        fetch=lambda u: session.get(u, timeout=15,
+                                                    verify=False).content)
                     if len(ko) > len(kmap):
                         kmap = ko
                 if _valid_mass(kmap):
