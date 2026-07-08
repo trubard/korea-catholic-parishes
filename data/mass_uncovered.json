@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08T14:44:06+00:00",
+  "generated_at": "2026-07-08T14:47:38+00:00",
   "total_churches": 1789,
-  "covered": 1667,
-  "uncovered": 122,
+  "covered": 1668,
+  "uncovered": 121,
   "homepage_found": 7,
   "note": "phone/cbck 는 CBCK 주소록 상세페이지에서 추출. homepage 는 CBCK '홈페이지 주소' 필드(대부분 미등록=null), 마산교구는 어댑터 SITES/JS_SITES URL로 보완. homepage=null 은 수집 대상 사이트를 못 찾은 본당(카페/이미지/미등록). run.py 가 수집 시마다 재생성.",
   "by_diocese": {
@@ -673,15 +673,9 @@
       ]
     },
     "의정부교구": {
-      "count": 14,
+      "count": 13,
       "reason": "영상/게시글/카페",
       "parishes": [
-        {
-          "name": "마재(성지)",
-          "homepage": null,
-          "phone": "(031)576-5412",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201003746&tbxSearch=&gubn2=all&char=all"
-        },
         {
           "name": "문산",
           "homepage": "https://cafe.daum.net/munsan.church",

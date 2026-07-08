@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T14:44:06+00:00",
-  "count": 1679,
-  "matched": 1668,
+  "generated_at": "2026-07-08T14:47:38+00:00",
+  "count": 1680,
+  "matched": 1669,
   "masses": [
     {
       "parish_name": "명동",
@@ -70058,6 +70058,62 @@
       },
       "church_id": "201000256",
       "match_method": "name"
+    },
+    {
+      "parish_name": "마재(성지)",
+      "diocese": "의정부교구",
+      "phone": null,
+      "source_url": "http://www.majaesungji.or.kr/ 미사시간 이미지(img/time.png)",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "11:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201003746",
+      "match_method": "name",
+      "manual": true
     },
     {
       "parish_name": "마두동",

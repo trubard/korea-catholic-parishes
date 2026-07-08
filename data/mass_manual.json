@@ -3,6 +3,14 @@
   "entries": [
     {
       "diocese": "의정부교구",
+      "name": "마재(성지)",
+      "source": "http://www.majaesungji.or.kr/ 미사시간 이미지(img/time.png)",
+      "weekday": {"tue": "11:00", "wed": "11:00", "thu": "11:00", "fri": "11:00"},
+      "saturday": "11:00",
+      "sunday": "09:00 11:00"
+    },
+    {
+      "diocese": "의정부교구",
       "name": "마두동",
       "source": "http://www.madu.or.kr/mass 미사시간",
       "weekday": {"mon": "06:00 10:00", "tue": "06:00 10:00 19:30", "wed": "06:00 10:00 19:30", "thu": "06:00 10:00 19:30", "fri": "06:00 10:00 19:30"},
