@@ -3,6 +3,14 @@
   "entries": [
     {
       "diocese": "의정부교구",
+      "name": "문산",
+      "source": "https://cafe.daum.net/munsan.church 주보(aKD9) 최신호 미사시간표",
+      "weekday": {"mon": "06:30", "tue": "19:30", "wed": "10:00", "thu": "19:30", "fri": "10:00"},
+      "saturday": "10:00 19:00 특전",
+      "sunday": "07:00 09:00 11:00 교중 16:00 어린이 18:00 청소년"
+    },
+    {
+      "diocese": "의정부교구",
       "name": "마재(성지)",
       "source": "http://www.majaesungji.or.kr/ 미사시간 이미지(img/time.png)",
       "weekday": {"tue": "11:00", "wed": "11:00", "thu": "11:00", "fri": "11:00"},

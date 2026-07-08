@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T14:47:38+00:00",
-  "count": 1680,
-  "matched": 1669,
+  "generated_at": "2026-07-08T14:51:32+00:00",
+  "count": 1681,
+  "matched": 1670,
   "masses": [
     {
       "parish_name": "명동",
@@ -70058,6 +70058,95 @@
       },
       "church_id": "201000256",
       "match_method": "name"
+    },
+    {
+      "parish_name": "문산",
+      "diocese": "의정부교구",
+      "phone": null,
+      "source_url": "https://cafe.daum.net/munsan.church 주보(aKD9) 최신호 미사시간표",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": "특전",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "16:00",
+            "note": "어린이",
+            "type": [
+              "어린이"
+            ]
+          },
+          {
+            "time": "18:00",
+            "note": "청소년",
+            "type": [
+              "청소년"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201000276",
+      "match_method": "name",
+      "manual": true
     },
     {
       "parish_name": "마재(성지)",
