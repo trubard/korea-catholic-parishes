@@ -61,6 +61,7 @@ SITES = {
     "합천": "http://hap.cathms.kr/xe/board_mnPW66/15692",
     # 미사시간을 이미지(base64 임베드)로 게시 — 메인 홈페이지에서 OCR (easyocr 필요)
     "가음동": "http://gaeum.cathms.kr/",
+    "회원동": "http://hw.cathms.kr/",
     "호계": "http://hg.cathms.kr/",
     "중앙동": "http://jung.cathms.kr/",
     "수산": "http://susan.cathms.kr/",

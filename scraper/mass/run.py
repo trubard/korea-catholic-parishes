@@ -142,7 +142,16 @@ def main() -> int:
               f"| {dict(methods)}", flush=True)
 
         if diocese_id:
-            write_json(os.path.join(MASS_DIR, f"{diocese_id}.json"), {
+            # 일시적 실패로 이번에 못 얻은 본당은 이전 값 유지(carry-over)
+            prev_path = os.path.join(MASS_DIR, f"{diocese_id}.json")
+            if os.path.exists(prev_path):
+                new_names = {r["parish_name"] for r in records}
+                prev = json.load(open(prev_path, encoding="utf-8")).get("masses", [])
+                carried = [r for r in prev if r["parish_name"] not in new_names]
+                if carried:
+                    records.extend(carried)
+                    print(f"  + 이전값 유지 {len(carried)}건", flush=True)
+            write_json(prev_path, {
                 "generated_at": generated_at, "diocese": adapter.diocese,
                 "diocese_id": diocese_id, "count": len(records),
                 "masses": records,
