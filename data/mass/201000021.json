@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-07T12:52:43+00:00",
+  "generated_at": "2026-07-08T14:08:22+00:00",
   "diocese": "대구대교구",
   "diocese_id": "201000021",
-  "count": 163,
+  "count": 164,
   "masses": [
     {
       "parish_name": "가실",
@@ -9755,6 +9755,112 @@
       },
       "church_id": "201000916",
       "match_method": "phone"
+    },
+    {
+      "parish_name": "양남",
+      "diocese": "대구대교구",
+      "phone": null,
+      "source_url": "https://blog.naver.com/yangnam_emmao 주보(categoryNo=9) 최신호 미사시간 안내",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201000862",
+      "match_method": "name",
+      "manual": true,
+      "stations": [
+        {
+          "name": "감포",
+          "address": "경상북도 경주시 감포읍 감포로12길 19-8",
+          "mass": {
+            "weekday": {
+              "mon": [],
+              "tue": [
+                {
+                  "time": "11:00",
+                  "note": null
+                }
+              ],
+              "wed": [
+                {
+                  "time": "19:30",
+                  "note": null
+                }
+              ],
+              "thu": [
+                {
+                  "time": "11:00",
+                  "note": null
+                }
+              ],
+              "fri": [
+                {
+                  "time": "19:30",
+                  "note": null
+                }
+              ]
+            },
+            "saturday": [
+              {
+                "time": "19:30",
+                "note": "특전",
+                "type": [
+                  "특전"
+                ]
+              }
+            ],
+            "sunday": [
+              {
+                "time": "11:00",
+                "note": null
+              }
+            ],
+            "special": [],
+            "raw": "manual"
+          }
+        }
+      ]
     }
   ]
 }

@@ -2,6 +2,23 @@
   "_comment": "자동 수집이 불가능한 본당(사이트 소멸·카페 로그인·이미지 주보 등)의 미사시간을 손으로 입력. run.py가 자동 수집 결과에 병합하되, 자동 수집된 본당은 자동값이 우선한다. 요일값은 'HH:MM 비고' 평문(type·recurrence는 비고에서 자동 추출).",
   "entries": [
     {
+      "diocese": "대구대교구",
+      "name": "양남",
+      "source": "https://blog.naver.com/yangnam_emmao 주보(categoryNo=9) 최신호 미사시간 안내",
+      "weekday": {"tue": "19:30", "wed": "10:00", "thu": "19:30", "fri": "10:00"},
+      "saturday": "",
+      "sunday": "09:00 11:00 교중",
+      "stations": [
+        {
+          "name": "감포",
+          "address": "경상북도 경주시 감포읍 감포로12길 19-8",
+          "weekday": {"tue": "11:00", "wed": "19:30", "thu": "11:00", "fri": "19:30"},
+          "saturday": "19:30 특전",
+          "sunday": "11:00"
+        }
+      ]
+    },
+    {
       "diocese": "서울대교구",
       "name": "금호1가동(선)",
       "source": "https://directory.cbck.or.kr/m/catholicInfo.asp?gubun=4&code=201000054 비고란 '주일전례'",
