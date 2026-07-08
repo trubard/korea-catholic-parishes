@@ -2,6 +2,14 @@
   "_comment": "자동 수집이 불가능한 본당(사이트 소멸·카페 로그인·이미지 주보 등)의 미사시간을 손으로 입력. run.py가 자동 수집 결과에 병합하되, 자동 수집된 본당은 자동값이 우선한다. 요일값은 'HH:MM 비고' 평문(type·recurrence는 비고에서 자동 추출).",
   "entries": [
     {
+      "diocese": "서울대교구",
+      "name": "금호1가동(선)",
+      "source": "https://directory.cbck.or.kr/m/catholicInfo.asp?gubun=4&code=201000054 비고란 '주일전례'",
+      "weekday": {},
+      "saturday": "",
+      "sunday": "10:00 11:00"
+    },
+    {
       "diocese": "수원교구",
       "name": "동탄장지동",
       "source": "https://cafe.naver.com/ndt 게시글 2478 (미사시간 이미지)",
