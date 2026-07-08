@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-08T14:11:37+00:00",
+  "generated_at": "2026-07-08T14:33:07+00:00",
   "total_churches": 1789,
   "covered": 1662,
   "uncovered": 127,
-  "homepage_found": 9,
+  "homepage_found": 8,
   "note": "phone/cbck 는 CBCK 주소록 상세페이지에서 추출. homepage 는 CBCK '홈페이지 주소' 필드(대부분 미등록=null), 마산교구는 어댑터 SITES/JS_SITES URL로 보완. homepage=null 은 수집 대상 사이트를 못 찾은 본당(카페/이미지/미등록). run.py 가 수집 시마다 재생성.",
   "by_diocese": {
     "군종교구": {
@@ -569,12 +569,6 @@
       "reason": "영상/게시글/카페",
       "parishes": [
         {
-          "name": "금곡",
-          "homepage": "http://sd.uca.or.kr/kg/",
-          "phone": "(031)592-2388",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000264&tbxSearch=&gubn2=all&char=all"
-        },
-        {
           "name": "다산",
           "homepage": null,
           "phone": "(031)567-9559",
@@ -639,6 +633,12 @@
           "homepage": null,
           "phone": "(031)832-1987",
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000301&tbxSearch=&gubn2=all&char=all"
+        },
+        {
+          "name": "주교좌 의정부",
+          "homepage": null,
+          "phone": "(031)836-1980",
+          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000254&tbxSearch=&gubn2=all&char=all"
         },
         {
           "name": "주엽동",

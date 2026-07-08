@@ -8,6 +8,7 @@
 from __future__ import annotations
 
 import re
+import time
 
 import requests
 from bs4 import BeautifulSoup
@@ -25,17 +26,25 @@ _MISA_RE = re.compile(r"default\.aspx\?mnucd=\d+")
 _WD = {"월요일": "mon", "화요일": "tue", "수요일": "wed", "목요일": "thu", "금요일": "fri"}
 
 
-def _get(session, url):
-    r = session.get(url, timeout=25, verify=False)
-    r.raise_for_status()
-    for enc in ("utf-8", "euc-kr"):
+def _get(session, url, retries=3):
+    # sd.uca.or.kr 는 순차 다수요청 시 간헐적으로 연결을 끊는다 → 재시도(backoff)
+    last = None
+    for attempt in range(retries):
         try:
-            t = r.content.decode(enc)
-            if "미사" in t or "성당" in t:
-                return BeautifulSoup(t, "html.parser")
-        except UnicodeDecodeError:
-            pass
-    return BeautifulSoup(r.content.decode("utf-8", "replace"), "html.parser")
+            r = session.get(url, timeout=25, verify=False)
+            r.raise_for_status()
+            for enc in ("utf-8", "euc-kr"):
+                try:
+                    t = r.content.decode(enc)
+                    if "미사" in t or "성당" in t:
+                        return BeautifulSoup(t, "html.parser")
+                except UnicodeDecodeError:
+                    pass
+            return BeautifulSoup(r.content.decode("utf-8", "replace"), "html.parser")
+        except Exception as e:  # noqa: BLE001
+            last = e
+            time.sleep(0.6 * (attempt + 1))
+    raise last
 
 
 def parse_uijeongbu_mass(text: str) -> dict:
@@ -80,7 +89,13 @@ class UijeongbuAdapter(MassAdapter):
                 a["href"].replace("https://sd.uca.or.kr", ""))
             name = a.get_text(" ", strip=True)
             if m and "성당" in name:
-                parishes[m.group(1)] = re.sub(r"\s*성당\s*$", "", name).strip()
+                # 일부 앵커는 전체 제목('천주교의정부교구 금곡성당') → 교구 접두어 제거
+                name = re.sub(r"^\s*천주교\s*", "", name)
+                name = re.sub(r"^\s*의정부교구\s*", "", name)
+                name = re.sub(r"\s*성당\s*$", "", name).strip()
+                # 더 짧고 깨끗한 이름을 우선(같은 code 에 여러 앵커가 있을 때)
+                if m.group(1) not in parishes or len(name) < len(parishes[m.group(1)]):
+                    parishes[m.group(1)] = name
 
         records: list[dict] = []
         for code, name in parishes.items():
