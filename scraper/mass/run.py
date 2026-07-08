@@ -212,15 +212,12 @@ def write_uncovered(churches, masses, generated_at) -> None:
                if m.get("church_id") and _has_mass(m)}
     uncovered = [c for c in churches if c["id"] not in covered]
 
-    hp_lookup: dict = {}
+    hp_lookup: dict = {}   # 마산 등 CBCK 미등록 본당 보완용
     reasons: dict = {}
     if os.path.exists(path):
         prev = json.load(open(path, encoding="utf-8"))
         for dio, info in prev.get("by_diocese", {}).items():
             reasons[dio] = info.get("reason", "")
-            for p in info.get("parishes", []):
-                if isinstance(p, dict) and p.get("homepage"):
-                    hp_lookup[(dio, p["name"])] = p["homepage"]
     try:  # 마산: CBCK 홈페이지 미등록 → 어댑터의 알려진 URL 사용
         from dioceses.masan import SITES as _S, JS_SITES as _J  # noqa: PLC0415
         for _n, _u in {**_S, **_J}.items():
@@ -239,7 +236,8 @@ def write_uncovered(churches, masses, generated_at) -> None:
             "reason": reasons.get(dio, default_reason),
             "parishes": [{
                 "name": c["name"],
-                "homepage": hp_lookup.get((dio, c["name"])),
+                # churches.json 의 homepage(CBCK) 우선, 없으면 어댑터 URL 보완
+                "homepage": c.get("homepage") or hp_lookup.get((dio, c["name"])),
                 "phone": c.get("phone"),
                 "cbck": c.get("source_url"),
             } for c in sorted(by[dio], key=lambda x: x["name"])],

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-08T14:59:11+00:00",
+  "generated_at": "2026-07-08T15:02:32+00:00",
   "total_churches": 1789,
   "covered": 1670,
   "uncovered": 119,
-  "homepage_found": 6,
+  "homepage_found": 24,
   "note": "phone/cbck 는 CBCK 주소록 상세페이지에서 추출. homepage 는 CBCK '홈페이지 주소' 필드(대부분 미등록=null), 마산교구는 어댑터 SITES/JS_SITES URL로 보완. homepage=null 은 수집 대상 사이트를 못 찾은 본당(카페/이미지/미등록). run.py 가 수집 시마다 재생성.",
   "by_diocese": {
     "군종교구": {
@@ -366,7 +366,7 @@
         },
         {
           "name": "무거",
-          "homepage": null,
+          "homepage": "http://mugeo.co.kr",
           "phone": "(052)277-1644",
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000022&code=201001395&tbxSearch=&gubn2=all&char=all"
         },
@@ -408,7 +408,7 @@
         },
         {
           "name": "야음",
-          "homepage": null,
+          "homepage": "http://www.yaum.or.kr",
           "phone": "(052)275-3396",
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000022&code=201001431&tbxSearch=&gubn2=all&char=all"
         },
@@ -450,25 +450,25 @@
       "parishes": [
         {
           "name": "거제",
-          "homepage": null,
+          "homepage": "https://cafe.daum.net/ggeejj",
           "phone": "(055)633-4040",
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001038&tbxSearch=&gubn2=all&char=all"
         },
         {
           "name": "사천",
-          "homepage": null,
+          "homepage": "https://cafe.daum.net/sc-4000",
           "phone": "(055)852-2048",
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001058&tbxSearch=&gubn2=all&char=all"
         },
         {
           "name": "사파동",
-          "homepage": null,
+          "homepage": "http://csapa.cathms.kr",
           "phone": "(055)281-9303",
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001059&tbxSearch=&gubn2=all&char=all"
         },
         {
           "name": "삼계",
-          "homepage": null,
+          "homepage": "http://sam.cathms.kr",
           "phone": "(055)231-0033",
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001062&tbxSearch=&gubn2=all&char=all"
         },
@@ -498,13 +498,13 @@
         },
         {
           "name": "완월동",
-          "homepage": null,
+          "homepage": "http://wan.cathms.kr",
           "phone": "(055)245-6617",
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001080&tbxSearch=&gubn2=all&char=all"
         },
         {
           "name": "용원",
-          "homepage": null,
+          "homepage": "http://yongwon.cathms.kr",
           "phone": "(055)551-8416",
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001081&tbxSearch=&gubn2=all&char=all"
         },
@@ -528,7 +528,7 @@
         },
         {
           "name": "진교",
-          "homepage": null,
+          "homepage": "http://cafe.daum.net/jinkyocathms",
           "phone": "(055)883-7462",
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001092&tbxSearch=&gubn2=all&char=all"
         },
@@ -540,25 +540,25 @@
         },
         {
           "name": "칠암동",
-          "homepage": null,
+          "homepage": "https://cafe.daum.net/chiram",
           "phone": "(055)752-3864",
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001098&tbxSearch=&gubn2=all&char=all"
         },
         {
           "name": "칠원",
-          "homepage": "http://cw.cathms.kr/",
+          "homepage": "http://cw.cathms.kr",
           "phone": "(055)587-9300",
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001099&tbxSearch=&gubn2=all&char=all"
         },
         {
           "name": "태평동",
-          "homepage": null,
+          "homepage": "http://www.tpcath.or.kr",
           "phone": "(055)645-3336",
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001100&tbxSearch=&gubn2=all&char=all"
         },
         {
           "name": "평거동",
-          "homepage": null,
+          "homepage": "https://cafe.naver.com/pdcathedral",
           "phone": null,
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201008069&tbxSearch=&gubn2=all&char=all"
         }
@@ -696,19 +696,19 @@
         },
         {
           "name": "주교좌 의정부",
-          "homepage": null,
+          "homepage": "http://www.ujbhome.or.kr/",
           "phone": "(031)836-1980",
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000254&tbxSearch=&gubn2=all&char=all"
         },
         {
           "name": "주엽동",
-          "homepage": null,
+          "homepage": "http://www.jysd.or.kr/",
           "phone": "(031)921-2301~2",
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000303&tbxSearch=&gubn2=all&char=all"
         },
         {
           "name": "지금동",
-          "homepage": null,
+          "homepage": "http://sd.uca.or.kr/jgd/",
           "phone": "(031)567-3950",
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000305&tbxSearch=&gubn2=all&char=all"
         },
@@ -726,19 +726,19 @@
         },
         {
           "name": "창현",
-          "homepage": null,
+          "homepage": "http://www.chsd.or.kr",
           "phone": "(031)594-0340",
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000309&tbxSearch=&gubn2=all&char=all"
         },
         {
           "name": "탄현동",
-          "homepage": null,
+          "homepage": "http://thsd.or.kr/",
           "phone": "(031)922-3445~6",
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000312&tbxSearch=&gubn2=all&char=all"
         },
         {
           "name": "화정동",
-          "homepage": null,
+          "homepage": "http://www.hwajeong.or.kr/",
           "phone": "(031)974-9494",
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000323&tbxSearch=&gubn2=all&char=all"
         }

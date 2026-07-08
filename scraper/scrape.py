@@ -205,6 +205,19 @@ def clean_established(raw: str) -> str | None:
     return raw.strip().rstrip(".") or None
 
 
+def clean_homepage(raw: str | None) -> str | None:
+    """'홈페이지 주소' 값을 정리. URL 이 아니면(안내문·빈칸) None."""
+    if not raw:
+        return None
+    raw = raw.strip()
+    m = re.search(r"https?://\S+", raw)
+    if m:
+        return m.group(0).rstrip(" .,)")
+    # http 없이 도메인만 있는 경우
+    m = re.match(r"(?:www\.)?[\w-]+(?:\.[\w-]+)+(?:/\S*)?$", raw)
+    return ("http://" + raw) if m else None
+
+
 def parse_church(session: requests.Session, item: dict) -> dict:
     soup = get_soup(session, item["url"])
     f = detail_fields(soup)
@@ -230,6 +243,7 @@ def parse_church(session: requests.Session, item: dict) -> dict:
         "patron": f.get("주보") or None,
         "believers": to_int(f.get("신자수", "")),
         "mission_stations": to_int(f.get("공소수", "")),
+        "homepage": clean_homepage(f.get("홈페이지 주소")),
         "source_url": item["url"],
     }
 
