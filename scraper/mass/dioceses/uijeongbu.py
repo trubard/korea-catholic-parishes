@@ -12,9 +12,14 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
-from base import MassAdapter, normalize_mass
+from base import MassAdapter, korean_to_hhmm, normalize_mass
+import render
 
 ROOT = "https://sd.uca.or.kr/"
+# 교구 호스팅 밖 자체도메인 본당(요일 표) — 헤드리스 렌더링(render.py, 선택적)
+OWN_SITES = {
+    "고양동": "http://www.goyangdong.or.kr/",
+}
 _CODE_RE = re.compile(r"^/([a-zA-Z0-9_]+)/?$")
 _MISA_RE = re.compile(r"default\.aspx\?mnucd=\d+")
 _WD = {"월요일": "mon", "화요일": "tue", "수요일": "wed", "목요일": "thu", "금요일": "fri"}
@@ -34,8 +39,10 @@ def _get(session, url):
 
 
 def parse_uijeongbu_mass(text: str) -> dict:
+    text = re.sub(r"주\s*일", "주일", text)          # '주 일' -> '주일'
     text = re.sub(r"\s+", " ", text)
-    text = re.split(r"성사\s*시간|성 시 간|예비신자|유아세례|고해성사", text)[0]
+    text = re.split(r"성사\s*시간|성 시 간|예비신자|유아세례|고해성사|판공", text)[0]
+    text = korean_to_hhmm(text)                       # '오전 7시' -> '07:00'
 
     def between(a, b):
         m = re.search(a, text)
@@ -81,14 +88,20 @@ class UijeongbuAdapter(MassAdapter):
                 home = _get(session, f"{ROOT}{code}/")
             except Exception:  # noqa: BLE001
                 continue
-            link = None
+            # 미사안내 페이지(default.aspx) 링크 중 최적 선택
+            best, best_score = None, -1
             for a in home.find_all("a", href=_MISA_RE):
-                if "미사" in a.get_text():
-                    link = _MISA_RE.search(a["href"]).group(0)
-                    if "안내" in a.get_text() or "성사" in a.get_text():
-                        break
-            if not link:
+                t = a.get_text(" ", strip=True)
+                if "미사" not in t:
+                    continue
+                if re.search(r"동영상|생중계|영상|갤러리", t):
+                    continue
+                score = 2 if re.search(r"안내|시간|전례|성사", t) else 1
+                if score > best_score:
+                    best, best_score = _MISA_RE.search(a["href"]).group(0), score
+            if not best:
                 continue
+            link = best
             try:
                 page = _get(session, f"{ROOT}{code}/{link}")
             except Exception:  # noqa: BLE001
@@ -102,4 +115,26 @@ class UijeongbuAdapter(MassAdapter):
             records.append({
                 "parish_name": name, "diocese": self.diocese,
                 "phone": None, "source_url": f"{ROOT}{code}/{link}", "mass": mass})
+
+        # 자체도메인 본당 — 헤드리스 렌더링 후 요일 표 파싱
+        from dioceses.masan import _parse_mass_table  # noqa: PLC0415
+        for name, url in OWN_SITES.items():
+            html = render.render_html(url)
+            if not html:
+                continue
+            best: dict = {}
+            for t in BeautifulSoup(html, "html.parser").find_all("table"):
+                km = _parse_mass_table(t) or {}
+                if len(km) > len(best):
+                    best = km
+            if len(best) < 3:
+                continue
+            records.append({
+                "parish_name": name, "diocese": self.diocese, "phone": None,
+                "source_url": url,
+                "mass": normalize_mass(
+                    weekday_cells={d: best.get(d, "") for d in
+                                   ("mon", "tue", "wed", "thu", "fri")},
+                    saturday=best.get("saturday", ""), sunday=best.get("sunday", ""),
+                    raw="; ".join(f"{k} {v}" for k, v in best.items()))})
         return records
