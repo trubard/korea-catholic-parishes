@@ -22,6 +22,7 @@ import requests
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))  # scraper/mass
 
 from join import Joiner  # noqa: E402
+from base import normalize_mass, parse_time_cell  # noqa: E402
 from dioceses.jeju import JejuAdapter  # noqa: E402
 from dioceses.chuncheon import ChuncheonAdapter  # noqa: E402
 from dioceses.busan import BusanAdapter  # noqa: E402
@@ -86,6 +87,32 @@ def main() -> int:
     adapters = [a for a in ADAPTERS
                 if not args.diocese or a.diocese == args.diocese]
 
+    # 수동 오버라이드(자동 수집 불가 본당) 교구별 로드
+    manual_by_diocese: dict[str, list] = {}
+    manual_path = os.path.join(DATA_DIR, "mass_manual.json")
+    if os.path.exists(manual_path):
+        for e in json.load(open(manual_path, encoding="utf-8")).get("entries", []):
+            manual_by_diocese.setdefault(e["diocese"], []).append(e)
+
+    def manual_records(diocese, already_ids):
+        out = []
+        for e in manual_by_diocese.get(diocese, []):
+            cid, method = joiner.match({"parish_name": e["name"],
+                                        "diocese": diocese, "phone": None})
+            if cid and cid in already_ids:
+                continue  # 자동 수집이 있으면 그것을 우선
+            wd = e.get("weekday", {})
+            mass = normalize_mass(
+                weekday_cells={d: wd.get(d, "") for d in
+                               ("mon", "tue", "wed", "thu", "fri")},
+                saturday=e.get("saturday", ""), sunday=e.get("sunday", ""),
+                raw="manual")
+            mass["special"] = [x for s in e.get("special", []) for x in parse_time_cell(s)]
+            out.append({"parish_name": e["name"], "diocese": diocese, "phone": None,
+                        "source_url": e.get("source"), "mass": mass,
+                        "church_id": cid, "match_method": method, "manual": True})
+        return out
+
     all_records: list[dict] = []
     for adapter in adapters:
         print(f"[수집] {adapter.diocese} ...", flush=True)
@@ -102,7 +129,15 @@ def main() -> int:
             rec["church_id"] = cid
             rec["match_method"] = method
             methods[method] += 1
-        matched = sum(v for k, v in methods.items() if k != "unmatched")
+        # 수동 오버라이드 병합 (자동 수집 안 된 본당만)
+        man = manual_records(adapter.diocese,
+                             {r["church_id"] for r in records if r.get("church_id")})
+        if man:
+            records.extend(man)
+            print(f"  + 수동 {len(man)}건", flush=True)
+
+        matched = sum(v for k, v in methods.items() if k != "unmatched") + \
+            sum(1 for r in man if r.get("church_id"))
         print(f"  본당 {len(records)}건 | 조인 {matched}/{len(records)} "
               f"| {dict(methods)}", flush=True)
 

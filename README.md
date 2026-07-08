@@ -110,6 +110,10 @@ churches = requests.get(url).json()["churches"]
 > 본당 레코드 안에 `stations` 배열(이름·주소·미사)로 중첩합니다. 소스가 공소 미사를
 > 명시적으로 구분할 때만 존재합니다(대다수 본당은 없음).
 
+> **수동 오버라이드**: 사이트 소멸·카페 로그인·주보 이미지 등으로 자동 수집이 불가능한
+> 소수 본당은 [`data/mass_manual.json`](data/mass_manual.json)에 손으로 입력해 병합합니다
+> (`"manual": true`). 자동 수집이 가능해지면 자동값이 우선합니다.
+
 각 미사 항목(entry) 필드:
 
 | 키 | 설명 |

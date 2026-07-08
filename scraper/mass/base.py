@@ -63,6 +63,8 @@ def parse_recurrence(note: str | None) -> dict | None:
         weeks.add(_ORD[m.group(1)])
     if re.search(r"첫\s*주(?!\s*보)", note):  # '첫 주'(주보 제외)
         weeks.add(1)
+    if re.search(r"첫\s*[월화수목금토일]요일", note):  # '매월 첫 목요일' 등
+        weeks.add(1)
     if "홀수" in note:
         weeks.update({1, 3, 5})
     if "짝수" in note:
