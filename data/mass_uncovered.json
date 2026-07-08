@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-08T14:09:08+00:00",
+  "generated_at": "2026-07-08T14:11:37+00:00",
   "total_churches": 1789,
   "covered": 1662,
   "uncovered": 127,
   "homepage_found": 9,
-  "note": "phone/cbck 는 CBCK 주소록 상세페이지에서 추출. homepage 는 CBCK '홈페이지 주소' 필드(대부분 미등록=null), 마산교구는 어댑터 SITES/JS_SITES 의 알려진 cathms URL로 보완. homepage=null 은 수집 대상 사이트를 못 찾은 본당(카페/이미지/미등록).",
+  "note": "phone/cbck 는 CBCK 주소록 상세페이지에서 추출. homepage 는 CBCK '홈페이지 주소' 필드(대부분 미등록=null), 마산교구는 어댑터 SITES/JS_SITES URL로 보완. homepage=null 은 수집 대상 사이트를 못 찾은 본당(카페/이미지/미등록). run.py 가 수집 시마다 재생성.",
   "by_diocese": {
     "군종교구": {
       "count": 50,

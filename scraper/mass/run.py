@@ -189,7 +189,76 @@ def main() -> int:
         "masses": merged,
     })
     print(f"[저장] 전체 {len(merged)}건 -> data/mass.json", flush=True)
+
+    write_uncovered(churches, merged, generated_at)
     return 0
+
+
+def _has_mass(m: dict) -> bool:
+    mm = m.get("mass") or {}
+    return any(mm.get(k) for k in ("sunday", "saturday", "weekday", "special", "raw"))
+
+
+def write_uncovered(churches, masses, generated_at) -> None:
+    """수집(church_id 매칭+미사내용 존재)된 성당을 뺀 미수집 목록을 재생성.
+
+    수집되면 자동으로 목록에서 빠진다. homepage/전화/CBCK URL·교구별 사유는 이전
+    파일에서 재사용하고, 마산교구는 어댑터 SITES/JS_SITES URL을 homepage fallback 으로.
+    """
+    from collections import defaultdict  # noqa: PLC0415
+
+    path = os.path.join(DATA_DIR, "mass_uncovered.json")
+    covered = {m["church_id"] for m in masses
+               if m.get("church_id") and _has_mass(m)}
+    uncovered = [c for c in churches if c["id"] not in covered]
+
+    hp_lookup: dict = {}
+    reasons: dict = {}
+    if os.path.exists(path):
+        prev = json.load(open(path, encoding="utf-8"))
+        for dio, info in prev.get("by_diocese", {}).items():
+            reasons[dio] = info.get("reason", "")
+            for p in info.get("parishes", []):
+                if isinstance(p, dict) and p.get("homepage"):
+                    hp_lookup[(dio, p["name"])] = p["homepage"]
+    try:  # 마산: CBCK 홈페이지 미등록 → 어댑터의 알려진 URL 사용
+        from dioceses.masan import SITES as _S, JS_SITES as _J  # noqa: PLC0415
+        for _n, _u in {**_S, **_J}.items():
+            hp_lookup.setdefault(("마산교구", _n), _u)
+    except Exception:  # noqa: BLE001
+        pass
+
+    by = defaultdict(list)
+    for c in uncovered:
+        by[c["diocese"]].append(c)
+    default_reason = "준본당/특수 또는 미입력"
+    out = {}
+    for dio in sorted(by, key=lambda d: (-len(by[d]), d)):
+        out[dio] = {
+            "count": len(by[dio]),
+            "reason": reasons.get(dio, default_reason),
+            "parishes": [{
+                "name": c["name"],
+                "homepage": hp_lookup.get((dio, c["name"])),
+                "phone": c.get("phone"),
+                "cbck": c.get("source_url"),
+            } for c in sorted(by[dio], key=lambda x: x["name"])],
+        }
+    write_json(path, {
+        "generated_at": generated_at,
+        "total_churches": len(churches),
+        "covered": len(covered),
+        "uncovered": len(uncovered),
+        "homepage_found": sum(1 for v in out.values()
+                              for p in v["parishes"] if p["homepage"]),
+        "note": ("phone/cbck 는 CBCK 주소록 상세페이지에서 추출. homepage 는 CBCK "
+                 "'홈페이지 주소' 필드(대부분 미등록=null), 마산교구는 어댑터 "
+                 "SITES/JS_SITES URL로 보완. homepage=null 은 수집 대상 사이트를 "
+                 "못 찾은 본당(카페/이미지/미등록). run.py 가 수집 시마다 재생성."),
+        "by_diocese": out,
+    })
+    print(f"[저장] 미수집 {len(uncovered)}건 -> data/mass_uncovered.json",
+          flush=True)
 
 
 if __name__ == "__main__":
