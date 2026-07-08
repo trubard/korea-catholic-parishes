@@ -2,6 +2,14 @@
   "_comment": "자동 수집이 불가능한 본당(사이트 소멸·카페 로그인·이미지 주보 등)의 미사시간을 손으로 입력. run.py가 자동 수집 결과에 병합하되, 자동 수집된 본당은 자동값이 우선한다. 요일값은 'HH:MM 비고' 평문(type·recurrence는 비고에서 자동 추출).",
   "entries": [
     {
+      "diocese": "수원교구",
+      "name": "동탄장지동",
+      "source": "https://cafe.naver.com/ndt 게시글 2478 (미사시간 이미지)",
+      "weekday": {"mon": "10:00", "tue": "19:30", "wed": "10:00", "thu": "19:30", "fri": "10:00"},
+      "saturday": "10:00 성모신심미사 첫주 19:30 특전미사",
+      "sunday": "10:00 교중 15:00 어린이 19:30 침묵미사"
+    },
+    {
       "diocese": "마산교구",
       "name": "사림동",
       "source": "https://cafe.daum.net/SRcatholic/cIM5 주보 최신호(2026.07.05. 제0575호) 미사시간",

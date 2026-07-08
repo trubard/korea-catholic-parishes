@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T13:22:26+00:00",
-  "count": 1671,
-  "matched": 1660,
+  "generated_at": "2026-07-08T13:55:28+00:00",
+  "count": 1672,
+  "matched": 1661,
   "masses": [
     {
       "parish_name": "명동",
@@ -45100,15 +45100,25 @@
               "note": null
             }
           ],
-          "tue": [],
-          "wed": [],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
           "thu": [],
           "fri": []
         },
         "saturday": [],
         "sunday": [],
         "special": [],
-        "raw": "mon:06:30"
+        "raw": "mon:06:30 tue:19:00 wed:10:00"
       },
       "church_id": "201000441",
       "match_method": "phone"
@@ -48343,8 +48353,18 @@
       "source_url": "http://www.casuwon.or.kr/parish/parish/2?serial=13180&church=동탄숲속",
       "mass": {
         "weekday": {
-          "mon": [],
-          "tue": [],
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
           "wed": [
             {
               "time": "10:00",
@@ -48389,7 +48409,7 @@
           }
         ],
         "special": [],
-        "raw": "wed:10:00 thu:19:30 fri:10:00 saturday:16:00, 19:30 sunday:09:00, 11:00, 17:00"
+        "raw": "mon:06:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:16:00, 19:30 sunday:09:00, 11:00, 17:00"
       },
       "church_id": "201000485",
       "match_method": "phone"
@@ -49973,6 +49993,10 @@
               "note": null
             },
             {
+              "time": "12:00",
+              "note": null
+            },
+            {
               "time": "19:30",
               "note": null
             }
@@ -50037,7 +50061,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:30 tue:10:00, 19:30 wed:10:00 thu:10:00, 19:30 fri:10:00 saturday:10:00, 16:00, 19:30 sunday:06:30, 08:30, 10:30, 16:00, 19:30"
+        "raw": "mon:06:30 tue:10:00, 12:00, 19:30 wed:10:00 thu:10:00, 19:30 fri:10:00 saturday:10:00, 16:00, 19:30 sunday:06:30, 08:30, 10:30, 16:00, 19:30"
       },
       "church_id": "201000505",
       "match_method": "phone"
@@ -51290,6 +51314,10 @@
             {
               "time": "06:00",
               "note": null
+            },
+            {
+              "time": "14:00",
+              "note": null
             }
           ],
           "tue": [
@@ -51366,7 +51394,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:10:00, 19:30 wed:06:00, 10:00 thu:10:00, 19:30 fri:06:00, 10:00 saturday:10:00, 19:30 sunday:06:00, 09:00, 11:00, 15:00, 19:30"
+        "raw": "mon:06:00, 14:00 tue:10:00, 19:30 wed:06:00, 10:00 thu:10:00, 19:30 fri:06:00, 10:00 saturday:10:00, 19:30 sunday:06:00, 09:00, 11:00, 15:00, 19:30"
       },
       "church_id": "201000519",
       "match_method": "phone"
@@ -53177,6 +53205,10 @@
         "weekday": {
           "mon": [
             {
+              "time": "08:00",
+              "note": null
+            },
+            {
               "time": "09:00",
               "note": null
             }
@@ -53223,7 +53255,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:09:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:17:00 sunday:09:00, 16:00"
+        "raw": "mon:08:00, 09:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:17:00 sunday:09:00, 16:00"
       },
       "church_id": "201000549",
       "match_method": "phone"
@@ -53934,6 +53966,10 @@
               "note": null
             },
             {
+              "time": "16:00",
+              "note": null
+            },
+            {
               "time": "19:30",
               "note": null
             }
@@ -53994,7 +54030,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:10:00, 19:30 wed:10:00, 19:30 thu:10:00, 19:30 fri:10:00 saturday:10:00, 19:30 sunday:06:30, 09:00, 11:00, 19:30"
+        "raw": "mon:06:00 tue:10:00, 16:00, 19:30 wed:10:00, 19:30 thu:10:00, 19:30 fri:10:00 saturday:10:00, 19:30 sunday:06:30, 09:00, 11:00, 19:30"
       },
       "church_id": "201000550",
       "match_method": "phone"
@@ -55800,10 +55836,6 @@
         },
         "saturday": [
           {
-            "time": "16:00",
-            "note": null
-          },
-          {
             "time": "19:30",
             "note": null
           }
@@ -55823,7 +55855,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:10:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:16:00, 19:30 sunday:08:00, 11:00, 19:30"
+        "raw": "mon:10:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:19:30 sunday:08:00, 11:00, 19:30"
       },
       "church_id": "201000576",
       "match_method": "phone"
@@ -56733,6 +56765,10 @@
           ],
           "wed": [
             {
+              "time": "08:00",
+              "note": null
+            },
+            {
               "time": "10:00",
               "note": null
             }
@@ -56779,7 +56815,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:09:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:16:00, 19:00 sunday:09:00, 11:00, 18:00, 20:00"
+        "raw": "mon:09:00 tue:19:30 wed:08:00, 10:00 thu:19:30 fri:10:00 saturday:16:00, 19:00 sunday:09:00, 11:00, 18:00, 20:00"
       },
       "church_id": "201007886",
       "match_method": "phone"
@@ -57011,10 +57047,6 @@
           ],
           "tue": [
             {
-              "time": "10:00",
-              "note": null
-            },
-            {
               "time": "19:30",
               "note": null
             }
@@ -57054,12 +57086,16 @@
             "note": null
           },
           {
+            "time": "11:00",
+            "note": null
+          },
+          {
             "time": "17:00",
             "note": null
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:10:00, 19:30 wed:10:00 thu:19:30 fri:10:00 saturday:16:00, 19:30 sunday:09:00, 17:00"
+        "raw": "mon:06:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:16:00, 19:30 sunday:09:00, 11:00, 17:00"
       },
       "church_id": "201000592",
       "match_method": "phone"
@@ -58782,6 +58818,10 @@
             {
               "time": "10:30",
               "note": null
+            },
+            {
+              "time": "14:00",
+              "note": null
             }
           ],
           "thu": [
@@ -58818,7 +58858,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:09:00 tue:19:30 wed:10:30 thu:19:30 fri:10:30 saturday:16:00, 19:00 sunday:08:30, 10:30"
+        "raw": "mon:09:00 tue:19:30 wed:10:30, 14:00 thu:19:30 fri:10:30 saturday:16:00, 19:00 sunday:08:30, 10:30"
       },
       "church_id": "201008374",
       "match_method": "phone"
@@ -59478,6 +59518,10 @@
           ],
           "thu": [
             {
+              "time": "08:00",
+              "note": null
+            },
+            {
               "time": "10:00",
               "note": null
             },
@@ -59534,7 +59578,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:10:00, 19:30 wed:10:00, 19:30 thu:10:00, 19:30 fri:06:00, 10:00 saturday:10:00, 16:00, 19:30 sunday:06:30, 09:00, 11:00, 16:00, 19:30"
+        "raw": "mon:06:00 tue:10:00, 19:30 wed:10:00, 19:30 thu:08:00, 10:00, 19:30 fri:06:00, 10:00 saturday:10:00, 16:00, 19:30 sunday:06:30, 09:00, 11:00, 16:00, 19:30"
       },
       "church_id": "201000623",
       "match_method": "phone"
@@ -59579,10 +59623,6 @@
         },
         "saturday": [
           {
-            "time": "10:00",
-            "note": null
-          },
-          {
             "time": "18:00",
             "note": null
           }
@@ -59602,7 +59642,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:10:00, 18:00 sunday:06:00, 10:30, 18:00"
+        "raw": "mon:06:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:18:00 sunday:06:00, 10:30, 18:00"
       },
       "church_id": "201000624",
       "match_method": "phone"
@@ -60386,6 +60426,93 @@
       },
       "church_id": "201000635",
       "match_method": "phone"
+    },
+    {
+      "parish_name": "동탄장지동",
+      "diocese": "수원교구",
+      "phone": null,
+      "source_url": "https://cafe.naver.com/ndt 게시글 2478 (미사시간 이미지)",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "성모신심미사 첫주",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "성모신심미사 첫주"
+            }
+          },
+          {
+            "time": "19:30",
+            "note": "특전미사",
+            "type": [
+              "특전"
+            ]
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "15:00",
+            "note": "어린이",
+            "type": [
+              "어린이"
+            ]
+          },
+          {
+            "time": "19:30",
+            "note": "침묵미사"
+          }
+        ],
+        "special": [],
+        "raw": "manual"
+      },
+      "church_id": "201008059",
+      "match_method": "name",
+      "manual": true
     },
     {
       "parish_name": "관설동",

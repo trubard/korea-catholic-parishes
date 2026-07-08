@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08T13:27:39+00:00",
+  "generated_at": "2026-07-08T13:58:10+00:00",
   "total_churches": 1789,
-  "covered": 1659,
-  "uncovered": 130,
+  "covered": 1660,
+  "uncovered": 129,
   "homepage_found": 9,
   "note": "phone/cbck 는 CBCK 주소록 상세페이지에서 추출. homepage 는 CBCK '홈페이지 주소' 필드(대부분 미등록=null), 마산교구는 어댑터 SITES/JS_SITES 의 알려진 cathms URL로 보완. homepage=null 은 수집 대상 사이트를 못 찾은 본당(카페/이미지/미등록).",
   "by_diocese": {
@@ -813,18 +813,6 @@
           "homepage": null,
           "phone": "(02)2295-4179",
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000011&code=201000054&tbxSearch=&gubn2=all&char=all"
-        }
-      ]
-    },
-    "수원교구": {
-      "count": 1,
-      "reason": "준본당/특수 또는 미입력",
-      "parishes": [
-        {
-          "name": "동탄장지동",
-          "homepage": null,
-          "phone": "(031)8055-8116",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000018&code=201008059&tbxSearch=&gubn2=all&char=all"
         }
       ]
     },
