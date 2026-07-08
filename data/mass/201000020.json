@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T15:36:27+00:00",
+  "generated_at": "2026-07-08T16:18:53+00:00",
   "diocese": "의정부교구",
   "diocese_id": "201000020",
   "count": 86,
@@ -6680,7 +6680,7 @@
       "parish_name": "창현",
       "diocese": "의정부교구",
       "phone": null,
-      "source_url": "https://narthex.kr/창현성당-미사시간/",
+      "source_url": "http://chsd.or.kr/ (본당홈)",
       "mass": {
         "weekday": {
           "mon": [
@@ -6691,7 +6691,7 @@
           ],
           "tue": [
             {
-              "time": "19:30",
+              "time": "10:00",
               "note": null
             }
           ],
@@ -6702,6 +6702,10 @@
             }
           ],
           "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
             {
               "time": "19:30",
               "note": null
@@ -6723,7 +6727,7 @@
             ]
           },
           {
-            "time": "19:00",
+            "time": "18:00",
             "note": "특전",
             "type": [
               "특전"
@@ -6753,7 +6757,34 @@
             ]
           }
         ],
-        "special": [],
+        "special": [
+          {
+            "time": "19:30",
+            "note": "성시간 매월 첫목요일",
+            "type": [
+              "성시간"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "성시간 매월 첫목요일"
+            }
+          },
+          {
+            "time": "10:00",
+            "note": "성모신심미사 매월 첫토요일",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "성모신심미사 매월 첫토요일"
+            }
+          }
+        ],
         "raw": "manual"
       },
       "church_id": "201000309",

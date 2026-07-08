@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T15:42:54+00:00",
+  "generated_at": "2026-07-08T16:19:18+00:00",
   "count": 1736,
   "matched": 1725,
   "masses": [
@@ -70758,7 +70758,7 @@
       "parish_name": "창현",
       "diocese": "의정부교구",
       "phone": null,
-      "source_url": "https://narthex.kr/창현성당-미사시간/",
+      "source_url": "http://chsd.or.kr/ (본당홈)",
       "mass": {
         "weekday": {
           "mon": [
@@ -70769,7 +70769,7 @@
           ],
           "tue": [
             {
-              "time": "19:30",
+              "time": "10:00",
               "note": null
             }
           ],
@@ -70780,6 +70780,10 @@
             }
           ],
           "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
             {
               "time": "19:30",
               "note": null
@@ -70801,7 +70805,7 @@
             ]
           },
           {
-            "time": "19:00",
+            "time": "18:00",
             "note": "특전",
             "type": [
               "특전"
@@ -70831,7 +70835,34 @@
             ]
           }
         ],
-        "special": [],
+        "special": [
+          {
+            "time": "19:30",
+            "note": "성시간 매월 첫목요일",
+            "type": [
+              "성시간"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "성시간 매월 첫목요일"
+            }
+          },
+          {
+            "time": "10:00",
+            "note": "성모신심미사 매월 첫토요일",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "성모신심미사 매월 첫토요일"
+            }
+          }
+        ],
         "raw": "manual"
       },
       "church_id": "201000309",
@@ -89404,7 +89435,7 @@
       "parish_name": "기장",
       "diocese": "부산교구",
       "phone": null,
-      "source_url": "https://bible.pieonane.com/1866",
+      "source_url": "https://gijang.catb.kr (본당홈 미사시간안내)",
       "mass": {
         "weekday": {
           "mon": [
@@ -89461,7 +89492,10 @@
           },
           {
             "time": "10:30",
-            "note": null
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
           },
           {
             "time": "19:00",
@@ -89775,12 +89809,12 @@
       "parish_name": "만덕",
       "diocese": "부산교구",
       "phone": null,
-      "source_url": "https://bible.pieonane.com/2313",
+      "source_url": "https://www.mdsd.kr/bbs/content.php?co_id=mass_information (본당홈)",
       "mass": {
         "weekday": {
           "mon": [
             {
-              "time": "06:30",
+              "time": "07:00",
               "note": null
             }
           ],
@@ -89828,9 +89862,9 @@
           },
           {
             "time": "17:00",
-            "note": "어린이",
+            "note": "청소년",
             "type": [
-              "어린이"
+              "청소년"
             ]
           },
           {
@@ -89843,7 +89877,7 @@
         ],
         "sunday": [
           {
-            "time": "06:30",
+            "time": "07:00",
             "note": null
           },
           {
@@ -89852,10 +89886,7 @@
           },
           {
             "time": "11:00",
-            "note": "교중",
-            "type": [
-              "교중"
-            ]
+            "note": "중심"
           },
           {
             "time": "19:00",
@@ -89873,7 +89904,7 @@
       "parish_name": "망미",
       "diocese": "부산교구",
       "phone": null,
-      "source_url": "https://bible.pieonane.com/923",
+      "source_url": "http://mangmi.net/mangmi/sub01_04 (본당홈)",
       "mass": {
         "weekday": {
           "mon": [
@@ -89926,27 +89957,18 @@
         "saturday": [
           {
             "time": "10:00",
-            "note": "첫주",
-            "recurrence": {
-              "weeks": [
-                1
-              ],
-              "raw": "첫주"
-            }
+            "note": null
           },
           {
-            "time": "16:00",
-            "note": "어린이",
+            "time": "16:30",
+            "note": "중고등부",
             "type": [
-              "어린이"
+              "중고등부"
             ]
           },
           {
-            "time": "19:00",
-            "note": "특전",
-            "type": [
-              "특전"
-            ]
+            "time": "17:30",
+            "note": "주일학교"
           }
         ],
         "sunday": [
@@ -89959,6 +89981,10 @@
             "note": null
           },
           {
+            "time": "09:00",
+            "note": "주일학교"
+          },
+          {
             "time": "10:30",
             "note": "교중",
             "type": [
@@ -89966,8 +89992,11 @@
             ]
           },
           {
-            "time": "19:30",
-            "note": null
+            "time": "17:00",
+            "note": "청년",
+            "type": [
+              "청년"
+            ]
           }
         ],
         "special": [],
@@ -90451,7 +90480,7 @@
       "parish_name": "야음",
       "diocese": "부산교구",
       "phone": null,
-      "source_url": "https://lovecatholic.kr/churches/1011",
+      "source_url": "https://yaum.catb.kr (본당홈 미사안내 이미지)",
       "mass": {
         "weekday": {
           "mon": [
@@ -90499,21 +90528,8 @@
         },
         "saturday": [
           {
-            "time": "10:00",
-            "note": "첫째주",
-            "recurrence": {
-              "weeks": [
-                1
-              ],
-              "raw": "첫째주"
-            }
-          },
-          {
-            "time": "16:00",
-            "note": "어린이",
-            "type": [
-              "어린이"
-            ]
+            "time": "17:00",
+            "note": "주일학교"
           },
           {
             "time": "19:30",
@@ -90534,14 +90550,34 @@
           },
           {
             "time": "10:00",
-            "note": null
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
           },
           {
             "time": "18:00",
-            "note": null
+            "note": "청년",
+            "type": [
+              "청년"
+            ]
           }
         ],
-        "special": [],
+        "special": [
+          {
+            "time": "10:00",
+            "note": "성모신심미사 매월 첫토요일",
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "성모신심미사 매월 첫토요일"
+            }
+          }
+        ],
         "raw": "manual"
       },
       "church_id": "201001431",
@@ -110856,7 +110892,7 @@
       "parish_name": "보성",
       "diocese": "광주대교구",
       "phone": null,
-      "source_url": "https://lovecatholic.kr/churches/578",
+      "source_url": "https://cafe.daum.net/boseong-sd 주보(2026.7.5)",
       "mass": {
         "weekday": {
           "mon": [],
