@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T21:09:01+00:00",
+  "generated_at": "2026-07-09T21:24:45+00:00",
   "source": "https://directory.cbck.or.kr/OnlineAddress/SearchList.aspx",
   "count": 142,
   "diocese_id": "201000026",
@@ -13,7 +13,7 @@
       "region": null,
       "district": "서남부",
       "postal_code": "59234",
-      "address": "전라남도 강진군 강진읍 평동2길 21",
+      "address": "전남광주통합특별시 강진군 강진읍 평동2길 21",
       "phone": "(061)432-8884",
       "fax": "(061)432-5444",
       "pastor": "이창현 사무엘 신부",
@@ -23,9 +23,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201001112&tbxSearch=&gubn2=all&char=all",
-      "lat": 34.63685496531329,
-      "lng": 126.76801891248206,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201001113",
@@ -35,7 +35,7 @@
       "region": null,
       "district": "목포신안",
       "postal_code": "58754",
-      "address": "전라남도 목포시 해안로165번길 33",
+      "address": "전남광주통합특별시 목포시 해안로165번길 33 (경동2가)",
       "phone": "(061)244-0601",
       "fax": "(061)244-0605",
       "pastor": "고을식 토마스 신부",
@@ -45,9 +45,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201001113&tbxSearch=&gubn2=all&char=all",
-      "lat": 34.7853828283686,
-      "lng": 126.38112819359569,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201001114",
@@ -56,8 +56,8 @@
       "diocese_id": "201000026",
       "region": null,
       "district": "광주동부",
-      "postal_code": "61413",
-      "address": "광주광역시 동구 동계로 79-28",
+      "postal_code": "61412",
+      "address": "전남광주통합특별시 동구 동계로 79-28 (계림동)",
       "phone": "(062)223-1964",
       "fax": "(062)223-1965",
       "pastor": "김태균 요셉 신부",
@@ -67,9 +67,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201001114&tbxSearch=&gubn2=all&char=all",
-      "lat": 35.15942182472806,
-      "lng": 126.9230271793283,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201007206",
@@ -79,7 +79,7 @@
       "region": null,
       "district": "서남부",
       "postal_code": "59130",
-      "address": "전라남도 완도군 고금면 고금로 639",
+      "address": "전남광주통합특별시 완도군 고금면 고금로 639",
       "phone": "(061)555-2020",
       "fax": null,
       "pastor": "최종서 이냐시오 신부",
@@ -89,9 +89,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201007206&tbxSearch=&gubn2=all&char=all",
-      "lat": 34.39944056555039,
-      "lng": 126.80023643713443,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201001115",
@@ -101,7 +101,7 @@
       "region": null,
       "district": "중남부",
       "postal_code": "59535",
-      "address": "전라남도 고흥군 고흥읍 신계학림길 20",
+      "address": "전남광주통합특별시 고흥군 고흥읍 신계학림길 20",
       "phone": "(061)834-1004",
       "fax": "(061)834-1004",
       "pastor": "김진수 베르나르도 신부",
@@ -111,9 +111,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201001115&tbxSearch=&gubn2=all&char=all",
-      "lat": 34.61156791134288,
-      "lng": 127.28925710847568,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201001116",
@@ -123,7 +123,7 @@
       "region": null,
       "district": "광주북부1",
       "postal_code": "57536",
-      "address": "전라남도 곡성군 곡성읍 읍내11길 20",
+      "address": "전남광주통합특별시 곡성군 곡성읍 읍내11길 20",
       "phone": "(061)362-1004",
       "fax": "(061)363-1004",
       "pastor": "이건 가브리엘 신부",
@@ -133,9 +133,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201001116&tbxSearch=&gubn2=all&char=all",
-      "lat": 35.28302256143972,
-      "lng": 127.29294540236636,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201001117",
@@ -145,7 +145,7 @@
       "region": null,
       "district": "순천",
       "postal_code": "57751",
-      "address": "전라남도 광양시 광양읍 매천로 877",
+      "address": "전남광주통합특별시 광양시 광양읍 매천로 877",
       "phone": "(061)761-5400",
       "fax": "(061)761-5004",
       "pastor": "성종명 빈첸시오 신부",
@@ -155,9 +155,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201001117&tbxSearch=&gubn2=all&char=all",
-      "lat": 34.97375211138193,
-      "lng": 127.5908303859371,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201001118",
@@ -167,7 +167,7 @@
       "region": null,
       "district": "순천",
       "postal_code": "57716",
-      "address": "전라남도 광양시 가야로 417",
+      "address": "전남광주통합특별시 광양시 가야로 417 (광영동)",
       "phone": "(061)792-5004",
       "fax": "(061)793-2006",
       "pastor": "오재선 토비야 신부",
@@ -177,9 +177,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201001118&tbxSearch=&gubn2=all&char=all",
-      "lat": 34.967283735461365,
-      "lng": 127.71923134140643,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201001119",
@@ -189,7 +189,7 @@
       "region": null,
       "district": "광주서부",
       "postal_code": "61914",
-      "address": "광주광역시 서구 죽봉대로119번길 28-13",
+      "address": "전남광주통합특별시 서구 죽봉대로119번길 28-13 (광천동)",
       "phone": "(062)368-1146",
       "fax": "(062)368-3346",
       "pastor": "이재회 마르코 신부",
@@ -199,9 +199,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201001119&tbxSearch=&gubn2=all&char=all",
-      "lat": 35.166083607685295,
-      "lng": 126.88137577048212,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201001120",
@@ -211,19 +211,19 @@
       "region": null,
       "district": "순천",
       "postal_code": "57652",
-      "address": "전라남도 구례군 구례읍 학교길 99",
+      "address": "전남광주통합특별시 구례군 구례읍 학교길 99",
       "phone": "(061)782-2314",
       "fax": "(061)783-6004",
       "pastor": "왕승수 안드레아 신부",
       "established_date": "1970-09-11",
-      "patron": "그리스도 왕",
+      "patron": "성 프란치스코",
       "believers": 0,
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201001120&tbxSearch=&gubn2=all&char=all",
-      "lat": 35.2080522784049,
-      "lng": 127.4615787462534,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201001121",
@@ -233,7 +233,7 @@
       "region": null,
       "district": "순천",
       "postal_code": "57982",
-      "address": "전라남도 순천시 해룡면 동명초등길 59",
+      "address": "전남광주통합특별시 순천시 해룡면 동명초등길 59",
       "phone": "(061)724-8234",
       "fax": "(061)724-8237",
       "pastor": null,
@@ -243,9 +243,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201001121&tbxSearch=&gubn2=all&char=all",
-      "lat": 34.94889179893791,
-      "lng": 127.52744889981938,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201001122",
@@ -255,7 +255,7 @@
       "region": null,
       "district": "나주함평",
       "postal_code": "58209",
-      "address": "전라남도 나주시 노안면 금산로 82",
+      "address": "전남광주통합특별시 나주시 노안면 금산로 82",
       "phone": "(061)336-1857",
       "fax": "(061)336-1857",
       "pastor": "이종민 요셉 신부",
@@ -265,9 +265,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201001122&tbxSearch=&gubn2=all&char=all",
-      "lat": 35.080589497179574,
-      "lng": 126.7283921647444,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201006735",
@@ -277,7 +277,7 @@
       "region": null,
       "district": "광주서부",
       "postal_code": "62012",
-      "address": "광주광역시 서구 화개중앙로114번길 20-1",
+      "address": "전남광주통합특별시 서구 화개중앙로114번길 20-1 (금호동)",
       "phone": "(062)384-9004",
       "fax": "(062)372-9001",
       "pastor": "박석렬 야고보 신부",
@@ -287,9 +287,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201006735&tbxSearch=&gubn2=all&char=all",
-      "lat": 35.127173772537,
-      "lng": 126.85336366548074,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201001123",
@@ -299,7 +299,7 @@
       "region": null,
       "district": "광주서부",
       "postal_code": "62007",
-      "address": "광주광역시 서구 금화로73번길 33",
+      "address": "전남광주통합특별시 서구 금화로73번길 33 (금호동)",
       "phone": "(062)374-9006",
       "fax": "(062)371-3482",
       "pastor": "박공식 보나벤투라 신부",
@@ -309,9 +309,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201001123&tbxSearch=&gubn2=all&char=all",
-      "lat": 35.13506076436278,
-      "lng": 126.85658967964157,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201001124",
@@ -1113,19 +1113,19 @@
       "region": null,
       "district": "광주북부2",
       "postal_code": "61240",
-      "address": "광주광역시 북구 금재로 76",
+      "address": "전남광주통합특별시 북구 금재로 76 (북동)",
       "phone": "(062)526-3407~8",
       "fax": "(062)526-3408",
       "pastor": "유기영 바오로 신부",
       "established_date": "1933-05-29",
-      "patron": "예수 성심",
+      "patron": "파티마의 성모",
       "believers": 0,
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201001110&tbxSearch=&gubn2=all&char=all",
-      "lat": 35.155665864040046,
-      "lng": 126.9108241326607,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201001166",
@@ -1267,19 +1267,19 @@
       "region": null,
       "district": "목포신안",
       "postal_code": "58712",
-      "address": "전라남도 목포시 노송길 35",
+      "address": "전남광주통합특별시 목포시 노송길 35 (산정동)",
       "phone": "(061)274-1004",
       "fax": "(061)276-4482",
       "pastor": "정윤수 프란치스코 신부",
       "established_date": "1897-05-08",
-      "patron": "성 십자가 현양",
+      "patron": "성 요셉",
       "believers": 0,
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201001159&tbxSearch=&gubn2=all&char=all",
-      "lat": 34.799689846133845,
-      "lng": 126.38588397719062,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201001160",
@@ -1382,7 +1382,7 @@
       "fax": "(061)643-5004",
       "pastor": "정승욱 다니엘 신부",
       "established_date": "1961-09-26",
-      "patron": "예수 성심",
+      "patron": "성 디오니시오",
       "believers": 0,
       "mission_stations": 0,
       "homepage": null,
@@ -2455,19 +2455,19 @@
       "region": null,
       "district": "순천",
       "postal_code": "57955",
-      "address": "전라남도 순천시 장대길 1",
+      "address": "전남광주통합특별시 순천시 장대길 1 (조곡동)",
       "phone": "(061)744-2942",
       "fax": "(061)743-3942",
       "pastor": "이호 요셉 신부",
       "established_date": "1970-05-08",
-      "patron": "성 십자가",
+      "patron": "과달루페의 성모",
       "believers": 3201,
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201001208&tbxSearch=&gubn2=all&char=all",
-      "lat": 34.95103384988552,
-      "lng": 127.49532003423198,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201001209",
@@ -2565,7 +2565,7 @@
       "region": null,
       "district": "광주동부",
       "postal_code": "61444",
-      "address": "광주광역시 동구 지산로 54",
+      "address": "전남광주통합특별시 동구 지산로 54 (지산동)",
       "phone": "(062)222-0435",
       "fax": "(062)222-0439",
       "pastor": "신혁 대건 안드레아 신부",
@@ -2575,9 +2575,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201001213&tbxSearch=&gubn2=all&char=all",
-      "lat": 35.148276570706784,
-      "lng": 126.93278849935353,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201001215",
@@ -2631,19 +2631,19 @@
       "region": null,
       "district": "광주남부",
       "postal_code": "61735",
-      "address": "광주광역시 남구 광복마을4길 22",
+      "address": "전남광주통합특별시 남구 광복마을4길 22 (진월동)",
       "phone": "(062)675-7080",
       "fax": "(062)673-4125",
       "pastor": "김종주 루카 신부",
       "established_date": "1991-01-12",
-      "patron": "삼위일체",
+      "patron": "성 루카",
       "believers": 0,
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201001216&tbxSearch=&gubn2=all&char=all",
-      "lat": 35.121144218776614,
-      "lng": 126.89532411809282,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201001217",
