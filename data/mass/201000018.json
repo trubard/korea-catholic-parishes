@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T13:55:28+00:00",
+  "generated_at": "2026-07-13T22:02:09+00:00",
   "diocese": "수원교구",
   "diocese_id": "201000018",
   "count": 222,
@@ -17,25 +17,15 @@
               "note": null
             }
           ],
-          "tue": [
-            {
-              "time": "19:00",
-              "note": null
-            }
-          ],
-          "wed": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ],
+          "tue": [],
+          "wed": [],
           "thu": [],
           "fri": []
         },
         "saturday": [],
         "sunday": [],
         "special": [],
-        "raw": "mon:06:30 tue:19:00 wed:10:00"
+        "raw": "mon:06:30"
       },
       "church_id": "201000441",
       "match_method": "phone"
@@ -80,10 +70,6 @@
         },
         "saturday": [
           {
-            "time": "16:00",
-            "note": null
-          },
-          {
             "time": "19:00",
             "note": null
           }
@@ -103,7 +89,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:16:00, 19:00 sunday:07:00, 10:00, 19:00"
+        "raw": "mon:06:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:19:00 sunday:07:00, 10:00, 19:00"
       },
       "church_id": "201000442",
       "match_method": "phone"
@@ -676,13 +662,13 @@
         },
         "saturday": [
           {
-            "time": "19:00",
+            "time": "19:30",
             "note": null
           }
         ],
         "sunday": [
           {
-            "time": "09:00",
+            "time": "06:30",
             "note": null
           },
           {
@@ -695,7 +681,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:10:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:19:00 sunday:09:00, 11:00, 16:00"
+        "raw": "mon:10:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:19:30 sunday:06:30, 11:00, 16:00"
       },
       "church_id": "201000451",
       "match_method": "phone"
@@ -2739,8 +2725,18 @@
               "note": null
             }
           ],
-          "tue": [],
-          "wed": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
           "thu": [
             {
               "time": "19:30",
@@ -2771,7 +2767,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:09:00 thu:19:30 fri:10:00 saturday:19:30 sunday:10:30, 18:00"
+        "raw": "mon:09:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:19:30 sunday:10:30, 18:00"
       },
       "church_id": "201000478",
       "match_method": "phone"
@@ -3391,10 +3387,6 @@
             "note": null
           },
           {
-            "time": "15:00",
-            "note": null
-          },
-          {
             "time": "16:00",
             "note": null
           },
@@ -3430,9 +3422,73 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:10:00, 19:30 wed:06:00, 10:00 thu:10:00, 19:30 fri:06:00, 10:00 saturday:10:00, 15:00, 16:00, 19:00 sunday:07:00, 09:00, 11:00, 16:00, 18:00, 20:00"
+        "raw": "mon:06:00 tue:10:00, 19:30 wed:06:00, 10:00 thu:10:00, 19:30 fri:06:00, 10:00 saturday:10:00, 16:00, 19:00 sunday:07:00, 09:00, 11:00, 16:00, 18:00, 20:00"
       },
       "church_id": "201007887",
+      "match_method": "phone"
+    },
+    {
+      "parish_name": "동탄장지동",
+      "diocese": "수원교구",
+      "phone": "031-8055-8116",
+      "source_url": "http://www.casuwon.or.kr/parish/parish/2?serial=13218&church=동탄장지동",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "15:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "mon:10:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:19:30 sunday:10:00, 15:00, 19:30"
+      },
+      "church_id": "201008059",
       "match_method": "phone"
     },
     {
@@ -3452,9 +3508,17 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
             }
           ],
           "wed": [
+            {
+              "time": "06:30",
+              "note": null
+            },
             {
               "time": "10:00",
               "note": null
@@ -3463,6 +3527,10 @@
           "thu": [
             {
               "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
               "note": null
             }
           ],
@@ -3510,7 +3578,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:09:00 tue:10:00 wed:10:00 thu:10:00 fri:06:30, 10:00 saturday:10:00, 19:30 sunday:06:30, 09:00, 11:00, 16:00, 19:30"
+        "raw": "mon:09:00 tue:10:00, 19:30 wed:06:30, 10:00 thu:10:00, 19:30 fri:06:30, 10:00 saturday:10:00, 19:30 sunday:06:30, 09:00, 11:00, 16:00, 19:30"
       },
       "church_id": "201000486",
       "match_method": "phone"
@@ -3524,7 +3592,7 @@
         "weekday": {
           "mon": [
             {
-              "time": "17:00",
+              "time": "10:30",
               "note": null
             }
           ],
@@ -3555,7 +3623,7 @@
         },
         "saturday": [
           {
-            "time": "17:00",
+            "time": "19:00",
             "note": null
           }
         ],
@@ -3566,7 +3634,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:17:00 tue:19:00 wed:10:30 thu:19:00 fri:10:30 saturday:17:00 sunday:10:30"
+        "raw": "mon:10:30 tue:19:00 wed:10:30 thu:19:00 fri:10:30 saturday:19:00 sunday:10:30"
       },
       "church_id": "201006723",
       "match_method": "phone"
@@ -3584,30 +3652,10 @@
               "note": null
             }
           ],
-          "tue": [
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "wed": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ],
-          "thu": [
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "fri": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ]
+          "tue": [],
+          "wed": [],
+          "thu": [],
+          "fri": []
         },
         "saturday": [
           {
@@ -3634,7 +3682,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:16:00, 19:00 sunday:09:00, 11:00, 19:30"
+        "raw": "mon:06:00 saturday:16:00, 19:00 sunday:09:00, 11:00, 19:30"
       },
       "church_id": "201000487",
       "match_method": "phone"
@@ -4288,7 +4336,7 @@
           ],
           "wed": [
             {
-              "time": "19:30",
+              "time": "10:00",
               "note": null
             }
           ],
@@ -4300,16 +4348,12 @@
           ],
           "fri": [
             {
-              "time": "19:30",
+              "time": "10:00",
               "note": null
             }
           ]
         },
         "saturday": [
-          {
-            "time": "15:00",
-            "note": null
-          },
           {
             "time": "19:00",
             "note": null
@@ -4330,7 +4374,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:30 tue:19:30 wed:19:30 thu:19:30 fri:19:30 saturday:15:00, 19:00 sunday:09:00, 11:00, 19:00"
+        "raw": "mon:06:30 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:19:00 sunday:09:00, 11:00, 19:00"
       },
       "church_id": "201007949",
       "match_method": "phone"
@@ -4521,12 +4565,12 @@
             "note": null
           },
           {
-            "time": "07:30",
+            "time": "19:30",
             "note": null
           }
         ],
         "special": [],
-        "raw": "mon:06:30 tue:19:30 wed:06:30, 10:00 thu:19:30 fri:10:00 saturday:10:00, 17:00, 17:00 sunday:07:00, 07:30"
+        "raw": "mon:06:30 tue:19:30 wed:06:30, 10:00 thu:19:30 fri:10:00 saturday:10:00, 17:00, 17:00 sunday:07:00, 19:30"
       },
       "church_id": "201000500",
       "match_method": "phone"
@@ -4869,11 +4913,11 @@
             "note": null
           },
           {
-            "time": "09:00",
+            "time": "08:30",
             "note": null
           },
           {
-            "time": "11:00",
+            "time": "10:30",
             "note": null
           },
           {
@@ -4886,7 +4930,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:19:30 wed:10:00, 19:30 thu:10:00, 19:30 fri:10:00 saturday:10:00, 19:00 sunday:06:30, 09:00, 11:00, 16:00, 19:00"
+        "raw": "mon:06:00 tue:19:30 wed:10:00, 19:30 thu:10:00, 19:30 fri:10:00 saturday:10:00, 19:00 sunday:06:30, 08:30, 10:30, 16:00, 19:00"
       },
       "church_id": "201000504",
       "match_method": "phone"
@@ -4907,10 +4951,6 @@
           "tue": [
             {
               "time": "10:00",
-              "note": null
-            },
-            {
-              "time": "12:00",
               "note": null
             },
             {
@@ -4978,7 +5018,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:30 tue:10:00, 12:00, 19:30 wed:10:00 thu:10:00, 19:30 fri:10:00 saturday:10:00, 16:00, 19:30 sunday:06:30, 08:30, 10:30, 16:00, 19:30"
+        "raw": "mon:06:30 tue:10:00, 19:30 wed:10:00 thu:10:00, 19:30 fri:10:00 saturday:10:00, 16:00, 19:30 sunday:06:30, 08:30, 10:30, 16:00, 19:30"
       },
       "church_id": "201000505",
       "match_method": "phone"
@@ -5343,10 +5383,6 @@
         },
         "saturday": [
           {
-            "time": "17:00",
-            "note": null
-          },
-          {
             "time": "19:30",
             "note": null
           }
@@ -5362,7 +5398,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:10:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:17:00, 19:30 sunday:08:30, 11:00"
+        "raw": "mon:10:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:19:30 sunday:08:30, 11:00"
       },
       "church_id": "201000510",
       "match_method": "phone"
@@ -5376,7 +5412,7 @@
         "weekday": {
           "mon": [
             {
-              "time": "10:00",
+              "time": "06:30",
               "note": null
             }
           ],
@@ -5422,7 +5458,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:10:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:18:00 sunday:08:00, 11:00"
+        "raw": "mon:06:30 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:18:00 sunday:08:00, 11:00"
       },
       "church_id": "201000511",
       "match_method": "phone"
@@ -5508,12 +5544,16 @@
         ],
         "sunday": [
           {
+            "time": "07:00",
+            "note": null
+          },
+          {
             "time": "10:30",
             "note": null
           }
         ],
         "special": [],
-        "raw": "mon:06:30 tue:19:00 wed:10:00 thu:19:00 fri:10:00 saturday:18:00 sunday:10:30"
+        "raw": "mon:06:30 tue:19:00 wed:10:00 thu:19:00 fri:10:00 saturday:18:00 sunday:07:00, 10:30"
       },
       "church_id": "201000513",
       "match_method": "phone"
@@ -5619,14 +5659,36 @@
               "note": null
             }
           ],
-          "tue": [],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
           "wed": [
+            {
+              "time": "06:00",
+              "note": null
+            },
             {
               "time": "10:00",
               "note": null
             }
           ],
-          "thu": [],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
           "fri": [
             {
               "time": "10:00",
@@ -5675,7 +5737,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 wed:10:00 fri:10:00, 19:30 saturday:10:00, 15:00, 19:30 sunday:07:00, 09:00, 11:00, 16:00, 19:30"
+        "raw": "mon:06:00 tue:10:00, 19:30 wed:06:00, 10:00 thu:10:00, 19:30 fri:10:00, 19:30 saturday:10:00, 15:00, 19:30 sunday:07:00, 09:00, 11:00, 16:00, 19:30"
       },
       "church_id": "201000514",
       "match_method": "phone"
@@ -5691,10 +5753,6 @@
             {
               "time": "06:00",
               "note": null
-            },
-            {
-              "time": "09:30",
-              "note": null
             }
           ],
           "tue": [
@@ -5707,8 +5765,34 @@
               "note": null
             }
           ],
-          "wed": [],
-          "thu": [],
+          "wed": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
           "fri": [
             {
               "time": "06:00",
@@ -5765,7 +5849,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00, 09:30 tue:06:00, 10:00 fri:06:00, 10:00 saturday:06:00, 10:00, 15:30, 19:30 sunday:06:00, 09:00, 11:00, 12:50, 17:00, 19:30"
+        "raw": "mon:06:00 tue:06:00, 10:00 wed:06:00, 10:00, 19:30 thu:06:00, 10:00, 19:30 fri:06:00, 10:00 saturday:06:00, 10:00, 15:30, 19:30 sunday:06:00, 09:00, 11:00, 12:50, 17:00, 19:30"
       },
       "church_id": "201000515",
       "match_method": "phone"
@@ -5868,10 +5952,6 @@
             "note": null
           },
           {
-            "time": "13:00",
-            "note": null
-          },
-          {
             "time": "15:00",
             "note": null
           },
@@ -5885,7 +5965,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:06:00, 10:00, 19:30 wed:06:00, 10:00 thu:06:00, 10:00, 19:30 fri:06:00, 10:00, 19:30 saturday:06:00, 10:00, 16:00, 19:30 sunday:06:00, 08:30, 11:00, 13:00, 15:00, 18:00, 21:00"
+        "raw": "mon:06:00 tue:06:00, 10:00, 19:30 wed:06:00, 10:00 thu:06:00, 10:00, 19:30 fri:06:00, 10:00, 19:30 saturday:06:00, 10:00, 16:00, 19:30 sunday:06:00, 08:30, 11:00, 15:00, 18:00, 21:00"
       },
       "church_id": "201000516",
       "match_method": "phone"
@@ -5995,9 +6075,31 @@
               "note": null
             }
           ],
-          "tue": [],
-          "wed": [],
+          "tue": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
           "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
             {
               "time": "19:30",
               "note": null
@@ -6051,7 +6153,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:30 thu:19:30 fri:06:30, 10:00 saturday:10:00, 16:00, 19:00 sunday:06:30, 09:00, 11:00, 16:00, 19:00"
+        "raw": "mon:06:30 tue:10:00, 19:30 wed:06:30, 10:00 thu:10:00, 19:30 fri:06:30, 10:00 saturday:10:00, 16:00, 19:00 sunday:06:30, 09:00, 11:00, 16:00, 19:00"
       },
       "church_id": "201000593",
       "match_method": "phone"
@@ -6151,10 +6253,6 @@
           ],
           "tue": [
             {
-              "time": "08:00",
-              "note": null
-            },
-            {
               "time": "19:30",
               "note": null
             }
@@ -6215,7 +6313,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:09:00 tue:08:00, 19:30 wed:10:00, 19:30 thu:10:00, 19:30 fri:10:00 saturday:10:00, 19:00 sunday:08:00, 11:00, 15:00, 19:00"
+        "raw": "mon:09:00 tue:19:30 wed:10:00, 19:30 thu:10:00, 19:30 fri:10:00 saturday:10:00, 19:00 sunday:08:00, 11:00, 15:00, 19:00"
       },
       "church_id": "201000518",
       "match_method": "phone"
@@ -6230,10 +6328,6 @@
           "mon": [
             {
               "time": "06:00",
-              "note": null
-            },
-            {
-              "time": "14:00",
               "note": null
             }
           ],
@@ -6311,7 +6405,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00, 14:00 tue:10:00, 19:30 wed:06:00, 10:00 thu:10:00, 19:30 fri:06:00, 10:00 saturday:10:00, 19:30 sunday:06:00, 09:00, 11:00, 15:00, 19:30"
+        "raw": "mon:06:00 tue:10:00, 19:30 wed:06:00, 10:00 thu:10:00, 19:30 fri:06:00, 10:00 saturday:10:00, 19:30 sunday:06:00, 09:00, 11:00, 15:00, 19:30"
       },
       "church_id": "201000519",
       "match_method": "phone"
@@ -7258,10 +7352,6 @@
             "note": null
           },
           {
-            "time": "16:00",
-            "note": null
-          },
-          {
             "time": "19:30",
             "note": null
           }
@@ -7285,7 +7375,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:09:00 tue:10:00, 19:30 wed:07:00, 10:00 thu:10:00, 19:30 fri:07:00, 10:00 saturday:10:00, 16:00, 19:30 sunday:07:00, 08:30, 10:30, 19:30"
+        "raw": "mon:09:00 tue:10:00, 19:30 wed:07:00, 10:00 thu:10:00, 19:30 fri:07:00, 10:00 saturday:10:00, 19:30 sunday:07:00, 08:30, 10:30, 19:30"
       },
       "church_id": "201000531",
       "match_method": "phone"
@@ -7807,6 +7897,10 @@
             "note": null
           },
           {
+            "time": "09:00",
+            "note": null
+          },
+          {
             "time": "10:30",
             "note": null
           },
@@ -7820,7 +7914,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:10:00, 19:30 wed:06:00, 10:00 thu:10:00, 19:30 fri:10:00, 19:30 saturday:10:00, 19:30 sunday:08:00, 10:30, 15:30, 19:30"
+        "raw": "mon:06:00 tue:10:00, 19:30 wed:06:00, 10:00 thu:10:00, 19:30 fri:10:00, 19:30 saturday:10:00, 19:30 sunday:08:00, 09:00, 10:30, 15:30, 19:30"
       },
       "church_id": "201000536",
       "match_method": "phone"
@@ -7852,10 +7946,6 @@
             {
               "time": "10:00",
               "note": null
-            },
-            {
-              "time": "10:00",
-              "note": null
             }
           ],
           "thu": [
@@ -7877,10 +7967,6 @@
         },
         "saturday": [
           {
-            "time": "10:00",
-            "note": null
-          },
-          {
             "time": "15:00",
             "note": null
           },
@@ -7890,10 +7976,6 @@
           }
         ],
         "sunday": [
-          {
-            "time": "06:30",
-            "note": null
-          },
           {
             "time": "06:30",
             "note": null
@@ -7912,7 +7994,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:10:00, 19:30 wed:10:00, 10:00 thu:10:00, 19:30 fri:10:00 saturday:10:00, 15:00, 19:00 sunday:06:30, 06:30, 08:30, 11:00, 18:00"
+        "raw": "mon:06:00 tue:10:00, 19:30 wed:10:00 thu:10:00, 19:30 fri:10:00 saturday:15:00, 19:00 sunday:06:30, 08:30, 11:00, 18:00"
       },
       "church_id": "201000537",
       "match_method": "phone"
@@ -8122,10 +8204,6 @@
         "weekday": {
           "mon": [
             {
-              "time": "08:00",
-              "note": null
-            },
-            {
               "time": "09:00",
               "note": null
             }
@@ -8172,7 +8250,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:08:00, 09:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:17:00 sunday:09:00, 16:00"
+        "raw": "mon:09:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:17:00 sunday:09:00, 16:00"
       },
       "church_id": "201000549",
       "match_method": "phone"
@@ -8190,24 +8268,9 @@
               "note": null
             }
           ],
-          "tue": [
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "wed": [
-            {
-              "time": "10:30",
-              "note": null
-            }
-          ],
-          "thu": [
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
+          "tue": [],
+          "wed": [],
+          "thu": [],
           "fri": [
             {
               "time": "10:30",
@@ -8236,7 +8299,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:30 tue:19:30 wed:10:30 thu:19:30 fri:10:30 saturday:19:00 sunday:09:00, 11:00, 15:00"
+        "raw": "mon:06:30 fri:10:30 saturday:19:00 sunday:09:00, 11:00, 15:00"
       },
       "church_id": "201007922",
       "match_method": "phone"
@@ -8270,6 +8333,10 @@
             {
               "time": "19:30",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
             }
           ],
           "fri": [
@@ -8300,7 +8367,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:30 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:17:00 sunday:09:00, 11:00, 17:00"
+        "raw": "mon:06:30 tue:19:30 wed:10:00 thu:19:30, 19:30 fri:10:00 saturday:17:00 sunday:09:00, 11:00, 17:00"
       },
       "church_id": "201000541",
       "match_method": "phone"
@@ -8883,10 +8950,6 @@
               "note": null
             },
             {
-              "time": "16:00",
-              "note": null
-            },
-            {
               "time": "19:30",
               "note": null
             }
@@ -8947,7 +9010,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:10:00, 16:00, 19:30 wed:10:00, 19:30 thu:10:00, 19:30 fri:10:00 saturday:10:00, 19:30 sunday:06:30, 09:00, 11:00, 19:30"
+        "raw": "mon:06:00 tue:10:00, 19:30 wed:10:00, 19:30 thu:10:00, 19:30 fri:10:00 saturday:10:00, 19:30 sunday:06:30, 09:00, 11:00, 19:30"
       },
       "church_id": "201000550",
       "match_method": "phone"
@@ -9031,10 +9094,6 @@
               "note": null
             },
             {
-              "time": "19:00",
-              "note": null
-            },
-            {
               "time": "19:30",
               "note": null
             }
@@ -9095,7 +9154,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:30 tue:10:00, 19:00, 19:30 wed:06:30, 10:00 thu:19:30 fri:06:30, 10:00 saturday:19:00 sunday:06:30, 08:30, 10:30, 15:00, 19:00"
+        "raw": "mon:06:30 tue:10:00, 19:30 wed:06:30, 10:00 thu:19:30 fri:06:30, 10:00 saturday:19:00 sunday:06:30, 08:30, 10:30, 15:00, 19:00"
       },
       "church_id": "201000552",
       "match_method": "name"
@@ -9311,10 +9370,6 @@
           ],
           "tue": [
             {
-              "time": "07:00",
-              "note": null
-            },
-            {
               "time": "10:00",
               "note": null
             },
@@ -9387,7 +9442,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:30 tue:07:00, 10:00, 19:30 wed:06:30, 10:00 thu:10:00, 19:30 fri:06:30, 10:00 saturday:10:00, 16:00, 19:30 sunday:06:30, 09:00, 11:00, 19:30"
+        "raw": "mon:06:30 tue:10:00, 19:30 wed:06:30, 10:00 thu:10:00, 19:30 fri:06:30, 10:00 saturday:10:00, 16:00, 19:30 sunday:06:30, 09:00, 11:00, 19:30"
       },
       "church_id": "201000555",
       "match_method": "phone"
@@ -9401,7 +9456,7 @@
         "weekday": {
           "mon": [
             {
-              "time": "06:00",
+              "time": "08:00",
               "note": null
             }
           ],
@@ -9455,7 +9510,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:19:30 sunday:08:00, 10:30, 16:00, 19:30"
+        "raw": "mon:08:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:19:30 sunday:08:00, 10:30, 16:00, 19:30"
       },
       "church_id": "201000556",
       "match_method": "phone"
@@ -10601,7 +10656,12 @@
               "note": null
             }
           ],
-          "wed": [],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
           "thu": [
             {
               "time": "19:30",
@@ -10644,7 +10704,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:10:30 tue:19:30 thu:19:30 fri:10:00 saturday:16:00, 19:30, 19:30 sunday:09:00, 11:00, 19:00"
+        "raw": "mon:10:30 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:16:00, 19:30, 19:30 sunday:09:00, 11:00, 19:00"
       },
       "church_id": "201000575",
       "match_method": "phone"
@@ -11130,10 +11190,30 @@
               "note": null
             }
           ],
-          "tue": [],
-          "wed": [],
-          "thu": [],
-          "fri": []
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
         },
         "saturday": [
           {
@@ -11156,7 +11236,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:30 saturday:19:30 sunday:08:30, 11:00, 16:00"
+        "raw": "mon:06:30 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:19:30 sunday:08:30, 11:00, 16:00"
       },
       "church_id": "201000582",
       "match_method": "phone"
@@ -11682,10 +11762,6 @@
           ],
           "wed": [
             {
-              "time": "08:00",
-              "note": null
-            },
-            {
               "time": "10:00",
               "note": null
             }
@@ -11732,7 +11808,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:09:00 tue:19:30 wed:08:00, 10:00 thu:19:30 fri:10:00 saturday:16:00, 19:00 sunday:09:00, 11:00, 18:00, 20:00"
+        "raw": "mon:09:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:16:00, 19:00 sunday:09:00, 11:00, 18:00, 20:00"
       },
       "church_id": "201007886",
       "match_method": "phone"
@@ -12065,10 +12141,6 @@
         },
         "saturday": [
           {
-            "time": "10:00",
-            "note": null
-          },
-          {
             "time": "19:30",
             "note": null
           }
@@ -12092,7 +12164,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:10:00, 19:30 wed:10:00 thu:10:00, 19:30 fri:10:00 saturday:10:00, 19:30 sunday:08:00, 10:30, 16:00, 19:30"
+        "raw": "mon:06:00 tue:10:00, 19:30 wed:10:00 thu:10:00, 19:30 fri:10:00 saturday:19:30 sunday:08:00, 10:30, 16:00, 19:30"
       },
       "church_id": "201000594",
       "match_method": "phone"
@@ -12110,22 +12182,8 @@
               "note": null
             }
           ],
-          "tue": [
-            {
-              "time": "08:30",
-              "note": null
-            },
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "wed": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ],
+          "tue": [],
+          "wed": [],
           "thu": [
             {
               "time": "19:30",
@@ -12164,7 +12222,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:08:30, 19:30 wed:10:00 thu:19:30 fri:10:00 saturday:16:00, 18:30 sunday:09:00, 11:00, 17:00"
+        "raw": "mon:06:00 thu:19:30 fri:10:00 saturday:16:00, 18:30 sunday:09:00, 11:00, 17:00"
       },
       "church_id": "201007151",
       "match_method": "phone"
@@ -13123,15 +13181,11 @@
           ],
           "tue": [
             {
-              "time": "09:00",
-              "note": null
-            },
-            {
-              "time": "09:00",
-              "note": null
-            },
-            {
               "time": "19:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
               "note": null
             }
           ],
@@ -13175,7 +13229,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:30 tue:09:00, 09:00, 19:00 wed:10:00 thu:19:00 fri:10:00 saturday:15:00 sunday:09:00, 11:00, 19:00"
+        "raw": "mon:06:30 tue:19:00, 19:30 wed:10:00 thu:19:00 fri:10:00 saturday:15:00 sunday:09:00, 11:00, 19:00"
       },
       "church_id": "201000607",
       "match_method": "phone"
@@ -13188,6 +13242,10 @@
       "mass": {
         "weekday": {
           "mon": [
+            {
+              "time": "08:00",
+              "note": null
+            },
             {
               "time": "10:00",
               "note": null
@@ -13267,7 +13325,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:10:00 tue:10:00, 19:30 wed:06:00, 10:00 thu:10:00, 19:30 fri:06:00, 10:00 saturday:16:00, 19:30 sunday:07:00, 09:00, 11:00, 16:00, 19:30"
+        "raw": "mon:08:00, 10:00 tue:10:00, 19:30 wed:06:00, 10:00 thu:10:00, 19:30 fri:06:00, 10:00 saturday:16:00, 19:30 sunday:07:00, 09:00, 11:00, 16:00, 19:30"
       },
       "church_id": "201000608",
       "match_method": "phone"
@@ -13735,10 +13793,6 @@
             {
               "time": "10:30",
               "note": null
-            },
-            {
-              "time": "14:00",
-              "note": null
             }
           ],
           "thu": [
@@ -13756,10 +13810,6 @@
         },
         "saturday": [
           {
-            "time": "16:00",
-            "note": null
-          },
-          {
             "time": "19:00",
             "note": null
           }
@@ -13775,7 +13825,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:09:00 tue:19:30 wed:10:30, 14:00 thu:19:30 fri:10:30 saturday:16:00, 19:00 sunday:08:30, 10:30"
+        "raw": "mon:09:00 tue:19:30 wed:10:30 thu:19:30 fri:10:30 saturday:19:00 sunday:08:30, 10:30"
       },
       "church_id": "201008374",
       "match_method": "phone"
@@ -13903,29 +13953,17 @@
           ],
           "tue": [
             {
-              "time": "10:00",
-              "note": null
-            },
-            {
               "time": "19:30",
               "note": null
             }
           ],
           "wed": [
             {
-              "time": "06:00",
-              "note": null
-            },
-            {
               "time": "10:00",
               "note": null
             }
           ],
           "thu": [
-            {
-              "time": "10:00",
-              "note": null
-            },
             {
               "time": "19:30",
               "note": null
@@ -13934,10 +13972,6 @@
           "fri": [
             {
               "time": "10:00",
-              "note": null
-            },
-            {
-              "time": "19:30",
               "note": null
             }
           ]
@@ -13971,7 +14005,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:10:00, 19:30 wed:06:00, 10:00 thu:10:00, 19:30 fri:10:00, 19:30 saturday:10:00, 16:00, 19:00 sunday:08:30, 11:00, 19:00"
+        "raw": "mon:06:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:10:00, 16:00, 19:00 sunday:08:30, 11:00, 19:00"
       },
       "church_id": "201000616",
       "match_method": "phone"
@@ -14105,7 +14139,7 @@
         "weekday": {
           "mon": [
             {
-              "time": "08:00",
+              "time": "07:00",
               "note": null
             }
           ],
@@ -14151,7 +14185,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:08:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:17:00 sunday:10:00, 17:00"
+        "raw": "mon:07:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:17:00 sunday:10:00, 17:00"
       },
       "church_id": "201000618",
       "match_method": "phone"
@@ -14326,6 +14360,10 @@
         ],
         "sunday": [
           {
+            "time": "07:50",
+            "note": null
+          },
+          {
             "time": "08:00",
             "note": null
           },
@@ -14335,7 +14373,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:10:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:18:00 sunday:08:00, 11:00"
+        "raw": "mon:10:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:18:00 sunday:07:50, 08:00, 11:00"
       },
       "church_id": "201000621",
       "match_method": "phone"
@@ -14415,7 +14453,7 @@
           ],
           "tue": [
             {
-              "time": "10:00",
+              "time": "08:00",
               "note": null
             },
             {
@@ -14434,10 +14472,6 @@
             }
           ],
           "thu": [
-            {
-              "time": "08:00",
-              "note": null
-            },
             {
               "time": "10:00",
               "note": null
@@ -14495,7 +14529,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:10:00, 19:30 wed:10:00, 19:30 thu:08:00, 10:00, 19:30 fri:06:00, 10:00 saturday:10:00, 16:00, 19:30 sunday:06:30, 09:00, 11:00, 16:00, 19:30"
+        "raw": "mon:06:00 tue:08:00, 19:30 wed:10:00, 19:30 thu:10:00, 19:30 fri:06:00, 10:00 saturday:10:00, 16:00, 19:30 sunday:06:30, 09:00, 11:00, 16:00, 19:30"
       },
       "church_id": "201000623",
       "match_method": "phone"
@@ -14540,6 +14574,10 @@
         },
         "saturday": [
           {
+            "time": "10:00",
+            "note": null
+          },
+          {
             "time": "18:00",
             "note": null
           }
@@ -14559,7 +14597,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:18:00 sunday:06:00, 10:30, 18:00"
+        "raw": "mon:06:00 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:10:00, 18:00 sunday:06:00, 10:30, 18:00"
       },
       "church_id": "201000624",
       "match_method": "phone"
@@ -14775,7 +14813,7 @@
           ],
           "tue": [
             {
-              "time": "19:30",
+              "time": "10:00",
               "note": null
             }
           ],
@@ -14823,7 +14861,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:30 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:15:00, 19:00 sunday:08:00, 10:30, 17:00"
+        "raw": "mon:06:30 tue:10:00 wed:10:00 thu:19:30 fri:10:00 saturday:15:00, 19:00 sunday:08:00, 10:30, 17:00"
       },
       "church_id": "201000628",
       "match_method": "phone"
@@ -15087,10 +15125,30 @@
       "source_url": "http://www.casuwon.or.kr/parish/parish/2?serial=13210&church=호매실동",
       "mass": {
         "weekday": {
-          "mon": [],
-          "tue": [],
-          "wed": [],
-          "thu": [],
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
           "fri": [
             {
               "time": "10:00",
@@ -15099,10 +15157,6 @@
           ]
         },
         "saturday": [
-          {
-            "time": "16:00",
-            "note": null
-          },
           {
             "time": "19:00",
             "note": null
@@ -15119,7 +15173,7 @@
           }
         ],
         "special": [],
-        "raw": "fri:10:00 saturday:16:00, 19:00 sunday:09:00, 11:00"
+        "raw": "mon:06:30 tue:19:30 wed:10:00 thu:19:30 fri:10:00 saturday:19:00 sunday:09:00, 11:00"
       },
       "church_id": "201007846",
       "match_method": "phone"
@@ -15343,93 +15397,6 @@
       },
       "church_id": "201000635",
       "match_method": "phone"
-    },
-    {
-      "parish_name": "동탄장지동",
-      "diocese": "수원교구",
-      "phone": null,
-      "source_url": "https://cafe.naver.com/ndt 게시글 2478 (미사시간 이미지)",
-      "mass": {
-        "weekday": {
-          "mon": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ],
-          "tue": [
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "wed": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ],
-          "thu": [
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "fri": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ]
-        },
-        "saturday": [
-          {
-            "time": "10:00",
-            "note": "성모신심미사 첫주",
-            "type": [
-              "신심"
-            ],
-            "recurrence": {
-              "weeks": [
-                1
-              ],
-              "raw": "성모신심미사 첫주"
-            }
-          },
-          {
-            "time": "19:30",
-            "note": "특전미사",
-            "type": [
-              "특전"
-            ]
-          }
-        ],
-        "sunday": [
-          {
-            "time": "10:00",
-            "note": "교중",
-            "type": [
-              "교중"
-            ]
-          },
-          {
-            "time": "15:00",
-            "note": "어린이",
-            "type": [
-              "어린이"
-            ]
-          },
-          {
-            "time": "19:30",
-            "note": "침묵미사"
-          }
-        ],
-        "special": [],
-        "raw": "manual"
-      },
-      "church_id": "201008059",
-      "match_method": "name",
-      "manual": true
     }
   ]
 }

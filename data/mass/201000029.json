@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T15:42:54+00:00",
+  "generated_at": "2026-07-13T22:02:09+00:00",
   "diocese": "군종교구",
   "diocese_id": "201000029",
   "count": 45,
@@ -729,28 +729,33 @@
       "source_url": "https://www.gunjong.or.kr/main-parish/detail-page.asp?org_cd=41110008",
       "mass": {
         "weekday": {
-          "mon": [],
+          "mon": [
+            {
+              "time": "09:00",
+              "note": "평일미사"
+            }
+          ],
           "tue": [
             {
-              "time": "07:30",
+              "time": "10:00",
               "note": "평일미사"
             }
           ],
           "wed": [
             {
-              "time": "19:00",
+              "time": "10:00",
               "note": "평일미사"
             }
           ],
           "thu": [
             {
-              "time": "07:30",
+              "time": "10:00",
               "note": "평일미사"
             }
           ],
           "fri": [
             {
-              "time": "07:30",
+              "time": "10:00",
               "note": "평일미사"
             }
           ]
@@ -775,7 +780,7 @@
           }
         ],
         "special": [],
-        "raw": "tue 07:30 평일미사; wed 19:00 평일미사; thu 07:30 평일미사; fri 07:30 평일미사; saturday 10:00 평일미사; sunday 10:30 교중미사 14:00 1경비단 주일미사"
+        "raw": "mon 09:00 평일미사; tue 10:00 평일미사; wed 10:00 평일미사; thu 10:00 평일미사; fri 10:00 평일미사; saturday 10:00 평일미사; sunday 10:30 교중미사 14:00 1경비단 주일미사"
       },
       "church_id": "201001573",
       "match_method": "name"
@@ -1795,27 +1800,22 @@
       "mass": {
         "weekday": {
           "mon": [],
-          "tue": [
-            {
-              "time": "13:30",
-              "note": null
-            }
-          ],
+          "tue": [],
           "wed": [
             {
-              "time": "13:30",
+              "time": "10:00",
               "note": null
             }
           ],
           "thu": [
             {
-              "time": "13:30",
+              "time": "10:00",
               "note": null
             }
           ],
           "fri": [
             {
-              "time": "13:30",
+              "time": "10:00",
               "note": null
             }
           ]
@@ -1832,7 +1832,7 @@
           }
         ],
         "special": [],
-        "raw": "tue 13:30; wed 13:30; thu 13:30; fri 13:30; sunday 09:00 병사 교리 10:00 미사"
+        "raw": "wed 10:00; thu 10:00; fri 10:00; sunday 09:00 병사 교리 10:00 미사"
       },
       "church_id": "201001618",
       "match_method": "phone"
