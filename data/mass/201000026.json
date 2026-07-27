@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T22:05:21+00:00",
+  "generated_at": "2026-07-27T22:12:53+00:00",
   "diocese": "광주대교구",
   "diocese_id": "201000026",
   "count": 140,
@@ -113,7 +113,7 @@
     {
       "parish_name": "계림동",
       "diocese": "광주대교구",
-      "phone": "223-1964",
+      "phone": "062-223-1964",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31002",
       "mass": {
         "weekday": {
@@ -125,25 +125,25 @@
           ],
           "tue": [
             {
-              "time": "19:30",
+              "time": "08:00",
               "note": null
             }
           ],
           "wed": [
             {
-              "time": "10:00",
+              "time": "08:00",
               "note": null
             }
           ],
           "thu": [
             {
-              "time": "10:00",
+              "time": "08:00",
               "note": null
             }
           ],
           "fri": [
             {
-              "time": "19:30",
+              "time": "08:00",
               "note": null
             }
           ]
@@ -165,10 +165,10 @@
           }
         ],
         "special": [],
-        "raw": "월 08:00; 화 19:30; 수 10:00; 목 10:00; 금 19:30; 토 19:00; 주일 08:00, 10:30"
+        "raw": "월 08:00; 화 08:00; 수 08:00; 목 08:00; 금 08:00; 토 19:00; 주일 08:00, 10:30"
       },
       "church_id": "201001114",
-      "match_method": "name"
+      "match_method": "phone"
     },
     {
       "parish_name": "고금",
@@ -179,7 +179,12 @@
         "weekday": {
           "mon": [],
           "tue": [],
-          "wed": [],
+          "wed": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
           "thu": [],
           "fri": []
         },
@@ -191,7 +196,7 @@
           }
         ],
         "special": [],
-        "raw": "주일 10:00"
+        "raw": "수 19:00; 주일 10:00"
       },
       "church_id": "201007206",
       "match_method": "phone"
@@ -521,7 +526,7 @@
     {
       "parish_name": "금당",
       "diocese": "광주대교구",
-      "phone": "724-8234",
+      "phone": "061-724-8234",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31090",
       "mass": {
         "weekday": {
@@ -580,7 +585,7 @@
         "raw": "월 06:30; 화 19:30; 수 19:30; 목 10:00; 금 19:30; 토 19:30; 주일 08:30, 10:30, 19:30"
       },
       "church_id": "201001121",
-      "match_method": "name"
+      "match_method": "phone"
     },
     {
       "parish_name": "금암",
@@ -682,16 +687,12 @@
             "note": null
           },
           {
-            "time": "16:00",
-            "note": null
-          },
-          {
             "time": "19:30",
             "note": null
           }
         ],
         "special": [],
-        "raw": "월 06:30; 화 19:30; 수 09:30; 목 09:30; 금 19:30; 토 19:30; 주일 08:00, 10:00, 16:00, 19:30"
+        "raw": "월 06:30; 화 19:30; 수 09:30; 목 09:30; 금 19:30; 토 19:30; 주일 08:00, 10:00, 19:30"
       },
       "church_id": "201006735",
       "match_method": "phone"
@@ -971,7 +972,7 @@
     {
       "parish_name": "남평",
       "diocese": "광주대교구",
-      "phone": "061)333-5004",
+      "phone": "061-333-5004",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31035",
       "mass": {
         "weekday": {
@@ -1035,10 +1036,6 @@
             {
               "time": "10:00",
               "note": null
-            },
-            {
-              "time": "18:30",
-              "note": null
             }
           ],
           "tue": [
@@ -1068,6 +1065,10 @@
         },
         "saturday": [
           {
+            "time": "16:00",
+            "note": null
+          },
+          {
             "time": "19:30",
             "note": null
           }
@@ -1087,7 +1088,7 @@
           }
         ],
         "special": [],
-        "raw": "월 10:00, 18:30; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 19:30; 주일 07:00, 10:00, 19:30"
+        "raw": "월 10:00; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 16:00, 19:30; 주일 07:00, 10:00, 19:30"
       },
       "church_id": "201001128",
       "match_method": "phone"
@@ -1187,10 +1188,6 @@
         },
         "saturday": [
           {
-            "time": "16:00",
-            "note": null
-          },
-          {
             "time": "19:30",
             "note": null
           }
@@ -1206,7 +1203,7 @@
           }
         ],
         "special": [],
-        "raw": "화 19:30; 수 10:00; 목 10:00; 금 19:30; 토 16:00, 19:30; 주일 06:30, 10:00"
+        "raw": "화 19:30; 수 10:00; 목 10:00; 금 19:30; 토 19:30; 주일 06:30, 10:00"
       },
       "church_id": "201001131",
       "match_method": "phone"
@@ -1265,7 +1262,7 @@
     {
       "parish_name": "다시",
       "diocese": "광주대교구",
-      "phone": "061)335-4040",
+      "phone": "061-335-4040",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31091",
       "mass": {
         "weekday": {
@@ -1528,6 +1525,10 @@
         },
         "saturday": [
           {
+            "time": "09:00",
+            "note": null
+          },
+          {
             "time": "18:00",
             "note": null
           }
@@ -1543,7 +1544,7 @@
           }
         ],
         "special": [],
-        "raw": "화 19:30; 수 19:30; 목 09:30; 금 19:30; 토 18:00; 주일 07:30, 10:00"
+        "raw": "화 19:30; 수 19:30; 목 09:30; 금 19:30; 토 09:00, 18:00; 주일 07:30, 10:00"
       },
       "church_id": "201001136",
       "match_method": "phone"
@@ -1843,7 +1844,7 @@
     {
       "parish_name": "두암동",
       "diocese": "광주대교구",
-      "phone": "266-1004",
+      "phone": "062-266-1004",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31008",
       "mass": {
         "weekday": {
@@ -1902,7 +1903,7 @@
         "raw": "월 07:00; 화 19:30; 수 10:00; 목 10:00; 금 19:30; 토 19:00; 주일 07:00, 10:30, 19:30"
       },
       "church_id": "201001141",
-      "match_method": "name"
+      "match_method": "phone"
     },
     {
       "parish_name": "망운",
@@ -1958,7 +1959,7 @@
     {
       "parish_name": "매곡동",
       "diocese": "광주대교구",
-      "phone": "061)752-1274",
+      "phone": "061-752-1274",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31046",
       "mass": {
         "weekday": {
@@ -2064,7 +2065,7 @@
     {
       "parish_name": "문수동",
       "diocese": "광주대교구",
-      "phone": "061)651-1004",
+      "phone": "061-651-1004",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31052",
       "mass": {
         "weekday": {
@@ -2128,7 +2129,7 @@
     {
       "parish_name": "문흥동",
       "diocese": "광주대교구",
-      "phone": "263-6004",
+      "phone": "062-263-6004",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31009",
       "mass": {
         "weekday": {
@@ -2195,7 +2196,7 @@
         "raw": "월 06:30; 화 19:30; 수 09:30, 19:30; 목 09:30; 금 09:30; 토 06:30, 19:30; 주일 07:00, 10:30, 17:00"
       },
       "church_id": "201001147",
-      "match_method": "name"
+      "match_method": "phone"
     },
     {
       "parish_name": "미평동",
@@ -2514,7 +2515,7 @@
     {
       "parish_name": "봉선동",
       "diocese": "광주대교구",
-      "phone": "062)671-8001",
+      "phone": "062-671-8001",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31011",
       "mass": {
         "weekday": {
@@ -2586,7 +2587,7 @@
     {
       "parish_name": "북교동",
       "diocese": "광주대교구",
-      "phone": "061)242-1004",
+      "phone": "061-242-1004",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31040",
       "mass": {
         "weekday": {
@@ -2674,6 +2675,10 @@
         },
         "saturday": [
           {
+            "time": "10:00",
+            "note": null
+          },
+          {
             "time": "19:00",
             "note": null
           }
@@ -2693,7 +2698,7 @@
           }
         ],
         "special": [],
-        "raw": "월 07:00; 화 19:00; 수 10:00; 목 10:00; 금 19:00; 토 19:00; 주일 07:00, 09:00, 10:30"
+        "raw": "월 07:00; 화 19:00; 수 10:00; 목 10:00; 금 19:00; 토 10:00, 19:00; 주일 07:00, 09:00, 10:30"
       },
       "church_id": "201001110",
       "match_method": "phone"
@@ -2701,7 +2706,7 @@
     {
       "parish_name": "비아동",
       "diocese": "광주대교구",
-      "phone": "953-9107",
+      "phone": "062-953-9107",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31081",
       "mass": {
         "weekday": {
@@ -2756,7 +2761,7 @@
         "raw": "월 06:00; 화 19:30; 수 10:00; 목 10:00; 금 19:30; 토 19:30; 주일 07:00, 10:30"
       },
       "church_id": "201001155",
-      "match_method": "name"
+      "match_method": "phone"
     },
     {
       "parish_name": "빛가람동",
@@ -2821,7 +2826,7 @@
     {
       "parish_name": "사거리",
       "diocese": "광주대교구",
-      "phone": "394-8004",
+      "phone": "061-394-8004",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31082",
       "mass": {
         "weekday": {
@@ -2867,7 +2872,7 @@
         "raw": "화 19:30; 수 10:00; 목 10:00; 금 10:00; 토 19:30; 주일 10:00"
       },
       "church_id": "201001156",
-      "match_method": "name"
+      "match_method": "phone"
     },
     {
       "parish_name": "사창",
@@ -2923,7 +2928,7 @@
     {
       "parish_name": "산수동",
       "diocese": "광주대교구",
-      "phone": "(062)266-3004",
+      "phone": "062-266-3004",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31088",
       "mass": {
         "weekday": {
@@ -2999,7 +3004,7 @@
     {
       "parish_name": "산정동",
       "diocese": "광주대교구",
-      "phone": "0612742004",
+      "phone": "061-274-2004",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31041",
       "mass": {
         "weekday": {
@@ -3100,7 +3105,7 @@
         },
         "saturday": [
           {
-            "time": "15:00",
+            "time": "09:30",
             "note": null
           },
           {
@@ -3127,7 +3132,7 @@
           }
         ],
         "special": [],
-        "raw": "월 06:30; 화 19:30; 수 09:30, 19:30; 목 09:30; 금 09:30; 토 15:00, 17:00, 19:30; 주일 08:00, 10:00, 19:30"
+        "raw": "월 06:30; 화 19:30; 수 09:30, 19:30; 목 09:30; 금 09:30; 토 09:30, 17:00, 19:30; 주일 08:00, 10:00, 19:30"
       },
       "church_id": "201001160",
       "match_method": "phone"
@@ -3540,7 +3545,7 @@
     {
       "parish_name": "신기동",
       "diocese": "광주대교구",
-      "phone": "(061)684-2004",
+      "phone": "061-684-2004",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31014",
       "mass": {
         "weekday": {
@@ -3855,7 +3860,7 @@
     {
       "parish_name": "신창동",
       "diocese": "광주대교구",
-      "phone": "954-6004",
+      "phone": "062-954-6004",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31109",
       "mass": {
         "weekday": {
@@ -3892,6 +3897,10 @@
         },
         "saturday": [
           {
+            "time": "10:00",
+            "note": null
+          },
+          {
             "time": "16:00",
             "note": null
           },
@@ -3911,15 +3920,15 @@
           }
         ],
         "special": [],
-        "raw": "월 08:00; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 16:00, 19:30; 주일 08:00, 10:30"
+        "raw": "월 08:00; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 10:00, 16:00, 19:30; 주일 08:00, 10:30"
       },
       "church_id": "201001173",
-      "match_method": "name"
+      "match_method": "phone"
     },
     {
       "parish_name": "쌍암동",
       "diocese": "광주대교구",
-      "phone": "973-7004",
+      "phone": "062-973-7004",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31093",
       "mass": {
         "weekday": {
@@ -3998,7 +4007,7 @@
         "raw": "월 10:00; 화 19:30; 수 10:00, 19:30; 목 10:00; 금 10:00, 19:30; 토 10:00, 15:00, 19:00; 주일 07:30, 09:00, 10:30, 19:30"
       },
       "church_id": "201001174",
-      "match_method": "name"
+      "match_method": "phone"
     },
     {
       "parish_name": "쌍촌동",
@@ -4606,7 +4615,7 @@
     {
       "parish_name": "옥과",
       "diocese": "광주대교구",
-      "phone": "362-5107",
+      "phone": "061-362-5107",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31101",
       "mass": {
         "weekday": {
@@ -4652,7 +4661,7 @@
         "raw": "화 19:00; 수 09:30; 목 09:30; 금 19:00; 토 19:00; 주일 10:00"
       },
       "church_id": "201001188",
-      "match_method": "name"
+      "match_method": "phone"
     },
     {
       "parish_name": "옥암동",
@@ -4964,10 +4973,6 @@
         },
         "saturday": [
           {
-            "time": "16:00",
-            "note": null
-          },
-          {
             "time": "19:30",
             "note": null
           }
@@ -4979,7 +4984,7 @@
           }
         ],
         "special": [],
-        "raw": "화 19:30; 수 10:00; 목 10:00; 금 19:30; 토 16:00, 19:30; 주일 10:00"
+        "raw": "화 19:30; 수 10:00; 목 10:00; 금 19:30; 토 19:30; 주일 10:00"
       },
       "church_id": "201001193",
       "match_method": "phone"
@@ -5033,7 +5038,7 @@
     {
       "parish_name": "운남동",
       "diocese": "광주대교구",
-      "phone": "952-3004",
+      "phone": "062-952-3004",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31021",
       "mass": {
         "weekday": {
@@ -5104,12 +5109,12 @@
         "raw": "월 06:30; 화 19:30; 수 10:00; 목 10:00; 금 19:30; 토 10:00, 16:00, 19:30; 주일 06:30, 08:30, 10:30, 18:30"
       },
       "church_id": "201001195",
-      "match_method": "name"
+      "match_method": "phone"
     },
     {
       "parish_name": "운암동",
       "diocese": "광주대교구",
-      "phone": "062)524-8698",
+      "phone": "062-524-8698",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31022",
       "mass": {
         "weekday": {
@@ -5294,6 +5299,10 @@
         },
         "saturday": [
           {
+            "time": "10:00",
+            "note": null
+          },
+          {
             "time": "19:00",
             "note": null
           }
@@ -5309,7 +5318,7 @@
           }
         ],
         "special": [],
-        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 19:30; 토 19:00; 주일 06:30, 10:00"
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 19:30; 금 19:30; 토 10:00, 19:00; 주일 06:30, 10:00"
       },
       "church_id": "201001198",
       "match_method": "phone"
@@ -5317,7 +5326,7 @@
     {
       "parish_name": "월산동",
       "diocese": "광주대교구",
-      "phone": "363-3004",
+      "phone": "062-363-3004",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31025",
       "mass": {
         "weekday": {
@@ -5372,7 +5381,7 @@
         "raw": "월 06:30; 화 19:30; 수 10:00; 목 10:00; 금 10:00; 토 19:30; 주일 06:30, 10:30"
       },
       "church_id": "201001199",
-      "match_method": "name"
+      "match_method": "phone"
     },
     {
       "parish_name": "유촌동",
@@ -5671,6 +5680,10 @@
           "mon": [],
           "tue": [
             {
+              "time": "10:00",
+              "note": null
+            },
+            {
               "time": "19:30",
               "note": null
             }
@@ -5715,7 +5728,7 @@
           }
         ],
         "special": [],
-        "raw": "화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 17:00, 19:30; 주일 07:30, 10:30"
+        "raw": "화 10:00, 19:30; 수 10:00; 목 19:30; 금 10:00; 토 17:00, 19:30; 주일 07:30, 10:30"
       },
       "church_id": "201001205",
       "match_method": "phone"
@@ -6071,7 +6084,7 @@
         },
         "saturday": [
           {
-            "time": "16:00",
+            "time": "09:30",
             "note": null
           },
           {
@@ -6094,7 +6107,7 @@
           }
         ],
         "special": [],
-        "raw": "월 09:30; 화 19:30; 수 09:30; 목 09:30; 금 19:30; 토 16:00, 19:30; 주일 07:00, 10:30, 18:00"
+        "raw": "월 09:30; 화 19:30; 수 09:30; 목 09:30; 금 19:30; 토 09:30, 19:30; 주일 07:00, 10:30, 18:00"
       },
       "church_id": "201001212",
       "match_method": "phone"
@@ -6350,20 +6363,10 @@
             }
           ]
         },
-        "saturday": [
-          {
-            "time": "19:00",
-            "note": null
-          }
-        ],
-        "sunday": [
-          {
-            "time": "10:00",
-            "note": null
-          }
-        ],
+        "saturday": [],
+        "sunday": [],
         "special": [],
-        "raw": "월 06:30; 화 19:30; 수 10:00; 목 10:00; 금 10:00; 토 19:00; 주일 10:00"
+        "raw": "월 06:30; 화 19:30; 수 10:00; 목 10:00; 금 10:00"
       },
       "church_id": "201001217",
       "match_method": "phone"
@@ -6595,7 +6598,7 @@
         },
         "saturday": [
           {
-            "time": "16:00",
+            "time": "10:00",
             "note": null
           },
           {
@@ -6618,7 +6621,7 @@
           }
         ],
         "special": [],
-        "raw": "월 06:30; 화 19:30; 수 19:30; 목 10:00; 금 10:00; 토 16:00, 19:30; 주일 06:30, 10:00, 19:30"
+        "raw": "월 06:30; 화 19:30; 수 19:30; 목 10:00; 금 10:00; 토 10:00, 19:30; 주일 06:30, 10:00, 19:30"
       },
       "church_id": "201001221",
       "match_method": "phone"
@@ -6686,7 +6689,7 @@
     {
       "parish_name": "하남동",
       "diocese": "광주대교구",
-      "phone": "(062)352-2004",
+      "phone": "062-352-2004",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31122",
       "mass": {
         "weekday": {
@@ -6826,7 +6829,7 @@
     {
       "parish_name": "학다리",
       "diocese": "광주대교구",
-      "phone": "(061) 323-6663",
+      "phone": "061-323-6663",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31085",
       "mass": {
         "weekday": {
@@ -6885,7 +6888,7 @@
     {
       "parish_name": "학운동",
       "diocese": "광주대교구",
-      "phone": "062)232-4004",
+      "phone": "062-232-4004",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31030",
       "mass": {
         "weekday": {
@@ -6969,7 +6972,7 @@
     {
       "parish_name": "함평",
       "diocese": "광주대교구",
-      "phone": "323-8004",
+      "phone": "061-323-8004",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31076",
       "mass": {
         "weekday": {
@@ -7024,12 +7027,12 @@
         "raw": "월 06:30; 화 19:30; 수 10:00; 목 10:00; 금 19:30; 토 19:30; 주일 06:30, 10:30"
       },
       "church_id": "201001227",
-      "match_method": "name"
+      "match_method": "phone"
     },
     {
       "parish_name": "함평하상",
       "diocese": "광주대교구",
-      "phone": "061)323-0043",
+      "phone": "061-323-0043",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31092",
       "mass": {
         "weekday": {
@@ -7309,7 +7312,7 @@
     {
       "parish_name": "화순",
       "diocese": "광주대교구",
-      "phone": "061) 374-6001",
+      "phone": "061-374-6001",
       "source_url": "https://www.gjcatholic.or.kr/church/parish/view/31078",
       "mass": {
         "weekday": {

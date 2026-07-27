@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T22:05:21+00:00",
+  "generated_at": "2026-07-27T22:12:53+00:00",
   "diocese": "부산교구",
   "diocese_id": "201000022",
   "count": 125,
@@ -4652,6 +4652,90 @@
       "match_method": "phone"
     },
     {
+      "parish_name": "야음",
+      "diocese": "부산교구",
+      "phone": "052-275-3396",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/117",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:30; 수 10:00, 19:30; 목 10:00, 19:30; 금 10:00, 19:30; 토 17:00, 19:30; 주일 06:30, 08:00, 10:00, 18:00"
+      },
+      "church_id": "201001431",
+      "match_method": "phone"
+    },
+    {
       "parish_name": "양산",
       "diocese": "부산교구",
       "phone": "055-386-2065",
@@ -8685,114 +8769,6 @@
         "raw": "manual"
       },
       "church_id": "201001424",
-      "match_method": "name",
-      "manual": true
-    },
-    {
-      "parish_name": "야음",
-      "diocese": "부산교구",
-      "phone": null,
-      "source_url": "https://yaum.catb.kr (본당홈 미사안내 이미지)",
-      "mass": {
-        "weekday": {
-          "mon": [
-            {
-              "time": "06:30",
-              "note": null
-            }
-          ],
-          "tue": [
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "wed": [
-            {
-              "time": "10:00",
-              "note": null
-            },
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "thu": [
-            {
-              "time": "10:00",
-              "note": null
-            },
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "fri": [
-            {
-              "time": "10:00",
-              "note": null
-            },
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ]
-        },
-        "saturday": [
-          {
-            "time": "17:00",
-            "note": "주일학교"
-          },
-          {
-            "time": "19:30",
-            "note": "특전",
-            "type": [
-              "특전"
-            ]
-          }
-        ],
-        "sunday": [
-          {
-            "time": "06:30",
-            "note": null
-          },
-          {
-            "time": "08:00",
-            "note": null
-          },
-          {
-            "time": "10:00",
-            "note": "교중",
-            "type": [
-              "교중"
-            ]
-          },
-          {
-            "time": "18:00",
-            "note": "청년",
-            "type": [
-              "청년"
-            ]
-          }
-        ],
-        "special": [
-          {
-            "time": "10:00",
-            "note": "성모신심미사 매월 첫토요일",
-            "type": [
-              "신심"
-            ],
-            "recurrence": {
-              "weeks": [
-                1
-              ],
-              "raw": "성모신심미사 매월 첫토요일"
-            }
-          }
-        ],
-        "raw": "manual"
-      },
-      "church_id": "201001431",
       "match_method": "name",
       "manual": true
     },
