@@ -272,6 +272,48 @@ def save_cache(cache: dict) -> None:
     write_json(CACHE_PATH, cache)
 
 
+OVERRIDE_PATH = os.path.join(DATA_DIR, "geocode_override.json")
+# 행정동(호계1동)의 숫자를 떼어 법정동(호계동)으로. VWorld parcel 은 법정동 기준.
+_ADMIN_DONG_RE = re.compile(r"([가-힣]+?)\d+동(?=\s|$)")
+
+
+def apply_geocode_overrides(client, churches: list[dict]) -> int:
+    """data/geocode_override.json 으로 좌표 수동 보정. 적용 건수 반환.
+
+    각 항목: {jibun: '...지번주소'} → VWorld parcel 로 지오코딩(행정동→법정동 변환
+    후 재시도), 또는 {lat, lng} → 직접 지정. id 로 성당을 찾는다.
+    """
+    if not os.path.exists(OVERRIDE_PATH):
+        return 0
+    try:
+        ov = json.load(open(OVERRIDE_PATH, encoding="utf-8")).get("overrides", {})
+    except (json.JSONDecodeError, OSError):
+        return 0
+    by_id = {c["id"]: c for c in churches}
+    applied = 0
+    for cid, spec in ov.items():
+        c = by_id.get(cid)
+        if not c:
+            continue
+        lat = lng = None
+        if spec.get("lat") is not None and spec.get("lng") is not None:
+            lat, lng = spec["lat"], spec["lng"]
+        elif spec.get("jibun") and client:
+            jibun = spec["jibun"]
+            geo = client.getcoord(jibun, "parcel")
+            if geo is None:  # 행정동 숫자 제거(호계1동→호계동) 후 재시도
+                alt = _ADMIN_DONG_RE.sub(r"\1동", jibun)
+                if alt != jibun:
+                    geo = client.getcoord(alt, "parcel")
+            if geo and geo.get("lat"):
+                lat, lng = geo["lat"], geo["lng"]
+        if lat is not None and lng is not None:
+            c["lat"], c["lng"] = lat, lng
+            c["geocode_status"] = "override"
+            applied += 1
+    return applied
+
+
 def normalize_addresses(session: requests.Session, churches: list[dict]) -> str:
     """각 성당 주소를 정규화(VWorld)한다. 캐시로 신규 주소만 조회.
 
@@ -311,6 +353,11 @@ def normalize_addresses(session: requests.Session, churches: list[dict]) -> str:
             counts.get(result.get("geocode_status", "skipped"), 0) + 1
         if client and i % 200 == 0:
             print(f"      정규화 {i}/{len(churches)} ...", flush=True)
+
+    # 수동 지오코딩 오버라이드(VWorld 도로명 DB 미등록 도로·무주소 성당).
+    ov_count = apply_geocode_overrides(client, churches)
+    if ov_count:
+        counts["override"] = ov_count
 
     if client:
         save_cache(cache)

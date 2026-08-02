@@ -26333,9 +26333,9 @@
       "mission_stations": 0,
       "homepage": "http://www.hogye.or.kr/",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000018&code=201000632&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.37311589472141,
+      "lng": 126.95494631643582,
+      "geocode_status": "override"
     },
     {
       "id": "201007846",
