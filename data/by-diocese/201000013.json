@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T20:54:03+00:00",
+  "generated_at": "2026-08-02T20:56:16+00:00",
   "source": "https://directory.cbck.or.kr/OnlineAddress/SearchList.aspx",
   "count": 62,
   "diocese_id": "201000013",
@@ -243,9 +243,9 @@
       "mission_stations": 0,
       "homepage": "http://www.kkotgp.or.kr",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000013&code=201001501&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.9019031,
+      "lng": 127.345468,
+      "geocode_status": "osm"
     },
     {
       "id": "201001511",
@@ -1157,7 +1157,7 @@
       "region": null,
       "district": "영북",
       "postal_code": "24885",
-      "address": "강원특별자치도 속초시 청호로3길 41",
+      "address": "강원특별자치도 속초시 미리내1길 16",
       "phone": "(033)633-6858",
       "fax": "(033)633-4839",
       "pastor": "김재복 모세 신부",
@@ -1167,9 +1167,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000013&code=201001546&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 38.1922,
+      "lng": 128.59691,
+      "geocode_status": "override"
     },
     {
       "id": "201001547",

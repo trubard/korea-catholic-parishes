@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T20:54:03+00:00",
+  "generated_at": "2026-08-02T20:56:16+00:00",
   "source": "https://directory.cbck.or.kr/OnlineAddress/SearchList.aspx",
   "count": 126,
   "diocese_id": "201000022",
@@ -1377,7 +1377,7 @@
       "region": null,
       "district": "삼계지구",
       "postal_code": "50467",
-      "address": "경상남도 밀양시 삼랑진읍 삼랑진로 212 - 1",
+      "address": "경상남도 밀양시 삼랑진읍 삼랑진로 212",
       "phone": "(055)353-4166",
       "fax": "(055)351-0919",
       "pastor": "정한시 요한 신부",
@@ -1387,9 +1387,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000022&code=201001414&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 35.3854819,
+      "lng": 128.8265764,
+      "geocode_status": "osm"
     },
     {
       "id": "201001415",
@@ -2389,7 +2389,7 @@
       "region": null,
       "district": "우동지구",
       "postal_code": "46015",
-      "address": "부산광역시 기장군 정관면 정관4로 48",
+      "address": "부산광역시 기장군 정관읍 정관4로 48",
       "phone": "(051)727-8868",
       "fax": "(051)727-8869",
       "pastor": "김영환 로사리오 신부",
@@ -2399,9 +2399,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000022&code=201001458&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 35.32643690922745,
+      "lng": 129.1718008364337,
+      "geocode_status": "matched"
     },
     {
       "id": "201001459",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T20:54:03+00:00",
+  "generated_at": "2026-08-02T20:56:16+00:00",
   "source": "https://directory.cbck.or.kr/OnlineAddress/SearchList.aspx",
   "count": 222,
   "diocese_id": "201000018",
@@ -959,7 +959,7 @@
       "region": "제1대리구",
       "district": "영통지구",
       "postal_code": "16227",
-      "address": "경기도 수원시 영통구 창룡대로 267",
+      "address": "경기도 수원시 영통구 창룡대로 267 (이의동)",
       "phone": "(031)247-4627",
       "fax": "(031)247-4642",
       "pastor": null,
@@ -969,9 +969,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000018&code=201000481&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.2958048,
+      "lng": 127.0459738,
+      "geocode_status": "osm"
     },
     {
       "id": "201000482",
@@ -3269,7 +3269,7 @@
       "region": "제1대리구",
       "district": "처인지구",
       "postal_code": "17161",
-      "address": "경기도 용인시 처인구 양지면 남평로64번길 8",
+      "address": "경기도 용인시 처인구 양지읍 남평로64번길 8",
       "phone": "(031)338-3374",
       "fax": "(031)338-6980",
       "pastor": null,
@@ -3279,9 +3279,9 @@
       "mission_stations": 0,
       "homepage": "http://cafe.naver.com/yangjidk",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000018&code=201000569&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.228285606156874,
+      "lng": 127.28996082674531,
+      "geocode_status": "matched"
     },
     {
       "id": "201000570",
@@ -3489,7 +3489,7 @@
       "region": "제2대리구",
       "district": "광주지구",
       "postal_code": "12798",
-      "address": "경기도 광주시 오포읍 양벌로 331 - 26",
+      "address": "경기도 광주시 양벌로 331-26",
       "phone": "(031)767-1820",
       "fax": "(031)767-1821",
       "pastor": null,
@@ -3499,9 +3499,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000018&code=201000578&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.36928387059315,
+      "lng": 127.24877506941671,
+      "geocode_status": "matched"
     },
     {
       "id": "201000579",
@@ -3533,7 +3533,7 @@
       "region": "제2대리구",
       "district": "군포·의왕지구",
       "postal_code": "16069",
-      "address": "경기도 의왕시 사천2길 9",
+      "address": "경기도 의왕시 사천2길 9 (왕곡동)",
       "phone": "(031)477-0541",
       "fax": "(031)477-0544",
       "pastor": null,
@@ -3543,9 +3543,9 @@
       "mission_stations": 0,
       "homepage": "http://cafe.daum.net/wangkok",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000018&code=201000580&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.3456632,
+      "lng": 126.9761282,
+      "geocode_status": "osm"
     },
     {
       "id": "201000581",
@@ -4799,7 +4799,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000018&code=201000632&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "skipped"
     },
     {
       "id": "201007846",

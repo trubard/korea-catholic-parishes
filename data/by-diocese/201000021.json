@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T20:54:03+00:00",
+  "generated_at": "2026-08-02T20:56:16+00:00",
   "source": "https://directory.cbck.or.kr/OnlineAddress/SearchList.aspx",
   "count": 164,
   "diocese_id": "201000021",
@@ -2323,7 +2323,7 @@
       "region": "2대리구",
       "district": "4지역",
       "postal_code": "38535",
-      "address": "경상북도 경산시 압량면 대학로 360",
+      "address": "경상북도 경산시 압량읍 대학로 360",
       "phone": "(053)817-5885",
       "fax": "(053)818-5884",
       "pastor": "이종민 마태오 신부",
@@ -2333,9 +2333,9 @@
       "mission_stations": 0,
       "homepage": "https://cafe.daum.net/abryang",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000860&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 35.840051159351546,
+      "lng": 128.76004147709517,
+      "geocode_status": "matched"
     },
     {
       "id": "201000861",
@@ -3445,7 +3445,7 @@
       "region": "3대리구",
       "district": "4지역",
       "postal_code": "43005",
-      "address": "대구광역시 달성군 현풍면 현풍동로 10",
+      "address": "대구광역시 달성군 현풍읍 현풍동로 10",
       "phone": "(053)615-2221",
       "fax": "(053)615-2232",
       "pastor": "박홍도 치릴로 신부",
@@ -3455,9 +3455,9 @@
       "mission_stations": 1,
       "homepage": "http://cafe.daum.net/dghpcc",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000021&code=201000908&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 35.69219282972185,
+      "lng": 128.44803585325593,
+      "geocode_status": "matched"
     },
     {
       "id": "201000909",

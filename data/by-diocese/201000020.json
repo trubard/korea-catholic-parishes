@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T20:54:03+00:00",
+  "generated_at": "2026-08-02T20:56:16+00:00",
   "source": "https://directory.cbck.or.kr/OnlineAddress/SearchList.aspx",
   "count": 87,
   "diocese_id": "201000020",
@@ -1385,7 +1385,7 @@
       "patron": "티 없으신 성모 성심",
       "believers": 3200,
       "mission_stations": 0,
-      "homepage": "http://www.ujbhome.or.kr/",
+      "homepage": "https://sd.uca.or.kr/ujbhome/",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000254&tbxSearch=&gubn2=all&char=all",
       "lat": 37.7396916232005,
       "lng": 127.0417994769587,
@@ -1663,7 +1663,7 @@
       "region": null,
       "district": "2지구",
       "postal_code": "12120",
-      "address": "경기도 남양주시 퇴계원면 퇴계원로59번길 35",
+      "address": "경기도 남양주시 퇴계원읍 퇴계원로59번길 35",
       "phone": "(031)574-1784",
       "fax": "(031)574-1783",
       "pastor": "장세훈 시몬 신부 Jang Se Hoon (Simon)",
@@ -1673,9 +1673,9 @@
       "mission_stations": 0,
       "homepage": "http://sd.uca.or.kr/tgw/",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000020&code=201000314&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.65471877171193,
+      "lng": 127.14063613311794,
+      "geocode_status": "matched"
     },
     {
       "id": "201000315",

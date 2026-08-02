@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T20:54:03+00:00",
+  "generated_at": "2026-08-02T20:56:16+00:00",
   "source": "https://directory.cbck.or.kr/OnlineAddress/SearchList.aspx",
   "count": 95,
   "diocese_id": "201000029",
@@ -25,7 +25,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001557&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001558",
@@ -47,7 +47,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001558&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201006660",
@@ -67,9 +67,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201006660&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.92512943521216,
-      "lng": 128.06343604471806,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001559",
@@ -91,7 +91,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001559&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001556",
@@ -111,9 +111,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001556&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.529851303667925,
-      "lng": 126.97193739611178,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001561",
@@ -135,7 +135,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001561&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001562",
@@ -157,7 +157,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001562&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001564",
@@ -179,7 +179,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001564&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001566",
@@ -199,9 +199,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001566&tbxSearch=&gubn2=all&char=all",
-      "lat": 38.282480986624535,
-      "lng": 128.53757327233683,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001565",
@@ -221,9 +221,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001565&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.512629665940125,
-      "lng": 129.11683990512188,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001567",
@@ -233,7 +233,7 @@
       "region": null,
       "district": "해군",
       "postal_code": "17950",
-      "address": "경기도 평택시 포승읍 내기리 2, 사서함 800-12호",
+      "address": "경기도 평택시 포승읍 2함대길 91 사서함 800-12호",
       "phone": "(031)682-0225",
       "fax": "(031)682-0225",
       "pastor": "강찬욱 요한세례자 신부",
@@ -243,9 +243,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001567&tbxSearch=&gubn2=all&char=all",
-      "lat": 36.981389213377014,
-      "lng": 126.87915715583586,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001568",
@@ -267,7 +267,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001568&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001569",
@@ -289,7 +289,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001569&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001571",
@@ -311,7 +311,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001571&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001572",
@@ -321,7 +321,7 @@
       "region": null,
       "district": "육군",
       "postal_code": "42066",
-      "address": "대구광역시 수성구 무열로 56, 사서함 11호",
+      "address": "대구광역시 수성구 무열로 56 사서함 11호",
       "phone": "(053)750-1631",
       "fax": null,
       "pastor": "유한석 베드로 신부",
@@ -331,9 +331,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001572&tbxSearch=&gubn2=all&char=all",
-      "lat": 35.861926818194746,
-      "lng": 128.65288675229527,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201006618",
@@ -343,7 +343,7 @@
       "region": null,
       "district": "육직",
       "postal_code": "28024",
-      "address": "충청북도 괴산군 괴산읍 문무로 177-1",
+      "address": "충청북도 괴산군 괴산읍 문무로 177",
       "phone": "(043)830-6092",
       "fax": null,
       "pastor": "김정섭 필립보 신부",
@@ -353,9 +353,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201006618&tbxSearch=&gubn2=all&char=all",
-      "lat": 36.821977379612434,
-      "lng": 127.80393000606936,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001573",
@@ -365,7 +365,7 @@
       "region": null,
       "district": "육직",
       "postal_code": "08810",
-      "address": "서울특별시 관악구 과천대로 851, (남현동, 한울아파트) 사서함 20003호",
+      "address": "서울특별시 관악구 과천대로 851 (남현동, 한울아파트) 사서함 20003호",
       "phone": "(02)522-7282",
       "fax": null,
       "pastor": "정재환 노엘 신부",
@@ -375,9 +375,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001573&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.46706467080975,
-      "lng": 126.98631386462083,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001574",
@@ -387,7 +387,7 @@
       "region": null,
       "district": "육군",
       "postal_code": "24062",
-      "address": "강원특별자치도 철원군 서면 신술1길 25-4",
+      "address": "강원특별자치도 철원군 서면 신술1길 25 - 4",
       "phone": "(033)458-3219",
       "fax": null,
       "pastor": "황다빈 요한보스코 신부",
@@ -397,9 +397,9 @@
       "mission_stations": 3,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001574&tbxSearch=&gubn2=all&char=all",
-      "lat": 38.16328335294861,
-      "lng": 127.41373031207436,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001575",
@@ -409,7 +409,7 @@
       "region": null,
       "district": "육군",
       "postal_code": "24518",
-      "address": "강원특별자치도 양구군 양구읍 박수근로213번길 31-19, 천주교 백두산 성당",
+      "address": "강원특별자치도 양구군 양구읍 박수근로213번길 31-19 천주교 백두산 성당",
       "phone": "(070)8848-5162",
       "fax": null,
       "pastor": "온승현 바오로 신부",
@@ -419,9 +419,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001575&tbxSearch=&gubn2=all&char=all",
-      "lat": 38.08878411164707,
-      "lng": 127.98064590170506,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001576",
@@ -443,7 +443,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001576&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201008414",
@@ -465,7 +465,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201008414&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001577",
@@ -487,7 +487,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001577&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001578",
@@ -497,7 +497,7 @@
       "region": null,
       "district": "육군",
       "postal_code": "26310",
-      "address": "강원특별자치도 원주시 소초면 치악로 2367, 반가운아파트 옆 천주교 백호 성당",
+      "address": "강원특별자치도 원주시 소초면 치악로 2367 반가운아파트 옆 천주교 백호 성당",
       "phone": "(033)741-6163",
       "fax": null,
       "pastor": "이한결 스테파노 신부",
@@ -507,9 +507,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001578&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.38605810420533,
-      "lng": 127.97627901149357,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001635",
@@ -519,7 +519,7 @@
       "region": null,
       "district": "육군",
       "postal_code": "17027",
-      "address": "경기도 용인시 처인구 포곡읍 포곡로 168, 육군 제5708부대",
+      "address": "경기도 용인시 처인구 포곡읍 포곡로 168 육군 제5708부대",
       "phone": null,
       "fax": null,
       "pastor": "마호성 아브라함 신부",
@@ -529,9 +529,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001635&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.27252603488106,
-      "lng": 127.22281131180628,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001581",
@@ -551,9 +551,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001581&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.89440944470594,
-      "lng": 126.97275142979456,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001582",
@@ -575,7 +575,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001582&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001583",
@@ -585,7 +585,7 @@
       "region": null,
       "district": "육직",
       "postal_code": "17400",
-      "address": "경기도 이천시 진상미로 1700-29, 사서함 867-1호",
+      "address": "경기도 이천시 진상미로 1700-29 사서함 867-1호",
       "phone": "(031)632-5093",
       "fax": null,
       "pastor": "최승희 하상바오로 신부",
@@ -595,9 +595,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001583&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.201626662727165,
-      "lng": 127.45893910784883,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001584",
@@ -617,9 +617,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001584&tbxSearch=&gubn2=all&char=all",
-      "lat": 36.29824513453343,
-      "lng": 127.2462642125934,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001585",
@@ -641,7 +641,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001585&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001586",
@@ -651,7 +651,7 @@
       "region": null,
       "district": "육군",
       "postal_code": "17414",
-      "address": "경기도 이천시 장호원읍 경충대로597번길 227-25",
+      "address": "경기도 이천시 장호원읍 경충대로597번길 227 - 25",
       "phone": "(031)640-1620",
       "fax": null,
       "pastor": "진영진 세례자 요한 신부",
@@ -661,9 +661,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001586&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.162374752505556,
-      "lng": 127.57395213234823,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001587",
@@ -683,9 +683,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001587&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.240787251531515,
-      "lng": 127.19044054866717,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001607",
@@ -707,7 +707,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001607&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001588",
@@ -729,7 +729,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001588&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001589",
@@ -751,7 +751,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001589&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001590",
@@ -773,7 +773,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001590&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001626",
@@ -795,7 +795,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001626&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001591",
@@ -815,9 +815,9 @@
       "mission_stations": 4,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001591&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.70626590659482,
-      "lng": 126.90241652127055,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001592",
@@ -839,7 +839,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001592&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001593",
@@ -861,7 +861,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001593&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001597",
@@ -883,7 +883,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001597&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001594",
@@ -903,9 +903,9 @@
       "mission_stations": 4,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001594&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.475107887641755,
-      "lng": 126.75327652702234,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001570",
@@ -925,9 +925,9 @@
       "mission_stations": 4,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001570&tbxSearch=&gubn2=all&char=all",
-      "lat": 38.13891936348328,
-      "lng": 127.52897501614783,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001595",
@@ -937,7 +937,7 @@
       "region": null,
       "district": "육군",
       "postal_code": "11112",
-      "address": "경기도 포천시 이동면 노곡리 921-1",
+      "address": "경기도 포천시 이동면 노곡리 921-1 천주교 승진 성당",
       "phone": "(031)532-4409",
       "fax": null,
       "pastor": "김부수 프란치스코 신부",
@@ -947,9 +947,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001595&tbxSearch=&gubn2=all&char=all",
-      "lat": 38.00851943427041,
-      "lng": 127.32758433421472,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001596",
@@ -971,7 +971,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001596&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001598",
@@ -981,7 +981,7 @@
       "region": null,
       "district": "육군",
       "postal_code": "24203",
-      "address": "강원특별자치도 춘천시 신북읍 맥국길 79-9, 사서함 114-1호",
+      "address": "강원특별자치도 춘천시 신북읍 맥국길 79-9 사서함 114-1호",
       "phone": "(033)249-1620",
       "fax": null,
       "pastor": "김지훈 미카엘 신부",
@@ -991,9 +991,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001598&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.944313433143726,
-      "lng": 127.7711477685231,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001560",
@@ -1015,7 +1015,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001560&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201009167",
@@ -1037,7 +1037,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201009167&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "no_address"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001599",
@@ -1057,9 +1057,9 @@
       "mission_stations": 6,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001599&tbxSearch=&gubn2=all&char=all",
-      "lat": 38.023195806402626,
-      "lng": 127.1407817047905,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001600",
@@ -1081,7 +1081,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001600&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001601",
@@ -1101,9 +1101,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001601&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.80270116773866,
-      "lng": 127.00275832309924,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001602",
@@ -1125,7 +1125,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001602&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001603",
@@ -1147,7 +1147,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001603&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001604",
@@ -1157,7 +1157,7 @@
       "region": null,
       "district": "공군",
       "postal_code": "42250",
-      "address": "대구광역시 수성구 달구벌대로568길 40-11, 사서함 134호",
+      "address": "대구광역시 수성구 달구벌대로568길 40 사서함 134호",
       "phone": "(053)792-0360",
       "fax": null,
       "pastor": "박형석 라파엘 신부",
@@ -1167,9 +1167,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001604&tbxSearch=&gubn2=all&char=all",
-      "lat": 35.84547218998049,
-      "lng": 128.6638565853417,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001605",
@@ -1189,9 +1189,9 @@
       "mission_stations": 3,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001605&tbxSearch=&gubn2=all&char=all",
-      "lat": 38.23089742721377,
-      "lng": 128.20637688119785,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201006616",
@@ -1213,7 +1213,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201006616&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001608",
@@ -1233,9 +1233,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001608&tbxSearch=&gubn2=all&char=all",
-      "lat": 36.41572887946393,
-      "lng": 127.34011704112578,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201007259",
@@ -1257,7 +1257,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201007259&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001609",
@@ -1267,7 +1267,7 @@
       "region": null,
       "district": "육군",
       "postal_code": "10948",
-      "address": "경기도 파주시 광탄면 혜음로 1210-28",
+      "address": "경기도 파주시 광탄면 혜음로 1210 - 28",
       "phone": "(031)947-0174",
       "fax": "(031)947-7916",
       "pastor": "유충현 시메온 신부",
@@ -1277,9 +1277,9 @@
       "mission_stations": 3,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001609&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.78795847223917,
-      "lng": 126.84709206014011,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001630",
@@ -1301,7 +1301,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001630&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001610",
@@ -1321,9 +1321,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001610&tbxSearch=&gubn2=all&char=all",
-      "lat": 36.804426175577916,
-      "lng": 127.56057888158327,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001611",
@@ -1333,7 +1333,7 @@
       "region": null,
       "district": "공군",
       "postal_code": "31024",
-      "address": "충청남도 천안시 서북구 성환읍 성월수향길 106",
+      "address": "충청남도 천안시 서북구 성환읍 성월수향길 사서함 15호",
       "phone": "(070)8897-6073",
       "fax": null,
       "pastor": "박진호 사도요한 신부",
@@ -1343,9 +1343,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001611&tbxSearch=&gubn2=all&char=all",
-      "lat": 36.925843272925235,
-      "lng": 127.14481811704864,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001612",
@@ -1367,7 +1367,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001612&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001613",
@@ -1377,7 +1377,7 @@
       "region": null,
       "district": "해군",
       "postal_code": "51698",
-      "address": "경상남도 창원시 진해구 충무로 29-1, 천주교 진해해군 성당",
+      "address": "경상남도 창원시 진해구 충무로 29-1 (현동) 천주교 진해해군 성당",
       "phone": "(055)545-1003",
       "fax": null,
       "pastor": "박재율 요셉 신부",
@@ -1387,9 +1387,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001613&tbxSearch=&gubn2=all&char=all",
-      "lat": 35.14461228072655,
-      "lng": 128.65351210914287,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001614",
@@ -1399,7 +1399,7 @@
       "region": null,
       "district": "공군",
       "postal_code": "07056",
-      "address": "서울특별시 동작구 여의대방로22길 77, 서울동작우체국 ㉴ 40호",
+      "address": "서울특별시 동작구 여의대방로22길 77 서울동작우체국 ㉴ 40호",
       "phone": "(070)4265-6073",
       "fax": null,
       "pastor": "정준교 로마노 신부",
@@ -1409,9 +1409,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001614&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.49798137310011,
-      "lng": 126.92424610450053,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001616",
@@ -1433,7 +1433,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001616&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001617",
@@ -1443,7 +1443,7 @@
       "region": null,
       "district": "육군",
       "postal_code": "25909",
-      "address": "강원특별자치도 삼척시 새천년도로 10",
+      "address": "강원특별자치도 삼척시 새천년도로 사서함 73-1호",
       "phone": "(070)8845-1607",
       "fax": null,
       "pastor": "김나눔 도미니코 신부",
@@ -1453,9 +1453,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001617&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.43579010592528,
-      "lng": 129.18396133107427,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201008415",
@@ -1465,7 +1465,7 @@
       "region": null,
       "district": "해군",
       "postal_code": "23014",
-      "address": "인천광역시 강화군 하점면 고려산로 18, 천주교 청룡세라핌 성당",
+      "address": "인천광역시 강화군 하점면 고려산로 18 천주교 청룡세라핌 성당",
       "phone": null,
       "fax": null,
       "pastor": "고울 리카르도 신부",
@@ -1475,9 +1475,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201008415&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.76898250869266,
-      "lng": 126.44125098204478,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001618",
@@ -1499,7 +1499,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001618&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001619",
@@ -1519,9 +1519,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001619&tbxSearch=&gubn2=all&char=all",
-      "lat": 38.200370752683504,
-      "lng": 127.21765106273492,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001620",
@@ -1543,7 +1543,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001620&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001622",
@@ -1565,7 +1565,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001622&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001621",
@@ -1587,7 +1587,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001621&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001624",
@@ -1609,7 +1609,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001624&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001625",
@@ -1629,9 +1629,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001625&tbxSearch=&gubn2=all&char=all",
-      "lat": 35.1910320376072,
-      "lng": 126.90488245795217,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001627",
@@ -1641,7 +1641,7 @@
       "region": null,
       "district": "육군",
       "postal_code": "24101",
-      "address": "강원특별자치도 화천군 상서면 주파령로 40-13",
+      "address": "강원특별자치도 화천군 상서면 주파령로 40 - 13",
       "phone": "(033)442-1044",
       "fax": "(033)442-1044",
       "pastor": "김영인 요한사도 신부",
@@ -1651,9 +1651,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001627&tbxSearch=&gubn2=all&char=all",
-      "lat": 38.2139045586941,
-      "lng": 127.66791449782205,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001628",
@@ -1663,7 +1663,7 @@
       "region": null,
       "district": "공군",
       "postal_code": "17750",
-      "address": "경기도 평택시 신장로100번길 55, 사서함 309-20호",
+      "address": "경기도 평택시 신장로 55 사서함 309-20호",
       "phone": "(031)669-1258",
       "fax": "(031)664-9390",
       "pastor": "박윤배 니콜라오 신부",
@@ -1673,9 +1673,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001628&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.083064659483526,
-      "lng": 127.05123227383453,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001629",
@@ -1697,7 +1697,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001629&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001579",
@@ -1719,7 +1719,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001579&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001631",
@@ -1739,9 +1739,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001631&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.9466988073755,
-      "lng": 128.31710226941664,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001633",
@@ -1751,7 +1751,7 @@
       "region": null,
       "district": "공군",
       "postal_code": "52511",
-      "address": "경상남도 사천시 사천읍 사천대로 1949-1, 사서함 336-1호",
+      "address": "경상남도 사천시 사천읍 사천대로 1949 사서함 336-1호",
       "phone": "(055)850-3095",
       "fax": null,
       "pastor": "오준혁 엘리야 신부",
@@ -1761,9 +1761,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001633&tbxSearch=&gubn2=all&char=all",
-      "lat": 35.090752097722,
-      "lng": 128.0857729186086,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001634",
@@ -1773,7 +1773,7 @@
       "region": null,
       "district": "육군",
       "postal_code": "26445",
-      "address": "강원특별자치도 원주시 치악로 1692, (단구동, 신통일아파트) 천주교 통일대 성당",
+      "address": "강원특별자치도 원주시 치악로 1692 (단구동, 신통일아파트) 천주교 통일대 성당",
       "phone": "(033)762-3201",
       "fax": null,
       "pastor": "이원근 아우구스티노 신부",
@@ -1783,9 +1783,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001634&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.33438389894163,
-      "lng": 127.9582702814013,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001636",
@@ -1807,7 +1807,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001636&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001637",
@@ -1829,7 +1829,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001637&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001638",
@@ -1851,7 +1851,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001638&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001639",
@@ -1873,7 +1873,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001639&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001640",
@@ -1883,7 +1883,7 @@
       "region": null,
       "district": "해군",
       "postal_code": "51698",
-      "address": "경상남도 창원시 진해구 중원로79번길 1, 사서함 88-1-6호 천주교 해군사관학교 성당",
+      "address": "경상남도 창원시 진해구 중원로 1 (남빈동) 사서함 88-1-6호 천주교 해군사관학교 성당",
       "phone": "(055)907-5053",
       "fax": null,
       "pastor": "홍석진 요한보스코 신부",
@@ -1893,9 +1893,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001640&tbxSearch=&gubn2=all&char=all",
-      "lat": 35.15123626656839,
-      "lng": 128.65962169172076,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001641",
@@ -1917,7 +1917,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001641&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201006619",
@@ -1939,7 +1939,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201006619&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001642",
@@ -1961,7 +1961,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001642&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001643",
@@ -1971,7 +1971,7 @@
       "region": null,
       "district": "공군",
       "postal_code": "46718",
-      "address": "부산광역시 강서구 공항진입로42번길 54, 사서함 1호",
+      "address": "부산광역시 강서구 공항진입로42번길 54 (대저2동) 사서함 1호",
       "phone": "(051)979-2042",
       "fax": null,
       "pastor": "윤찬용 안젤로 신부",
@@ -1981,9 +1981,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001643&tbxSearch=&gubn2=all&char=all",
-      "lat": 35.18313098095818,
-      "lng": 128.9483237728402,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001644",
@@ -2003,9 +2003,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001644&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.68686579217078,
-      "lng": 127.87503362592307,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001645",
@@ -2015,7 +2015,7 @@
       "region": null,
       "district": "육직",
       "postal_code": "01805",
-      "address": "서울특별시 노원구 화랑로 634",
+      "address": "서울특별시 노원구 화랑로 634 (공릉동)",
       "phone": "(02)2197-6143",
       "fax": null,
       "pastor": "오승수 미카엘 신부",
@@ -2025,9 +2025,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001645&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.625556364765814,
-      "lng": 127.09583716490319,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001563",
@@ -2037,7 +2037,7 @@
       "region": null,
       "district": "육직",
       "postal_code": "14333",
-      "address": "경기도 광명시 소하동 1123",
+      "address": "경기도 광명시 소하동 1123 천주교 화살 성당",
       "phone": null,
       "fax": null,
       "pastor": "김문강 크리스토폴 신부",
@@ -2047,9 +2047,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001563&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.4321602315963,
-      "lng": 126.87594836571479,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001646",
@@ -2071,7 +2071,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001646&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "failed"
+      "geocode_status": "excluded_military"
     },
     {
       "id": "201001647",
@@ -2091,9 +2091,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001647&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.962212842208785,
-      "lng": 124.66908755740722,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "excluded_military"
     }
   ]
 }

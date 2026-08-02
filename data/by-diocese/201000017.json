@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T20:54:03+00:00",
+  "generated_at": "2026-08-02T20:56:16+00:00",
   "source": "https://directory.cbck.or.kr/OnlineAddress/SearchList.aspx",
   "count": 135,
   "diocese_id": "201000017",
@@ -13,7 +13,7 @@
       "region": null,
       "district": "서해지구",
       "postal_code": "22798",
-      "address": "인천광역시 서해구 서달로 235(가정동)",
+      "address": "인천광역시 서해구 서달로 235",
       "phone": "(032)584-6736",
       "fax": "(032)584-6740",
       "pastor": "송찬 요셉 신부",
@@ -23,9 +23,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000327&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.51911119468954,
+      "lng": 126.68183086939446,
+      "geocode_status": "matched"
     },
     {
       "id": "201000326",
@@ -35,7 +35,7 @@
       "region": null,
       "district": "서해지구",
       "postal_code": "22770",
-      "address": "인천광역시 서해구 봉수대로 535(원창동)",
+      "address": "인천광역시 서해구 봉수대로 535",
       "phone": "(032)584-3385",
       "fax": "(032)584-3386",
       "pastor": "김흥주 베드로 몬시뇰 Very",
@@ -45,9 +45,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000326&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.523677160924414,
+      "lng": 126.66217169662771,
+      "geocode_status": "matched"
     },
     {
       "id": "201000328",
@@ -57,7 +57,7 @@
       "region": null,
       "district": "서해지구",
       "postal_code": "22820",
-      "address": "인천광역시 서해구 장고개로275번길 16(가좌동)",
+      "address": "인천광역시 서해구 장고개로275번길 16",
       "phone": "(032)583-6460",
       "fax": "(032)583-6459",
       "pastor": "송용민 사도 요한 신부",
@@ -67,9 +67,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000328&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.49002395020769,
+      "lng": 126.6824443005394,
+      "geocode_status": "matched"
     },
     {
       "id": "201000329",
@@ -167,7 +167,7 @@
       "region": null,
       "district": "검단지구",
       "postal_code": "22612",
-      "address": "인천광역시 검단구 완정로202번길 32(마전동)",
+      "address": "인천광역시 검단구 완정로202번길 32",
       "phone": "(032)568-3333",
       "fax": "(032)568-3330",
       "pastor": "김동철 토마스 신부",
@@ -177,9 +177,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000333&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.605639980664506,
+      "lng": 126.65616655179181,
+      "geocode_status": "matched"
     },
     {
       "id": "201000334",
@@ -189,7 +189,7 @@
       "region": null,
       "district": "서해지구",
       "postal_code": "22698",
-      "address": "인천광역시 서해구 도요지로227번길 17(검암동)",
+      "address": "인천광역시 서해구 도요지로227번길 17",
       "phone": "(032)568-8339",
       "fax": "(032)568-8340",
       "pastor": "서강휘 임마누엘 신부",
@@ -199,9 +199,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000334&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.5585852419246,
+      "lng": 126.67538196742562,
+      "geocode_status": "matched"
     },
     {
       "id": "201000335",
@@ -431,7 +431,7 @@
       "region": null,
       "district": "제물포지구",
       "postal_code": "22321",
-      "address": "인천광역시 제물포구 우현로50번길 2 (답동)",
+      "address": "인천광역시 제물포구 우현로50번길 2",
       "phone": "(032)762-7613",
       "fax": "(032)762-4800",
       "pastor": "김태헌 요셉 신부",
@@ -441,9 +441,9 @@
       "mission_stations": 0,
       "homepage": "http://www.dapdong.or.kr",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000325&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.471567810172054,
+      "lng": 126.62946832207324,
+      "geocode_status": "matched"
     },
     {
       "id": "201000346",
@@ -651,7 +651,7 @@
       "region": null,
       "district": "서해지구",
       "postal_code": "22711",
-      "address": "인천광역시 서해구 심곡로100번길 31(심곡동)",
+      "address": "인천광역시 서해구 심곡로100번길 31",
       "phone": "(032)280-1945",
       "fax": "(032)280-1935",
       "pastor": "황운상 베드로 신부",
@@ -661,9 +661,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201004430&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.5422899841637,
+      "lng": 126.68568423703033,
+      "geocode_status": "matched"
     },
     {
       "id": "201007117",
@@ -695,7 +695,7 @@
       "region": null,
       "district": "검단지구",
       "postal_code": "22678",
-      "address": "인천광역시 검단구 청마로148번길 46(당하동)",
+      "address": "인천광역시 검단구 청마로148번길 46",
       "phone": "(032)569-0170",
       "fax": "(032)569-0173",
       "pastor": "박희중 안드레아 신부",
@@ -705,9 +705,9 @@
       "mission_stations": 1,
       "homepage": "http://www.majeondong.or.kr",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000355&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.59269181399381,
+      "lng": 126.67968745152606,
+      "geocode_status": "matched"
     },
     {
       "id": "201000356",
@@ -1025,7 +1025,7 @@
       "region": null,
       "district": "검단지구",
       "postal_code": "22622",
-      "address": "인천광역시 검단구 고산후로 374(불로동)",
+      "address": "인천광역시 검단구 고산후로 374",
       "phone": "(032)569-1004",
       "fax": "(032)569-1003",
       "pastor": "허홍 프란치스코 신부",
@@ -1035,9 +1035,9 @@
       "mission_stations": 0,
       "homepage": "https://cafe.naver.com/bullo1",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000369&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.616899906146884,
+      "lng": 126.69576318393241,
+      "geocode_status": "matched"
     },
     {
       "id": "201008080",
@@ -1311,7 +1311,7 @@
       "region": null,
       "district": "서해지구",
       "postal_code": "22791",
-      "address": "인천광역시 서해구 가정로224번길 19-1(석남동)",
+      "address": "인천광역시 서해구 가정로224번길 19-1",
       "phone": "(032)582-2193",
       "fax": "(032)581-7153",
       "pastor": "김진열 가롤로 신부",
@@ -1321,9 +1321,9 @@
       "mission_stations": 0,
       "homepage": "http://cafe.daum.net/suknamcatholic",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000380&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.504955905142026,
+      "lng": 126.67460067089286,
+      "geocode_status": "matched"
     },
     {
       "id": "201008779",
@@ -1509,7 +1509,7 @@
       "region": null,
       "district": "제물포지구",
       "postal_code": "22570",
-      "address": "인천광역시 제물포구 재능로180번길 24 (송림동)",
+      "address": "인천광역시 제물포구 재능로180번길 24",
       "phone": "(032)763-7611",
       "fax": "(032)763-7617",
       "pastor": "김부민 베드로 신부",
@@ -1519,9 +1519,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000387&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.47632136160195,
+      "lng": 126.651139269299,
+      "geocode_status": "matched"
     },
     {
       "id": "201000386",
@@ -1531,7 +1531,7 @@
       "region": null,
       "district": "제물포지구",
       "postal_code": "22552",
-      "address": "인천광역시 제물포구 화도진로24번길 14 (송림동)",
+      "address": "인천광역시 제물포구 화도진로24번길 14",
       "phone": "(032)762-7752",
       "fax": "(032)763-5254",
       "pastor": "장성진 그레고리오 신부",
@@ -1541,9 +1541,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000386&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.475647838261764,
+      "lng": 126.63689237228613,
+      "geocode_status": "matched"
     },
     {
       "id": "201000388",
@@ -1553,7 +1553,7 @@
       "region": null,
       "district": "제물포지구",
       "postal_code": "22546",
-      "address": "인천광역시 제물포구 수문통로 52(송현동)",
+      "address": "인천광역시 제물포구 수문통로 52",
       "phone": "(032)764-2131",
       "fax": "(032)764-2132",
       "pastor": "박원재 프란치스코 신부",
@@ -1563,9 +1563,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000388&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.480017452967616,
+      "lng": 126.63543079126998,
+      "geocode_status": "matched"
     },
     {
       "id": "201000389",
@@ -1619,7 +1619,7 @@
       "region": null,
       "district": "시흥안산지구",
       "postal_code": null,
-      "address": null,
+      "address": "경기도 시흥시 시흥대로1152번길 14 (신천동)",
       "phone": "(031)313-7820",
       "fax": "(031)313-3045",
       "pastor": "이병찬 아우구스티노 신부",
@@ -1707,7 +1707,7 @@
       "region": null,
       "district": "검단지구",
       "postal_code": "22859",
-      "address": "인천광역시 검단구 서로3로 191 (원당동)",
+      "address": "인천광역시 검단구 서로3로 191",
       "phone": "(032)568-8012",
       "fax": "(032)568-8013",
       "pastor": "김민중 안드레아 신부",
@@ -1717,9 +1717,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201008777&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.59675159829193,
+      "lng": 126.70680433347893,
+      "geocode_status": "matched"
     },
     {
       "id": "201000396",
@@ -1839,7 +1839,7 @@
       "region": null,
       "district": "제물포지구",
       "postal_code": "22348",
-      "address": "인천광역시 제물포구 연안부두로55번길 25(항동7가)",
+      "address": "인천광역시 제물포구 연안부두로55번길 25",
       "phone": "(032)887-4313",
       "fax": "(032)887-4319",
       "pastor": "한관우 가누토 신부",
@@ -1849,9 +1849,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000401&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.452840518096984,
+      "lng": 126.60213066460449,
+      "geocode_status": "matched"
     },
     {
       "id": "201000402",
@@ -1883,7 +1883,7 @@
       "region": null,
       "district": "서해지구",
       "postal_code": "22711",
-      "address": "인천광역시 서해구 심곡로 126(심곡동)",
+      "address": "인천광역시 서해구 심곡로 126",
       "phone": "(032)565-2700",
       "fax": "(032)565-3063",
       "pastor": "김태환 요셉 신부",
@@ -1893,9 +1893,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000403&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.54429783664277,
+      "lng": 126.68214981328464,
+      "geocode_status": "matched"
     },
     {
       "id": "201000404",
@@ -1905,7 +1905,7 @@
       "region": null,
       "district": "영종지구",
       "postal_code": "22358",
-      "address": "인천광역시 영종구 백운로 28(중산동)",
+      "address": "인천광역시 영종구 백운로 28",
       "phone": "(032)746-4312",
       "fax": "(032)746-4310",
       "pastor": "정성일 요한세례자 신부",
@@ -1915,9 +1915,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000404&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.50114759530764,
+      "lng": 126.55336123490179,
+      "geocode_status": "matched"
     },
     {
       "id": "201000405",
@@ -1949,7 +1949,7 @@
       "region": null,
       "district": "검단지구",
       "postal_code": "22652",
-      "address": "인천광역시 검단구 봉화로85번길 38(오류동)",
+      "address": "인천광역시 검단구 봉화로85번길 38",
       "phone": "(032)563-4655",
       "fax": "(032)563-4656",
       "pastor": "유창우 암브로시오 신부",
@@ -1959,9 +1959,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000406&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.59841600867193,
+      "lng": 126.63663881577179,
+      "geocode_status": "matched"
     },
     {
       "id": "201000407",
@@ -2059,7 +2059,7 @@
       "region": null,
       "district": "영종지구",
       "postal_code": "22384",
-      "address": "인천광역시 영종구 남북로88번길 3(남북동)",
+      "address": "인천광역시 영종구 남북로88번길 3",
       "phone": "(032)746-2260",
       "fax": "(032)746-2263",
       "pastor": "김성수 바오로 신부",
@@ -2069,9 +2069,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000410&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.44714639405043,
+      "lng": 126.41242190219694,
+      "geocode_status": "matched"
     },
     {
       "id": "201000412",
@@ -2125,7 +2125,7 @@
       "region": null,
       "district": "영종지구",
       "postal_code": "22372",
-      "address": "인천광역시 영종구 운남동로3번길 21 (운남동) 솔뫼빌딩 2층",
+      "address": "인천광역시 영종구 운남동로3번길 21, 솔뫼빌딩 2층",
       "phone": "(032)225-0113",
       "fax": null,
       "pastor": "이범석 아우구스티노 신부",
@@ -2135,9 +2135,9 @@
       "mission_stations": 0,
       "homepage": "https://blog.naver.com/catholic-unnam",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201009029&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.48970957420413,
+      "lng": 126.53301462901082,
+      "geocode_status": "matched"
     },
     {
       "id": "201000390",
@@ -2147,7 +2147,7 @@
       "region": null,
       "district": "영종지구",
       "postal_code": "22369",
-      "address": "인천광역시 영종구 신도시남로 76(운서동)",
+      "address": "인천광역시 영종구 신도시남로 76",
       "phone": "(032)751-3217",
       "fax": "(032)751-3220",
       "pastor": "김재욱 사도 요한 신부",
@@ -2157,9 +2157,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000390&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.489804142692904,
+      "lng": 126.48713625049744,
+      "geocode_status": "matched"
     },
     {
       "id": "201007926",
@@ -2191,7 +2191,7 @@
       "region": null,
       "district": "검단지구",
       "postal_code": "22644",
-      "address": "인천광역시 검단구 원당대로819번길 10(원당동)",
+      "address": "인천광역시 검단구 원당대로819번길 10",
       "phone": "(032)569-2004",
       "fax": "(032)569-2006",
       "pastor": "신대근 마르코 신부",
@@ -2201,9 +2201,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000413&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.59467519107868,
+      "lng": 126.69268635508168,
+      "geocode_status": "matched"
     },
     {
       "id": "201000414",
@@ -2631,7 +2631,7 @@
       "region": null,
       "district": "서해지구",
       "postal_code": "22738",
-      "address": "인천광역시 서해구 청라라임로 72(청라동)",
+      "address": "인천광역시 서해구 청라라임로 72",
       "phone": "(032)568-2654",
       "fax": "(032)568-2656",
       "pastor": "안규도 도미니코 신부",
@@ -2641,9 +2641,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201003888&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.5340116327113,
+      "lng": 126.653672381431,
+      "geocode_status": "matched"
     },
     {
       "id": "201008041",
@@ -2653,7 +2653,7 @@
       "region": null,
       "district": "서해지구",
       "postal_code": "22753",
-      "address": "인천광역시 서해구 차오름로 74 (청라동)",
+      "address": "인천광역시 서해구 차오름로 74",
       "phone": "(032)566-3217",
       "fax": "(032)561-3217",
       "pastor": "이용옥 요한 보스코 신부",
@@ -2663,9 +2663,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201008041&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.53878369470175,
+      "lng": 126.62769105917661,
+      "geocode_status": "matched"
     },
     {
       "id": "201000428",
@@ -2829,7 +2829,7 @@
       "region": null,
       "district": "검단지구",
       "postal_code": "22686",
-      "address": "인천광역시 검단구 드림로 472 (당하동)",
+      "address": "인천광역시 검단구 드림로 472",
       "phone": "(032)765-7251",
       "fax": "(032)765-9400",
       "pastor": "김석훈 안드레아 신부",
@@ -2839,9 +2839,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201008780&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.586240026971325,
+      "lng": 126.69042995179079,
+      "geocode_status": "matched"
     },
     {
       "id": "201000433",
@@ -2927,9 +2927,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000436&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.47414513258907,
+      "lng": 126.61831449877428,
+      "geocode_status": "matched"
     },
     {
       "id": "201000437",
@@ -2939,7 +2939,7 @@
       "region": null,
       "district": "제물포지구",
       "postal_code": "22511",
-      "address": "인천광역시 제물포구 화도진로 130(화수동)",
+      "address": "인천광역시 제물포구 화도진로 130",
       "phone": "(032)762-8893",
       "fax": "(032)762-3626",
       "pastor": "박형순 바오로 신부",
@@ -2949,9 +2949,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000437&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "skipped"
+      "lat": 37.48247405108303,
+      "lng": 126.62813010588442,
+      "geocode_status": "matched"
     },
     {
       "id": "201000438",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T20:54:03+00:00",
+  "generated_at": "2026-08-02T20:56:16+00:00",
   "source": "https://directory.cbck.or.kr/OnlineAddress/SearchList.aspx",
   "count": 54,
   "diocese_id": "201000019",
@@ -1003,7 +1003,7 @@
       "region": null,
       "district": "북원주지구",
       "postal_code": "26316",
-      "address": "강원특별자치도 원주시 북원여중길 26 (태장동)",
+      "address": "강원특별자치도 원주시 북원로2738번길 26 (태장동)",
       "phone": "(033)732-6482",
       "fax": "(033)734-6482",
       "pastor": "박영수 루카 신부",
@@ -1013,9 +1013,9 @@
       "mission_stations": 0,
       "homepage": "http://cafe.daum.net/taejangdong",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000019&code=201000954&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.3863822,
+      "lng": 127.9518269,
+      "geocode_status": "osm"
     },
     {
       "id": "201000956",

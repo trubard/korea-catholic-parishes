@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T20:54:03+00:00",
+  "generated_at": "2026-08-02T20:56:16+00:00",
   "source": "https://directory.cbck.or.kr/OnlineAddress/SearchList.aspx",
   "count": 75,
   "diocese_id": "201000024",
@@ -13,7 +13,7 @@
       "region": "창원지구",
       "district": "1지역",
       "postal_code": "51492",
-      "address": "경상남도 창원시 성산구 대정로 17 (가음동)",
+      "address": "경상남도 창원시 성산구 대정로 17",
       "phone": "(055)282-3667",
       "fax": "(055)275-3420",
       "pastor": "이창섭 아우구스티노 신부",
@@ -23,9 +23,9 @@
       "mission_stations": 0,
       "homepage": "http://gaeum.cathms.kr",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001036&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 35.2063686312015,
+      "lng": 128.69713134930186,
+      "geocode_status": "matched"
     },
     {
       "id": "201001037",
@@ -263,7 +263,7 @@
       "patron": "고통의 성모",
       "believers": 1402,
       "mission_stations": 2,
-      "homepage": "http://www.남해성당.net",
+      "homepage": "http://nh.cathms.kr/",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000024&code=201001047&tbxSearch=&gubn2=all&char=all",
       "lat": 34.841459812133245,
       "lng": 127.89207014208435,

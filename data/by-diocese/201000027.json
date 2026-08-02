@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T20:54:03+00:00",
+  "generated_at": "2026-08-02T20:56:16+00:00",
   "source": "https://directory.cbck.or.kr/OnlineAddress/SearchList.aspx",
   "count": 96,
   "diocese_id": "201000027",
@@ -1057,9 +1057,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000027&code=201001320&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 35.82677469413677,
+      "lng": 127.1639173085069,
+      "geocode_status": "matched"
     },
     {
       "id": "201001321",
@@ -1333,7 +1333,7 @@
       "region": null,
       "district": "1지구",
       "postal_code": "55349",
-      "address": "전북특별자치도 완주군 용진면 신지송광로 399",
+      "address": "전북특별자치도 완주군 용진읍 신지송광로 399",
       "phone": "(063)244-3217",
       "fax": "(063)244-3217",
       "pastor": "김광태 야고보 신부",
@@ -1343,9 +1343,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000027&code=201001332&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 35.89482395467058,
+      "lng": 127.19422353500421,
+      "geocode_status": "matched"
     },
     {
       "id": "201001333",

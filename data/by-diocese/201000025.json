@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T20:54:03+00:00",
+  "generated_at": "2026-08-02T20:56:16+00:00",
   "source": "https://directory.cbck.or.kr/OnlineAddress/SearchList.aspx",
   "count": 41,
   "diocese_id": "201000025",
@@ -277,7 +277,7 @@
       "region": null,
       "district": "북부지구",
       "postal_code": null,
-      "address": null,
+      "address": "경상북도 봉화군 봉화읍 내성로6길 22-27",
       "phone": null,
       "fax": "(054)674-1782",
       "pastor": "사공균 알로이시오 곤자가 신부",
@@ -287,9 +287,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000025&code=201001243&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "no_address"
+      "lat": 36.8886,
+      "lng": 128.74353,
+      "geocode_status": "override"
     },
     {
       "id": "201001244",
@@ -321,7 +321,7 @@
       "region": null,
       "district": "상주지구",
       "postal_code": "37126",
-      "address": "경상북도 상주시 사벌면 퇴강물미길 8",
+      "address": "경상북도 상주시 사벌국면 퇴강물미길 8",
       "phone": null,
       "fax": null,
       "pastor": "이요람 요람 신부 Lee Yo Ram",
@@ -331,9 +331,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000025&code=201001245&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 36.52451685069967,
+      "lng": 128.2617032170969,
+      "geocode_status": "matched"
     },
     {
       "id": "201007934",
@@ -343,7 +343,7 @@
       "region": null,
       "district": "상주지구",
       "postal_code": null,
-      "address": null,
+      "address": "경상북도 상주시 동수1길 106 (서문동)",
       "phone": null,
       "fax": "(054)535-2018",
       "pastor": null,
@@ -353,9 +353,9 @@
       "mission_stations": 3,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000025&code=201007934&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "no_address"
+      "lat": 36.41911,
+      "lng": 128.15691,
+      "geocode_status": "override"
     },
     {
       "id": "201001247",
@@ -585,7 +585,7 @@
       "region": null,
       "district": "의성지구",
       "postal_code": null,
-      "address": null,
+      "address": "경상북도 의성군 의성읍 후죽1길 21",
       "phone": null,
       "fax": null,
       "pastor": null,
@@ -651,7 +651,7 @@
       "region": null,
       "district": "안동지구",
       "postal_code": null,
-      "address": null,
+      "address": "경상북도 안동시 서동문로 145-3 (목성동)",
       "phone": null,
       "fax": "(054)858-2461",
       "pastor": null,
@@ -661,9 +661,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000025&code=201007933&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "no_address"
+      "lat": 36.56767,
+      "lng": 128.72739,
+      "geocode_status": "override"
     },
     {
       "id": "201001261",
@@ -717,7 +717,7 @@
       "region": null,
       "district": "북부지구",
       "postal_code": null,
-      "address": null,
+      "address": "경상북도 봉화군 춘양면 현마1길 35",
       "phone": null,
       "fax": null,
       "pastor": "류한빈 안드레아 신부",
@@ -727,9 +727,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000025&code=201007932&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "no_address"
+      "lat": 36.9418,
+      "lng": 128.91368,
+      "geocode_status": "override"
     },
     {
       "id": "201001264",

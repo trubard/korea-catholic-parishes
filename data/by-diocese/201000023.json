@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T20:54:03+00:00",
+  "generated_at": "2026-08-02T20:56:16+00:00",
   "source": "https://directory.cbck.or.kr/OnlineAddress/SearchList.aspx",
   "count": 82,
   "diocese_id": "201000023",
@@ -321,7 +321,7 @@
       "region": null,
       "district": "음성지구",
       "postal_code": "27668",
-      "address": "충청북도 음성군 대소면 오태로 80-8",
+      "address": "충청북도 음성군 대소읍 오태로 80-8",
       "phone": "(043)881-6300",
       "fax": "(043)883-0801",
       "pastor": "남정우 안셀모 신부",
@@ -331,9 +331,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000023&code=201000977&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 36.967673155686896,
+      "lng": 127.4845587634614,
+      "geocode_status": "matched"
     },
     {
       "id": "201000978",
@@ -871,7 +871,7 @@
       "region": null,
       "district": "청원지구",
       "postal_code": "28341",
-      "address": "충청북도 청주시 청원구 새터로176번길 59",
+      "address": "충청북도 청주시 청원구 새터로176번길 57 (사천동)",
       "phone": "(043)241-3368",
       "fax": null,
       "pastor": "최정묵 바실리오 신부",
@@ -881,9 +881,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000023&code=201006719&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 36.667545,
+      "lng": 127.472161,
+      "geocode_status": "osm"
     },
     {
       "id": "201000999",
