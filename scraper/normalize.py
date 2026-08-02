@@ -65,6 +65,20 @@ def split_detail(raw: str) -> dict:
 # 정규 도로명주소 끝의 '(법정동)' 을 제거하기 위한 패턴
 _TRAIL_PAREN_RE = re.compile(r"\s*\([^)]*\)\s*$")
 
+# 시/군/구 뒤, 도로명(로/길) 앞의 읍/면/동 토큰. 행정구역 개편(면→읍, 읍→행정동 등)으로
+# CBCK 주소의 읍/면/동이 옛 명칭이면 VWorld 조회가 실패한다. 도로명주소는 읍면동이
+# 없어도 조회되므로, 실패 시 이 토큰을 떼고 재시도한다. '현풍동로'처럼 도로명 자체는
+# 건드리지 않도록 '로/길'로 끝나는 도로명이 바로 뒤따르는 경우만 매칭.
+_SUBREGION_RE = re.compile(
+    r"(?<=\s)[가-힣0-9]+(?:읍|면|동)(?=\s+[가-힣0-9]+(?:로|길)\s)")
+
+
+def _strip_subregion(base: str) -> str | None:
+    """base 에서 도로명 앞 읍/면/동 토큰을 제거. 제거할 게 없으면 None."""
+    stripped = _SUBREGION_RE.sub("", base, count=1)
+    stripped = re.sub(r"\s{2,}", " ", stripped).strip()
+    return stripped if stripped != base else None
+
 
 def compose_address(road_address, address_detail, fallback=None):
     """정규 도로명주소(법정동 괄호 제거) + ', ' + 상세 로 표시용 주소를 만든다.
@@ -171,23 +185,32 @@ def normalize(raw: str, client: VWorldClient | None, cache: dict) -> dict:
         out["geocode_status"] = "skipped"
         return out
 
+    # 조회 후보: 원본 base → (실패 시) 읍/면/동 제거본. 행정구역 개편 대응.
+    candidates = [parts["base"]]
+    alt = _strip_subregion(parts["base"])
+    if alt:
+        candidates.append(alt)
+
     geo = None
-    try:
-        geo = client.getcoord(parts["base"], "road")
-        if geo is None:  # 도로명 실패 시 지번으로 재시도
-            geo = client.getcoord(parts["base"], "parcel")
-    except Exception:  # noqa: BLE001 - 개별 실패는 파이프라인을 막지 않음
-        geo = None
+    for cand in candidates:
+        try:
+            geo = client.getcoord(cand, "road") or client.getcoord(cand, "parcel")
+        except Exception:  # noqa: BLE001 - 개별 실패는 파이프라인을 막지 않음
+            geo = None
+        if geo is not None:
+            break
 
     if geo is None:
+        # 실패는 캐시하지 않는다 — VWorld 가 개편 지명을 나중에 지원하면 자동 재시도되도록.
         out["geocode_status"] = "failed"
-    else:
-        out.update({k: v for k, v in geo.items() if v is not None or k in ("lat", "lng")})
-        # split 으로 얻은 법정동/상세는 API 값이 없을 때만 보존
-        if not geo.get("legal_dong"):
-            out["legal_dong"] = parts["legal_dong"]
-        out["address_detail"] = parts["detail"]
-        out["geocode_status"] = "matched" if out.get("lat") else "refined_only"
+        return out
+
+    out.update({k: v for k, v in geo.items() if v is not None or k in ("lat", "lng")})
+    # split 으로 얻은 법정동/상세는 API 값이 없을 때만 보존
+    if not geo.get("legal_dong"):
+        out["legal_dong"] = parts["legal_dong"]
+    out["address_detail"] = parts["detail"]
+    out["geocode_status"] = "matched" if out.get("lat") else "refined_only"
 
     cache[raw] = out
     return out
