@@ -9757,7 +9757,7 @@
       "region": null,
       "district": "대전서부지구",
       "postal_code": null,
-      "address": null,
+      "address": "대전광역시 서구 둔산북로 175 (둔산동)",
       "phone": null,
       "fax": "(042)472-2964",
       "pastor": null,
@@ -9767,9 +9767,9 @@
       "mission_stations": 0,
       "homepage": "http://www.doonsan.or.kr",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000672&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "no_address"
+      "lat": 36.356327699351674,
+      "lng": 127.39267805464283,
+      "geocode_status": "override"
     },
     {
       "id": "201000673",
@@ -11043,9 +11043,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000718&tbxSearch=&gubn2=all&char=all",
-      "lat": 36.552365,
-      "lng": 126.9453164,
-      "geocode_status": "osm"
+      "lat": 36.55185535900927,
+      "lng": 126.95036776101549,
+      "geocode_status": "override"
     },
     {
       "id": "201000719",
@@ -15015,7 +15015,7 @@
       "region": null,
       "district": "삼계지구",
       "postal_code": "50467",
-      "address": "경상남도 밀양시 삼랑진읍 삼랑진로 212 - 1",
+      "address": "경상남도 밀양시 삼랑진읍 삼랑진로 212",
       "phone": "(055)353-4166",
       "fax": "(055)351-0919",
       "pastor": "정한시 요한 신부",
@@ -15025,9 +15025,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000022&code=201001414&tbxSearch=&gubn2=all&char=all",
-      "lat": 35.3854819,
-      "lng": 128.8265764,
-      "geocode_status": "osm"
+      "lat": 35.39587161502167,
+      "lng": 128.83716327084844,
+      "geocode_status": "override"
     },
     {
       "id": "201001415",
@@ -26697,7 +26697,7 @@
       "region": null,
       "district": "북부지구",
       "postal_code": null,
-      "address": null,
+      "address": "경상북도 봉화군 봉화읍 내성로6길 22-27",
       "phone": null,
       "fax": "(054)674-1782",
       "pastor": "사공균 알로이시오 곤자가 신부",
@@ -26707,9 +26707,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000025&code=201001243&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "no_address"
+      "lat": 36.8886,
+      "lng": 128.74353,
+      "geocode_status": "override"
     },
     {
       "id": "201001244",
@@ -26763,7 +26763,7 @@
       "region": null,
       "district": "상주지구",
       "postal_code": null,
-      "address": null,
+      "address": "경상북도 상주시 동수1길 106 (서문동)",
       "phone": null,
       "fax": "(054)535-2018",
       "pastor": null,
@@ -26773,9 +26773,9 @@
       "mission_stations": 3,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000025&code=201007934&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "no_address"
+      "lat": 36.41911,
+      "lng": 128.15691,
+      "geocode_status": "override"
     },
     {
       "id": "201001247",
@@ -27005,7 +27005,7 @@
       "region": null,
       "district": "의성지구",
       "postal_code": null,
-      "address": null,
+      "address": "경상북도 의성군 의성읍 후죽1길 21",
       "phone": null,
       "fax": null,
       "pastor": null,
@@ -27015,9 +27015,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000025&code=201007931&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "no_address"
+      "lat": 36.35432523052539,
+      "lng": 128.69702252917915,
+      "geocode_status": "override"
     },
     {
       "id": "201001259",
@@ -27071,7 +27071,7 @@
       "region": null,
       "district": "안동지구",
       "postal_code": null,
-      "address": null,
+      "address": "경상북도 안동시 서동문로 145-3 (목성동)",
       "phone": null,
       "fax": "(054)858-2461",
       "pastor": null,
@@ -27081,9 +27081,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000025&code=201007933&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "no_address"
+      "lat": 36.56767,
+      "lng": 128.72739,
+      "geocode_status": "override"
     },
     {
       "id": "201001261",
@@ -27137,7 +27137,7 @@
       "region": null,
       "district": "북부지구",
       "postal_code": null,
-      "address": null,
+      "address": "경상북도 봉화군 춘양면 현마1길 35",
       "phone": null,
       "fax": null,
       "pastor": "류한빈 안드레아 신부",
@@ -27147,9 +27147,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000025&code=201007932&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "no_address"
+      "lat": 36.9418,
+      "lng": 128.91368,
+      "geocode_status": "override"
     },
     {
       "id": "201001264",
@@ -32043,7 +32043,7 @@
       "region": null,
       "district": "시흥안산지구",
       "postal_code": null,
-      "address": null,
+      "address": "경기도 시흥시 시흥대로1152번길 14 (신천동)",
       "phone": "(031)313-7820",
       "fax": "(031)313-3045",
       "pastor": "이병찬 아우구스티노 신부",
@@ -32053,9 +32053,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000392&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "no_address"
+      "lat": 37.43802719565058,
+      "lng": 126.7922450122887,
+      "geocode_status": "override"
     },
     {
       "id": "201000393",
@@ -39149,7 +39149,7 @@
       "region": null,
       "district": "영북",
       "postal_code": "24885",
-      "address": "강원특별자치도 속초시 청호로3길 41",
+      "address": "강원특별자치도 속초시 미리내1길 16",
       "phone": "(033)633-6858",
       "fax": "(033)633-4839",
       "pastor": "김재복 모세 신부",
@@ -39159,9 +39159,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000013&code=201001546&tbxSearch=&gubn2=all&char=all",
-      "lat": 38.1928465,
-      "lng": 128.5974511,
-      "geocode_status": "osm"
+      "lat": 38.1922,
+      "lng": 128.59691,
+      "geocode_status": "override"
     },
     {
       "id": "201001547",

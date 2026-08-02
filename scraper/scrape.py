@@ -307,6 +307,9 @@ def apply_geocode_overrides(client, churches: list[dict]) -> int:
                     geo = client.getcoord(alt, "parcel")
             if geo and geo.get("lat"):
                 lat, lng = geo["lat"], geo["lng"]
+        # CBCK 에 주소가 없거나 부정확한 경우 웹서치로 찾은 주소로 보정
+        if spec.get("address"):
+            c["address"] = spec["address"]
         if lat is not None and lng is not None:
             c["lat"], c["lng"] = lat, lng
             c["geocode_status"] = "override"
