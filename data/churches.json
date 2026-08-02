@@ -28325,7 +28325,7 @@
       "region": null,
       "district": "북원주지구",
       "postal_code": "26316",
-      "address": "강원특별자치도 원주시 북원여중길 26 (태장동)",
+      "address": "강원특별자치도 원주시 북원로2738번길 26 (태장동)",
       "phone": "(033)732-6482",
       "fax": "(033)734-6482",
       "pastor": "박영수 루카 신부",
@@ -28335,9 +28335,9 @@
       "mission_stations": 0,
       "homepage": "http://cafe.daum.net/taejangdong",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000019&code=201000954&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.3863822,
-      "lng": 127.9518269,
-      "geocode_status": "osm"
+      "lat": 37.38740357692624,
+      "lng": 127.95064602747814,
+      "geocode_status": "override"
     },
     {
       "id": "201000956",
@@ -37059,7 +37059,7 @@
       "region": null,
       "district": "청원지구",
       "postal_code": "28341",
-      "address": "충청북도 청주시 청원구 새터로176번길 59",
+      "address": "충청북도 청주시 청원구 새터로176번길 57 (사천동)",
       "phone": "(043)241-3368",
       "fax": null,
       "pastor": "최정묵 바실리오 신부",
@@ -37069,9 +37069,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000023&code=201006719&tbxSearch=&gubn2=all&char=all",
-      "lat": 36.667545,
-      "lng": 127.472161,
-      "geocode_status": "osm"
+      "lat": 36.665783927250985,
+      "lng": 127.47261960451917,
+      "geocode_status": "override"
     },
     {
       "id": "201000999",
