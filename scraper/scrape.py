@@ -292,6 +292,14 @@ def normalize_addresses(session: requests.Session, churches: list[dict]) -> str:
     counts = {"matched": 0, "refined_only": 0, "failed": 0, "skipped": 0,
               "no_address": 0}
     for i, c in enumerate(churches, 1):
+        # 군종교구는 군부대 성당 — 주소가 사서함/부대 등록지라 지오코딩이 실제 성당
+        # 위치를 가리키지 못한다(우체국/정문 근사). 좌표를 붙이지 않는다.
+        if c.get("diocese") == "군종교구":
+            for f in NORM_FIELDS:
+                c[f] = None
+            c["geocode_status"] = "excluded_military"
+            counts["excluded_military"] = counts.get("excluded_military", 0) + 1
+            continue
         original = c.get("address")
         result = norm.normalize(original, client, cache)
         for f in NORM_FIELDS:
