@@ -272,6 +272,27 @@ def save_cache(cache: dict) -> None:
     write_json(CACHE_PATH, cache)
 
 
+HP_OVERRIDE_PATH = os.path.join(DATA_DIR, "homepage_override.json")
+
+
+def apply_homepage_overrides(churches: list[dict]) -> int:
+    """CBCK 홈페이지가 새 주소로 이전된 것을 data/homepage_override.json 으로 보정."""
+    if not os.path.exists(HP_OVERRIDE_PATH):
+        return 0
+    try:
+        ov = json.load(open(HP_OVERRIDE_PATH, encoding="utf-8")).get("overrides", {})
+    except (json.JSONDecodeError, OSError):
+        return 0
+    by_id = {c["id"]: c for c in churches}
+    n = 0
+    for cid, url in ov.items():
+        c = by_id.get(cid)
+        if c and url:
+            c["homepage"] = url
+            n += 1
+    return n
+
+
 OVERRIDE_PATH = os.path.join(DATA_DIR, "geocode_override.json")
 # 행정동(호계1동)의 숫자를 떼어 법정동(호계동)으로. VWorld parcel 은 법정동 기준.
 _ADMIN_DONG_RE = re.compile(r"([가-힣]+?)\d+동(?=\s|$)")
@@ -458,6 +479,10 @@ def main() -> int:
     if not churches:
         print("      수집 결과가 비어 있어 저장을 중단합니다.", file=sys.stderr)
         return 1
+
+    hp_n = apply_homepage_overrides(churches)
+    if hp_n:
+        print(f"      홈페이지 이전 보정 {hp_n}건 적용", flush=True)
 
     print("[3/4] 주소 정규화(VWorld) 중 ...", flush=True)
     summary = normalize_addresses(session, churches)

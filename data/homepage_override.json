@@ -1,0 +1,11 @@
+{
+  "_comment": "CBCK 주소록의 옛 홈페이지가 새 주소로 이전된 것을 보정. church id -> 새 homepage URL. scrape.py 가 CBCK 파싱 후 이 값으로 덮어쓴다(매일 스크레이프해도 유지). 명확히 이전이 확인된 것만 등록(서버 리다이렉트/이전안내로 새 성당 사이트 확인).",
+  "overrides": {
+    "201000651": "http://kdcatholic.kr/",
+    "201001047": "http://nh.cathms.kr/",
+    "201000254": "https://sd.uca.or.kr/ujbhome/",
+    "201000192": "http://www.oryucatholic.org/",
+    "201000229": "https://www.chang5.or.kr/",
+    "201000659": "https://cafe.daum.net/daekyocatholic"
+  }
+}
