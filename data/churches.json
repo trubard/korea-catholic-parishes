@@ -22495,7 +22495,7 @@
       "region": "제1대리구",
       "district": "영통지구",
       "postal_code": "16227",
-      "address": "경기도 수원시 영통구 창룡대로 267",
+      "address": "경기도 수원시 영통구 창룡대로 267 (이의동)",
       "phone": "(031)247-4627",
       "fax": "(031)247-4642",
       "pastor": null,
@@ -22505,9 +22505,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000018&code=201000481&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.2958048,
-      "lng": 127.0459738,
-      "geocode_status": "osm"
+      "lat": 37.29596925658906,
+      "lng": 127.03751543103718,
+      "geocode_status": "override"
     },
     {
       "id": "201000482",
@@ -25069,7 +25069,7 @@
       "region": "제2대리구",
       "district": "군포·의왕지구",
       "postal_code": "16069",
-      "address": "경기도 의왕시 사천2길 9",
+      "address": "경기도 의왕시 사천2길 9 (왕곡동)",
       "phone": "(031)477-0541",
       "fax": "(031)477-0544",
       "pastor": null,
@@ -25079,9 +25079,9 @@
       "mission_stations": 0,
       "homepage": "http://cafe.daum.net/wangkok",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000018&code=201000580&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.3456632,
-      "lng": 126.9761282,
-      "geocode_status": "osm"
+      "lat": 37.3462006312557,
+      "lng": 126.97596941107358,
+      "geocode_status": "override"
     },
     {
       "id": "201000581",
@@ -28335,8 +28335,8 @@
       "mission_stations": 0,
       "homepage": "http://cafe.daum.net/taejangdong",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000019&code=201000954&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.38740357692624,
-      "lng": 127.95064602747814,
+      "lat": 37.38636333983917,
+      "lng": 127.95044210681955,
       "geocode_status": "override"
     },
     {
@@ -37069,8 +37069,8 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000023&code=201006719&tbxSearch=&gubn2=all&char=all",
-      "lat": 36.665783927250985,
-      "lng": 127.47261960451917,
+      "lat": 36.6656188758151,
+      "lng": 127.47256981907552,
       "geocode_status": "override"
     },
     {
@@ -38235,9 +38235,9 @@
       "mission_stations": 0,
       "homepage": "http://www.kkotgp.or.kr",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000013&code=201001501&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.9019031,
-      "lng": 127.345468,
-      "geocode_status": "osm"
+      "lat": 37.88486354452228,
+      "lng": 127.35077714949696,
+      "geocode_status": "override"
     },
     {
       "id": "201001511",
