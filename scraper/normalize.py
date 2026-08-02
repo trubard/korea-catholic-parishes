@@ -19,6 +19,34 @@ import time
 import requests
 
 VWORLD_URL = "https://api.vworld.kr/req/address"
+# VWorld DB 에 없는 신규/변경 도로명 보완용 2차 지오코더(OpenStreetMap Nominatim).
+# 무료·무키지만 도로 중심 좌표라 건물 단위보다 정밀도가 낮다 → geocode_status='osm'.
+OSM_URL = "https://nominatim.openstreetmap.org/search"
+OSM_UA = "korea-catholic-parishes/1.0 (+https://github.com/trubard/korea-catholic-parishes)"
+
+
+def osm_geocode(address: str, session: requests.Session | None = None,
+                delay: float = 1.1) -> tuple[float, float] | None:
+    """OSM Nominatim 으로 (lat, lng) 조회. 실패/미발견 시 None.
+
+    Nominatim 이용정책상 초당 1요청 → delay 로 제한. 개별 실패는 무시.
+    """
+    if not address:
+        return None
+    sess = session or requests
+    try:
+        if delay:
+            time.sleep(delay)
+        r = sess.get(OSM_URL, params={"q": address, "format": "json",
+                                      "countrycodes": "kr", "limit": 1},
+                     headers={"User-Agent": OSM_UA}, timeout=30)
+        r.raise_for_status()
+        j = r.json()
+        if j:
+            return float(j[0]["lat"]), float(j[0]["lon"])
+    except Exception:  # noqa: BLE001
+        pass
+    return None
 
 # ---------------------------------------------------------------- 상세 분리
 
@@ -201,7 +229,15 @@ def normalize(raw: str, client: VWorldClient | None, cache: dict) -> dict:
             break
 
     if geo is None:
-        # 실패는 캐시하지 않는다 — VWorld 가 개편 지명을 나중에 지원하면 자동 재시도되도록.
+        # VWorld 미등록 도로 → OSM 2차 폴백(도로 중심 좌표, 정밀도 낮음).
+        latlng = osm_geocode(parts["base"]) or osm_geocode(
+            _strip_subregion(parts["base"]) or "")
+        if latlng:
+            out["lat"], out["lng"] = latlng
+            out["geocode_status"] = "osm"
+            cache[raw] = out
+            return out
+        # 실패는 캐시하지 않는다 — VWorld/OSM 가 나중에 지명을 반영하면 자동 재시도되도록.
         out["geocode_status"] = "failed"
         return out
 

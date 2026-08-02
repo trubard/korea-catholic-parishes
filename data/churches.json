@@ -3145,9 +3145,9 @@
       "mission_stations": 4,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001557&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 35.945582,
+      "lng": 128.5862061,
+      "geocode_status": "osm"
     },
     {
       "id": "201001558",
@@ -3167,9 +3167,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001558&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.508645,
+      "lng": 126.9227102,
+      "geocode_status": "osm"
     },
     {
       "id": "201006660",
@@ -3211,9 +3211,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001559&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 35.8861798,
+      "lng": 128.6765549,
+      "geocode_status": "osm"
     },
     {
       "id": "201001556",
@@ -3255,9 +3255,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001561&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 36.1561357,
+      "lng": 127.7709238,
+      "geocode_status": "osm"
     },
     {
       "id": "201001562",
@@ -3299,9 +3299,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001564&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.7406512,
+      "lng": 128.9316733,
+      "geocode_status": "osm"
     },
     {
       "id": "201001566",
@@ -3387,9 +3387,9 @@
       "mission_stations": 3,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001568&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.8462646,
+      "lng": 127.2828076,
+      "geocode_status": "osm"
     },
     {
       "id": "201001569",
@@ -3409,9 +3409,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001569&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.4502063,
+      "lng": 127.9785296,
+      "geocode_status": "osm"
     },
     {
       "id": "201001571",
@@ -3563,9 +3563,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001576&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.6738412,
+      "lng": 126.80561,
+      "geocode_status": "osm"
     },
     {
       "id": "201008414",
@@ -3695,9 +3695,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001582&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 35.2117242,
+      "lng": 128.1341914,
+      "geocode_status": "osm"
     },
     {
       "id": "201001583",
@@ -3849,9 +3849,9 @@
       "mission_stations": 3,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001588&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.2619954,
+      "lng": 127.3674966,
+      "geocode_status": "osm"
     },
     {
       "id": "201001589",
@@ -3871,9 +3871,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001589&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 36.6069038,
+      "lng": 127.5005579,
+      "geocode_status": "osm"
     },
     {
       "id": "201001590",
@@ -3893,9 +3893,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001590&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 35.9878178,
+      "lng": 129.1119857,
+      "geocode_status": "osm"
     },
     {
       "id": "201001626",
@@ -3915,9 +3915,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001626&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.4520195,
+      "lng": 127.0272023,
+      "geocode_status": "osm"
     },
     {
       "id": "201001591",
@@ -3959,9 +3959,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001592&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 36.0567777,
+      "lng": 127.0673257,
+      "geocode_status": "osm"
     },
     {
       "id": "201001593",
@@ -3981,9 +3981,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001593&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.3928211,
+      "lng": 127.147898,
+      "geocode_status": "osm"
     },
     {
       "id": "201001597",
@@ -4091,9 +4091,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001596&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 35.1018798,
+      "lng": 129.1096883,
+      "geocode_status": "osm"
     },
     {
       "id": "201001598",
@@ -4135,9 +4135,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001560&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 36.1216578,
+      "lng": 127.0988258,
+      "geocode_status": "osm"
     },
     {
       "id": "201009167",
@@ -4201,9 +4201,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001600&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 36.6345688,
+      "lng": 128.3914969,
+      "geocode_status": "osm"
     },
     {
       "id": "201001601",
@@ -4245,9 +4245,9 @@
       "mission_stations": 4,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001602&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 36.702107,
+      "lng": 126.5431784,
+      "geocode_status": "osm"
     },
     {
       "id": "201001603",
@@ -4267,9 +4267,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001603&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.0281196,
+      "lng": 127.915136,
+      "geocode_status": "osm"
     },
     {
       "id": "201001604",
@@ -4377,9 +4377,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201007259&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.248656,
+      "lng": 126.8971207,
+      "geocode_status": "osm"
     },
     {
       "id": "201001609",
@@ -4421,9 +4421,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001630&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 33.2436802,
+      "lng": 126.5210639,
+      "geocode_status": "osm"
     },
     {
       "id": "201001610",
@@ -4487,9 +4487,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001612&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.8578717,
+      "lng": 127.1622589,
+      "geocode_status": "osm"
     },
     {
       "id": "201001613",
@@ -4553,9 +4553,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001616&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 36.7400102,
+      "lng": 127.4571791,
+      "geocode_status": "osm"
     },
     {
       "id": "201001617",
@@ -4619,9 +4619,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001618&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.7029985,
+      "lng": 126.5693288,
+      "geocode_status": "osm"
     },
     {
       "id": "201001619",
@@ -4663,9 +4663,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001620&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 35.6107751,
+      "lng": 127.288253,
+      "geocode_status": "osm"
     },
     {
       "id": "201001622",
@@ -4685,9 +4685,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001622&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 35.2770535,
+      "lng": 128.3203091,
+      "geocode_status": "osm"
     },
     {
       "id": "201001621",
@@ -4707,9 +4707,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001621&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 35.9762088,
+      "lng": 129.4153101,
+      "geocode_status": "osm"
     },
     {
       "id": "201001624",
@@ -4729,9 +4729,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001624&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.3830917,
+      "lng": 126.9603729,
+      "geocode_status": "osm"
     },
     {
       "id": "201001625",
@@ -4817,9 +4817,9 @@
       "mission_stations": 3,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001629&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 36.3891645,
+      "lng": 127.2987164,
+      "geocode_status": "osm"
     },
     {
       "id": "201001579",
@@ -4839,9 +4839,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001579&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 33.4695295,
+      "lng": 126.5221301,
+      "geocode_status": "osm"
     },
     {
       "id": "201001631",
@@ -4971,9 +4971,9 @@
       "mission_stations": 3,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001638&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.4267437,
+      "lng": 127.1022336,
+      "geocode_status": "osm"
     },
     {
       "id": "201001639",
@@ -4993,9 +4993,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001639&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 35.1436171,
+      "lng": 128.6717723,
+      "geocode_status": "osm"
     },
     {
       "id": "201001640",
@@ -5037,9 +5037,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001641&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.5048048,
+      "lng": 126.9159619,
+      "geocode_status": "osm"
     },
     {
       "id": "201006619",
@@ -5059,9 +5059,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201006619&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 35.9762088,
+      "lng": 129.4153101,
+      "geocode_status": "osm"
     },
     {
       "id": "201001642",
@@ -5081,9 +5081,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000029&code=201001642&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.1765574,
+      "lng": 126.9358829,
+      "geocode_status": "osm"
     },
     {
       "id": "201001643",
@@ -11043,9 +11043,9 @@
       "mission_stations": 2,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000016&code=201000718&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 36.552365,
+      "lng": 126.9453164,
+      "geocode_status": "osm"
     },
     {
       "id": "201000719",
@@ -15025,9 +15025,9 @@
       "mission_stations": 1,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000022&code=201001414&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 35.3854819,
+      "lng": 128.8265764,
+      "geocode_status": "osm"
     },
     {
       "id": "201001415",
@@ -22505,9 +22505,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000018&code=201000481&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.2958048,
+      "lng": 127.0459738,
+      "geocode_status": "osm"
     },
     {
       "id": "201000482",
@@ -25079,9 +25079,9 @@
       "mission_stations": 0,
       "homepage": "http://cafe.daum.net/wangkok",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000018&code=201000580&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.3456632,
+      "lng": 126.9761282,
+      "geocode_status": "osm"
     },
     {
       "id": "201000581",
@@ -28335,9 +28335,9 @@
       "mission_stations": 0,
       "homepage": "http://cafe.daum.net/taejangdong",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000019&code=201000954&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.3863822,
+      "lng": 127.9518269,
+      "geocode_status": "osm"
     },
     {
       "id": "201000956",
@@ -37069,9 +37069,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000023&code=201006719&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 36.667545,
+      "lng": 127.472161,
+      "geocode_status": "osm"
     },
     {
       "id": "201000999",
@@ -38235,9 +38235,9 @@
       "mission_stations": 0,
       "homepage": "http://www.kkotgp.or.kr",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000013&code=201001501&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 37.9019031,
+      "lng": 127.345468,
+      "geocode_status": "osm"
     },
     {
       "id": "201001511",
@@ -39159,9 +39159,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000013&code=201001546&tbxSearch=&gubn2=all&char=all",
-      "lat": null,
-      "lng": null,
-      "geocode_status": "failed"
+      "lat": 38.1928465,
+      "lng": 128.5974511,
+      "geocode_status": "osm"
     },
     {
       "id": "201001547",
