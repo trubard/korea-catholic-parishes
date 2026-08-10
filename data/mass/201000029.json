@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T22:12:52+00:00",
+  "generated_at": "2026-08-10T21:48:00+00:00",
   "diocese": "군종교구",
   "diocese_id": "201000029",
   "count": 45,
@@ -244,7 +244,12 @@
             }
           ]
         },
-        "saturday": [],
+        "saturday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
         "sunday": [
           {
             "time": "10:30",
@@ -252,7 +257,7 @@
           }
         ],
         "special": [],
-        "raw": "mon *첫째주월요일 군종후원회 미사 15:00; tue  10:30 ; wed 19: 00:00 ; thu  10:30 ; fri  10:30 ; sunday  10:30"
+        "raw": "mon *첫째주월요일 군종후원회 미사 15:00; tue  10:30 ; wed 19: 00:00 ; thu  10:30 ; fri  10:30 ; saturday 성모승천대축일 8월15일(토) 10:30 ; sunday  10:30"
       },
       "church_id": "201001556",
       "match_method": "phone"
