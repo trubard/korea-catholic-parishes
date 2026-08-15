@@ -120,10 +120,36 @@ def parse_recurrence(note: str | None) -> dict | None:
 # 두 축으로 나뉜다: 대상(audience, 누가) / 전례성격(kind, 어떤 미사).
 # 긴 것 우선(초중고 > 중고등부 > 학생 등 부분일치 충돌 방지).
 _AUDIENCE = (
-    "유아", "어린이", "초중고", "중고등부", "중고등", "중고생", "중고", "초등부",
-    "유치부", "주일학교", "학생", "청소년", "대학생", "청년", "가족", "가정",
-    "장년", "군인", "외국인", "영어", "베트남", "필리핀", "중국어", "수화", "장애",
+    "유아", "어린이", "초중고", "중고등부", "중고등", "중고생", "중고",
+    "초등부", "고등부", "고등", "유소년부", "유소년", "유치부", "주일학교",
+    "일반부", "학생", "청소년", "대학생", "청년", "가족", "가정", "장년",
+    "군인", "외국인", "영어", "베트남", "필리핀", "중국어", "수화", "장애",
 )
+# 대상성 어구지만 어휘에 없는 것(열거 불가한 언어·국적 공동체 등)을 원문 보존(§14).
+# 'XX부'·'XX공동체', 그리고 미사/공동체 앞의 'XX어'(언어 공동체).
+_AUD_RAW_RE = re.compile(r"[가-힣]{2,6}공동체|[가-힣]{2,5}부|[가-힣]{2,4}어(?=\s*(?:미사|공동체|권))")
+# 대상이 아닌 '…부'/'…공동체'(사제·부서·조직 등) — audience_raw 에서 제외.
+_AUD_RAW_BLOCK = (
+    "신부", "사령부", "공부", "주부", "본부", "지부", "사무부", "전례부",
+    "성가부", "봉사부", "총무부", "재무부", "관리부", "교육부", "홍보부",
+    "선교부", "사목부", "복사부", "성령부",
+)
+
+
+def parse_audience_raw(note: str | None, audience: list[str]) -> list[str] | None:
+    """어휘에 없는 대상성 어구를 원문 그대로 보존. 이미 분류된 것·비대상은 제외."""
+    if not note:
+        return None
+    out = []
+    for m in _AUD_RAW_RE.finditer(note):
+        frag = m.group(0)
+        if any(b in frag for b in _AUD_RAW_BLOCK):
+            continue
+        if any(a in frag or frag in a for a in audience):
+            continue
+        if frag not in out:
+            out.append(frag)
+    return out or None
 _KIND = (
     "교중", "새벽", "성시간", "특전", "신심", "위령", "연도", "봉헌",
 )
@@ -303,6 +329,9 @@ def parse_time_cell(text: str) -> list[dict]:
             entry["kind"] = kind
         if aud or kind:
             entry["type"] = aud + kind      # 하위호환(합친 값)
+        aud_raw = parse_audience_raw(note, aud)
+        if aud_raw:
+            entry["audience_raw"] = aud_raw   # 어휘 밖 대상성 어구 보존(§14)
         feast = parse_feast(note) or cell_feast
         if feast:
             entry["feast"] = feast
