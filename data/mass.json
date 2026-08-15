@@ -131199,7 +131199,15 @@
           }
         ],
         "special": [],
-        "raw": "mon *첫째주월요일 군종후원회 미사 15:00; tue  10:30 ; wed 19: 00:00 ; thu  10:30 ; fri  10:30 ; saturday 성모승천대축일 8월15일(토) 10:30 ; sunday  10:30"
+        "raw": "mon *첫째주월요일 군종후원회 미사 15:00; tue  10:30 ; wed 19: 00:00 ; thu  10:30 ; fri  10:30 ; saturday 성모승천대축일 8월15일(토) 10:30 ; sunday  10:30",
+        "feast_masses": [
+          {
+            "date": "08-15",
+            "feast": "성모승천대축일",
+            "time": "10:30",
+            "observed": "2026-08-15"
+          }
+        ]
       },
       "church_id": "201001556",
       "match_method": "phone"

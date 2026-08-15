@@ -98,6 +98,9 @@ churches = requests.get(url).json()["churches"]
     "saturday": [ {"time": "19:30", "note": "청소년", "type": ["청소년"]} ],
     "sunday":   [ {"time": "11:00", "note": "교중", "type": ["교중"]} ],
     "special": [],
+    "feast_masses": [              // 축일 미사 누적(선택) — 아래 설명
+      { "date": "08-15", "feast": "성모승천대축일", "time": "10:30", "observed": "2026-08-15" }
+    ],
     "raw": "원문 텍스트"
   },
   "stations": [                    // 공소(선택) — 소스가 공소 미사를 구분 제공할 때만
@@ -106,9 +109,16 @@ churches = requests.get(url).json()["churches"]
 }
 ```
 
+> **축일 미사(`mass.feast_masses`)**: 항목의 `feast` 는 수집일에만 관측되는 값이라
+> 매 수집마다 사라집니다. 고정일 축일은 날짜가 정해져 있으므로, 관측될 때마다
+> [`data/feast_masses.json`](data/feast_masses.json)에 `{date(MM-DD), feast, time, observed}`
+> 로 **누적**해 두고 본당 레코드에 `feast_masses` 로 부착합니다. `observed`(마지막 관측일)로
+> 얼마나 오래된 관측인지 알 수 있습니다. 이동축일(부활·성체성혈 등)은 날짜가 매년 달라 제외.
+
 > **공소(`stations`)**: 성당코드(`church_id`)는 본당에만 부여되고 공소는 별도 id가 없어,
 > 본당 레코드 안에 `stations` 배열(이름·주소·미사)로 중첩합니다. 소스가 공소 미사를
-> 명시적으로 구분할 때만 존재합니다(대다수 본당은 없음).
+> 명시적으로 구분할 때만 존재합니다(대다수 본당은 없음). 미사 항목의 `place` 는 인라인
+> 공소 표기(본당 셀 안에 섞인 공소 미사)를 가리킵니다.
 
 > **수동 오버라이드**: 사이트 소멸·카페 로그인·주보 이미지 등으로 자동 수집이 불가능한
 > 소수 본당은 [`data/mass_manual.json`](data/mass_manual.json)에 손으로 입력해 병합합니다

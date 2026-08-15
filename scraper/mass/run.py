@@ -13,6 +13,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import sys
 from collections import Counter
 from datetime import datetime, timezone
@@ -182,6 +183,7 @@ def main() -> int:
             continue
         merged.extend(json.load(open(os.path.join(MASS_DIR, fn),
                                     encoding="utf-8")).get("masses", []))
+    accumulate_feast_masses(merged, generated_at[:10])
     write_json(os.path.join(DATA_DIR, "mass.json"), {
         "generated_at": generated_at,
         "count": len(merged),
@@ -192,6 +194,67 @@ def main() -> int:
 
     write_uncovered(churches, merged, generated_at)
     return 0
+
+
+FEAST_STORE = os.path.join(DATA_DIR, "feast_masses.json")
+
+
+def _all_entries(mass: dict):
+    for v in mass.get("weekday", {}).values():
+        yield from v
+    for k in ("saturday", "sunday", "special"):
+        yield from mass.get(k, [])
+
+
+def accumulate_feast_masses(records: list[dict], observed: str) -> None:
+    """이번 수집에서 잡힌 축일 미사(고정일)를 지속 저장소에 누적하고 각 본당에 부착.
+
+    `feast` 는 수집일에만 관측되는 값이라(docs/09 §1) 매 수집마다 사라진다. 고정일
+    축일은 날짜가 정해져 있으므로, church_id 별로 {date, feast, time, observed} 를
+    쌓아 두면 이듬해에도 쓸 수 있다. (date,time,feast) 로 dedupe, observed 는 최신.
+    """
+    from base import resolve_feast_date  # noqa: PLC0415
+
+    store: dict = {}
+    if os.path.exists(FEAST_STORE):
+        try:
+            store = json.load(open(FEAST_STORE, encoding="utf-8")).get("by_church", {})
+        except (json.JSONDecodeError, OSError):
+            store = {}
+
+    for rec in records:
+        cid = rec.get("church_id")
+        if not cid:
+            continue
+        for e in _all_entries(rec.get("mass", {})):
+            feast = e.get("feast")
+            date = resolve_feast_date(feast)
+            if not date:
+                continue
+            lst = store.setdefault(cid, [])
+            key = (date, e["time"], re.sub(r"\s+", "", feast))
+            found = next((x for x in lst if (x["date"], x["time"],
+                          re.sub(r"\s+", "", x["feast"])) == key), None)
+            if found:
+                found["observed"] = observed
+            else:
+                lst.append({"date": date, "feast": feast, "time": e["time"],
+                            "observed": observed})
+
+    for cid in store:
+        store[cid].sort(key=lambda x: (x["date"], x["time"]))
+    write_json(FEAST_STORE, {"generated_at": observed, "note":
+               "고정일 축일 미사 누적(수집일에만 관측되는 feast 를 날짜별로 보존). "
+               "date=MM-DD, observed=마지막 관측일. mass.feast_masses 로 부착됨.",
+               "by_church": store})
+
+    total = 0
+    for rec in records:
+        fm = store.get(rec.get("church_id"))
+        if fm:
+            rec["mass"]["feast_masses"] = fm
+            total += len(fm)
+    print(f"[저장] 축일미사 {total}건 -> data/feast_masses.json", flush=True)
 
 
 def _has_mass(m: dict) -> bool:
