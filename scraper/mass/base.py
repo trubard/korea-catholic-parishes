@@ -103,9 +103,9 @@ def parse_recurrence(note: str | None) -> dict | None:
 # --- 미사 성격(type) 분류 ---
 # 긴 것 우선(초중고 > 중고등부 > 학생 등 부분일치 충돌 방지)
 _TYPE_KEYWORDS = (
-    "교중", "새벽", "유아", "어린이", "초중고", "중고등부", "학생",
-    "청소년", "대학생", "청년", "가족", "가정", "장년", "성시간",
-    "특전", "신심", "군인", "외국인", "영어",
+    "교중", "새벽", "유아", "어린이", "초중고", "중고등부", "중고등", "초등부",
+    "주일학교", "학생", "청소년", "대학생", "청년", "가족", "가정", "장년",
+    "성시간", "특전", "신심", "군인", "외국인", "영어",
 )
 
 
@@ -114,8 +114,56 @@ def parse_type(note: str | None) -> list[str] | None:
     if not note:
         return None
     found = [t for t in _TYPE_KEYWORDS if t in note]
-    # 중복/포함 정리: 다른 키워드의 부분집합이면 제거(예: '학생'이 '초중고'와 함께면 유지 OK)
+    # 부분집합 제거: '중고등'이 '중고등부'와 함께면 '중고등' 버림
+    found = [t for t in found if not any(t != o and t in o for o in found)]
     return found or None
+
+
+# --- 축일(feast) 추출 ---
+# '성모 승천 대축일', '주님 성탄 대축일' 등 '대축일'로 끝나는 어구. '성천'(오타) 허용.
+_FEAST_RE = re.compile(r"([가-힣][가-힣\s·]{1,20}?(?:대축일|의 주일))")
+
+
+def parse_feast(note: str | None) -> str | None:
+    """note 에서 축일/대축일 이름을 뽑는다. 없으면 None."""
+    if not note:
+        return None
+    m = _FEAST_RE.search(note)
+    if m:
+        return re.sub(r"\s+", " ", m.group(1)).strip()
+    return None
+
+
+# --- 시각 토큰 파싱 ---
+_HHMM_RE = re.compile(r"\d{1,2}:\d{2}")
+# 시각으로 볼 홑숫자: 앞이 숫자/콜론/한글이 아니고, 뒤에 시각이 아닌 단위가 오지 않는 1~2자리.
+_BARE_HOUR_RE = re.compile(
+    r"(?<![:\d가-힣])(\d{1,2})(?!\s*[:\d시분월일주년명호원군세절]|\s*번|\s*구역|\s*가정)")
+# 부정 표현(그 시각 미사가 없다는 안내) — 붙은 시각은 넣지 않는다.
+_NEG_RE = re.compile(r"없[음다]|없습니다|쉽니다|안\s*합니다|중단|취소")
+
+
+def _bare_hours_to_hhmm(text: str) -> str:
+    """구분자 사이 홑숫자를 HH:MM 으로(0~24). '11월'·'2군단'·'18호' 등은 제외."""
+    def repl(m):
+        h = int(m.group(1))
+        return f"{h:02d}:00" if 0 <= h <= 24 else m.group(0)
+    return _BARE_HOUR_RE.sub(repl, text)
+
+
+def _paren_depth(text: str) -> list[int]:
+    """각 문자 위치의 괄호 깊이(여는 괄호 자리는 0, 그 안쪽은 1+)."""
+    depth, out = 0, []
+    for ch in text:
+        if ch in "([{":
+            out.append(depth)
+            depth += 1
+        elif ch in ")]}":
+            depth = max(0, depth - 1)
+            out.append(depth)
+        else:
+            out.append(depth)
+    return out
 
 
 def get_soup(session: requests.Session, url: str, encoding: str = "utf-8",
@@ -126,28 +174,46 @@ def get_soup(session: requests.Session, url: str, encoding: str = "utf-8",
 
 
 def parse_time_cell(text: str) -> list[dict]:
-    """'06:30 09:00 11:00 교중 18:00 청년' -> 시간별 {time, note} 목록.
+    """'6/8:30/10:30/17/19' 같은 구간 문자열 -> 시간별 {time, note, type?, feast?, recurrence?}.
 
-    각 HH:MM 토큰이 하나의 미사가 되고, 그 뒤(다음 시간 전까지)의 텍스트가 note(대상/비고).
-    시간이 하나도 없으면 빈 목록.
+    - 한글시각(10시·오후5시)·홑숫자(6·17)·HH:MM 을 모두 시각으로 인식한다.
+    - 괄호/대괄호 안의 시각·쉼표는 하나의 note 로 묶고, 괄호 밖 시각만 미사로 만든다.
+    - '없음/쉽니다' 등 부정 표현이 붙은 시각은 넣지 않는다(유령 미사 방지).
+    각 시각의 note 는 다음 시각 전까지의 텍스트(대상/비고).
     """
     if not text:
         return []
     text = re.sub(r"\s+", " ", text).strip()
-    matches = list(_TIME_RE.finditer(text))
-    if not matches:
+    text = korean_to_hhmm(text)          # 오후5시 -> 17:00, 10시30분 -> 10:30
+    text = _bare_hours_to_hhmm(text)     # /17/ -> /17:00/
+    cell_feast = parse_feast(text)       # 셀 전체 축일(시각 앞에 오는 경우 대비)
+    depth = _paren_depth(text)
+    # 괄호 밖(depth 0) HH:MM 만 미사 앵커로. 단 셀 전체가 괄호면(밖 앵커 0개)
+    # 괄호 안 시각을 쓴다(예: '(성모승천대축일 09시 주일학교)').
+    all_hhmm = list(_HHMM_RE.finditer(text))
+    anchors = [m for m in all_hhmm if depth[m.start()] == 0] or all_hhmm
+    if not anchors:
         return []
     entries = []
-    for i, m in enumerate(matches):
-        hh = int(m.group(1))
-        time = f"{hh:02d}:{m.group(2)}"
-        start = m.end()
-        end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
-        note = text[start:end].strip(" ,/·") or None
-        entry = {"time": time, "note": note}
+    for i, m in enumerate(anchors):
+        hh = int(m.group(0).split(":")[0])
+        if hh > 24:                      # 잘못 인식된 숫자(예: '25')
+            continue
+        time = f"{hh % 24:02d}:{m.group(0).split(':')[1]}"
+        end = anchors[i + 1].start() if i + 1 < len(anchors) else len(text)
+        note = text[m.end():end].strip(" ,/·-*")
+        # 계절 조건 등 구간 전체 단서(*...)는 note 에서 떼어 recurrence 로만 반영.
+        # 표시용 note 는 감싼 괄호를 정리.
+        note_core = re.split(r"\*", note)[0].strip(" ,/·-()[]") or None
+        if note and _NEG_RE.search(note):    # 그 시각 미사가 없다는 안내
+            continue
+        entry = {"time": time, "note": note_core}
         types = parse_type(note)
         if types:
             entry["type"] = types
+        feast = parse_feast(note) or cell_feast
+        if feast:
+            entry["feast"] = feast
         rec = parse_recurrence(note)
         if rec:
             entry["recurrence"] = rec

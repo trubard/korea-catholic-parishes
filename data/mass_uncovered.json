@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08T16:19:18+00:00",
+  "generated_at": "2026-08-15T20:09:33+00:00",
   "total_churches": 1789,
-  "covered": 1724,
-  "uncovered": 65,
+  "covered": 1725,
+  "uncovered": 64,
   "homepage_found": 6,
   "note": "phone/cbck 는 CBCK 주소록 상세페이지에서 추출. homepage 는 CBCK '홈페이지 주소' 필드(대부분 미등록=null), 마산교구는 어댑터 SITES/JS_SITES URL로 보완. homepage=null 은 수집 대상 사이트를 못 찾은 본당(카페/이미지/미등록). run.py 가 수집 시마다 재생성.",
   "by_diocese": {
@@ -360,30 +360,6 @@
         }
       ]
     },
-    "광주대교구": {
-      "count": 3,
-      "reason": "교구 사이트 미사표 공란",
-      "parishes": [
-        {
-          "name": "고금",
-          "homepage": null,
-          "phone": "(061)555-2020",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201007206&tbxSearch=&gubn2=all&char=all"
-        },
-        {
-          "name": "상사",
-          "homepage": null,
-          "phone": "(061)745-3491",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201001163&tbxSearch=&gubn2=all&char=all"
-        },
-        {
-          "name": "자은",
-          "homepage": null,
-          "phone": "(061)262-8004",
-          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201007079&tbxSearch=&gubn2=all&char=all"
-        }
-      ]
-    },
     "부산교구": {
       "count": 3,
       "reason": "교구 사이트 미사표 공란(카페)",
@@ -405,6 +381,24 @@
           "homepage": null,
           "phone": "070-8896-0949",
           "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000022&code=201001472&tbxSearch=&gubn2=all&char=all"
+        }
+      ]
+    },
+    "광주대교구": {
+      "count": 2,
+      "reason": "교구 사이트 미사표 공란",
+      "parishes": [
+        {
+          "name": "상사",
+          "homepage": null,
+          "phone": "(061)745-3491",
+          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201001163&tbxSearch=&gubn2=all&char=all"
+        },
+        {
+          "name": "자은",
+          "homepage": null,
+          "phone": "(061)262-8004",
+          "cbck": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201007079&tbxSearch=&gubn2=all&char=all"
         }
       ]
     },

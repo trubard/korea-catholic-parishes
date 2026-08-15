@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T21:48:00+00:00",
+  "generated_at": "2026-08-15T20:09:33+00:00",
   "diocese": "대전교구",
   "diocese_id": "201000016",
   "count": 149,
@@ -96,7 +96,11 @@
         "saturday": [
           {
             "time": "16:00",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "sunday": [
@@ -162,7 +166,11 @@
         "sunday": [
           {
             "time": "10:00",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -222,7 +230,11 @@
           },
           {
             "time": "10:30",
-            "note": "18"
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
           }
         ],
         "special": [],
@@ -273,11 +285,11 @@
         "sunday": [
           {
             "time": "08:00",
-            "note": "(본당 미사)"
+            "note": "본당 미사"
           },
           {
             "time": "11:30",
-            "note": "(순례객 미사)"
+            "note": "순례객 미사"
           }
         ],
         "special": [],
@@ -302,7 +314,7 @@
           "tue": [
             {
               "time": "19:30",
-              "note": null
+              "note": "동.19:00"
             }
           ],
           "wed": [
@@ -321,10 +333,26 @@
             {
               "time": "11:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": "동19"
             }
           ]
         },
-        "saturday": [],
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": "동.19:00",
+            "recurrence": {
+              "months": [
+                11
+              ],
+              "season": "winter",
+              "raw": "(동.19:00), * 동절기 11월~2월"
+            }
+          }
+        ],
         "sunday": [
           {
             "time": "07:00",
@@ -388,7 +416,11 @@
         "sunday": [
           {
             "time": "08:00",
-            "note": "10"
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
           }
         ],
         "special": [],
@@ -505,7 +537,7 @@
         "saturday": [
           {
             "time": "17:00",
-            "note": "(토요주일미사)"
+            "note": "토요주일미사"
           }
         ],
         "sunday": [
@@ -543,6 +575,10 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
             }
           ],
           "thu": [
@@ -554,6 +590,10 @@
           "fri": [
             {
               "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
               "note": null
             }
           ]
@@ -608,13 +648,17 @@
         "saturday": [
           {
             "time": "17:00",
-            "note": "(첫토:10/17)"
+            "note": "첫토:10/17:00"
           }
         ],
         "sunday": [
           {
             "time": "10:30",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -631,7 +675,12 @@
       "mass": {
         "weekday": {
           "mon": [],
-          "tue": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
           "wed": [
             {
               "time": "10:00",
@@ -651,8 +700,22 @@
             }
           ]
         },
-        "saturday": [],
-        "sunday": [],
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
         "special": [],
         "raw": "▶평일_화/19:30, 수/10, 목/19:30, 금/10 ▶토요일_18:00 ▶주일_10:30/19:30"
       },
@@ -706,7 +769,11 @@
         "sunday": [
           {
             "time": "10:00",
-            "note": "17"
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "special": [],
@@ -737,6 +804,10 @@
           "wed": [
             {
               "time": "10:00",
+              "note": "목"
+            },
+            {
+              "time": "19:00",
               "note": null
             }
           ],
@@ -755,7 +826,7 @@
           },
           {
             "time": "10:00",
-            "note": "(매월 첫째주-성모신심미사)",
+            "note": "매월 첫째주-성모신심미사",
             "type": [
               "신심"
             ],
@@ -774,7 +845,11 @@
           },
           {
             "time": "10:30",
-            "note": "17"
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "special": [],
@@ -824,7 +899,15 @@
         "saturday": [
           {
             "time": "10:30",
-            "note": "15/18 (매월 첫 토요일-성모신심미사",
+            "note": null
+          },
+          {
+            "time": "15:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": "매월 첫 토요일-성모신심미사 10:30",
             "type": [
               "신심"
             ],
@@ -832,12 +915,8 @@
               "weeks": [
                 1
               ],
-              "raw": "15/18 (매월 첫 토요일-성모신심미사"
+              "raw": "(매월 첫 토요일-성모신심미사 10:30)"
             }
-          },
-          {
-            "time": "10:30",
-            "note": ")"
           }
         ],
         "sunday": [
@@ -847,7 +926,15 @@
           },
           {
             "time": "10:30",
-            "note": "15/18"
+            "note": null
+          },
+          {
+            "time": "15:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
           }
         ],
         "special": [],
@@ -922,6 +1009,22 @@
           "mon": [
             {
               "time": "06:30",
+              "note": "화"
+            },
+            {
+              "time": "19:30",
+              "note": "수"
+            },
+            {
+              "time": "10:00",
+              "note": "목"
+            },
+            {
+              "time": "10:00",
+              "note": "금"
+            },
+            {
+              "time": "10:00",
               "note": null
             }
           ],
@@ -983,11 +1086,19 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
             }
           ],
           "thu": [
             {
               "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
               "note": null
             }
           ],
@@ -995,13 +1106,25 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
             }
           ]
         },
         "saturday": [
           {
             "time": "10:00",
-            "note": "15/19"
+            "note": null
+          },
+          {
+            "time": "15:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "sunday": [
@@ -1011,7 +1134,11 @@
           },
           {
             "time": "10:30",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -1061,6 +1188,22 @@
           "mon": [
             {
               "time": "09:00",
+              "note": "화"
+            },
+            {
+              "time": "19:30",
+              "note": "수"
+            },
+            {
+              "time": "10:00",
+              "note": "목"
+            },
+            {
+              "time": "19:30",
+              "note": "금"
+            },
+            {
+              "time": "10:00",
               "note": null
             }
           ],
@@ -1138,7 +1281,11 @@
           },
           {
             "time": "10:30",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -1188,7 +1335,14 @@
         "saturday": [
           {
             "time": "10:00",
-            "note": "(첫토"
+            "note": "첫토, 성모신심미사",
+            "type": [
+              "신심"
+            ]
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "sunday": [
@@ -1245,7 +1399,20 @@
             }
           ]
         },
-        "saturday": [],
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "매주 어린이, 청년 미사",
+            "type": [
+              "어린이",
+              "청년"
+            ]
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
         "sunday": [
           {
             "time": "06:00",
@@ -1253,7 +1420,11 @@
           },
           {
             "time": "10:30",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -1303,7 +1474,7 @@
         "saturday": [
           {
             "time": "15:00",
-            "note": "(어린이 청소년미사)",
+            "note": "어린이 청소년미사",
             "type": [
               "어린이",
               "청소년"
@@ -1340,6 +1511,14 @@
           "mon": [
             {
               "time": "06:00",
+              "note": "화"
+            },
+            {
+              "time": "19:00",
+              "note": "수"
+            },
+            {
+              "time": "10:00",
               "note": null
             }
           ],
@@ -1351,15 +1530,34 @@
         "saturday": [
           {
             "time": "10:00",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "sunday": [
           {
             "time": "08:00",
-            "note": "10/15(어린이)/19(청년",
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "15:00",
+            "note": "어린이",
             "type": [
-              "어린이",
+              "어린이"
+            ]
+          },
+          {
+            "time": "19:00",
+            "note": "청년,청소년",
+            "type": [
+              "청소년",
               "청년"
             ]
           }
@@ -1421,7 +1619,7 @@
           },
           {
             "time": "19:30",
-            "note": "(교중)",
+            "note": "교중",
             "type": [
               "교중"
             ]
@@ -1474,14 +1672,14 @@
         "saturday": [
           {
             "time": "15:00",
-            "note": "(어린이미사)",
+            "note": "어린이미사",
             "type": [
               "어린이"
             ]
           },
           {
             "time": "18:00",
-            "note": "(청소년.특전)",
+            "note": "청소년.특전",
             "type": [
               "청소년",
               "특전"
@@ -1491,10 +1689,14 @@
         "sunday": [
           {
             "time": "10:30",
-            "note": "(교중)/19",
+            "note": "교중",
             "type": [
               "교중"
             ]
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -1526,11 +1728,19 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
             }
           ],
           "thu": [
             {
               "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
               "note": null
             }
           ],
@@ -1538,19 +1748,35 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
             }
           ]
         },
         "saturday": [
           {
             "time": "15:00",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "sunday": [
           {
             "time": "06:00",
-            "note": "10/19"
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -1582,6 +1808,10 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
             }
           ],
           "thu": [
@@ -1594,13 +1824,21 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
             }
           ]
         },
         "saturday": [
           {
             "time": "10:00",
-            "note": "18"
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
           }
         ],
         "sunday": [
@@ -1614,7 +1852,11 @@
           },
           {
             "time": "10:30",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -1646,6 +1888,10 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
             }
           ],
           "thu": [
@@ -1658,13 +1904,21 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
             }
           ]
         },
         "saturday": [
           {
             "time": "10:00",
-            "note": "18"
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
           }
         ],
         "sunday": [
@@ -1678,7 +1932,11 @@
           },
           {
             "time": "10:30",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -1829,11 +2087,19 @@
             {
               "time": "06:00",
               "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
             }
           ],
           "thu": [
             {
               "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
               "note": null
             }
           ],
@@ -1841,19 +2107,43 @@
             {
               "time": "06:00",
               "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
             }
           ]
         },
         "saturday": [
           {
             "time": "10:00",
-            "note": "16/19"
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "sunday": [
           {
             "time": "06:00",
-            "note": "10/15/19"
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "15:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -1951,11 +2241,19 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
             }
           ],
           "fri": [
             {
               "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
               "note": null
             }
           ]
@@ -1973,7 +2271,15 @@
           },
           {
             "time": "10:30",
-            "note": "16/19"
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -1993,6 +2299,18 @@
           "tue": [
             {
               "time": "19:00",
+              "note": "수"
+            },
+            {
+              "time": "10:00",
+              "note": "목"
+            },
+            {
+              "time": "19:00",
+              "note": "금"
+            },
+            {
+              "time": "10:00",
               "note": null
             }
           ],
@@ -2003,7 +2321,7 @@
         "saturday": [
           {
             "time": "17:00",
-            "note": "시"
+            "note": null
           }
         ],
         "sunday": [
@@ -2065,7 +2383,11 @@
         "sunday": [
           {
             "time": "10:00",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -2091,11 +2413,19 @@
             {
               "time": "06:00",
               "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
             }
           ],
           "wed": [
             {
               "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
               "note": null
             }
           ],
@@ -2103,11 +2433,19 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
             }
           ],
           "fri": [
             {
               "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "01:00",
               "note": null
             }
           ]
@@ -2115,13 +2453,37 @@
         "saturday": [
           {
             "time": "06:00",
-            "note": "16/19"
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "sunday": [
           {
             "time": "06:00",
-            "note": "10/15/17/19"
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "15:00",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -2292,7 +2654,11 @@
         "sunday": [
           {
             "time": "09:00",
-            "note": "11"
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
           }
         ],
         "special": [],
@@ -2311,11 +2677,23 @@
           "mon": [
             {
               "time": "06:00",
+              "note": "화"
+            },
+            {
+              "time": "19:00",
               "note": null
             }
           ],
           "tue": [],
           "wed": [
+            {
+              "time": "10:00",
+              "note": "목"
+            },
+            {
+              "time": "19:00",
+              "note": "금"
+            },
             {
               "time": "10:00",
               "note": null
@@ -2373,11 +2751,19 @@
             {
               "time": "06:30",
               "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
             }
           ],
           "thu": [
             {
               "time": "06:30",
+              "note": null
+            },
+            {
+              "time": "10:00",
               "note": null
             }
           ],
@@ -2385,13 +2771,21 @@
             {
               "time": "06:30",
               "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
             }
           ]
         },
         "saturday": [
           {
             "time": "10:00",
-            "note": "15"
+            "note": null
+          },
+          {
+            "time": "15:00",
+            "note": null
           },
           {
             "time": "19:30",
@@ -2459,7 +2853,7 @@
         "saturday": [
           {
             "time": "10:00",
-            "note": "(매월 첫 토요일 신심미사만 있음)/19",
+            "note": "매월 첫 토요일 신심미사만 있음",
             "type": [
               "신심"
             ],
@@ -2467,14 +2861,26 @@
               "weeks": [
                 1
               ],
-              "raw": "(매월 첫 토요일 신심미사만 있음)/19"
+              "raw": "(매월 첫 토요일 신심미사만 있음)"
             }
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "sunday": [
           {
             "time": "08:00",
-            "note": "10/19"
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -2530,7 +2936,15 @@
         "sunday": [
           {
             "time": "10:30",
-            "note": "17/19"
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -2562,11 +2976,19 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
             }
           ],
           "thu": [
             {
               "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
               "note": null
             }
           ],
@@ -2574,13 +2996,21 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
             }
           ]
         },
         "saturday": [
           {
             "time": "15:00",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "sunday": [
@@ -2594,7 +3024,15 @@
           },
           {
             "time": "10:30",
-            "note": "17/19"
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -2636,7 +3074,15 @@
             }
           ]
         },
-        "saturday": [],
+        "saturday": [
+          {
+            "time": "17:00",
+            "note": "토요가정미사",
+            "type": [
+              "가정"
+            ]
+          }
+        ],
         "sunday": [
           {
             "time": "08:30",
@@ -2698,7 +3144,11 @@
         "saturday": [
           {
             "time": "16:00",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "sunday": [
@@ -2736,7 +3186,7 @@
           ],
           "tue": [
             {
-              "time": "19:00",
+              "time": "19:30",
               "note": null
             }
           ],
@@ -2748,7 +3198,7 @@
           ],
           "thu": [
             {
-              "time": "19:00",
+              "time": "19:30",
               "note": null
             }
           ],
@@ -2762,13 +3212,21 @@
         "saturday": [
           {
             "time": "15:00",
-            "note": "시/18시30분"
+            "note": null
+          },
+          {
+            "time": "18:30",
+            "note": null
           }
         ],
         "sunday": [
           {
             "time": "10:00",
-            "note": "시/18시30분"
+            "note": null
+          },
+          {
+            "time": "18:30",
+            "note": null
           }
         ],
         "special": [],
@@ -2818,10 +3276,21 @@
         "saturday": [
           {
             "time": "09:00",
-            "note": "16(어린이)/18(중고등부",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": "어린이",
             "type": [
-              "어린이",
-              "중고등부"
+              "어린이"
+            ]
+          },
+          {
+            "time": "18:00",
+            "note": "중고등부,특전",
+            "type": [
+              "중고등부",
+              "특전"
             ]
           }
         ],
@@ -2832,7 +3301,11 @@
           },
           {
             "time": "10:30",
-            "note": "19(청년)",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": "청년",
             "type": [
               "청년"
             ]
@@ -2872,6 +3345,10 @@
           "thu": [
             {
               "time": "10:00",
+              "note": ". 금"
+            },
+            {
+              "time": "10:00",
               "note": null
             }
           ],
@@ -2890,12 +3367,16 @@
           },
           {
             "time": "10:30",
-            "note": "15(공소:넷째 주일)",
+            "note": null
+          },
+          {
+            "time": "15:00",
+            "note": "공소:넷째 주일",
             "recurrence": {
               "weeks": [
                 4
               ],
-              "raw": "15(공소:넷째 주일)"
+              "raw": "(공소:넷째 주일)"
             }
           }
         ],
@@ -2915,6 +3396,22 @@
           "mon": [
             {
               "time": "06:00",
+              "note": "화"
+            },
+            {
+              "time": "19:30",
+              "note": "수"
+            },
+            {
+              "time": "10:30",
+              "note": "목"
+            },
+            {
+              "time": "10:30",
+              "note": "금"
+            },
+            {
+              "time": "19:30",
               "note": null
             }
           ],
@@ -2936,7 +3433,11 @@
           },
           {
             "time": "10:30",
-            "note": "17"
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "special": [],
@@ -2992,7 +3493,11 @@
         "sunday": [
           {
             "time": "10:30",
-            "note": "17"
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "special": [],
@@ -3087,6 +3592,10 @@
           "wed": [
             {
               "time": "10:00",
+              "note": "목"
+            },
+            {
+              "time": "19:30",
               "note": null
             }
           ],
@@ -3175,7 +3684,11 @@
           },
           {
             "time": "10:30",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -3207,11 +3720,19 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
             }
           ],
           "thu": [
             {
               "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
               "note": null
             }
           ],
@@ -3225,7 +3746,7 @@
         "saturday": [
           {
             "time": "10:00",
-            "note": "[성모신심미사(매월 첫째주)]/18",
+            "note": "성모신심미사(매월 첫째주",
             "type": [
               "신심"
             ],
@@ -3233,8 +3754,12 @@
               "weeks": [
                 1
               ],
-              "raw": "[성모신심미사(매월 첫째주)]/18"
+              "raw": "[성모신심미사(매월 첫째주)]"
             }
+          },
+          {
+            "time": "18:00",
+            "note": null
           }
         ],
         "sunday": [
@@ -3295,6 +3820,19 @@
           "fri": [
             {
               "time": "10:00",
+              "note": "동절기(01:00~3월) 화",
+              "recurrence": {
+                "months": [
+                  1,
+                  2,
+                  3
+                ],
+                "season": "winter",
+                "raw": "동절기(01:00~3월) 화"
+              }
+            },
+            {
+              "time": "19:00",
               "note": null
             }
           ]
@@ -3302,7 +3840,7 @@
         "saturday": [
           {
             "time": "19:30",
-            "note": "동절기(1~3월) 토",
+            "note": "동절기(01:00~3월) 토",
             "recurrence": {
               "months": [
                 1,
@@ -3310,7 +3848,7 @@
                 3
               ],
               "season": "winter",
-              "raw": "동절기(1~3월) 토"
+              "raw": "동절기(01:00~3월) 토"
             }
           },
           {
@@ -3379,7 +3917,7 @@
           },
           {
             "time": "10:30",
-            "note": "(공소미사)"
+            "note": "공소미사"
           },
           {
             "time": "10:30",
@@ -3488,7 +4026,7 @@
         "saturday": [
           {
             "time": "10:00",
-            "note": "(매월 첫째주 토요일)",
+            "note": "매월 첫째주 토요일",
             "recurrence": {
               "weeks": [
                 1
@@ -3508,7 +4046,11 @@
           },
           {
             "time": "10:30",
-            "note": "17"
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "special": [],
@@ -3558,7 +4100,7 @@
         "saturday": [
           {
             "time": "10:00",
-            "note": "(매월 첫째주 토요일)",
+            "note": "매월 첫째주 토요일",
             "recurrence": {
               "weeks": [
                 1
@@ -3578,7 +4120,11 @@
           },
           {
             "time": "10:30",
-            "note": "17"
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "special": [],
@@ -3689,7 +4235,11 @@
         "sunday": [
           {
             "time": "10:00",
-            "note": "17"
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "special": [],
@@ -3739,19 +4289,31 @@
         "saturday": [
           {
             "time": "18:00",
-            "note": "*매월 첫주 10/18",
+            "note": "매월 첫주",
             "recurrence": {
               "weeks": [
                 1
               ],
-              "raw": "*매월 첫주 10/18"
+              "raw": "매월 첫주"
             }
+          },
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
           }
         ],
         "sunday": [
           {
             "time": "10:00",
-            "note": "18"
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
           }
         ],
         "special": [],
@@ -3776,6 +4338,14 @@
           "tue": [
             {
               "time": "19:30",
+              "note": "수"
+            },
+            {
+              "time": "10:00",
+              "note": "목"
+            },
+            {
+              "time": "19:30",
               "note": null
             }
           ],
@@ -3797,7 +4367,11 @@
         "sunday": [
           {
             "time": "07:00",
-            "note": "10"
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
           }
         ],
         "special": [],
@@ -3829,6 +4403,10 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
             }
           ],
           "thu": [
@@ -3841,19 +4419,41 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
             }
           ]
         },
         "saturday": [
           {
-            "time": "14:00",
-            "note": "(상홍리공소매월 첫주간 토요일 제외)/16/18",
+            "time": "10:00",
+            "note": "매월 첫주간 토요일",
             "recurrence": {
               "weeks": [
                 1
               ],
-              "raw": "(상홍리공소매월 첫주간 토요일 제외)/16/18"
+              "raw": "[매월 첫주간 토요일]"
             }
+          },
+          {
+            "time": "14:00",
+            "note": "상홍리공소매월 첫주간 토요일 제외",
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "(상홍리공소매월 첫주간 토요일 제외)"
+            }
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
           }
         ],
         "sunday": [
@@ -3867,7 +4467,11 @@
           },
           {
             "time": "10:30",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -3923,7 +4527,11 @@
         "sunday": [
           {
             "time": "10:00",
-            "note": "17"
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "special": [],
@@ -3968,7 +4576,14 @@
         "saturday": [
           {
             "time": "10:30",
-            "note": "(첫토"
+            "note": "첫토, 성모신심미사",
+            "type": [
+              "신심"
+            ]
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "sunday": [
@@ -3978,7 +4593,11 @@
           },
           {
             "time": "10:30",
-            "note": "17"
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "special": [],
@@ -4084,8 +4703,15 @@
         },
         "saturday": [
           {
+            "time": "15:00",
+            "note": "어린이",
+            "type": [
+              "어린이"
+            ]
+          },
+          {
             "time": "17:00",
-            "note": "시"
+            "note": null
           }
         ],
         "sunday": [],
@@ -4131,7 +4757,7 @@
         "saturday": [
           {
             "time": "10:00",
-            "note": "[성모신심미사(매월첫째주)]/ 17",
+            "note": "성모신심미사(매월첫째주",
             "type": [
               "신심"
             ],
@@ -4139,14 +4765,22 @@
               "weeks": [
                 1
               ],
-              "raw": "[성모신심미사(매월첫째주)]/ 17"
+              "raw": "[성모신심미사(매월첫째주)]"
             }
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "sunday": [
           {
             "time": "06:00",
-            "note": "10"
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
           }
         ],
         "special": [],
@@ -4231,13 +4865,50 @@
         "saturday": [
           {
             "time": "18:00",
-            "note": "시(특전)",
+            "note": "특전",
             "type": [
               "특전"
             ]
           }
         ],
-        "sunday": [],
+        "sunday": [
+          {
+            "time": "06:00",
+            "note": "하절기 3월 - 10월",
+            "recurrence": {
+              "months": [
+                3
+              ],
+              "season": "summer",
+              "raw": "(하절기 3월 - 10월)"
+            }
+          },
+          {
+            "time": "07:00",
+            "note": "동절기 11월 - 2월",
+            "recurrence": {
+              "months": [
+                11
+              ],
+              "season": "winter",
+              "raw": "(동절기 11월 - 2월)"
+            }
+          },
+          {
+            "time": "10:30",
+            "note": "교중) 소동공소(첫째주 15:00 ) 신휴공소(둘째주 15:00",
+            "type": [
+              "교중"
+            ],
+            "recurrence": {
+              "weeks": [
+                1,
+                2
+              ],
+              "raw": "(교중) 소동공소(첫째주 15:00 ) 신휴공소(둘째주 15:00 )"
+            }
+          }
+        ],
         "special": [],
         "raw": "▶평일 - 월/6시, 화/19시, 수/10시, 목/19시, 금/10시 ▶토요일 - 18시(특전) ▶주일 -오전6시(하절기 3월 - 10월) / 오전 7시 (동절기 11월 - 2월) 10시30분(교중) 소동공소(첫째주 15시) 신휴공소(둘째주 15시)"
       },
@@ -4254,7 +4925,23 @@
           "mon": [
             {
               "time": "06:00",
-              "note": null
+              "note": ". 화"
+            },
+            {
+              "time": "19:00",
+              "note": ". 수"
+            },
+            {
+              "time": "10:00",
+              "note": ". 목"
+            },
+            {
+              "time": "19:00",
+              "note": ". 금"
+            },
+            {
+              "time": "10:00",
+              "note": "."
             }
           ],
           "tue": [],
@@ -4265,19 +4952,31 @@
         "saturday": [
           {
             "time": "10:00",
-            "note": "(매월 첫주)/16/19",
+            "note": "매월 첫주",
             "recurrence": {
               "weeks": [
                 1
               ],
-              "raw": "(매월 첫주)/16/19"
+              "raw": "(매월 첫주)"
             }
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "sunday": [
           {
             "time": "10:00",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -4309,11 +5008,19 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
             }
           ],
           "thu": [
             {
               "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
               "note": null
             }
           ],
@@ -4321,15 +5028,25 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
             }
           ]
         },
         "saturday": [
           {
             "time": "15:00",
-            "note": "(어린이)/19(특전)",
+            "note": "어린이",
             "type": [
-              "어린이",
+              "어린이"
+            ]
+          },
+          {
+            "time": "19:00",
+            "note": "특전",
+            "type": [
               "특전"
             ]
           }
@@ -4337,12 +5054,21 @@
         "sunday": [
           {
             "time": "06:00",
-            "note": "8"
+            "note": null
+          },
+          {
+            "time": "08:00",
+            "note": null
           },
           {
             "time": "10:30",
-            "note": "19(청년",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": "청년,청소년",
             "type": [
+              "청소년",
               "청년"
             ]
           }
@@ -4391,7 +5117,28 @@
             }
           ]
         },
-        "saturday": [],
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": "특전미사",
+            "type": [
+              "특전"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "(특전미사) *첫토요일"
+            }
+          },
+          {
+            "time": "10:00",
+            "note": "성모신심미사",
+            "type": [
+              "신심"
+            ]
+          }
+        ],
         "sunday": [
           {
             "time": "08:30",
@@ -4399,7 +5146,11 @@
           },
           {
             "time": "10:30",
-            "note": "17시(청소년.청년미사)",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": "청소년.청년미사",
             "type": [
               "청소년",
               "청년"
@@ -4437,13 +5188,21 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
             }
           ]
         },
         "saturday": [
           {
             "time": "10:00",
-            "note": "19(청소년)",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": "청소년",
             "type": [
               "청소년"
             ]
@@ -4452,16 +5211,30 @@
         "sunday": [
           {
             "time": "06:00",
-            "note": "9/11(교중)",
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": "교중",
             "type": [
               "교중"
             ]
           },
           {
             "time": "15:30",
-            "note": "(어린이)/19(청년)",
+            "note": "어린이",
             "type": [
-              "어린이",
+              "어린이"
+            ]
+          },
+          {
+            "time": "19:00",
+            "note": "청년",
+            "type": [
               "청년"
             ]
           }
@@ -4513,24 +5286,24 @@
         "saturday": [
           {
             "time": "15:00",
-            "note": "(어린이)",
+            "note": "어린이",
             "type": [
               "어린이"
             ]
           },
           {
             "time": "19:30",
-            "note": "*첫토요일",
+            "note": "첫토요일",
             "recurrence": {
               "weeks": [
                 1
               ],
-              "raw": "*첫토요일"
+              "raw": "첫토요일"
             }
           },
           {
             "time": "10:00",
-            "note": "(성모신심미사)",
+            "note": "성모신심미사",
             "type": [
               "신심"
             ]
@@ -4539,7 +5312,11 @@
         "sunday": [
           {
             "time": "10:30",
-            "note": "17"
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "special": [],
@@ -4565,11 +5342,19 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
             }
           ],
           "wed": [
             {
               "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
               "note": null
             }
           ],
@@ -4577,11 +5362,19 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
             }
           ],
           "fri": [
             {
               "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
               "note": null
             }
           ]
@@ -4589,13 +5382,37 @@
         "saturday": [
           {
             "time": "10:00",
-            "note": "16/19"
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "sunday": [
           {
             "time": "06:00",
-            "note": "8/10/16/18"
+            "note": null
+          },
+          {
+            "time": "08:00",
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
           }
         ],
         "special": [],
@@ -4655,7 +5472,11 @@
           },
           {
             "time": "10:30",
-            "note": "18"
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
           }
         ],
         "special": [],
@@ -4740,13 +5561,17 @@
           "tue": [
             {
               "time": "19:00",
-              "note": null
+              "note": "하19:30"
             }
           ],
           "wed": [
             {
               "time": "10:00",
-              "note": null
+              "note": "목"
+            },
+            {
+              "time": "19:00",
+              "note": "하19:30"
             }
           ],
           "thu": [],
@@ -4760,17 +5585,13 @@
         "saturday": [
           {
             "time": "19:00",
-            "note": "(하."
-          },
-          {
-            "time": "19:30",
-            "note": ") *하절기:4월~9월",
+            "note": "하.19:30",
             "recurrence": {
               "months": [
                 4
               ],
               "season": "summer",
-              "raw": ") *하절기:4월~9월"
+              "raw": "(하.19:30) *하절기:4월~9월"
             }
           }
         ],
@@ -4878,7 +5699,7 @@
         "saturday": [
           {
             "time": "10:00",
-            "note": "[성모신심미사(매월 첫째주)]/16/18",
+            "note": "성모신심미사(매월 첫째주",
             "type": [
               "신심"
             ],
@@ -4886,8 +5707,16 @@
               "weeks": [
                 1
               ],
-              "raw": "[성모신심미사(매월 첫째주)]/16/18"
+              "raw": "[성모신심미사(매월 첫째주)]"
             }
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
           }
         ],
         "sunday": [
@@ -4897,7 +5726,11 @@
           },
           {
             "time": "10:30",
-            "note": "17"
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "special": [],
@@ -4925,7 +5758,19 @@
             "note": null
           }
         ],
-        "sunday": [],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": "교중",
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "10:00",
+            "note": null
+          }
+        ],
         "special": [],
         "raw": "▶평일 - 월(06:30) 화,목(19:30) 수,금(10:00) ▶토요일 - 18:00 ▶주일 - 새벽 06:30 교중10:00"
       },
@@ -5034,7 +5879,11 @@
         "sunday": [
           {
             "time": "10:30",
-            "note": "15(누동공소)"
+            "note": null
+          },
+          {
+            "time": "15:00",
+            "note": "누동공소"
           }
         ],
         "special": [],
@@ -5057,7 +5906,12 @@
           "fri": []
         },
         "saturday": [],
-        "sunday": [],
+        "sunday": [
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
         "special": [],
         "raw": "▶평일 - 화~ 토 오전 11시 ▶주일 - 오전 11,"
       },
@@ -5080,10 +5934,14 @@
           "tue": [
             {
               "time": "19:30",
-              "note": null
+              "note": "동.19:00"
             }
           ],
           "wed": [
+            {
+              "time": "10:00",
+              "note": "목"
+            },
             {
               "time": "10:00",
               "note": null
@@ -5093,14 +5951,21 @@
           "fri": [
             {
               "time": "19:30",
-              "note": null
+              "note": "동.19:00"
             }
           ]
         },
         "saturday": [
           {
             "time": "18:30",
-            "note": null
+            "note": "동절기 11월~3월",
+            "recurrence": {
+              "months": [
+                11
+              ],
+              "season": "winter",
+              "raw": "동절기 11월~3월"
+            }
           }
         ],
         "sunday": [
@@ -5157,7 +6022,11 @@
         "sunday": [
           {
             "time": "08:00",
-            "note": "10"
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
           }
         ],
         "special": [],
@@ -5204,11 +6073,27 @@
             }
           ]
         },
-        "saturday": [],
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "첫 토, 성모신심미사",
+            "type": [
+              "신심"
+            ]
+          },
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
         "sunday": [
           {
             "time": "10:00",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -5264,7 +6149,11 @@
         "sunday": [
           {
             "time": "08:00",
-            "note": "11"
+            "note": null
+          },
+          {
+            "time": "11:00",
+            "note": null
           }
         ],
         "special": [],
@@ -5283,6 +6172,10 @@
           "mon": [
             {
               "time": "06:00",
+              "note": ";"
+            },
+            {
+              "time": "00:00",
               "note": null
             }
           ],
@@ -5380,7 +6273,11 @@
         "sunday": [
           {
             "time": "10:30",
-            "note": "18"
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
           }
         ],
         "special": [],
@@ -5430,7 +6327,7 @@
         "saturday": [
           {
             "time": "11:00",
-            "note": "(매월 첫주 토요일만 순교/성모 신심)/17(토요일주일저녁)",
+            "note": "매월 첫주 토요일만 순교/성모 신심",
             "type": [
               "신심"
             ],
@@ -5438,14 +6335,22 @@
               "weeks": [
                 1
               ],
-              "raw": "(매월 첫주 토요일만 순교/성모 신심)/17(토요일주일저녁)"
+              "raw": "(매월 첫주 토요일만 순교/성모 신심)"
             }
+          },
+          {
+            "time": "17:00",
+            "note": "토요일주일저녁"
           }
         ],
         "sunday": [
           {
             "time": "10:00",
-            "note": "17"
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "special": [],
@@ -5505,7 +6410,11 @@
           },
           {
             "time": "10:30",
-            "note": "17"
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "special": [],
@@ -5555,26 +6464,17 @@
         "saturday": [
           {
             "time": "17:00",
-            "note": "* 동절기",
+            "note": "동절기",
             "recurrence": {
               "season": "winter",
-              "raw": "* 동절기"
+              "raw": "동절기"
             }
           }
         ],
         "sunday": [
           {
             "time": "10:00",
-            "note": "19 (12월~2월 월요일 새벽미사 없음)",
-            "type": [
-              "새벽"
-            ],
-            "recurrence": {
-              "months": [
-                12
-              ],
-              "raw": "19 (12월~2월 월요일 새벽미사 없음)"
-            }
+            "note": null
           }
         ],
         "special": [],
@@ -5630,7 +6530,15 @@
         "sunday": [
           {
             "time": "06:00",
-            "note": "10/17"
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "special": [],
@@ -5707,6 +6615,14 @@
           "wed": [
             {
               "time": "10:30",
+              "note": "목"
+            },
+            {
+              "time": "10:30",
+              "note": "금"
+            },
+            {
+              "time": "10:30",
               "note": null
             }
           ],
@@ -5749,11 +6665,19 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
             }
           ],
           "thu": [
             {
               "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
               "note": null
             }
           ],
@@ -5767,7 +6691,11 @@
         "saturday": [
           {
             "time": "10:00",
-            "note": "18"
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
           }
         ],
         "sunday": [
@@ -5777,7 +6705,15 @@
           },
           {
             "time": "10:30",
-            "note": "15/19"
+            "note": null
+          },
+          {
+            "time": "15:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -5809,11 +6745,19 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
             }
           ],
           "thu": [
             {
               "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
               "note": null
             }
           ],
@@ -5874,7 +6818,7 @@
           "tue": [
             {
               "time": "19:30",
-              "note": null
+              "note": "동"
             }
           ],
           "wed": [
@@ -5886,7 +6830,7 @@
           "thu": [
             {
               "time": "19:30",
-              "note": null
+              "note": "동"
             }
           ],
           "fri": [
@@ -5961,7 +6905,11 @@
         "sunday": [
           {
             "time": "10:00",
-            "note": "17"
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "special": [],
@@ -6017,7 +6965,11 @@
         "sunday": [
           {
             "time": "10:00",
-            "note": "17"
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "special": [],
@@ -6037,7 +6989,7 @@
           "tue": [
             {
               "time": "19:30",
-              "note": null
+              "note": "동.19:00"
             }
           ],
           "wed": [
@@ -6049,23 +7001,28 @@
           "thu": [
             {
               "time": "19:30",
-              "note": null
+              "note": "동.19:00"
             }
           ],
           "fri": [
             {
               "time": "19:30",
-              "note": null
+              "note": "동.19:00"
             }
           ]
         },
         "saturday": [
           {
             "time": "19:30",
-            "note": "(동.19) *동절기(10-3월)",
+            "note": "동.19:00",
             "recurrence": {
+              "months": [
+                1,
+                2,
+                3
+              ],
               "season": "winter",
-              "raw": "(동.19) *동절기(10-3월)"
+              "raw": "(동.19:00) *동절기(10:00-3월)"
             }
           }
         ],
@@ -6188,7 +7145,7 @@
         "sunday": [
           {
             "time": "06:00",
-            "note": "시"
+            "note": null
           },
           {
             "time": "10:30",
@@ -6252,14 +7209,17 @@
           },
           {
             "time": "10:30",
-            "note": "(교중)",
+            "note": "교중",
             "type": [
               "교중"
             ]
           },
           {
             "time": "16:00",
-            "note": "(주일학교)"
+            "note": "주일학교",
+            "type": [
+              "주일학교"
+            ]
           }
         ],
         "special": [],
@@ -6351,11 +7311,19 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
             }
           ],
           "thu": [
             {
               "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
               "note": null
             }
           ],
@@ -6363,13 +7331,21 @@
             {
               "time": "10:30",
               "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
             }
           ]
         },
         "saturday": [
           {
             "time": "10:00",
-            "note": "19(중고등부)",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": "중고등부",
             "type": [
               "중고등부"
             ]
@@ -6382,11 +7358,25 @@
           },
           {
             "time": "10:30",
-            "note": "15(어린이)/19(청년)/21",
+            "note": null
+          },
+          {
+            "time": "15:00",
+            "note": "어린이",
             "type": [
-              "어린이",
+              "어린이"
+            ]
+          },
+          {
+            "time": "19:00",
+            "note": "청년",
+            "type": [
               "청년"
             ]
+          },
+          {
+            "time": "21:00",
+            "note": null
           }
         ],
         "special": [],
@@ -6408,7 +7398,19 @@
           "thu": [],
           "fri": []
         },
-        "saturday": [],
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "특전미사",
+            "type": [
+              "특전"
+            ]
+          },
+          {
+            "time": "19:30",
+            "note": "동 19:00"
+          }
+        ],
         "sunday": [],
         "special": [],
         "raw": "▶평일 - 월 06:30(동9)/ 화 19:30(동19)/ 수 10/ 목 (첫목,성시간) 19:30(동19) / 금 10 ▶토요일 - (첫토, 성모신심미사)10 / 특전미사 19:30(동 19) ▶일요일 - 10 동절기 : 대림시기~예수부활대축일까지"
@@ -6423,12 +7425,7 @@
       "source_url": "http://www.djcatholic.or.kr/home/pages/church.php?area=%B4%EB%C0%FC%B1%A4%BF%AA%BD%C3",
       "mass": {
         "weekday": {
-          "mon": [
-            {
-              "time": "06:00",
-              "note": null
-            }
-          ],
+          "mon": [],
           "tue": [
             {
               "time": "19:30",
@@ -6523,7 +7520,11 @@
         "sunday": [
           {
             "time": "06:00",
-            "note": "8(노송공소)"
+            "note": null
+          },
+          {
+            "time": "08:00",
+            "note": "노송공소"
           },
           {
             "time": "10:30",
@@ -6577,24 +7578,38 @@
         "saturday": [
           {
             "time": "10:00",
-            "note": "(첫주)/16(어린이)/19(학생청년)",
-            "type": [
-              "어린이",
-              "학생",
-              "청년"
-            ],
+            "note": "첫주",
             "recurrence": {
               "weeks": [
                 1
               ],
-              "raw": "(첫주)/16(어린이)/19(학생청년)"
+              "raw": "(첫주)"
             }
+          },
+          {
+            "time": "16:00",
+            "note": "어린이",
+            "type": [
+              "어린이"
+            ]
+          },
+          {
+            "time": "19:00",
+            "note": "학생청년",
+            "type": [
+              "학생",
+              "청년"
+            ]
           }
         ],
         "sunday": [
           {
             "time": "10:30",
-            "note": "17"
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "special": [],
@@ -6654,7 +7669,11 @@
           },
           {
             "time": "10:30",
-            "note": "15"
+            "note": null
+          },
+          {
+            "time": "15:00",
+            "note": null
           }
         ],
         "special": [],
@@ -6705,11 +7724,11 @@
         "sunday": [
           {
             "time": "07:30",
-            "note": "(국가등록문화유산성당)"
+            "note": "국가등록문화유산성당"
           },
           {
             "time": "10:00",
-            "note": "(성지성당)-교중미사",
+            "note": "성지성당)-교중미사",
             "type": [
               "교중"
             ]
@@ -6731,6 +7750,10 @@
           "mon": [
             {
               "time": "06:00",
+              "note": "화"
+            },
+            {
+              "time": "19:30",
               "note": null
             }
           ],
@@ -6825,17 +7848,31 @@
         "saturday": [
           {
             "time": "11:00",
-            "note": "(신심)/16(학생)/19",
+            "note": "신심",
             "type": [
-              "학생",
               "신심"
             ]
+          },
+          {
+            "time": "16:00",
+            "note": "학생",
+            "type": [
+              "학생"
+            ]
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "sunday": [
           {
             "time": "10:00",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -6867,11 +7904,19 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
             }
           ],
           "thu": [
             {
               "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
               "note": null
             }
           ],
@@ -6879,13 +7924,25 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
             }
           ]
         },
         "saturday": [
           {
             "time": "10:00",
-            "note": "16/19"
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "sunday": [
@@ -6895,7 +7952,11 @@
           },
           {
             "time": "10:30",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -6945,19 +8006,26 @@
         "saturday": [
           {
             "time": "19:00",
-            "note": "(첫 토요일 - 10시",
+            "note": "첫 토요일 - 10:00 , 성모신심미사",
+            "type": [
+              "신심"
+            ],
             "recurrence": {
               "weeks": [
                 1
               ],
-              "raw": "(첫 토요일 - 10시"
+              "raw": "(첫 토요일 - 10:00 , 성모신심미사)"
             }
           }
         ],
         "sunday": [
           {
             "time": "06:30",
-            "note": "10"
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
           },
           {
             "time": "17:30",
@@ -7011,13 +8079,21 @@
         "saturday": [
           {
             "time": "15:00",
-            "note": "18"
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
           }
         ],
         "sunday": [
           {
             "time": "10:30",
-            "note": "18"
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
           }
         ],
         "special": [],
@@ -7067,13 +8143,16 @@
         "saturday": [
           {
             "time": "18:00",
-            "note": "(주일학교)"
+            "note": "주일학교",
+            "type": [
+              "주일학교"
+            ]
           }
         ],
         "sunday": [
           {
             "time": "10:30",
-            "note": "(교중)",
+            "note": "교중",
             "type": [
               "교중"
             ]
@@ -7112,6 +8191,10 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
             }
           ],
           "thu": [],
@@ -7119,13 +8202,21 @@
             {
               "time": "06:00",
               "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
             }
           ]
         },
         "saturday": [
           {
             "time": "10:30",
-            "note": "16"
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
           },
           {
             "time": "18:30",
@@ -7135,7 +8226,11 @@
         "sunday": [
           {
             "time": "07:00",
-            "note": "9"
+            "note": null
+          },
+          {
+            "time": "09:00",
+            "note": null
           },
           {
             "time": "10:30",
@@ -7193,7 +8288,11 @@
         "saturday": [
           {
             "time": "10:00",
-            "note": "16"
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
           },
           {
             "time": "19:30",
@@ -7203,7 +8302,11 @@
         "sunday": [
           {
             "time": "07:00",
-            "note": "10"
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
           },
           {
             "time": "19:30",
@@ -7239,11 +8342,19 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
             }
           ],
           "thu": [
             {
               "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:00",
               "note": null
             }
           ],
@@ -7251,13 +8362,25 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
             }
           ]
         },
         "saturday": [
           {
             "time": "10:00",
-            "note": "16/19"
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "sunday": [
@@ -7271,7 +8394,11 @@
           },
           {
             "time": "10:30",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -7331,7 +8458,11 @@
           },
           {
             "time": "10:30",
-            "note": "17"
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "special": [],
@@ -7357,6 +8488,10 @@
           "wed": [
             {
               "time": "10:00",
+              "note": "목"
+            },
+            {
+              "time": "19:30",
               "note": null
             }
           ],
@@ -7371,7 +8506,11 @@
         "saturday": [
           {
             "time": "17:00",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "sunday": [
@@ -7381,16 +8520,12 @@
           },
           {
             "time": "10:30",
-            "note": "매월 마지막주 토 15시 어린이미사는 가정주일로 없음",
-            "type": [
-              "어린이",
-              "가정"
-            ],
+            "note": "매월 마지막주 토",
             "recurrence": {
               "weeks": [
                 -1
               ],
-              "raw": "매월 마지막주 토 15시 어린이미사는 가정주일로 없음"
+              "raw": "매월 마지막주 토"
             }
           }
         ],
@@ -7423,6 +8558,10 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
             }
           ],
           "thu": [
@@ -7435,13 +8574,21 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:00",
+              "note": null
             }
           ]
         },
         "saturday": [
           {
             "time": "06:00",
-            "note": "16"
+            "note": null
+          },
+          {
+            "time": "16:00",
+            "note": null
           },
           {
             "time": "19:00",
@@ -7523,7 +8670,11 @@
           },
           {
             "time": "10:30",
-            "note": "18"
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
           }
         ],
         "special": [],
@@ -7583,7 +8734,11 @@
         "sunday": [
           {
             "time": "10:00",
-            "note": "17"
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "special": [],
@@ -7602,6 +8757,10 @@
           "mon": [
             {
               "time": "09:00",
+              "note": "화"
+            },
+            {
+              "time": "19:00",
               "note": null
             }
           ],
@@ -7634,7 +8793,15 @@
         "sunday": [
           {
             "time": "06:00",
-            "note": "10/19"
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -7684,20 +8851,16 @@
         "saturday": [
           {
             "time": "17:30",
-            "note": "(첫 토요일 -",
+            "note": "첫 토요일 - 10:30 성모신심",
+            "type": [
+              "신심"
+            ],
             "recurrence": {
               "weeks": [
                 1
               ],
-              "raw": "(첫 토요일 -"
+              "raw": "(첫 토요일 - 10:30 성모신심)"
             }
-          },
-          {
-            "time": "10:30",
-            "note": "성모신심)",
-            "type": [
-              "신심"
-            ]
           }
         ],
         "sunday": [
@@ -7821,7 +8984,14 @@
         "saturday": [
           {
             "time": "17:00",
-            "note": null
+            "note": "하절기 4월-9월",
+            "recurrence": {
+              "months": [
+                4
+              ],
+              "season": "summer",
+              "raw": "하절기 4월-9월"
+            }
           }
         ],
         "sunday": [
@@ -7831,7 +9001,13 @@
           },
           {
             "time": "10:30",
-            "note": "* 정산성지미사 - 주일 후 둘째"
+            "note": "정산성지미사 - 주일 후 둘째,넷째 주 목11",
+            "recurrence": {
+              "weeks": [
+                4
+              ],
+              "raw": "정산성지미사 - 주일 후 둘째,넷째 주 목11"
+            }
           }
         ],
         "special": [],
@@ -7863,12 +9039,28 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": "목"
+            },
+            {
+              "time": "07:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
             }
           ],
           "thu": [],
           "fri": [
             {
               "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
               "note": null
             }
           ]
@@ -7956,7 +9148,11 @@
           },
           {
             "time": "10:30",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -7985,6 +9181,14 @@
             }
           ],
           "wed": [
+            {
+              "time": "10:00",
+              "note": "목"
+            },
+            {
+              "time": "19:00",
+              "note": "금"
+            },
             {
               "time": "10:00",
               "note": null
@@ -8066,7 +9270,11 @@
         "sunday": [
           {
             "time": "07:00",
-            "note": "10"
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
           }
         ],
         "special": [],
@@ -8122,7 +9330,11 @@
         "sunday": [
           {
             "time": "10:30",
-            "note": "19"
+            "note": null
+          },
+          {
+            "time": "19:00",
+            "note": null
           }
         ],
         "special": [],
@@ -8253,7 +9465,7 @@
           "mon": [
             {
               "time": "06:00",
-              "note": null
+              "note": "동.07:00"
             }
           ],
           "tue": [
@@ -8290,13 +9502,22 @@
         "sunday": [
           {
             "time": "06:00",
-            "note": "(동.7)/10(교중) *동절기(11-3월)",
+            "note": "동.07:00"
+          },
+          {
+            "time": "10:00",
+            "note": "교중",
             "type": [
               "교중"
             ],
             "recurrence": {
+              "months": [
+                1,
+                2,
+                3
+              ],
               "season": "winter",
-              "raw": "(동.7)/10(교중) *동절기(11-3월)"
+              "raw": "(교중) *동절기(11:00-3월)"
             }
           }
         ],
@@ -8322,7 +9543,7 @@
           "tue": [
             {
               "time": "19:30",
-              "note": null
+              "note": "동.19:00"
             }
           ],
           "wed": [
@@ -8334,26 +9555,26 @@
           "thu": [
             {
               "time": "19:30",
-              "note": null
+              "note": "동.19:00"
             }
           ],
           "fri": [
             {
               "time": "19:30",
-              "note": null
+              "note": "동.19:00"
             }
           ]
         },
         "saturday": [
           {
             "time": "19:30",
-            "note": "(동.19) *동절기 11월~2월",
+            "note": "동.19:00",
             "recurrence": {
               "months": [
                 11
               ],
               "season": "winter",
-              "raw": "(동.19) *동절기 11월~2월"
+              "raw": "(동.19:00) *동절기 11월~2월"
             }
           }
         ],
@@ -8414,7 +9635,7 @@
         "saturday": [
           {
             "time": "10:30",
-            "note": "(첫 토 성모신심)",
+            "note": "첫 토 성모신심",
             "type": [
               "신심"
             ]
