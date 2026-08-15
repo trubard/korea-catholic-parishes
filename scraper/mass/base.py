@@ -101,22 +101,57 @@ def parse_recurrence(note: str | None) -> dict | None:
 
 
 # --- 미사 성격(type) 분류 ---
-# 긴 것 우선(초중고 > 중고등부 > 학생 등 부분일치 충돌 방지)
-_TYPE_KEYWORDS = (
-    "교중", "새벽", "유아", "어린이", "초중고", "중고등부", "중고등", "초등부",
+# 두 축으로 나뉜다: 대상(audience, 누가) / 전례성격(kind, 어떤 미사).
+# 긴 것 우선(초중고 > 중고등부 > 학생 등 부분일치 충돌 방지).
+_AUDIENCE = (
+    "유아", "어린이", "초중고", "중고등부", "중고등", "초등부", "유치부",
     "주일학교", "학생", "청소년", "대학생", "청년", "가족", "가정", "장년",
-    "성시간", "특전", "신심", "군인", "외국인", "영어",
+    "군인", "외국인", "영어", "베트남", "필리핀", "중국어", "수화", "장애",
 )
+_KIND = (
+    "교중", "새벽", "성시간", "특전", "신심", "위령", "연도", "봉헌",
+)
+_TYPE_KEYWORDS = _AUDIENCE + _KIND   # type = audience + kind (하위호환)
+
+
+def _dedupe_subset(found: list[str]) -> list[str]:
+    """부분집합 제거: '중고등'이 '중고등부'와 함께면 '중고등' 버림."""
+    return [t for t in found if not any(t != o and t in o for o in found)]
+
+
+def parse_audience_kind(note: str | None) -> tuple[list[str], list[str]]:
+    """note 를 (대상, 전례성격) 두 목록으로. 예: '어린이 교중' -> (['어린이'],['교중'])."""
+    if not note:
+        return [], []
+    aud = _dedupe_subset([t for t in _AUDIENCE if t in note])
+    kind = _dedupe_subset([t for t in _KIND if t in note])
+    return aud, kind
 
 
 def parse_type(note: str | None) -> list[str] | None:
-    """note 에서 미사 성격/대상을 분류. 예: '청년, 학생' -> ['청년','학생']."""
+    """note 에서 미사 성격/대상을 분류(대상+성격 합친 하위호환 값)."""
     if not note:
         return None
-    found = [t for t in _TYPE_KEYWORDS if t in note]
-    # 부분집합 제거: '중고등'이 '중고등부'와 함께면 '중고등' 버림
-    found = [t for t in found if not any(t != o and t in o for o in found)]
+    aud, kind = parse_audience_kind(note)
+    found = aud + kind
     return found or None
+
+
+# --- 계절 대안시각(seasonal) ---
+# '(동.7)' / '(하.19:30)' / '동절기 07:00' 등 — 같은 미사의 계절별 다른 시각.
+_SEASON_TIME_RE = re.compile(r"(동절기|하절기|동|하|여름|겨울)\s*[.·]?\s*(\d{1,2}:\d{2})")
+
+
+def parse_seasonal(note: str | None) -> dict | None:
+    """note 에서 계절별 대안시각을 뽑는다. 예: '(동.07:00)' -> {'winter':'07:00'}."""
+    if not note:
+        return None
+    out: dict = {}
+    for m in _SEASON_TIME_RE.finditer(note):
+        tag = m.group(1)
+        key = "winter" if tag in ("동", "동절기", "겨울") else "summer"
+        out.setdefault(key, m.group(2))
+    return out or None
 
 
 # --- 축일(feast) 추출 ---
@@ -208,12 +243,19 @@ def parse_time_cell(text: str) -> list[dict]:
         if note and _NEG_RE.search(note):    # 그 시각 미사가 없다는 안내
             continue
         entry = {"time": time, "note": note_core}
-        types = parse_type(note)
-        if types:
-            entry["type"] = types
+        aud, kind = parse_audience_kind(note)
+        if aud:
+            entry["audience"] = aud
+        if kind:
+            entry["kind"] = kind
+        if aud or kind:
+            entry["type"] = aud + kind      # 하위호환(합친 값)
         feast = parse_feast(note) or cell_feast
         if feast:
             entry["feast"] = feast
+        seasonal = parse_seasonal(note)
+        if seasonal:
+            entry["seasonal"] = seasonal
         rec = parse_recurrence(note)
         if rec:
             entry["recurrence"] = rec
