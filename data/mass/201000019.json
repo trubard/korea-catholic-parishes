@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T20:27:23+00:00",
+  "generated_at": "2026-08-15T21:07:05+00:00",
   "diocese": "원주교구",
   "diocese_id": "201000019",
   "count": 54,
@@ -2048,10 +2048,6 @@
               "note": "동절기 19:00",
               "seasonal": {
                 "winter": "19:00"
-              },
-              "recurrence": {
-                "season": "winter",
-                "raw": "(동절기 19:00)"
               }
             }
           ],
@@ -2067,10 +2063,6 @@
               "note": "동절기 19:00",
               "seasonal": {
                 "winter": "19:00"
-              },
-              "recurrence": {
-                "season": "winter",
-                "raw": "(동절기 19:00)"
               }
             }
           ],

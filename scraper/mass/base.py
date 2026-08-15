@@ -17,6 +17,22 @@
         "raw": "원문 텍스트"
       }
     }
+
+미사 항목(time entry) 필드:
+    time        "HH:MM"
+    note        분류하지 못한 나머지 텍스트(있으면)
+    audience[]  대상 — 어린이·청년·주일학교 …
+    kind[]      전례 성격 — 교중·특전·신심·위령 …
+    type[]      audience+kind 합친 하위호환 값
+    feast       그날의 축일 이름. ⚠️ **수집일 한정 관측값**: 성당 홈페이지는
+                축일 주간에만 안내를 띄우므로, 이 필드는 "수집일이 축일이었을 때
+                그날 무슨 미사가 있었나" 만 담는다. "이 성당의 축일 미사가 언제인가"
+                를 답하지 못한다(다음 해엔 비어 있을 수 있음). 소비 쪽은 축일 판정을
+                이 필드에 의존하지 말 것. (docs/09 §1)
+    seasonal    계절별 대안 시각. 예: {"winter": "07:00"} — 같은 미사의 다른 시각.
+    place       공소(본당이 아닌 건물). 이름이면 "X공소", 이름 미상이면 true.
+                좌표·주소는 본당 것이므로 이 값이 있으면 본당 미사로 표시하면 안 된다.
+    recurrence  주기 조건 {weeks, weeks_exclude, months, season}
 """
 from __future__ import annotations
 
@@ -104,9 +120,9 @@ def parse_recurrence(note: str | None) -> dict | None:
 # 두 축으로 나뉜다: 대상(audience, 누가) / 전례성격(kind, 어떤 미사).
 # 긴 것 우선(초중고 > 중고등부 > 학생 등 부분일치 충돌 방지).
 _AUDIENCE = (
-    "유아", "어린이", "초중고", "중고등부", "중고등", "초등부", "유치부",
-    "주일학교", "학생", "청소년", "대학생", "청년", "가족", "가정", "장년",
-    "군인", "외국인", "영어", "베트남", "필리핀", "중국어", "수화", "장애",
+    "유아", "어린이", "초중고", "중고등부", "중고등", "중고생", "중고", "초등부",
+    "유치부", "주일학교", "학생", "청소년", "대학생", "청년", "가족", "가정",
+    "장년", "군인", "외국인", "영어", "베트남", "필리핀", "중국어", "수화", "장애",
 )
 _KIND = (
     "교중", "새벽", "성시간", "특전", "신심", "위령", "연도", "봉헌",
@@ -152,6 +168,21 @@ def parse_seasonal(note: str | None) -> dict | None:
         key = "winter" if tag in ("동", "동절기", "겨울") else "summer"
         out.setdefault(key, m.group(2))
     return out or None
+
+
+# --- 장소(place) — 공소 미사(본당이 아닌 건물)  ---
+# '노송공소' · '임진강 공소' 등 이름을 뽑는다. 이름을 못 뽑아도 공소면 True.
+_PLACE_RE = re.compile(r"([가-힣][가-힣0-9·]{0,8}(?:\s[가-힣0-9·]{1,6})?)\s*공소")
+
+
+def parse_place(note: str | None):
+    """note 에서 공소(비본당 장소)를 판별. 이름이면 'X공소', 이름없으면 True, 아니면 None."""
+    if not note or "공소" not in note:
+        return None
+    m = _PLACE_RE.search(note)
+    if m and m.group(1).strip():
+        return re.sub(r"\s+", " ", m.group(0)).strip()
+    return True   # 공소이나 이름 미상('공소미사'·'공소:넷째주일' 등)
 
 
 # --- 축일(feast) 추출 ---
@@ -253,12 +284,20 @@ def parse_time_cell(text: str) -> list[dict]:
         feast = parse_feast(note) or cell_feast
         if feast:
             entry["feast"] = feast
+        place = parse_place(note)
+        if place:
+            entry["place"] = place       # 공소(비본당) — 본당 미사로 오인 방지
         seasonal = parse_seasonal(note)
         if seasonal:
             entry["seasonal"] = seasonal
         rec = parse_recurrence(note)
         if rec:
-            entry["recurrence"] = rec
+            # 계절 대안시각(seasonal)이 잡혔으면 recurrence.season 중복 제거(이중화 정리).
+            # seasonal 은 '시각이 바뀐다', recurrence.season 은 '그 계절에만' 이라 의미가 다르다.
+            if seasonal and rec.get("season"):
+                rec = {k: v for k, v in rec.items() if k != "season"}
+            if len(rec) > 1:             # raw 외에 실제 조건이 남아 있을 때만
+                entry["recurrence"] = rec
         entries.append(entry)
     return entries
 
