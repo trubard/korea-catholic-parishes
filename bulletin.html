@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>주보 제보 · 한국 천주교 미사시간</title>
+  <style>
+    :root{
+      --bg:#f7f7f8; --card:#fff; --fg:#1a1a1a; --muted:#6b7280; --line:#e5e7eb;
+      --brand:#2563eb; --brand-fg:#fff; --warn:#b45309; --warnbg:#fef3c7;
+      --danger:#b91c1c; --dangerbg:#fee2e2; --ok:#047857; --okbg:#d1fae5;
+    }
+    @media (prefers-color-scheme:dark){:root{
+      --bg:#0f1115; --card:#171a21; --fg:#e8eaed; --muted:#9aa0aa; --line:#272b33;
+      --brand:#3b82f6; --warn:#fbbf24; --warnbg:#3a2f10; --danger:#f87171;
+      --dangerbg:#3a1717; --ok:#34d399; --okbg:#0f2e23;
+    }}
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--fg);
+      font-family:system-ui,-apple-system,"Malgun Gothic","Apple SD Gothic Neo",sans-serif;
+      line-height:1.6;-webkit-text-size-adjust:100%}
+    .wrap{max-width:760px;margin:0 auto;padding:1.25rem 1rem 4rem}
+    h1{font-size:1.4rem;margin:.2rem 0}
+    .sub{color:var(--muted);margin:.2rem 0 1rem}
+    .intro{background:var(--card);border:1px solid var(--line);border-radius:12px;
+      padding:1rem;margin-bottom:1rem}
+    .chips{display:flex;flex-wrap:wrap;gap:.5rem;margin:1rem 0}
+    .chip{background:var(--card);border:1px solid var(--line);border-radius:999px;
+      padding:.35rem .8rem;font-size:.85rem;color:var(--muted)}
+    .chip b{color:var(--fg);font-size:1rem}
+    .controls{display:flex;gap:.5rem;flex-wrap:wrap;margin-bottom:1rem}
+    input,select{font:inherit;padding:.6rem .7rem;border:1px solid var(--line);
+      border-radius:10px;background:var(--card);color:var(--fg);min-width:0}
+    #q{flex:1 1 12rem}
+    .card{background:var(--card);border:1px solid var(--line);border-radius:12px;
+      padding:.9rem 1rem;margin-bottom:.6rem;display:flex;gap:.75rem;
+      align-items:center;flex-wrap:wrap}
+    .card .name{font-weight:700;font-size:1.05rem}
+    .card .meta{color:var(--muted);font-size:.85rem}
+    .badge{font-size:.72rem;font-weight:700;padding:.15rem .5rem;border-radius:6px;
+      white-space:nowrap}
+    .b-none{background:var(--dangerbg);color:var(--danger)}
+    .b-stale{background:var(--warnbg);color:var(--warn)}
+    .b-src{background:var(--okbg);color:var(--ok)}
+    .spacer{flex:1}
+    .btn{background:var(--brand);color:var(--brand-fg);text-decoration:none;
+      padding:.55rem .9rem;border-radius:10px;font-weight:600;font-size:.9rem;
+      white-space:nowrap}
+    .muted{color:var(--muted);font-size:.85rem}
+    a{color:var(--brand)}
+    footer{margin-top:2rem;color:var(--muted);font-size:.85rem;text-align:center}
+    .prio{border-left:3px solid var(--danger)}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>⛪ 우리 성당 주보 제보</h1>
+    <p class="sub">미사시간이 자동 수집되지 않거나 오래된 성당입니다. 주보를 알려주시면 반영됩니다.</p>
+
+    <div class="intro">
+      <b>어떻게 도와주나요?</b><br>
+      아래에서 우리 성당을 찾아 <b>[주보 제보]</b>를 누르면 제보 창이 열립니다.
+      주보 이미지를 끌어다 붙이거나 미사시간을 적어 주세요. 성당 신자분들의 제보가
+      가장 정확합니다. 🙏
+    </div>
+
+    <div class="chips" id="chips"></div>
+
+    <div class="controls">
+      <input id="q" type="search" placeholder="성당·교구 검색" />
+      <select id="dio"><option value="">전체 교구</option></select>
+      <select id="stat">
+        <option value="need">도움 필요(추천)</option>
+        <option value="no_source">주보 소스 없음</option>
+        <option value="stale">업데이트 오래됨</option>
+        <option value="source_only">소스 있음(수집 전)</option>
+        <option value="all">전체</option>
+      </select>
+    </div>
+
+    <div id="list"></div>
+    <p class="muted" id="more"></p>
+
+    <footer>
+      데이터: <a href="./data/bulletin_coverage.json">bulletin_coverage.json</a> ·
+      <a href="./">API 홈</a><br>
+      <span id="gen"></span>
+    </footer>
+  </div>
+
+  <script>
+    const REPO = "trubard/korea-catholic-parishes";
+    const LIMIT = 100;
+    let DATA = null, shown = LIMIT;
+
+    const issueUrl = (r) => {
+      const t = `[주보제보] ${r.diocese} ${r.name}성당`;
+      const p = new URLSearchParams({
+        template: "bulletin-submission.yml", title: t,
+        parish: `${r.diocese} ${r.name}성당`, church_id: r.id,
+      });
+      if (r.source) p.set("source", r.source);
+      return `https://github.com/${REPO}/issues/new?${p}`;
+    };
+
+    const badge = (st) => st === "no_source"
+      ? '<span class="badge b-none">주보 소스 없음</span>'
+      : st === "stale" ? '<span class="badge b-stale">오래됨</span>'
+      : '<span class="badge b-src">소스 있음</span>';
+
+    function rows() {
+      const q = document.getElementById("q").value.trim();
+      const dio = document.getElementById("dio").value;
+      const stat = document.getElementById("stat").value;
+      const bs = DATA.by_status;
+      let items;
+      if (stat === "need")
+        items = [...bs.no_source.filter(r=>!r.mass_covered), ...bs.no_source.filter(r=>r.mass_covered), ...bs.stale];
+      else if (stat === "all")
+        items = [...bs.no_source, ...bs.stale, ...bs.source_only, ...bs.collected];
+      else items = bs[stat] || [];
+      items = items.map(r => ({...r, _st: bs.no_source.includes(r) ? "no_source"
+        : bs.stale.includes(r) ? "stale" : "source_only"}));
+      if (dio) items = items.filter(r => r.diocese === dio);
+      if (q) items = items.filter(r => (r.name+r.diocese).includes(q));
+      return items;
+    }
+
+    function render() {
+      const items = rows();
+      const list = document.getElementById("list");
+      list.innerHTML = items.slice(0, shown).map(r => `
+        <div class="card ${(!r.mass_covered && r._st==='no_source')?'prio':''}">
+          <div>
+            <div class="name">${r.name}</div>
+            <div class="meta">${r.diocese}${r.last_bulletin?` · 최근 주보 ${r.last_bulletin}`:''}${r.mass_covered?'':' · 미사시간 없음'}</div>
+          </div>
+          <div class="spacer"></div>
+          ${badge(r._st)}
+          <a class="btn" href="${issueUrl(r)}" target="_blank" rel="noopener">주보 제보</a>
+        </div>`).join("") || '<p class="muted">해당하는 성당이 없습니다.</p>';
+      document.getElementById("more").textContent =
+        items.length > shown ? `… 외 ${items.length - shown}곳 (검색으로 좁혀보세요)` : "";
+    }
+
+    fetch("./data/bulletin_coverage.json").then(r => r.json()).then(d => {
+      DATA = d;
+      const s = d.summary;
+      document.getElementById("chips").innerHTML = `
+        <span class="chip">최우선 제보대상 <b>${d.need_help_count}</b></span>
+        <span class="chip">주보 소스 없음 <b>${s.no_source}</b></span>
+        <span class="chip">오래됨 <b>${s.stale}</b></span>
+        <span class="chip">소스 있음 <b>${s.source_only + s.collected}</b></span>`;
+      const dios = [...new Set([].concat(...Object.values(d.by_status)).map(r=>r.diocese))].sort();
+      document.getElementById("dio").innerHTML =
+        '<option value="">전체 교구</option>' + dios.map(x=>`<option>${x}</option>`).join("");
+      document.getElementById("gen").textContent = "갱신 " + (d.generated_at||"").slice(0,10);
+      ["q","dio","stat"].forEach(id =>
+        document.getElementById(id).addEventListener("input", () => { shown = LIMIT; render(); }));
+      render();
+    }).catch(() => {
+      document.getElementById("list").innerHTML =
+        '<p class="muted">커버리지 데이터를 불러오지 못했습니다.</p>';
+    });
+  </script>
+</body>
+</html>

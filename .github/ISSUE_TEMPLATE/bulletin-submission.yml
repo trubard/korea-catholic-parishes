@@ -1,0 +1,38 @@
+name: 주보 제보
+description: 본당 신자가 성당 주보(미사시간)를 제보합니다. 자동 수집이 안 되거나 오래된 성당에 도움이 됩니다.
+title: "[주보제보] "
+labels: ["주보제보"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        감사합니다! 본당 주보나 미사시간 정보를 알려주시면 데이터에 반영합니다.
+        **주보 이미지를 이 이슈에 그대로 끌어다 붙여(첨부)** 주셔도 됩니다.
+  - type: input
+    id: parish
+    attributes:
+      label: 성당명
+      placeholder: 예) 수원교구 동수원성당
+    validations:
+      required: true
+  - type: input
+    id: church_id
+    attributes:
+      label: 성당 코드(자동 입력 — 비워두셔도 됩니다)
+      placeholder: 예) 201000481
+  - type: input
+    id: source
+    attributes:
+      label: 주보/미사시간 페이지 주소(있으면)
+      placeholder: 예) https://cafe.daum.net/... 또는 본당 홈페이지 미사안내
+  - type: textarea
+    id: mass_times
+    attributes:
+      label: 미사시간(아는 대로 적어주세요)
+      placeholder: |
+        주일: 09:00, 11:00(교중), 18:00(청년)
+        토요특전: 18:00
+        평일: 월 06:00 / 화·목 19:30 / 수·금 10:00
+  - type: markdown
+    attributes:
+      value: "주보 이미지가 있으면 아래에 끌어다 놓아 첨부해 주세요."
