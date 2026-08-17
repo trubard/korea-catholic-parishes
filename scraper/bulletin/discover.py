@@ -65,9 +65,39 @@ def discover_daum(church, homepage):
             "url": f"https://m.cafe.daum.net/{cid}/{fid}"}
 
 
+def discover_homepage(church, homepage):
+    """자체홈 홈페이지 크롤 -> 안에 있는 다음카페/블로그 링크나 '주보' 페이지 발견."""
+    try:
+        r = requests.get(homepage, headers=UA, timeout=15, verify=False,
+                         allow_redirects=True)
+        t = r.content.decode(r.apparent_encoding or "utf-8", "replace")
+    except Exception:
+        return None
+    # 1) 본문에 다음카페 링크 → 그 카페의 주보 게시판 발견
+    dm = re.search(r"cafe\.daum\.net/([A-Za-z0-9_.-]+)", t)
+    if dm:
+        res = discover_daum(church, f"https://cafe.daum.net/{dm.group(1)}")
+        if res:
+            res["via"] = "homepage_cafe"
+            return res
+    # 2) '주보' 링크(게시판/페이지)
+    for m in re.finditer(r'href=["\']?([^"\'>\s]+)["\']?[^>]{0,60}주보', t):
+        href = m.group(1)
+        if href and not href.startswith("#") and "javascript" not in href:
+            url = href if href.startswith("http") else \
+                requests.compat.urljoin(r.url, href)
+            return {"platform": "homepage", "url": url, "via": "homepage_page"}
+    # 3) 네이버카페/블로그 링크(발견만, 페치는 후속)
+    nm = re.search(r"(cafe\.naver\.com/[A-Za-z0-9_-]+|blog\.naver\.com/[A-Za-z0-9_-]+)", t)
+    if nm:
+        return {"platform": "naver_link", "url": "https://" + nm.group(1),
+                "via": "homepage_link"}
+    return None
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--platform", default="daum")
+    ap.add_argument("--platform", default="daum", help="daum|homepage")
     ap.add_argument("--limit", type=int, default=0)
     args = ap.parse_args()
 
@@ -77,8 +107,18 @@ def main() -> int:
     if os.path.exists(OUT):
         prev = json.load(open(OUT, encoding="utf-8")).get("by_church", {})
 
-    targets = [c for c in churches if c.get("homepage") and
-               "cafe.daum.net" in c["homepage"]]
+    if args.platform == "homepage":
+        # 이미 소스 있는 곳 제외, 자체홈(카페·블로그 아님)만
+        def is_self(u):
+            return u and not any(x in u for x in
+                ("cafe.daum.net", "cafe.naver.com", "blog.naver.com"))
+        targets = [c for c in churches if is_self(c.get("homepage"))
+                   and c["id"] not in prev]
+        worker = discover_homepage
+    else:
+        targets = [c for c in churches if c.get("homepage") and
+                   "cafe.daum.net" in c["homepage"]]
+        worker = discover_daum
     if args.limit:
         targets = targets[: args.limit]
     print(f"다음카페 대상 {len(targets)}곳 발견 시도 ...")
@@ -88,7 +128,7 @@ def main() -> int:
     ok = 0
     changes = []   # 변경 이력(감사)
     with futures.ThreadPoolExecutor(max_workers=12) as ex:
-        fut = {ex.submit(discover_daum, c, c["homepage"]): c for c in targets}
+        fut = {ex.submit(worker, c, c["homepage"]): c for c in targets}
         for i, f in enumerate(futures.as_completed(fut), 1):
             c = fut[f]
             try:

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T17:10:21+00:00",
+  "generated_at": "2026-08-17T17:16:36+00:00",
   "stale_days": 35,
   "note": "주보 수집 커버리지. 신자 제보 웹사이트용. no_source+미사미수집이 최우선.",
   "summary": {
     "collected": 0,
     "stale": 0,
-    "source_only": 230,
-    "no_source": 1464
+    "source_only": 260,
+    "no_source": 1434
   },
   "need_help_count": 12,
   "by_status": {
@@ -653,6 +653,15 @@
         "mass_covered": true
       },
       {
+        "id": "201000651",
+        "diocese": "대전교구",
+        "name": "궁동",
+        "homepage": "http://kdcatholic.kr/",
+        "source": "http://kdcatholic.kr/category/",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
         "id": "201000654",
         "diocese": "대전교구",
         "name": "금산",
@@ -721,6 +730,15 @@
         "name": "문화동",
         "homepage": "http://cafe.daum.net/mhd2011",
         "source": "https://m.cafe.daum.net/mhd2011/GW2z",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
+        "id": "201000680",
+        "diocese": "대전교구",
+        "name": "반석동",
+        "homepage": "http://반석동성당.kr",
+        "source": "https://cafe.naver.com/parish",
         "last_bulletin": null,
         "mass_covered": true
       },
@@ -932,6 +950,15 @@
         "mass_covered": true
       },
       {
+        "id": "201000732",
+        "diocese": "대전교구",
+        "name": "진산성지",
+        "homepage": "http://jinsan.djcatholic.or.kr",
+        "source": "http://jinsan.djcatholic.or.kr/html/sub02/sub02_0206.php",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
         "id": "201000739",
         "diocese": "대전교구",
         "name": "천안구룡동",
@@ -1022,6 +1049,24 @@
         "mass_covered": true
       },
       {
+        "id": "201001075",
+        "diocese": "마산교구",
+        "name": "양덕동 주교좌",
+        "homepage": "http://yangduk.kr",
+        "source": "https://cafe.naver.com/yddean",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
+        "id": "201001078",
+        "diocese": "마산교구",
+        "name": "옥봉동",
+        "homepage": "http://ob.cathms.kr/",
+        "source": "http://ob.cathms.kr/?page_id=754",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
         "id": "201001092",
         "diocese": "마산교구",
         "name": "진교",
@@ -1049,6 +1094,15 @@
         "mass_covered": true
       },
       {
+        "id": "201000041",
+        "diocese": "서울대교구",
+        "name": "고덕동",
+        "homepage": "http://www.godeok.or.kr/",
+        "source": "https://cafe.naver.com/stbona",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
         "id": "201000060",
         "diocese": "서울대교구",
         "name": "노량진동",
@@ -1072,6 +1126,69 @@
         "name": "도림동",
         "homepage": "http://cafe.daum.net/dorim-catholic",
         "source": "https://m.cafe.daum.net/dorim-catholic/kysx",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
+        "id": "201000097",
+        "diocese": "서울대교구",
+        "name": "명일동",
+        "homepage": "http://www.myeongilcatholic.or.kr",
+        "source": "http://www.myeongilcatholic.or.kr/bbs/page.php?hid=sub01_03",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
+        "id": "201000101",
+        "diocese": "서울대교구",
+        "name": "목5동",
+        "homepage": "http://www.mok5.com",
+        "source": "https://cafe.naver.com/mok5c",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
+        "id": "201000098",
+        "diocese": "서울대교구",
+        "name": "목동(지)",
+        "homepage": "http://www.mokdong.or.kr",
+        "source": "https://cafe.naver.com/mtcpic",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
+        "id": "201006728",
+        "diocese": "서울대교구",
+        "name": "상도4동",
+        "homepage": "http://sd4sd.or.kr/",
+        "source": "http://sd4sd.or.kr/주보/",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
+        "id": "201000134",
+        "diocese": "서울대교구",
+        "name": "서교동",
+        "homepage": "http://www.seokyo.or.kr",
+        "source": "http://www.seokyo.or.kr/bbs/board.php?bo_table=sub03_02",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
+        "id": "201000140",
+        "diocese": "서울대교구",
+        "name": "서초3동",
+        "homepage": "https://www.seocho3catholic.or.kr/",
+        "source": "https://cafe.naver.com/smu5881",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
+        "id": "201000139",
+        "diocese": "서울대교구",
+        "name": "서초동(지)",
+        "homepage": "http://www.seocho.org",
+        "source": "https://cafe.naver.com/smu5881",
         "last_bulletin": null,
         "mass_covered": true
       },
@@ -1112,6 +1229,15 @@
         "mass_covered": true
       },
       {
+        "id": "201000237",
+        "diocese": "서울대교구",
+        "name": "양재2동",
+        "homepage": "https://poi.catholic.or.kr",
+        "source": "https://poi.catholic.or.kr/news/bulletin.asp",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
         "id": "201000095",
         "diocese": "서울대교구",
         "name": "용마산",
@@ -1126,6 +1252,15 @@
         "name": "월계동",
         "homepage": "https://cafe.daum.net/catholicwolgye",
         "source": "https://m.cafe.daum.net/catholicwolgye/PuUA",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
+        "id": "201000205",
+        "diocese": "서울대교구",
+        "name": "일원동",
+        "homepage": "http://www.myilwon.com",
+        "source": "https://blog.naver.com/catholic2024",
         "last_bulletin": null,
         "mass_covered": true
       },
@@ -1157,6 +1292,24 @@
         "mass_covered": true
       },
       {
+        "id": "201000225",
+        "diocese": "서울대교구",
+        "name": "중림동 약현",
+        "homepage": "http://www.yakhyeon.or.kr",
+        "source": "https://m.cafe.daum.net/yakhyeon-1/Davj",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
+        "id": "201000233",
+        "diocese": "서울대교구",
+        "name": "청담동",
+        "homepage": "http://www.cdsd.org",
+        "source": "http://www.cdsd.org/bbs/page.php?hid=jubo",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
         "id": "201000238",
         "diocese": "서울대교구",
         "name": "풍납동",
@@ -1171,6 +1324,24 @@
         "name": "홍은2동",
         "homepage": "http://cafe.daum.net/hong2photo",
         "source": "https://m.cafe.daum.net/hong2photo/Vze0",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
+        "id": "201000249",
+        "diocese": "서울대교구",
+        "name": "화곡본동",
+        "homepage": "http://www.hwagok.org",
+        "source": "https://blog.naver.com/daycare9988",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
+        "id": "201000450",
+        "diocese": "수원교구",
+        "name": "과천",
+        "homepage": "http://www.plusjesus.or.kr",
+        "source": "https://www.plusjesus.or.kr/files/attach/images/131/db9a2e2828068ab17209bd1d1d83e759.jpg",
         "last_bulletin": null,
         "mass_covered": true
       },
@@ -1369,6 +1540,24 @@
         "name": "벌말",
         "homepage": "http://cafe.daum.net/beolmalJHS",
         "source": "https://m.cafe.daum.net/beolmalJHS/Mn84",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
+        "id": "201000504",
+        "diocese": "수원교구",
+        "name": "범계",
+        "homepage": "http://www.beomgye.or.kr",
+        "source": "https://m.cafe.daum.net/guanakcatholicchurch/R6dN",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
+        "id": "201000505",
+        "diocese": "수원교구",
+        "name": "별양동",
+        "homepage": "http://www.assisi.or.kr",
+        "source": "https://cafe.naver.com/bydchurch1",
         "last_bulletin": null,
         "mass_covered": true
       },
@@ -1940,6 +2129,24 @@
         "mass_covered": true
       },
       {
+        "id": "201000255",
+        "diocese": "의정부교구",
+        "name": "가좌동",
+        "homepage": "http://sd.uca.or.kr/gajwa",
+        "source": "https://cafe.naver.com/ugajwa",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
+        "id": "201000259",
+        "diocese": "의정부교구",
+        "name": "광릉",
+        "homepage": "http://sd.uca.or.kr/gn",
+        "source": "https://cafe.naver.com/kwnsd",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
         "id": "201000273",
         "diocese": "의정부교구",
         "name": "동두천",
@@ -1958,6 +2165,24 @@
         "mass_covered": true
       },
       {
+        "id": "201000279",
+        "diocese": "의정부교구",
+        "name": "봉일천",
+        "homepage": "http://sd.uca.or.kr/bic/",
+        "source": "https://cafe.naver.com/bicsd",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
+        "id": "201000285",
+        "diocese": "의정부교구",
+        "name": "식사동",
+        "homepage": "http://sd.uca.or.kr/siksa/",
+        "source": "https://m.cafe.daum.net/Mealparish/kfEw",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
         "id": "201000308",
         "diocese": "의정부교구",
         "name": "진접",
@@ -1967,11 +2192,47 @@
         "mass_covered": true
       },
       {
+        "id": "201000315",
+        "diocese": "의정부교구",
+        "name": "평내",
+        "homepage": "http://sd.uca.or.kr/cathpn/",
+        "source": "https://cafe.naver.com/biblicum",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
+        "id": "201000355",
+        "diocese": "인천교구",
+        "name": "마전동",
+        "homepage": "http://www.majeondong.or.kr",
+        "source": "https://cafe.naver.com/mjcatholic",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
+        "id": "201005734",
+        "diocese": "인천교구",
+        "name": "범박동",
+        "homepage": "http://www.cabumbak.or.kr",
+        "source": "https://blog.naver.com/ca_bumbak",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
         "id": "201000377",
         "diocese": "인천교구",
         "name": "상3동",
         "homepage": "http://cafe.daum.net/sang3d",
         "source": "https://m.cafe.daum.net/sang3d/EnKU",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
+        "id": "201000378",
+        "diocese": "인천교구",
+        "name": "서운동",
+        "homepage": "http://seoun.or.kr",
+        "source": "http://www.caincheon.or.kr/news/mgz_list.do?pub_idx=3",
         "last_bulletin": null,
         "mass_covered": true
       },
@@ -2026,6 +2287,15 @@
         "name": "화순",
         "homepage": "https://cafe.daum.net/jejuhwasuncatholic",
         "source": "https://m.cafe.daum.net/jejuhwasuncatholic/c2y5",
+        "last_bulletin": null,
+        "mass_covered": true
+      },
+      {
+        "id": "201000985",
+        "diocese": "청주교구",
+        "name": "문화동",
+        "homepage": "http://church.catholic.or.kr/munhwa",
+        "source": "https://cafe.naver.com/cathedrals",
         "last_bulletin": null,
         "mass_covered": true
       },
@@ -4363,15 +4633,6 @@
         "mass_covered": true
       },
       {
-        "id": "201000651",
-        "diocese": "대전교구",
-        "name": "궁동",
-        "homepage": "http://kdcatholic.kr/",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
         "id": "201000652",
         "diocese": "대전교구",
         "name": "규암",
@@ -4574,15 +4835,6 @@
         "diocese": "대전교구",
         "name": "문창동",
         "homepage": "http://cafe.naver.com/catholicmoon",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
-        "id": "201000680",
-        "diocese": "대전교구",
-        "name": "반석동",
-        "homepage": "http://반석동성당.kr",
         "source": null,
         "last_bulletin": null,
         "mass_covered": true
@@ -4952,15 +5204,6 @@
         "diocese": "대전교구",
         "name": "죽동",
         "homepage": null,
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
-        "id": "201000732",
-        "diocese": "대전교구",
-        "name": "진산성지",
-        "homepage": "http://jinsan.djcatholic.or.kr",
         "source": null,
         "last_bulletin": null,
         "mass_covered": true
@@ -5479,15 +5722,6 @@
         "mass_covered": true
       },
       {
-        "id": "201001075",
-        "diocese": "마산교구",
-        "name": "양덕동 주교좌",
-        "homepage": "http://yangduk.kr",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
         "id": "201001076",
         "diocese": "마산교구",
         "name": "여좌동",
@@ -5501,15 +5735,6 @@
         "diocese": "마산교구",
         "name": "영산",
         "homepage": null,
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
-        "id": "201001078",
-        "diocese": "마산교구",
-        "name": "옥봉동",
-        "homepage": "http://ob.cathms.kr/",
         "source": null,
         "last_bulletin": null,
         "mass_covered": true
@@ -7009,15 +7234,6 @@
         "mass_covered": true
       },
       {
-        "id": "201000041",
-        "diocese": "서울대교구",
-        "name": "고덕동",
-        "homepage": "http://www.godeok.or.kr/",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
         "id": "201000042",
         "diocese": "서울대교구",
         "name": "고척동",
@@ -7468,15 +7684,6 @@
         "mass_covered": true
       },
       {
-        "id": "201000097",
-        "diocese": "서울대교구",
-        "name": "명일동",
-        "homepage": "http://www.myeongilcatholic.or.kr",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
         "id": "201000099",
         "diocese": "서울대교구",
         "name": "목3동",
@@ -7490,24 +7697,6 @@
         "diocese": "서울대교구",
         "name": "목4동",
         "homepage": "http://www.mok4dong.kr/",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
-        "id": "201000101",
-        "diocese": "서울대교구",
-        "name": "목5동",
-        "homepage": "http://www.mok5.com",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
-        "id": "201000098",
-        "diocese": "서울대교구",
-        "name": "목동(지)",
-        "homepage": "http://www.mokdong.or.kr",
         "source": null,
         "last_bulletin": null,
         "mass_covered": true
@@ -7765,15 +7954,6 @@
         "mass_covered": true
       },
       {
-        "id": "201006728",
-        "diocese": "서울대교구",
-        "name": "상도4동",
-        "homepage": "http://sd4sd.or.kr/",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
         "id": "201000130",
         "diocese": "서울대교구",
         "name": "상도동",
@@ -7810,15 +7990,6 @@
         "mass_covered": true
       },
       {
-        "id": "201000134",
-        "diocese": "서울대교구",
-        "name": "서교동",
-        "homepage": "http://www.seokyo.or.kr",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
         "id": "201000135",
         "diocese": "서울대교구",
         "name": "서대문",
@@ -7841,24 +8012,6 @@
         "diocese": "서울대교구",
         "name": "서원동",
         "homepage": "http://seowonch.modoo.at",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
-        "id": "201000140",
-        "diocese": "서울대교구",
-        "name": "서초3동",
-        "homepage": "https://www.seocho3catholic.or.kr/",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
-        "id": "201000139",
-        "diocese": "서울대교구",
-        "name": "서초동(지)",
-        "homepage": "http://www.seocho.org",
         "source": null,
         "last_bulletin": null,
         "mass_covered": true
@@ -8224,15 +8377,6 @@
         "mass_covered": true
       },
       {
-        "id": "201000237",
-        "diocese": "서울대교구",
-        "name": "양재2동",
-        "homepage": "https://poi.catholic.or.kr",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
         "id": "201000182",
         "diocese": "서울대교구",
         "name": "양재동",
@@ -8458,15 +8602,6 @@
         "mass_covered": true
       },
       {
-        "id": "201000205",
-        "diocese": "서울대교구",
-        "name": "일원동",
-        "homepage": "http://www.myilwon.com",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
         "id": "201000206",
         "diocese": "서울대교구",
         "name": "자양동",
@@ -8620,15 +8755,6 @@
         "mass_covered": true
       },
       {
-        "id": "201000225",
-        "diocese": "서울대교구",
-        "name": "중림동 약현",
-        "homepage": "http://www.yakhyeon.or.kr",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
         "id": "201000226",
         "diocese": "서울대교구",
         "name": "중앙동(지)",
@@ -8705,15 +8831,6 @@
         "diocese": "서울대교구",
         "name": "청구",
         "homepage": null,
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
-        "id": "201000233",
-        "diocese": "서울대교구",
-        "name": "청담동",
-        "homepage": "http://www.cdsd.org",
         "source": null,
         "last_bulletin": null,
         "mass_covered": true
@@ -8845,15 +8962,6 @@
         "mass_covered": true
       },
       {
-        "id": "201000249",
-        "diocese": "서울대교구",
-        "name": "화곡본동",
-        "homepage": "http://www.hwagok.org",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
         "id": "201000251",
         "diocese": "서울대교구",
         "name": "화양동",
@@ -8957,15 +9065,6 @@
         "diocese": "수원교구",
         "name": "공도",
         "homepage": null,
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
-        "id": "201000450",
-        "diocese": "수원교구",
-        "name": "과천",
-        "homepage": "http://www.plusjesus.or.kr",
         "source": null,
         "last_bulletin": null,
         "mass_covered": true
@@ -9326,24 +9425,6 @@
         "diocese": "수원교구",
         "name": "버드내",
         "homepage": "http://www.bdnsd.or.kr",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
-        "id": "201000504",
-        "diocese": "수원교구",
-        "name": "범계",
-        "homepage": "http://www.beomgye.or.kr",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
-        "id": "201000505",
-        "diocese": "수원교구",
-        "name": "별양동",
-        "homepage": "http://www.assisi.or.kr",
         "source": null,
         "last_bulletin": null,
         "mass_covered": true
@@ -10969,15 +11050,6 @@
         "mass_covered": true
       },
       {
-        "id": "201000255",
-        "diocese": "의정부교구",
-        "name": "가좌동",
-        "homepage": "http://sd.uca.or.kr/gajwa",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
         "id": "201008040",
         "diocese": "의정부교구",
         "name": "갈곡리",
@@ -11027,15 +11099,6 @@
         "diocese": "의정부교구",
         "name": "관산동",
         "homepage": "http://www.cks.or.kr",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
-        "id": "201000259",
-        "diocese": "의정부교구",
-        "name": "광릉",
-        "homepage": "http://sd.uca.or.kr/gn",
         "source": null,
         "last_bulletin": null,
         "mass_covered": true
@@ -11266,15 +11329,6 @@
         "mass_covered": true
       },
       {
-        "id": "201000279",
-        "diocese": "의정부교구",
-        "name": "봉일천",
-        "homepage": "http://sd.uca.or.kr/bic/",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
         "id": "201000280",
         "diocese": "의정부교구",
         "name": "상리",
@@ -11315,15 +11369,6 @@
         "diocese": "의정부교구",
         "name": "수동",
         "homepage": "http://sd.uca.or.kr/sudong",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
-        "id": "201000285",
-        "diocese": "의정부교구",
-        "name": "식사동",
-        "homepage": "http://sd.uca.or.kr/siksa/",
         "source": null,
         "last_bulletin": null,
         "mass_covered": true
@@ -11621,15 +11666,6 @@
         "diocese": "의정부교구",
         "name": "퇴계원",
         "homepage": "http://sd.uca.or.kr/tgw/",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
-        "id": "201000315",
-        "diocese": "의정부교구",
-        "name": "평내",
-        "homepage": "http://sd.uca.or.kr/cathpn/",
         "source": null,
         "last_bulletin": null,
         "mass_covered": true
@@ -12004,15 +12040,6 @@
         "mass_covered": true
       },
       {
-        "id": "201000355",
-        "diocese": "인천교구",
-        "name": "마전동",
-        "homepage": "http://www.majeondong.or.kr",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
         "id": "201000356",
         "diocese": "인천교구",
         "name": "만수1동",
@@ -12071,15 +12098,6 @@
         "diocese": "인천교구",
         "name": "백령도",
         "homepage": null,
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
-        "id": "201005734",
-        "diocese": "인천교구",
-        "name": "범박동",
-        "homepage": "http://www.cabumbak.or.kr",
         "source": null,
         "last_bulletin": null,
         "mass_covered": true
@@ -12215,15 +12233,6 @@
         "diocese": "인천교구",
         "name": "상동",
         "homepage": null,
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
-        "id": "201000378",
-        "diocese": "인천교구",
-        "name": "서운동",
-        "homepage": "http://seoun.or.kr",
         "source": null,
         "last_bulletin": null,
         "mass_covered": true
@@ -14231,15 +14240,6 @@
         "diocese": "청주교구",
         "name": "문의",
         "homepage": "http://ch.catholic.or/munui",
-        "source": null,
-        "last_bulletin": null,
-        "mass_covered": true
-      },
-      {
-        "id": "201000985",
-        "diocese": "청주교구",
-        "name": "문화동",
-        "homepage": "http://church.catholic.or.kr/munhwa",
         "source": null,
         "last_bulletin": null,
         "mass_covered": true

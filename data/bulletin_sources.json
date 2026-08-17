@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17T17:09:49+00:00",
+  "generated_at": "2026-08-17T17:16:27+00:00",
   "note": "본당 주보 게시판 소스. platform=daum_cafe|naver_cafe|blog|homepage. first_found/last_checked 로 이력, lost=true 는 소스 유실 의심. 최신 주보 페치→판독→병합의 토대(1단계 발견).",
-  "count": 230,
+  "count": 260,
   "by_church": {
     "201000767": {
       "platform": "daum_cafe",
@@ -2760,6 +2760,315 @@
       "church": "후평동",
       "diocese": "춘천교구",
       "homepage": "http://cafe.daum.net/hpdtr",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000651": {
+      "platform": "homepage",
+      "url": "http://kdcatholic.kr/category/",
+      "via": "homepage_page",
+      "church": "궁동",
+      "diocese": "대전교구",
+      "homepage": "http://kdcatholic.kr/",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000680": {
+      "platform": "naver_link",
+      "url": "https://cafe.naver.com/parish",
+      "via": "homepage_link",
+      "church": "반석동",
+      "diocese": "대전교구",
+      "homepage": "http://반석동성당.kr",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000732": {
+      "platform": "homepage",
+      "url": "http://jinsan.djcatholic.or.kr/html/sub02/sub02_0206.php",
+      "via": "homepage_page",
+      "church": "진산성지",
+      "diocese": "대전교구",
+      "homepage": "http://jinsan.djcatholic.or.kr",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201001075": {
+      "platform": "naver_link",
+      "url": "https://cafe.naver.com/yddean",
+      "via": "homepage_link",
+      "church": "양덕동 주교좌",
+      "diocese": "마산교구",
+      "homepage": "http://yangduk.kr",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201001078": {
+      "platform": "homepage",
+      "url": "http://ob.cathms.kr/?page_id=754",
+      "via": "homepage_page",
+      "church": "옥봉동",
+      "diocese": "마산교구",
+      "homepage": "http://ob.cathms.kr/",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000041": {
+      "platform": "naver_link",
+      "url": "https://cafe.naver.com/stbona",
+      "via": "homepage_link",
+      "church": "고덕동",
+      "diocese": "서울대교구",
+      "homepage": "http://www.godeok.or.kr/",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000097": {
+      "platform": "homepage",
+      "url": "http://www.myeongilcatholic.or.kr/bbs/page.php?hid=sub01_03",
+      "via": "homepage_page",
+      "church": "명일동",
+      "diocese": "서울대교구",
+      "homepage": "http://www.myeongilcatholic.or.kr",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000098": {
+      "platform": "naver_link",
+      "url": "https://cafe.naver.com/mtcpic",
+      "via": "homepage_link",
+      "church": "목동(지)",
+      "diocese": "서울대교구",
+      "homepage": "http://www.mokdong.or.kr",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000101": {
+      "platform": "naver_link",
+      "url": "https://cafe.naver.com/mok5c",
+      "via": "homepage_link",
+      "church": "목5동",
+      "diocese": "서울대교구",
+      "homepage": "http://www.mok5.com",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000134": {
+      "platform": "homepage",
+      "url": "http://www.seokyo.or.kr/bbs/board.php?bo_table=sub03_02",
+      "via": "homepage_page",
+      "church": "서교동",
+      "diocese": "서울대교구",
+      "homepage": "http://www.seokyo.or.kr",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000140": {
+      "platform": "naver_link",
+      "url": "https://cafe.naver.com/smu5881",
+      "via": "homepage_link",
+      "church": "서초3동",
+      "diocese": "서울대교구",
+      "homepage": "https://www.seocho3catholic.or.kr/",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000139": {
+      "platform": "naver_link",
+      "url": "https://cafe.naver.com/smu5881",
+      "via": "homepage_link",
+      "church": "서초동(지)",
+      "diocese": "서울대교구",
+      "homepage": "http://www.seocho.org",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201006728": {
+      "platform": "homepage",
+      "url": "http://sd4sd.or.kr/주보/",
+      "via": "homepage_page",
+      "church": "상도4동",
+      "diocese": "서울대교구",
+      "homepage": "http://sd4sd.or.kr/",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000237": {
+      "platform": "homepage",
+      "url": "https://poi.catholic.or.kr/news/bulletin.asp",
+      "via": "homepage_page",
+      "church": "양재2동",
+      "diocese": "서울대교구",
+      "homepage": "https://poi.catholic.or.kr",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000205": {
+      "platform": "naver_link",
+      "url": "https://blog.naver.com/catholic2024",
+      "via": "homepage_link",
+      "church": "일원동",
+      "diocese": "서울대교구",
+      "homepage": "http://www.myilwon.com",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000233": {
+      "platform": "homepage",
+      "url": "http://www.cdsd.org/bbs/page.php?hid=jubo",
+      "via": "homepage_page",
+      "church": "청담동",
+      "diocese": "서울대교구",
+      "homepage": "http://www.cdsd.org",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000225": {
+      "platform": "daum_cafe",
+      "cafe": "yakhyeon-1",
+      "board": "Davj",
+      "board_name": "약현 주보",
+      "url": "https://m.cafe.daum.net/yakhyeon-1/Davj",
+      "via": "homepage_cafe",
+      "church": "중림동 약현",
+      "diocese": "서울대교구",
+      "homepage": "http://www.yakhyeon.or.kr",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000249": {
+      "platform": "naver_link",
+      "url": "https://blog.naver.com/daycare9988",
+      "via": "homepage_link",
+      "church": "화곡본동",
+      "diocese": "서울대교구",
+      "homepage": "http://www.hwagok.org",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000450": {
+      "platform": "homepage",
+      "url": "https://www.plusjesus.or.kr/files/attach/images/131/db9a2e2828068ab17209bd1d1d83e759.jpg",
+      "via": "homepage_page",
+      "church": "과천",
+      "diocese": "수원교구",
+      "homepage": "http://www.plusjesus.or.kr",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000255": {
+      "platform": "naver_link",
+      "url": "https://cafe.naver.com/ugajwa",
+      "via": "homepage_link",
+      "church": "가좌동",
+      "diocese": "의정부교구",
+      "homepage": "http://sd.uca.or.kr/gajwa",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000259": {
+      "platform": "naver_link",
+      "url": "https://cafe.naver.com/kwnsd",
+      "via": "homepage_link",
+      "church": "광릉",
+      "diocese": "의정부교구",
+      "homepage": "http://sd.uca.or.kr/gn",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000505": {
+      "platform": "naver_link",
+      "url": "https://cafe.naver.com/bydchurch1",
+      "via": "homepage_link",
+      "church": "별양동",
+      "diocese": "수원교구",
+      "homepage": "http://www.assisi.or.kr",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000279": {
+      "platform": "naver_link",
+      "url": "https://cafe.naver.com/bicsd",
+      "via": "homepage_link",
+      "church": "봉일천",
+      "diocese": "의정부교구",
+      "homepage": "http://sd.uca.or.kr/bic/",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000285": {
+      "platform": "daum_cafe",
+      "cafe": "Mealparish",
+      "board": "kfEw",
+      "board_name": "주보(2021년 6월~)",
+      "url": "https://m.cafe.daum.net/Mealparish/kfEw",
+      "via": "homepage_cafe",
+      "church": "식사동",
+      "diocese": "의정부교구",
+      "homepage": "http://sd.uca.or.kr/siksa/",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000315": {
+      "platform": "naver_link",
+      "url": "https://cafe.naver.com/biblicum",
+      "via": "homepage_link",
+      "church": "평내",
+      "diocese": "의정부교구",
+      "homepage": "http://sd.uca.or.kr/cathpn/",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000378": {
+      "platform": "homepage",
+      "url": "http://www.caincheon.or.kr/news/mgz_list.do?pub_idx=3",
+      "via": "homepage_page",
+      "church": "서운동",
+      "diocese": "인천교구",
+      "homepage": "http://seoun.or.kr",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000355": {
+      "platform": "naver_link",
+      "url": "https://cafe.naver.com/mjcatholic",
+      "via": "homepage_link",
+      "church": "마전동",
+      "diocese": "인천교구",
+      "homepage": "http://www.majeondong.or.kr",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201005734": {
+      "platform": "naver_link",
+      "url": "https://blog.naver.com/ca_bumbak",
+      "via": "homepage_link",
+      "church": "범박동",
+      "diocese": "인천교구",
+      "homepage": "http://www.cabumbak.or.kr",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000985": {
+      "platform": "naver_link",
+      "url": "https://cafe.naver.com/cathedrals",
+      "via": "homepage_link",
+      "church": "문화동",
+      "diocese": "청주교구",
+      "homepage": "http://church.catholic.or.kr/munhwa",
+      "last_checked": "2026-08-17",
+      "first_found": "2026-08-17"
+    },
+    "201000504": {
+      "platform": "daum_cafe",
+      "cafe": "guanakcatholicchurch",
+      "board": "R6dN",
+      "board_name": "관악 성당 주보",
+      "url": "https://m.cafe.daum.net/guanakcatholicchurch/R6dN",
+      "via": "homepage_cafe",
+      "church": "범계",
+      "diocese": "수원교구",
+      "homepage": "http://www.beomgye.or.kr",
       "last_checked": "2026-08-17",
       "first_found": "2026-08-17"
     }
