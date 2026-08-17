@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T16:56:16+00:00",
+  "generated_at": "2026-08-17T21:30:37+00:00",
   "diocese": "의정부교구",
   "diocese_id": "201000020",
   "count": 87,
@@ -6470,64 +6470,6 @@
       "match_method": "name"
     },
     {
-      "parish_name": "고양동",
-      "diocese": "의정부교구",
-      "phone": null,
-      "source_url": "http://www.goyangdong.or.kr/",
-      "mass": {
-        "weekday": {
-          "mon": [
-            {
-              "time": "06:00",
-              "note": null
-            },
-            {
-              "time": "20:00",
-              "note": null
-            },
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ],
-          "tue": [
-            {
-              "time": "20:00",
-              "note": null
-            }
-          ],
-          "wed": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ],
-          "thu": [
-            {
-              "time": "20:00",
-              "note": null
-            }
-          ],
-          "fri": []
-        },
-        "saturday": [
-          {
-            "time": "10:00",
-            "note": null
-          },
-          {
-            "time": "10:00",
-            "note": null
-          }
-        ],
-        "sunday": [],
-        "special": [],
-        "raw": "mon 06:00  20:00  10:00; tue 20:00; wed 10:00; saturday 10:00  10:00; thu 20:00"
-      },
-      "church_id": "201000256",
-      "match_method": "name"
-    },
-    {
       "parish_name": "양주 2동",
       "diocese": "의정부교구",
       "phone": null,
@@ -8589,6 +8531,64 @@
       "church_id": "201000258",
       "match_method": "name",
       "manual": true
+    },
+    {
+      "parish_name": "고양동",
+      "diocese": "의정부교구",
+      "phone": null,
+      "source_url": "http://www.goyangdong.or.kr/",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": null
+            },
+            {
+              "time": "20:00",
+              "note": null
+            },
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "20:00",
+              "note": null
+            }
+          ],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": null
+          },
+          {
+            "time": "10:00",
+            "note": null
+          }
+        ],
+        "sunday": [],
+        "special": [],
+        "raw": "mon 06:00  20:00  10:00; tue 20:00; wed 10:00; saturday 10:00  10:00; thu 20:00"
+      },
+      "church_id": "201000256",
+      "match_method": "name"
     },
     {
       "parish_name": "마재(성지)",
