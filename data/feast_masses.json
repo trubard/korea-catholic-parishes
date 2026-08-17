@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15",
+  "generated_at": "2026-08-17",
   "note": "고정일 축일 미사 누적(수집일에만 관측되는 feast 를 날짜별로 보존). date=MM-DD, observed=마지막 관측일. mass.feast_masses 로 부착됨.",
   "by_church": {
     "201001556": [
@@ -7,7 +7,7 @@
         "date": "08-15",
         "feast": "성모승천대축일",
         "time": "10:30",
-        "observed": "2026-08-15"
+        "observed": "2026-08-17"
       }
     ]
   }
