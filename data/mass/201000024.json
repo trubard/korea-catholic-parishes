@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-24T21:35:56+00:00",
+  "generated_at": "2026-09-01T00:30:13+00:00",
   "diocese": "마산교구",
   "diocese_id": "201000024",
   "count": 68,
   "masses": [
     {
-      "parish_name": "가좌동",
+      "parish_name": "경화동",
       "diocese": "마산교구",
       "phone": null,
-      "source_url": "http://gajwa.cathms.kr/xe/board_oCOh74/13788",
+      "source_url": "http://kyung.cathms.kr/",
       "mass": {
         "weekday": {
           "mon": [],
@@ -30,7 +30,12 @@
               "note": null
             }
           ],
-          "fri": []
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
         },
         "saturday": [
           {
@@ -40,24 +45,18 @@
         ],
         "sunday": [
           {
-            "time": "10:30",
-            "note": "청년미사",
-            "audience": [
-              "청년"
-            ],
-            "type": [
-              "청년"
-            ]
+            "time": "07:00",
+            "note": null
           },
           {
-            "time": "19:30",
+            "time": "10:30",
             "note": null
           }
         ],
         "special": [],
-        "raw": "tue 19:30; wed 10:00; thu 19:30; saturday 토요일 저녁미사 18:00; sunday 10:30 청년미사 19:30"
+        "raw": "tue 19:30; wed 10:00; thu 19:30; fri 10:00; saturday 18:00; sunday 07:00 10:30"
       },
-      "church_id": "201001037",
+      "church_id": "201001040",
       "match_method": "name"
     },
     {
@@ -467,150 +466,13 @@
           },
           {
             "time": "21:00",
-            "note": "연중 제21"
+            "note": "연중 제22"
           }
         ],
         "special": [],
-        "raw": "sunday (자비축일... 2020-04-10 천주의 성모마리아 대... 미사 시간 :  09:00 .  11:00 . 저녁미사 없습니다 2023-01-21 설 명절 합동미사 11:00 설명절 함동위령미사  11:00 2023-01-21 연중 제21"
+        "raw": "sunday (자비축일... 2020-04-10 천주의 성모마리아 대... 미사 시간 :  09:00 .  11:00 . 저녁미사 없습니다 2023-01-21 설 명절 합동미사 11:00 설명절 함동위령미사  11:00 2023-01-21 연중 제22"
       },
       "church_id": "201001048",
-      "match_method": "name"
-    },
-    {
-      "parish_name": "대산성지",
-      "diocese": "마산교구",
-      "phone": null,
-      "source_url": "http://daesan.cathms.kr/notice/1280",
-      "mass": {
-        "weekday": {
-          "mon": [],
-          "tue": [
-            {
-              "time": "07:30",
-              "note": "동절기) 저녁",
-              "recurrence": {
-                "season": "winter",
-                "raw": "(동절기) 저녁"
-              }
-            },
-            {
-              "time": "08:00",
-              "note": "하절기",
-              "recurrence": {
-                "season": "summer",
-                "raw": "(하절기)"
-              }
-            }
-          ],
-          "wed": [
-            {
-              "time": "10:30",
-              "note": null
-            }
-          ],
-          "thu": [
-            {
-              "time": "07:30",
-              "note": "동절기) 저녁",
-              "recurrence": {
-                "season": "winter",
-                "raw": "(동절기) 저녁"
-              }
-            },
-            {
-              "time": "08:00",
-              "note": "하절기",
-              "recurrence": {
-                "season": "summer",
-                "raw": "(하절기)"
-              }
-            }
-          ],
-          "fri": [
-            {
-              "time": "10:30",
-              "note": null
-            }
-          ]
-        },
-        "saturday": [
-          {
-            "time": "07:30",
-            "note": "동절기) 저녁",
-            "recurrence": {
-              "season": "winter",
-              "raw": "(동절기) 저녁"
-            }
-          },
-          {
-            "time": "08:00",
-            "note": "하절기",
-            "recurrence": {
-              "season": "summer",
-              "raw": "(하절기)"
-            }
-          }
-        ],
-        "sunday": [
-          {
-            "time": "11:00",
-            "note": null
-          }
-        ],
-        "special": [],
-        "raw": "tue 저녁 7:30(동절기) 저녁 8:00(하절기); wed 10:30; thu 저녁 7:30(동절기) 저녁 8:00(하절기); fri 10:30; saturday 저녁 7:30(동절기) 저녁 8:00(하절기); sunday 11:00"
-      },
-      "church_id": "201001050",
-      "match_method": "name_fuzzy"
-    },
-    {
-      "parish_name": "망경동",
-      "diocese": "마산교구",
-      "phone": null,
-      "source_url": "http://mk.cathms.kr/xe/board_LuAU21/25930",
-      "mass": {
-        "weekday": {
-          "mon": [],
-          "tue": [
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "wed": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ],
-          "thu": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ],
-          "fri": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ]
-        },
-        "saturday": [],
-        "sunday": [
-          {
-            "time": "18:00",
-            "note": null
-          },
-          {
-            "time": "07:30",
-            "note": null
-          }
-        ],
-        "special": [],
-        "raw": "tue 19:30; wed 10:00; thu 10:00; fri 10:00; sunday 18:00  07:30"
-      },
-      "church_id": "201001052",
       "match_method": "name"
     },
     {
@@ -886,6 +748,93 @@
         "raw": "tue 19:30; wed 10:30; thu 19:30; fri 10:30; saturday 18:00; sunday 10:30 19:30"
       },
       "church_id": "201001061",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "생림선교",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "http://sl.cathms.kr/",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [],
+          "fri": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "10:00",
+            "note": "매월 첫째 주 토요일 성모 신심 미사",
+            "kind": [
+              "신심"
+            ],
+            "type": [
+              "신심"
+            ],
+            "recurrence": {
+              "weeks": [
+                1
+              ],
+              "raw": "매월 첫째 주 토요일 성모 신심 미사"
+            }
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "wed 10:00; fri 19:00; saturday 10:00 매월 첫째 주 토요일 성모 신심 미사; sunday 10:30"
+      },
+      "stations": [
+        {
+          "name": "한림",
+          "address": "김해시 한림면 한림로371번길 43-21",
+          "mass": {
+            "weekday": {
+              "mon": [],
+              "tue": [
+                {
+                  "time": "19:00",
+                  "note": null
+                }
+              ],
+              "wed": [],
+              "thu": [
+                {
+                  "time": "10:00",
+                  "note": null
+                }
+              ],
+              "fri": []
+            },
+            "saturday": [
+              {
+                "time": "18:30",
+                "note": null
+              }
+            ],
+            "sunday": [],
+            "special": [],
+            "raw": "tue 19:00; thu 10:00; saturday 18:30"
+          }
+        }
+      ],
+      "church_id": "201001066",
       "match_method": "name"
     },
     {
@@ -1168,124 +1117,6 @@
       "match_method": "name"
     },
     {
-      "parish_name": "양덕동",
-      "diocese": "마산교구",
-      "phone": null,
-      "source_url": "http://yangduk.kr/bbs/board.php?bo_table=livesbody&wr_id=10",
-      "mass": {
-        "weekday": {
-          "mon": [
-            {
-              "time": "06:00",
-              "note": "새벽미사",
-              "kind": [
-                "새벽"
-              ],
-              "type": [
-                "새벽"
-              ]
-            }
-          ],
-          "tue": [
-            {
-              "time": "19:30",
-              "note": "저녁미사"
-            }
-          ],
-          "wed": [
-            {
-              "time": "10:00",
-              "note": "낮 미사"
-            },
-            {
-              "time": "19:30",
-              "note": "저녁미사"
-            }
-          ],
-          "thu": [
-            {
-              "time": "10:00",
-              "note": "낮 미사"
-            },
-            {
-              "time": "19:30",
-              "note": "저녁미사"
-            }
-          ],
-          "fri": [
-            {
-              "time": "10:00",
-              "note": "낮 미사"
-            }
-          ]
-        },
-        "saturday": [
-          {
-            "time": "16:00",
-            "note": "어린이 미사",
-            "audience": [
-              "어린이"
-            ],
-            "type": [
-              "어린이"
-            ]
-          },
-          {
-            "time": "18:30",
-            "note": "토요 저녁미사 / 전례봉사 : 중고등부 학생회",
-            "audience": [
-              "중고등부",
-              "학생"
-            ],
-            "type": [
-              "중고등부",
-              "학생"
-            ]
-          },
-          {
-            "time": "10:00",
-            "note": "낮 미사) 미사시간은 본당행사 또는 교구일정에 따라 다소 변경될 수 있습니다. 변동되는 내용은 '양덕주보 공지사항'을 참조 바랍니다. 양덕주보 바로가기(클릭!) 미사 안내 미사시간 미사참례 전에 미사참례에서 이용약관 개인정보처리방침 운영자게시판 모바일버전 천주교 마산교구 주교좌 양덕동 성당 (우)51317 경남 창원시 마산회원구 양덕옛2길 128 전화 : 055-292-6561 팩스 055-292-8330 주임신부 : 055-292-6560 보좌신부 : 055-292-6568 수녀원 : 055-292-6562 Copyright ⓒ Yangduk Cathedral of the Masan Diocese. All right reserved. 상단으로"
-          }
-        ],
-        "sunday": [
-          {
-            "time": "07:00",
-            "note": "새벽미사",
-            "kind": [
-              "새벽"
-            ],
-            "type": [
-              "새벽"
-            ]
-          },
-          {
-            "time": "10:30",
-            "note": "교중미사",
-            "kind": [
-              "교중"
-            ],
-            "type": [
-              "교중"
-            ]
-          },
-          {
-            "time": "19:30",
-            "note": "저녁미사 / 전례봉사 : 청년회",
-            "audience": [
-              "청년"
-            ],
-            "type": [
-              "청년"
-            ]
-          }
-        ],
-        "special": [],
-        "raw": "saturday 16:00 (어린이 미사) 18:30 (토요 저녁미사 / 전례봉사 : 중고등부 학생회) 10:00 (낮 미사) 미사시간은 본당행사 또는 교구일정에 따라 다소 변경될 수 있습니다. 변동되는 내용은 '양덕주보 공지사항'을 참조 바랍니다. 양덕주보 바로가기(클릭!) 미사 안내 미사시간 미사참례 전에 미사참례에서 이용약관 개인정보처리방침 운영자게시판 모바일버전 천주교 마산교구 주교좌 양덕동 성당 (우)51317 경남 창원시 마산회원구 양덕옛2길 128 전화 : 055-292-6561  팩스 055-292-8330  주임신부 : 055-292-6560  보좌신부 : 055-292-6568  수녀원 : 055-292-6562 Copyright ⓒ Yangduk Cathedral of the Masan Diocese. All right reserved. 상단으로; sunday 07:00 (새벽미사) 10:30 (교중미사) 19:30 (저녁미사 / 전례봉사 : 청년회); mon 06:00 (새벽미사); tue 19:30 (저녁미사); wed 10:00 (낮 미사), 19:30 (저녁미사); thu 10:00 (낮 미사), 19:30 (저녁미사); fri 10:00 (낮 미사)"
-      },
-      "church_id": "201001075",
-      "match_method": "name_stripped"
-    },
-    {
       "parish_name": "장등",
       "diocese": "마산교구",
       "phone": null,
@@ -1555,6 +1386,61 @@
         "raw": "mon 06:30; tue 19:30; wed 10:00 19:30; thu 10:00 19:30; fri 10:00 19:30; saturday 10:00 어린이 16:00 중고등 19:30; sunday 06:30 10:30 19:30"
       },
       "church_id": "201001089",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "지세포",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "http://ji.cathms.kr/notice/468",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "08:30",
+            "note": "본 당"
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "tue 19:30; wed 10:00; thu 19:30; fri 10:00; saturday 19:00; sunday 예구공소 08:30 본 당 10:30"
+      },
+      "church_id": "201001091",
       "match_method": "name"
     },
     {
@@ -1979,7 +1865,7 @@
             },
             {
               "time": "14:00",
-              "note": ". 유아세례식 최신글 모음 [본당주보]제1487호 연중 제21",
+              "note": ". 유아세례식 최신글 모음 [본당주보] 제1488호 연중 제22",
               "audience": [
                 "유아"
               ],
@@ -2036,7 +1922,7 @@
           }
         ],
         "special": [],
-        "raw": "sunday 공지사항 03-24 24년 수난 감실 성체 조배 담당 시간표입니다. 03-24 24년도 성주간 전례 안내(3.28∼3.31) 2026 사순찬양피정 모습 2026.02.26(목) 저녁 7:30 미사 중에 『십자가의 길 위에서 노래하다』라는 주제로 은혜로운 사순 찬양 피정 시간을 가졌다. ◆ 강사 : 성가정성당 주임 임성진 세례자요한 신부 ◇ 찬양 : 신안동성당 서혜진 세실리아 자매님 2025.09.21. 성인 세례식 2025.09.21. 약 6개월 간의 교리과정을 거쳐 7분이 하느님의 자녀로 새로 태어났습니다. 축하드립니다. (이름 순서 : 가나다순) 강진관/알베르토, 고다연/솔란지아, 공병호/베드로, 권미희/마리아, 노복자/마리아, 정판술/요아킴, 한아름/레지나 교구 여정 성경 공부반 개강 모습 회원동본당에 교구 여정 성경 공부반이 개설되었습니다. 축하! 축하! ■ 일반과정(8/27∼11/26, 매주; wed , 저녁 7:30∼9:00) ◇ 과목 : 마태오 복음서 ◇ 파견 봉사자 : 노미애(가브리엘라, 산호동본당) ■ 지혜과정(8/28∼11/27, 매주; thu ,  10:00 ∼11:50) ◇ 과목 : 마르코 복음서 ◇ 파견 봉사자 : 변희영(벨라뎃다, 남성동본당) 2025.06.22. 어린이 첫영성체식 ♥ 5명의 어린이 첫영성체를 축하합니다 ♥ 1. 강다온(빅토리아), 2. 윤소연(체칠리아), 3. 이준서(가브리엘), 4. 엄도현(미카엘), 5. 박도현(사도요한) 2025.06.14.  유아세례식 최신글 모음 [본당주보]제1487호 연중 제21"
+        "raw": "sunday 공지사항 03-24 24년 수난 감실 성체 조배 담당 시간표입니다. 03-24 24년도 성주간 전례 안내(3.28∼3.31) 2026 사순찬양피정 모습 2026.02.26(목) 저녁 7:30 미사 중에 『십자가의 길 위에서 노래하다』라는 주제로 은혜로운 사순 찬양 피정 시간을 가졌다. ◆ 강사 : 성가정성당 주임 임성진 세례자요한 신부 ◇ 찬양 : 신안동성당 서혜진 세실리아 자매님 2025.09.21. 성인 세례식 2025.09.21. 약 6개월 간의 교리과정을 거쳐 7분이 하느님의 자녀로 새로 태어났습니다. 축하드립니다. (이름 순서 : 가나다순) 강진관/알베르토, 고다연/솔란지아, 공병호/베드로, 권미희/마리아, 노복자/마리아, 정판술/요아킴, 한아름/레지나 교구 여정 성경 공부반 개강 모습 회원동본당에 교구 여정 성경 공부반이 개설되었습니다. 축하! 축하! ■ 일반과정(8/27∼11/26, 매주; wed , 저녁 7:30∼9:00) ◇ 과목 : 마태오 복음서 ◇ 파견 봉사자 : 노미애(가브리엘라, 산호동본당) ■ 지혜과정(8/28∼11/27, 매주; thu ,  10:00 ∼11:50) ◇ 과목 : 마르코 복음서 ◇ 파견 봉사자 : 변희영(벨라뎃다, 남성동본당) 2025.06.22. 어린이 첫영성체식 ♥ 5명의 어린이 첫영성체를 축하합니다 ♥ 1. 강다온(빅토리아), 2. 윤소연(체칠리아), 3. 이준서(가브리엘), 4. 엄도현(미카엘), 5. 박도현(사도요한) 2025.06.14.  유아세례식 최신글 모음 [본당주보] 제1488호 연중 제22"
       },
       "church_id": "201001109",
       "match_method": "name"
@@ -2572,18 +2458,13 @@
       "match_method": "name"
     },
     {
-      "parish_name": "옥포",
+      "parish_name": "영산",
       "diocese": "마산교구",
       "phone": null,
-      "source_url": "http://okpo.cathms.kr/",
+      "source_url": "http://ys.cathms.kr/",
       "mass": {
         "weekday": {
-          "mon": [
-            {
-              "time": "06:30",
-              "note": null
-            }
-          ],
+          "mon": [],
           "tue": [
             {
               "time": "19:30",
@@ -2594,17 +2475,9 @@
             {
               "time": "10:00",
               "note": null
-            },
-            {
-              "time": "19:30",
-              "note": null
             }
           ],
           "thu": [
-            {
-              "time": "10:00",
-              "note": null
-            },
             {
               "time": "19:30",
               "note": null
@@ -2614,48 +2487,32 @@
             {
               "time": "10:00",
               "note": null
-            },
-            {
-              "time": "19:30",
-              "note": null
             }
           ]
         },
         "saturday": [
           {
-            "time": "16:00",
-            "note": null
-          },
-          {
-            "time": "18:00",
+            "time": "19:30",
             "note": null
           }
         ],
         "sunday": [
           {
-            "time": "06:30",
-            "note": null
-          },
-          {
             "time": "10:30",
-            "note": null
-          },
-          {
-            "time": "19:30",
             "note": null
           }
         ],
         "special": [],
-        "raw": "mon 06:30; tue 19:30; wed 10:00 19:30; thu 10:00 19:30; fri 10:00 19:30; saturday 16:00 18:00; sunday 06:30 10:30 19:30"
+        "raw": "tue 19:30; wed 10:00; thu 19:30; fri 10:00; saturday 19:30; sunday 10:30"
       },
-      "church_id": "201001079",
+      "church_id": "201008160",
       "match_method": "name"
     },
     {
-      "parish_name": "용잠",
+      "parish_name": "옥봉동",
       "diocese": "마산교구",
       "phone": null,
-      "source_url": "http://yj.cathms.kr/",
+      "source_url": "http://ob.cathms.kr/",
       "mass": {
         "weekday": {
           "mon": [],
@@ -2692,117 +2549,6 @@
         ],
         "sunday": [
           {
-            "time": "07:00",
-            "note": null
-          },
-          {
-            "time": "10:30",
-            "note": null
-          }
-        ],
-        "special": [],
-        "raw": "tue 19:30; wed 10:00; thu 19:30; fri 10:00; saturday 18:00; sunday 07:00 10:30"
-      },
-      "church_id": "201001082",
-      "match_method": "name"
-    },
-    {
-      "parish_name": "창녕",
-      "diocese": "마산교구",
-      "phone": null,
-      "source_url": "http://cn.cathms.kr/",
-      "mass": {
-        "weekday": {
-          "mon": [],
-          "tue": [
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "wed": [
-            {
-              "time": "10:30",
-              "note": null
-            }
-          ],
-          "thu": [
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "fri": [
-            {
-              "time": "10:30",
-              "note": null
-            }
-          ]
-        },
-        "saturday": [
-          {
-            "time": "19:30",
-            "note": null
-          }
-        ],
-        "sunday": [
-          {
-            "time": "10:30",
-            "note": null
-          }
-        ],
-        "special": [],
-        "raw": "tue 19:30; wed 10:30; thu 19:30; fri 10:30; saturday 19:30; sunday 10:30"
-      },
-      "church_id": "201001096",
-      "match_method": "name"
-    },
-    {
-      "parish_name": "팔용동",
-      "diocese": "마산교구",
-      "phone": null,
-      "source_url": "http://pr.cathms.kr/",
-      "mass": {
-        "weekday": {
-          "mon": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ],
-          "tue": [
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "wed": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ],
-          "thu": [
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "fri": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ]
-        },
-        "saturday": [
-          {
-            "time": "19:30",
-            "note": null
-          }
-        ],
-        "sunday": [
-          {
             "time": "06:30",
             "note": null
           },
@@ -2812,16 +2558,16 @@
           }
         ],
         "special": [],
-        "raw": "mon 10:00; tue 19:30; wed 10:00; thu 19:30; fri 10:00; saturday 특 전 19:30; sunday 06:30 10:30"
+        "raw": "tue 19:30; wed 10:00; thu 19:30; fri 10:00; saturday 18:00; sunday 06:30 10:30"
       },
-      "church_id": "201001102",
+      "church_id": "201001078",
       "match_method": "name"
     },
     {
-      "parish_name": "하동",
+      "parish_name": "하청",
       "diocese": "마산교구",
       "phone": null,
-      "source_url": "http://hd.cathms.kr/",
+      "source_url": "http://hac.cathms.kr/",
       "mass": {
         "weekday": {
           "mon": [],
@@ -2852,7 +2598,7 @@
         },
         "saturday": [
           {
-            "time": "19:00",
+            "time": "19:30",
             "note": null
           }
         ],
@@ -2863,9 +2609,9 @@
           }
         ],
         "special": [],
-        "raw": "tue 19:30; wed 10:00; thu 19:30; fri 10:00; saturday 19:00; sunday 10:30"
+        "raw": "tue 19:30; wed 10:00; thu 19:30; fri 10:00; saturday 19:30; sunday 10:30"
       },
-      "church_id": "201001104",
+      "church_id": "201006911",
       "match_method": "name"
     },
     {
@@ -4202,10 +3948,401 @@
       ]
     },
     {
-      "parish_name": "경화동",
+      "parish_name": "가좌동",
       "diocese": "마산교구",
       "phone": null,
-      "source_url": "http://kyung.cathms.kr/",
+      "source_url": "http://gajwa.cathms.kr/xe/board_oCOh74/13788",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": []
+        },
+        "saturday": [
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": "청년미사",
+            "audience": [
+              "청년"
+            ],
+            "type": [
+              "청년"
+            ]
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "tue 19:30; wed 10:00; thu 19:30; saturday 토요일 저녁미사 18:00; sunday 10:30 청년미사 19:30"
+      },
+      "church_id": "201001037",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "대산성지",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "http://daesan.cathms.kr/notice/1280",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "07:30",
+              "note": "동절기) 저녁",
+              "recurrence": {
+                "season": "winter",
+                "raw": "(동절기) 저녁"
+              }
+            },
+            {
+              "time": "08:00",
+              "note": "하절기",
+              "recurrence": {
+                "season": "summer",
+                "raw": "(하절기)"
+              }
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "07:30",
+              "note": "동절기) 저녁",
+              "recurrence": {
+                "season": "winter",
+                "raw": "(동절기) 저녁"
+              }
+            },
+            {
+              "time": "08:00",
+              "note": "하절기",
+              "recurrence": {
+                "season": "summer",
+                "raw": "(하절기)"
+              }
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "07:30",
+            "note": "동절기) 저녁",
+            "recurrence": {
+              "season": "winter",
+              "raw": "(동절기) 저녁"
+            }
+          },
+          {
+            "time": "08:00",
+            "note": "하절기",
+            "recurrence": {
+              "season": "summer",
+              "raw": "(하절기)"
+            }
+          }
+        ],
+        "sunday": [
+          {
+            "time": "11:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "tue 저녁 7:30(동절기) 저녁 8:00(하절기); wed 10:30; thu 저녁 7:30(동절기) 저녁 8:00(하절기); fri 10:30; saturday 저녁 7:30(동절기) 저녁 8:00(하절기); sunday 11:00"
+      },
+      "church_id": "201001050",
+      "match_method": "name_fuzzy"
+    },
+    {
+      "parish_name": "망경동",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "http://mk.cathms.kr/xe/board_LuAU21/25930",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [],
+        "sunday": [
+          {
+            "time": "18:00",
+            "note": null
+          },
+          {
+            "time": "07:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "tue 19:30; wed 10:00; thu 10:00; fri 10:00; sunday 18:00  07:30"
+      },
+      "church_id": "201001052",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "양덕동",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "http://yangduk.kr/bbs/board.php?bo_table=livesbody&wr_id=10",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:00",
+              "note": "새벽미사",
+              "kind": [
+                "새벽"
+              ],
+              "type": [
+                "새벽"
+              ]
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": "저녁미사"
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": "낮 미사"
+            },
+            {
+              "time": "19:30",
+              "note": "저녁미사"
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": "낮 미사"
+            },
+            {
+              "time": "19:30",
+              "note": "저녁미사"
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": "낮 미사"
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": "어린이 미사",
+            "audience": [
+              "어린이"
+            ],
+            "type": [
+              "어린이"
+            ]
+          },
+          {
+            "time": "18:30",
+            "note": "토요 저녁미사 / 전례봉사 : 중고등부 학생회",
+            "audience": [
+              "중고등부",
+              "학생"
+            ],
+            "type": [
+              "중고등부",
+              "학생"
+            ]
+          },
+          {
+            "time": "10:00",
+            "note": "낮 미사) 미사시간은 본당행사 또는 교구일정에 따라 다소 변경될 수 있습니다. 변동되는 내용은 '양덕주보 공지사항'을 참조 바랍니다. 양덕주보 바로가기(클릭!) 미사 안내 미사시간 미사참례 전에 미사참례에서 이용약관 개인정보처리방침 운영자게시판 모바일버전 천주교 마산교구 주교좌 양덕동 성당 (우)51317 경남 창원시 마산회원구 양덕옛2길 128 전화 : 055-292-6561 팩스 055-292-8330 주임신부 : 055-292-6560 보좌신부 : 055-292-6568 수녀원 : 055-292-6562 Copyright ⓒ Yangduk Cathedral of the Masan Diocese. All right reserved. 상단으로"
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:00",
+            "note": "새벽미사",
+            "kind": [
+              "새벽"
+            ],
+            "type": [
+              "새벽"
+            ]
+          },
+          {
+            "time": "10:30",
+            "note": "교중미사",
+            "kind": [
+              "교중"
+            ],
+            "type": [
+              "교중"
+            ]
+          },
+          {
+            "time": "19:30",
+            "note": "저녁미사 / 전례봉사 : 청년회",
+            "audience": [
+              "청년"
+            ],
+            "type": [
+              "청년"
+            ]
+          }
+        ],
+        "special": [],
+        "raw": "saturday 16:00 (어린이 미사) 18:30 (토요 저녁미사 / 전례봉사 : 중고등부 학생회) 10:00 (낮 미사) 미사시간은 본당행사 또는 교구일정에 따라 다소 변경될 수 있습니다. 변동되는 내용은 '양덕주보 공지사항'을 참조 바랍니다. 양덕주보 바로가기(클릭!) 미사 안내 미사시간 미사참례 전에 미사참례에서 이용약관 개인정보처리방침 운영자게시판 모바일버전 천주교 마산교구 주교좌 양덕동 성당 (우)51317 경남 창원시 마산회원구 양덕옛2길 128 전화 : 055-292-6561  팩스 055-292-8330  주임신부 : 055-292-6560  보좌신부 : 055-292-6568  수녀원 : 055-292-6562 Copyright ⓒ Yangduk Cathedral of the Masan Diocese. All right reserved. 상단으로; sunday 07:00 (새벽미사) 10:30 (교중미사) 19:30 (저녁미사 / 전례봉사 : 청년회); mon 06:00 (새벽미사); tue 19:30 (저녁미사); wed 10:00 (낮 미사), 19:30 (저녁미사); thu 10:00 (낮 미사), 19:30 (저녁미사); fri 10:00 (낮 미사)"
+      },
+      "church_id": "201001075",
+      "match_method": "name_stripped"
+    },
+    {
+      "parish_name": "옥포",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "http://okpo.cathms.kr/",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            },
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "16:00",
+            "note": null
+          },
+          {
+            "time": "18:00",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "mon 06:30; tue 19:30; wed 10:00 19:30; thu 10:00 19:30; fri 10:00 19:30; saturday 16:00 18:00; sunday 06:30 10:30 19:30"
+      },
+      "church_id": "201001079",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "용잠",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "http://yj.cathms.kr/",
       "mass": {
         "weekday": {
           "mon": [],
@@ -4253,14 +4390,125 @@
         "special": [],
         "raw": "tue 19:30; wed 10:00; thu 19:30; fri 10:00; saturday 18:00; sunday 07:00 10:30"
       },
-      "church_id": "201001040",
+      "church_id": "201001082",
       "match_method": "name"
     },
     {
-      "parish_name": "옥봉동",
+      "parish_name": "창녕",
       "diocese": "마산교구",
       "phone": null,
-      "source_url": "http://ob.cathms.kr/",
+      "source_url": "http://cn.cathms.kr/",
+      "mass": {
+        "weekday": {
+          "mon": [],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:30",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "tue 19:30; wed 10:30; thu 19:30; fri 10:30; saturday 19:30; sunday 10:30"
+      },
+      "church_id": "201001096",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "팔용동",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "http://pr.cathms.kr/",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:30",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "19:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "06:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "mon 10:00; tue 19:30; wed 10:00; thu 19:30; fri 10:00; saturday 특 전 19:30; sunday 06:30 10:30"
+      },
+      "church_id": "201001102",
+      "match_method": "name"
+    },
+    {
+      "parish_name": "하동",
+      "diocese": "마산교구",
+      "phone": null,
+      "source_url": "http://hd.cathms.kr/",
       "mass": {
         "weekday": {
           "mon": [],
@@ -4291,24 +4539,20 @@
         },
         "saturday": [
           {
-            "time": "18:00",
+            "time": "19:00",
             "note": null
           }
         ],
         "sunday": [
-          {
-            "time": "06:30",
-            "note": null
-          },
           {
             "time": "10:30",
             "note": null
           }
         ],
         "special": [],
-        "raw": "tue 19:30; wed 10:00; thu 19:30; fri 10:00; saturday 18:00; sunday 06:30 10:30"
+        "raw": "tue 19:30; wed 10:00; thu 19:30; fri 10:00; saturday 19:00; sunday 10:30"
       },
-      "church_id": "201001078",
+      "church_id": "201001104",
       "match_method": "name"
     },
     {
@@ -4597,195 +4841,6 @@
       "match_method": "name"
     },
     {
-      "parish_name": "영산",
-      "diocese": "마산교구",
-      "phone": null,
-      "source_url": "http://ys.cathms.kr/",
-      "mass": {
-        "weekday": {
-          "mon": [],
-          "tue": [
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "wed": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ],
-          "thu": [
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "fri": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ]
-        },
-        "saturday": [
-          {
-            "time": "19:30",
-            "note": null
-          }
-        ],
-        "sunday": [
-          {
-            "time": "10:30",
-            "note": null
-          }
-        ],
-        "special": [],
-        "raw": "tue 19:30; wed 10:00; thu 19:30; fri 10:00; saturday 19:30; sunday 10:30"
-      },
-      "church_id": "201008160",
-      "match_method": "name"
-    },
-    {
-      "parish_name": "하청",
-      "diocese": "마산교구",
-      "phone": null,
-      "source_url": "http://hac.cathms.kr/",
-      "mass": {
-        "weekday": {
-          "mon": [],
-          "tue": [
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "wed": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ],
-          "thu": [
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "fri": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ]
-        },
-        "saturday": [
-          {
-            "time": "19:30",
-            "note": null
-          }
-        ],
-        "sunday": [
-          {
-            "time": "10:30",
-            "note": null
-          }
-        ],
-        "special": [],
-        "raw": "tue 19:30; wed 10:00; thu 19:30; fri 10:00; saturday 19:30; sunday 10:30"
-      },
-      "church_id": "201006911",
-      "match_method": "name"
-    },
-    {
-      "parish_name": "생림선교",
-      "diocese": "마산교구",
-      "phone": null,
-      "source_url": "http://sl.cathms.kr/",
-      "mass": {
-        "weekday": {
-          "mon": [],
-          "tue": [],
-          "wed": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ],
-          "thu": [],
-          "fri": [
-            {
-              "time": "19:00",
-              "note": null
-            }
-          ]
-        },
-        "saturday": [
-          {
-            "time": "10:00",
-            "note": "매월 첫째 주 토요일 성모 신심 미사",
-            "kind": [
-              "신심"
-            ],
-            "type": [
-              "신심"
-            ],
-            "recurrence": {
-              "weeks": [
-                1
-              ],
-              "raw": "매월 첫째 주 토요일 성모 신심 미사"
-            }
-          }
-        ],
-        "sunday": [
-          {
-            "time": "10:30",
-            "note": null
-          }
-        ],
-        "special": [],
-        "raw": "wed 10:00; fri 19:00; saturday 10:00 매월 첫째 주 토요일 성모 신심 미사; sunday 10:30"
-      },
-      "stations": [
-        {
-          "name": "한림",
-          "address": "김해시 한림면 한림로371번길 43-21",
-          "mass": {
-            "weekday": {
-              "mon": [],
-              "tue": [
-                {
-                  "time": "19:00",
-                  "note": null
-                }
-              ],
-              "wed": [],
-              "thu": [
-                {
-                  "time": "10:00",
-                  "note": null
-                }
-              ],
-              "fri": []
-            },
-            "saturday": [
-              {
-                "time": "18:30",
-                "note": null
-              }
-            ],
-            "sunday": [],
-            "special": [],
-            "raw": "tue 19:00; thu 10:00; saturday 18:30"
-          }
-        }
-      ],
-      "church_id": "201001066",
-      "match_method": "name"
-    },
-    {
       "parish_name": "의령",
       "diocese": "마산교구",
       "phone": null,
@@ -4850,61 +4905,6 @@
         "raw": "tue 19:30; wed 10:00; thu 19:30; fri 10:00; saturday 특전 18:30; sunday 10:30 공소예절 11:00 공소 (넷째주) 16:00"
       },
       "church_id": "201001085",
-      "match_method": "name"
-    },
-    {
-      "parish_name": "지세포",
-      "diocese": "마산교구",
-      "phone": null,
-      "source_url": "http://ji.cathms.kr/notice/468",
-      "mass": {
-        "weekday": {
-          "mon": [],
-          "tue": [
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "wed": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ],
-          "thu": [
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "fri": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ]
-        },
-        "saturday": [
-          {
-            "time": "19:00",
-            "note": null
-          }
-        ],
-        "sunday": [
-          {
-            "time": "08:30",
-            "note": "본 당"
-          },
-          {
-            "time": "10:30",
-            "note": null
-          }
-        ],
-        "special": [],
-        "raw": "tue 19:30; wed 10:00; thu 19:30; fri 10:00; saturday 19:00; sunday 예구공소 08:30 본 당 10:30"
-      },
-      "church_id": "201001091",
       "match_method": "name"
     }
   ]
