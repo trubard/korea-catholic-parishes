@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T21:58:53+00:00",
+  "generated_at": "2026-09-07T22:35:26+00:00",
   "source": "https://directory.cbck.or.kr/OnlineAddress/SearchList.aspx",
   "count": 135,
   "diocese_id": "201000017",
@@ -1618,7 +1618,7 @@
       "diocese_id": "201000017",
       "region": null,
       "district": "시흥안산지구",
-      "postal_code": null,
+      "postal_code": "14950",
       "address": "경기도 시흥시 시흥대로1152번길 14 (신천동)",
       "phone": "(031)313-7820",
       "fax": "(031)313-3045",
@@ -1631,7 +1631,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000392&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "no_address"
+      "geocode_status": "skipped"
     },
     {
       "id": "201000393",
