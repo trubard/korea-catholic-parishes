@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T22:18:46+00:00",
+  "generated_at": "2026-09-10T22:18:31+00:00",
   "source": "https://directory.cbck.or.kr/OnlineAddress/SearchList.aspx",
   "count": 1789,
   "churches": [
@@ -26696,7 +26696,7 @@
       "diocese_id": "201000025",
       "region": null,
       "district": "북부지구",
-      "postal_code": null,
+      "postal_code": "36238",
       "address": "경상북도 봉화군 봉화읍 내성로6길 22-27",
       "phone": null,
       "fax": "(054)674-1782",
@@ -26762,7 +26762,7 @@
       "diocese_id": "201000025",
       "region": null,
       "district": "상주지구",
-      "postal_code": null,
+      "postal_code": "37180",
       "address": "경상북도 상주시 동수1길 106 (서문동)",
       "phone": null,
       "fax": "(054)535-2018",
@@ -27004,7 +27004,7 @@
       "diocese_id": "201000025",
       "region": null,
       "district": "의성지구",
-      "postal_code": null,
+      "postal_code": "37337",
       "address": "경상북도 의성군 의성읍 후죽1길 21",
       "phone": null,
       "fax": null,
@@ -27017,7 +27017,7 @@
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000025&code=201007931&tbxSearch=&gubn2=all&char=all",
       "lat": null,
       "lng": null,
-      "geocode_status": "no_address"
+      "geocode_status": "skipped"
     },
     {
       "id": "201001259",
@@ -27070,7 +27070,7 @@
       "diocese_id": "201000025",
       "region": null,
       "district": "안동지구",
-      "postal_code": null,
+      "postal_code": "36691",
       "address": "경상북도 안동시 서동문로 145-3 (목성동)",
       "phone": null,
       "fax": "(054)858-2461",
@@ -27136,7 +27136,7 @@
       "diocese_id": "201000025",
       "region": null,
       "district": "북부지구",
-      "postal_code": null,
+      "postal_code": "36216",
       "address": "경상북도 봉화군 춘양면 현마1길 35",
       "phone": null,
       "fax": null,
