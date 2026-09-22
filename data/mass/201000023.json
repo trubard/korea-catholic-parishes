@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T23:46:44+00:00",
+  "generated_at": "2026-09-21T23:58:17+00:00",
   "diocese": "청주교구",
   "diocese_id": "201000023",
   "count": 81,
@@ -33,6 +33,10 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": "첫"
             }
           ],
           "fri": [
@@ -59,7 +63,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:19:30 wed:19:30 thu:10:00 fri:10:00 saturday:19:30 sunday:08:30, 10:30"
+        "raw": "mon:06:00 tue:19:30 wed:19:30 thu:10:00, 19:30(첫 fri:10:00 saturday:19:30 sunday:08:30, 10:30"
       },
       "church_id": "201000964",
       "match_method": "phone"
@@ -1457,11 +1461,7 @@
         ],
         "sunday": [
           {
-            "time": "07:30",
-            "note": null
-          },
-          {
-            "time": "09:00",
+            "time": "08:00",
             "note": null
           },
           {
@@ -1474,7 +1474,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:19:30 wed:10:00, 19:30 thu:19:30 fri:10:00 saturday:16:00, 19:30 sunday:07:30, 09:00, 10:30, 19:30"
+        "raw": "mon:06:00 tue:19:30 wed:10:00, 19:30 thu:19:30 fri:10:00 saturday:16:00, 19:30 sunday:08:00, 10:30, 19:30"
       },
       "church_id": "201000982",
       "match_method": "phone"
@@ -2157,12 +2157,13 @@
         "saturday": [
           {
             "time": "16:00",
-            "note": "마지막주",
+            "note": "둘째주, 넷째주",
             "recurrence": {
               "weeks": [
-                -1
+                2,
+                4
               ],
-              "raw": "(마지막주)"
+              "raw": "(둘째주, 넷째주)"
             }
           },
           {
@@ -2177,7 +2178,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:19:30 wed:10:00 thu:10:00 fri:19:30 saturday:16:00(마지막주), 19:30 sunday:10:30"
+        "raw": "mon:06:00 tue:19:30 wed:10:00 thu:10:00 fri:19:30 saturday:16:00(둘째주, 넷째주), 19:30 sunday:10:30"
       },
       "church_id": "201000991",
       "match_method": "phone"
@@ -2211,6 +2212,10 @@
             {
               "time": "10:00",
               "note": null
+            },
+            {
+              "time": "19:30",
+              "note": "첫"
             }
           ],
           "fri": [
@@ -2249,7 +2254,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:19:30 wed:19:30 thu:10:00 fri:10:00 saturday:10:00(1주 신심미사), 16:00( sunday:학교), 19:30(청년)"
+        "raw": "mon:06:00 tue:19:30 wed:19:30 thu:10:00, 19:30(첫 fri:10:00 saturday:10:00(1주 신심미사), 16:00( sunday:학교), 19:30(청년)"
       },
       "church_id": "201000992",
       "match_method": "phone"
@@ -2586,13 +2591,13 @@
           ],
           "tue": [
             {
-              "time": "20:00",
-              "note": "동계 19:30"
+              "time": "19:30",
+              "note": null
             }
           ],
           "wed": [
             {
-              "time": "10:00",
+              "time": "19:30",
               "note": null
             }
           ],
@@ -2604,21 +2609,21 @@
           ],
           "fri": [
             {
-              "time": "20:00",
-              "note": "동계 19:30"
+              "time": "19:30",
+              "note": null
             }
           ]
         },
         "saturday": [
           {
             "time": "20:00",
-            "note": "동계 19:30"
+            "note": null
           }
         ],
         "sunday": [
           {
             "time": "07:30",
-            "note": "능산, 1주 본당"
+            "note": "능산/1주, 대축일은 본당"
           },
           {
             "time": "10:00",
@@ -2626,7 +2631,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:20:00(동계 19:30) wed:10:00 thu:10:00 fri:20:00(동계 19:30) saturday:20:00(동계 19:30) sunday:07:30(능산, 1주 본당), 10:00"
+        "raw": "mon:06:00 tue:19:30 wed:19:30 thu:10:00 fri:19:30 saturday:20:00 sunday:07:30(능산/1주, 대축일은 본당), 10:00"
       },
       "church_id": "201000997",
       "match_method": "phone"
