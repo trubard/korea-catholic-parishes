@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T23:43:33+00:00",
+  "generated_at": "2026-10-02T23:35:11+00:00",
   "source": "https://directory.cbck.or.kr/OnlineAddress/SearchList.aspx",
   "count": 1789,
   "churches": [
@@ -31009,7 +31009,7 @@
       "region": null,
       "district": "미추홀지구",
       "postal_code": "22573",
-      "address": "인천광역시 동구 동산로12번길 12-51",
+      "address": "인천광역시 제물포구 동산로12번길 12-51 (송림동)",
       "phone": "(032)763-1961",
       "fax": "(032)763-1963",
       "pastor": "양주용 바오로 신부",
@@ -31019,9 +31019,9 @@
       "mission_stations": 0,
       "homepage": "http://dohwa.caincheon.or.kr",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000017&code=201000352&tbxSearch=&gubn2=all&char=all",
-      "lat": 37.47023729535136,
-      "lng": 126.65268531874923,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201000353",
