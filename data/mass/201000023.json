@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T00:54:57+00:00",
+  "generated_at": "2026-10-06T01:43:50+00:00",
   "diocese": "청주교구",
   "diocese_id": "201000023",
   "count": 81,
@@ -202,11 +202,11 @@
         ],
         "sunday": [
           {
-            "time": "08:00",
+            "time": "09:00",
             "note": null
           },
           {
-            "time": "10:00",
+            "time": "11:00",
             "note": null
           },
           {
@@ -215,7 +215,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:19:30 wed:19:30 thu:10:00, 19:30(첫 fri:10:00 saturday:19:30, 10:00 sunday:08:00, 10:00, 19:30"
+        "raw": "mon:06:00 tue:19:30 wed:19:30 thu:10:00, 19:30(첫 fri:10:00 saturday:19:30, 10:00 sunday:09:00, 11:00, 19:30"
       },
       "church_id": "201000966",
       "match_method": "phone"
@@ -5299,12 +5299,12 @@
             "note": null
           },
           {
-            "time": "17:00",
+            "time": "19:30",
             "note": null
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:19:30 wed:19:30 thu:10:00, 19:30(첫째주/성시간) fri:10:00 saturday:19:30 sunday:10:30, 17:00"
+        "raw": "mon:06:00 tue:19:30 wed:19:30 thu:10:00, 19:30(첫째주/성시간) fri:10:00 saturday:19:30 sunday:10:30, 19:30"
       },
       "church_id": "201001032",
       "match_method": "phone"

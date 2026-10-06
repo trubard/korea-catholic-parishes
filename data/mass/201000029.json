@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T00:54:57+00:00",
+  "generated_at": "2026-10-06T01:43:50+00:00",
   "diocese": "군종교구",
   "diocese_id": "201000029",
   "count": 45,
@@ -2287,19 +2287,19 @@
           "mon": [],
           "tue": [
             {
-              "time": "19:30",
+              "time": "18:30",
               "note": null
             }
           ],
           "wed": [
             {
-              "time": "18:00",
+              "time": "18:30",
               "note": null
             }
           ],
           "thu": [
             {
-              "time": "11:00",
+              "time": "11:30",
               "note": null
             }
           ],
@@ -2328,12 +2328,12 @@
             ]
           },
           {
-            "time": "16:00",
+            "time": "15:00",
             "note": "충성(안동"
           }
         ],
         "special": [],
-        "raw": "tue 19:30; wed 18:00; thu 11:00; fri 7:30; saturday 20:30; sunday 10:30 (교중 미사) 16:00 충성(안동)"
+        "raw": "tue 18:30; wed 18:30; thu 11:30; fri 7:30; saturday 20:30; sunday 10:30 (교중 미사) 15:00 충성(안동)"
       },
       "church_id": "201001600",
       "match_method": "name"
