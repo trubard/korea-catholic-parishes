@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T00:02:21+00:00",
+  "generated_at": "2026-10-09T00:10:23+00:00",
   "source": "https://directory.cbck.or.kr/OnlineAddress/SearchList.aspx",
   "count": 142,
   "diocese_id": "201000026",
@@ -761,7 +761,7 @@
       "region": null,
       "district": "광주북부2",
       "postal_code": "61197",
-      "address": "광주광역시 북구 서방로159번길 11",
+      "address": "전남광주통합특별시 북구 서방로159번길 11 (두암동)",
       "phone": "(062)266-1004",
       "fax": "(062)261-3351",
       "pastor": "조재진 프란치스코 신부",
@@ -771,9 +771,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201001141&tbxSearch=&gubn2=all&char=all",
-      "lat": 35.17003257457599,
-      "lng": 126.92941174827445,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201001142",
@@ -3005,7 +3005,7 @@
       "region": null,
       "district": "광주동부",
       "postal_code": "58123",
-      "address": "전라남도 화순군 화순읍 진각로 88",
+      "address": "전남광주통합특별시 화순군 화순읍 진각로 88",
       "phone": "(061)374-6001",
       "fax": "(061)374-6005",
       "pastor": "정도식 즈카르야 신부",
@@ -3015,9 +3015,9 @@
       "mission_stations": 0,
       "homepage": null,
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000026&code=201001231&tbxSearch=&gubn2=all&char=all",
-      "lat": 35.05969203269164,
-      "lng": 126.9854808266619,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201007771",
