@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T01:43:50+00:00",
+  "generated_at": "2026-10-13T02:30:17+00:00",
   "diocese": "전주교구",
   "diocese_id": "201000027",
   "count": 96,
@@ -1259,19 +1259,11 @@
           ],
           "tue": [
             {
-              "time": "06:00",
-              "note": null
-            },
-            {
               "time": "19:30",
               "note": null
             }
           ],
           "wed": [
-            {
-              "time": "06:00",
-              "note": null
-            },
             {
               "time": "10:30",
               "note": null
@@ -1279,19 +1271,11 @@
           ],
           "thu": [
             {
-              "time": "06:00",
-              "note": null
-            },
-            {
               "time": "10:30",
               "note": null
             }
           ],
           "fri": [
-            {
-              "time": "06:00",
-              "note": null
-            },
             {
               "time": "10:30",
               "note": null
@@ -1322,11 +1306,7 @@
             "note": null
           },
           {
-            "time": "08:30",
-            "note": null
-          },
-          {
-            "time": "10:30",
+            "time": "10:00",
             "note": "교중",
             "kind": [
               "교중"
@@ -1341,7 +1321,7 @@
           }
         ],
         "special": [],
-        "raw": "sunday 06:00/08:30/10:30(교중)/19:30; mon 06:00; tue 06:00/19:30; wed 06:00/10:30; thu 06:00/10:30; fri 06:00/10:30; saturday 06:00/18:00(초중고등부/토요일 저녁 주일미사)"
+        "raw": "sunday 06:00/10:00(교중)/19:30; mon 06:00; tue 19:30; wed 10:30; thu 10:30; fri 10:30; saturday 06:00/18:00(초중고등부/토요일 저녁 주일미사)"
       },
       "church_id": "201001279",
       "match_method": "phone"
