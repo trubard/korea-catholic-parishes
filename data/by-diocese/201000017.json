@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T23:28:26+00:00",
+  "generated_at": "2026-10-13T01:51:47+00:00",
   "source": "https://directory.cbck.or.kr/OnlineAddress/SearchList.aspx",
   "count": 135,
   "diocese_id": "201000017",
@@ -1974,7 +1974,7 @@
       "address": "경기도 부천시 오정구 오정로244번길 61-12",
       "phone": "(032)678-8156",
       "fax": "(032)678-8156",
-      "pastor": "현정민 바오로 신부",
+      "pastor": null,
       "established_date": "1991-02-18",
       "patron": "성체",
       "believers": 1751,
