@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T02:30:17+00:00",
+  "generated_at": "2026-10-20T00:11:34+00:00",
   "diocese": "청주교구",
   "diocese_id": "201000023",
   "count": 81,
@@ -445,10 +445,6 @@
             {
               "time": "10:00",
               "note": null
-            },
-            {
-              "time": "19:30",
-              "note": "첫"
             }
           ],
           "fri": [
@@ -460,12 +456,8 @@
         },
         "saturday": [
           {
-            "time": "16:00",
-            "note": null
-          },
-          {
-            "time": "19:30",
-            "note": null
+            "time": "10:30",
+            "note": "첫"
           }
         ],
         "sunday": [
@@ -478,18 +470,13 @@
             "note": null
           },
           {
-            "time": "10:00",
-            "note": "칠성 공소",
-            "place": "칠성 공소"
-          },
-          {
             "time": "14:00",
-            "note": "고마리 공소",
+            "note": "고마리 공소/셋째",
             "place": "고마리 공소"
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:19:30 wed:10:00 thu:10:00, 19:30(첫 fri:19:30 saturday:16:00, 19:30 sunday:06:00, 10:30, 10:00(칠성 공소), 14:00(고마리 공소)"
+        "raw": "mon:06:00 tue:19:30 wed:10:00 thu:10:00 fri:19:30 saturday:10:30(첫 sunday:06:00, 10:30, 14:00(고마리 공소/셋째"
       },
       "church_id": "201000970",
       "match_method": "phone"
@@ -3477,12 +3464,12 @@
         },
         "saturday": [
           {
-            "time": "18:00",
+            "time": "10:00",
             "note": null
           },
           {
-            "time": "10:00",
-            "note": "첫"
+            "time": "18:00",
+            "note": null
           }
         ],
         "sunday": [
@@ -3496,7 +3483,7 @@
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:19:30 wed:10:00 thu:10:00 fri:10:00 saturday:18:00, 10:00(첫 sunday:09:00, 10:30"
+        "raw": "mon:06:00 tue:19:30 wed:10:00 thu:10:00 fri:10:00 saturday:10:00, 18:00 sunday:09:00, 10:30"
       },
       "church_id": "201001007",
       "match_method": "phone"
