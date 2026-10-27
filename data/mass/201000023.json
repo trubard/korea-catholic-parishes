@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T00:11:34+00:00",
+  "generated_at": "2026-10-27T00:18:43+00:00",
   "diocese": "청주교구",
   "diocese_id": "201000023",
   "count": 81,
@@ -555,12 +555,12 @@
             "note": null
           },
           {
-            "time": "09:00",
+            "time": "18:00",
             "note": null
           }
         ],
         "special": [],
-        "raw": "mon:06:00 tue:10:00, 19:30 wed:10:00, 19:30 thu:10:00, 19:30 fri:10:00 saturday:10:00, 19:30 sunday:06:00, 10:30, 15:00, 09:00"
+        "raw": "mon:06:00 tue:10:00, 19:30 wed:10:00, 19:30 thu:10:00, 19:30 fri:10:00 saturday:10:00, 19:30 sunday:06:00, 10:30, 15:00, 18:00"
       },
       "church_id": "201000971",
       "match_method": "name"
