@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T23:23:56+00:00",
+  "generated_at": "2026-11-03T02:02:01+00:00",
   "source": "https://directory.cbck.or.kr/OnlineAddress/SearchList.aspx",
   "count": 1789,
   "churches": [
@@ -31408,7 +31408,7 @@
       "address": "인천광역시 부평구 마장로 48",
       "phone": "(032)505-5301",
       "fax": "(032)505-5306",
-      "pastor": "이덕상 비오 신부",
+      "pastor": null,
       "established_date": "1982-02-16",
       "patron": "성가정",
       "believers": 5493,
