@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T03:21:55+00:00",
+  "generated_at": "2026-11-17T03:33:29+00:00",
   "diocese": "부산교구",
   "diocese_id": "201000022",
   "count": 125,
@@ -373,6 +373,70 @@
       "match_method": "phone"
     },
     {
+      "parish_name": "망미",
+      "diocese": "부산교구",
+      "phone": "051-755-4501",
+      "source_url": "http://www.catholicbusan.or.kr/church/parish/view/10",
+      "mass": {
+        "weekday": {
+          "mon": [
+            {
+              "time": "06:30",
+              "note": null
+            }
+          ],
+          "tue": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "wed": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ],
+          "thu": [
+            {
+              "time": "19:00",
+              "note": null
+            }
+          ],
+          "fri": [
+            {
+              "time": "10:00",
+              "note": null
+            }
+          ]
+        },
+        "saturday": [
+          {
+            "time": "17:30",
+            "note": null
+          }
+        ],
+        "sunday": [
+          {
+            "time": "07:30",
+            "note": null
+          },
+          {
+            "time": "10:30",
+            "note": null
+          },
+          {
+            "time": "17:00",
+            "note": null
+          }
+        ],
+        "special": [],
+        "raw": "월 06:30; 화 19:00; 수 10:00; 목 19:00; 금 10:00; 토 17:30; 주일 07:30, 10:30, 17:00"
+      },
+      "church_id": "201001390",
+      "match_method": "phone"
+    },
+    {
       "parish_name": "못골",
       "diocese": "부산교구",
       "phone": "051-632-3962",
@@ -558,12 +622,12 @@
             "note": null
           },
           {
-            "time": "17:00",
+            "time": "19:00",
             "note": null
           }
         ],
         "special": [],
-        "raw": "월 07:00; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 17:00; 주일 07:00, 10:30, 17:00"
+        "raw": "월 07:00; 화 19:30; 수 10:00; 목 19:30; 금 10:00; 토 17:00; 주일 07:00, 10:30, 19:00"
       },
       "church_id": "201001398",
       "match_method": "phone"
@@ -1392,133 +1456,6 @@
         "raw": "manual"
       },
       "church_id": "201001389",
-      "match_method": "name",
-      "manual": true
-    },
-    {
-      "parish_name": "망미",
-      "diocese": "부산교구",
-      "phone": null,
-      "source_url": "http://mangmi.net/mangmi/sub01_04 (본당홈)",
-      "mass": {
-        "weekday": {
-          "mon": [
-            {
-              "time": "06:30",
-              "note": null
-            }
-          ],
-          "tue": [
-            {
-              "time": "10:00",
-              "note": null
-            },
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "wed": [
-            {
-              "time": "10:00",
-              "note": null
-            },
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "thu": [
-            {
-              "time": "10:00",
-              "note": null
-            },
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ],
-          "fri": [
-            {
-              "time": "10:00",
-              "note": null
-            },
-            {
-              "time": "19:30",
-              "note": null
-            }
-          ]
-        },
-        "saturday": [
-          {
-            "time": "10:00",
-            "note": null
-          },
-          {
-            "time": "16:30",
-            "note": "중고등부",
-            "audience": [
-              "중고등부"
-            ],
-            "type": [
-              "중고등부"
-            ]
-          },
-          {
-            "time": "17:30",
-            "note": "주일학교",
-            "audience": [
-              "주일학교"
-            ],
-            "type": [
-              "주일학교"
-            ]
-          }
-        ],
-        "sunday": [
-          {
-            "time": "06:30",
-            "note": null
-          },
-          {
-            "time": "08:30",
-            "note": null
-          },
-          {
-            "time": "09:00",
-            "note": "주일학교",
-            "audience": [
-              "주일학교"
-            ],
-            "type": [
-              "주일학교"
-            ]
-          },
-          {
-            "time": "10:30",
-            "note": "교중",
-            "kind": [
-              "교중"
-            ],
-            "type": [
-              "교중"
-            ]
-          },
-          {
-            "time": "17:00",
-            "note": "청년",
-            "audience": [
-              "청년"
-            ],
-            "type": [
-              "청년"
-            ]
-          }
-        ],
-        "special": [],
-        "raw": "manual"
-      },
-      "church_id": "201001390",
       "match_method": "name",
       "manual": true
     },
