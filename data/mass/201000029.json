@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T03:33:29+00:00",
+  "generated_at": "2026-11-24T05:13:08+00:00",
   "diocese": "군종교구",
   "diocese_id": "201000029",
   "count": 45,
@@ -867,22 +867,27 @@
       "mass": {
         "weekday": {
           "mon": [],
-          "tue": [],
-          "wed": [
+          "tue": [
             {
               "time": "18:30",
               "note": "백운성당"
             }
           ],
+          "wed": [
+            {
+              "time": "09:00",
+              "note": "백운성당"
+            }
+          ],
           "thu": [
             {
-              "time": "10:30",
+              "time": "09:00",
               "note": "백운성당"
             }
           ],
           "fri": [
             {
-              "time": "10:30",
+              "time": "09:00",
               "note": "백운성당"
             }
           ]
@@ -911,7 +916,7 @@
           }
         ],
         "special": [],
-        "raw": "wed 18:30 백운성당; thu 10:30 백운성당; fri 10:30 백운성당; saturday 11:00 스테파노 공소; sunday 09:00 충성성당 11:00 백운성당(교중)"
+        "raw": "tue 18:30 백운성당; wed 09:00 백운성당; thu 09:00 백운성당; fri 09:00 백운성당; saturday 11:00 스테파노 공소; sunday 09:00 충성성당 11:00 백운성당(교중)"
       },
       "church_id": "201001577",
       "match_method": "phone"
@@ -1162,7 +1167,7 @@
         "raw": "tue 11:00 1층 경당; wed 19:15 2층 대성전; thu 11:00 1층 경당; fri 11:00 1층 경당; saturday 13:30 요한공소 (201특공여단) 15:00 21항공단; sunday 10:30 교중미사 19:45 저녁미사"
       },
       "church_id": "201001590",
-      "match_method": "name"
+      "match_method": "phone"
     },
     {
       "parish_name": "맹호",
@@ -1938,24 +1943,9 @@
         "weekday": {
           "mon": [],
           "tue": [],
-          "wed": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ],
-          "thu": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ],
-          "fri": [
-            {
-              "time": "10:00",
-              "note": null
-            }
-          ]
+          "wed": [],
+          "thu": [],
+          "fri": []
         },
         "saturday": [],
         "sunday": [
@@ -1969,7 +1959,7 @@
           }
         ],
         "special": [],
-        "raw": "wed 10:00; thu 10:00; fri 10:00; sunday 10:00 병사 교리 11:00 미사"
+        "raw": "sunday 10:00 병사 교리 11:00 미사"
       },
       "church_id": "201001618",
       "match_method": "phone"

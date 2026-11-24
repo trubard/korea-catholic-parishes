@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T03:33:29+00:00",
+  "generated_at": "2026-11-24T05:13:08+00:00",
   "diocese": "전주교구",
   "diocese_id": "201000027",
   "count": 96,
@@ -1688,10 +1688,14 @@
             "type": [
               "교중"
             ]
+          },
+          {
+            "time": "17:00",
+            "note": null
           }
         ],
         "special": [],
-        "raw": "sunday 06:00/10:00(교중); mon 06:00; tue 19:00; wed 10:00; thu 19:00; fri 10:00; saturday 17:30(토요일 저녁 주일미사/초중고등부)"
+        "raw": "sunday 06:00/10:00(교중)/17:00; mon 06:00; tue 19:00; wed 10:00; thu 19:00; fri 10:00; saturday 17:30(토요일 저녁 주일미사/초중고등부)"
       },
       "church_id": "201001286",
       "match_method": "phone"
@@ -2857,17 +2861,7 @@
         },
         "saturday": [
           {
-            "time": "15:30",
-            "note": "어린이",
-            "audience": [
-              "어린이"
-            ],
-            "type": [
-              "어린이"
-            ]
-          },
-          {
-            "time": "19:00",
+            "time": "18:00",
             "note": "토요일 저녁 주일미사"
           }
         ],
@@ -2888,7 +2882,7 @@
           }
         ],
         "special": [],
-        "raw": "sunday 07:00/10:30(교중); mon 06:30; tue 19:30; wed 10:30; thu 19:30; fri 10:30; saturday 15:30(어린이)/19:00(토요일 저녁 주일미사)"
+        "raw": "sunday 07:00/10:30(교중); mon 06:30; tue 19:30; wed 10:30; thu 19:30; fri 10:30; saturday 18:00(토요일 저녁 주일미사)"
       },
       "church_id": "201001295",
       "match_method": "phone"
