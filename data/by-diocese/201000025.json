@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T04:38:52+00:00",
+  "generated_at": "2026-11-25T03:24:03+00:00",
   "source": "https://directory.cbck.or.kr/OnlineAddress/SearchList.aspx",
   "count": 41,
   "diocese_id": "201000025",
@@ -672,8 +672,8 @@
       "diocese_id": "201000025",
       "region": null,
       "district": "동해지구",
-      "postal_code": "37409",
-      "address": "경상북도 청송군 진보면 진보로 95-8",
+      "postal_code": "37405",
+      "address": "경상북도 청송군 진보면 진안동윗길 26",
       "phone": null,
       "fax": "(054)874-3010",
       "pastor": "차광철 베다 신부",
@@ -683,9 +683,9 @@
       "mission_stations": 0,
       "homepage": "https://cafe.daum.net/wlsqhtjdekd",
       "source_url": "https://directory.cbck.or.kr/OnlineAddress/Catholic/DetailInfo.aspx?cgubn=g&gubn=4&gyogu=201000025&code=201001261&tbxSearch=&gubn2=all&char=all",
-      "lat": 36.5297651918772,
-      "lng": 129.04287440612606,
-      "geocode_status": "matched"
+      "lat": null,
+      "lng": null,
+      "geocode_status": "skipped"
     },
     {
       "id": "201001262",
